@@ -1,6 +1,28 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:ehzq.fa.us2.oraclecloud.com:115752",
+      "workday:alliedsolutions:/job/Carmel-IN/AI-Solutions-Intern_R-011074",
+      "workday:alliedsolutions:/job/Carmel-IN/Data-Science-Intern_R-011077",
+      "workday:alliedsolutions:/job/Carmel-IN/Software-Engineering-Intern_R-011087",
+      "workday:alliedsolutions:/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086",
+      "workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173",
+      "greenhouse:generalmatter:5377131008",
+      "workday:hdsupply:/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952",
+      "workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194"
+    ],
+    "telegram": [
+      "oracle:ehzq.fa.us2.oraclecloud.com:115752",
+      "workday:alliedsolutions:/job/Carmel-IN/AI-Solutions-Intern_R-011074",
+      "workday:alliedsolutions:/job/Carmel-IN/Data-Science-Intern_R-011077",
+      "workday:alliedsolutions:/job/Carmel-IN/Software-Engineering-Intern_R-011087",
+      "workday:alliedsolutions:/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086",
+      "workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173",
+      "greenhouse:generalmatter:5377131008",
+      "workday:hdsupply:/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952",
+      "workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194"
+    ]
   }
 }

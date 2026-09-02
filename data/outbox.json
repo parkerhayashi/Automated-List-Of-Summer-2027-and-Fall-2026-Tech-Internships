@@ -1,20 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:hadrian-automation:2b0423c6-947d-4226-8d23-90743bd5e63e",
-      "ashby:hadrian-automation:f718bcfe-3f5b-4682-a294-697499caf813",
-      "ashby:reflect-orbital:d5ade048-5555-4a77-b002-d117254b6e6b",
-      "ashby:reflect-orbital:d2ad1427-89aa-404d-8678-7b8e6dace5e2",
-      "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1",
-      "smartrecruiters:LLNL:3743990015035697"
-    ],
-    "telegram": [
-      "ashby:hadrian-automation:2b0423c6-947d-4226-8d23-90743bd5e63e",
-      "ashby:hadrian-automation:f718bcfe-3f5b-4682-a294-697499caf813",
-      "ashby:reflect-orbital:d5ade048-5555-4a77-b002-d117254b6e6b",
-      "ashby:reflect-orbital:d2ad1427-89aa-404d-8678-7b8e6dace5e2",
-      "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1",
-      "smartrecruiters:LLNL:3743990015035697"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

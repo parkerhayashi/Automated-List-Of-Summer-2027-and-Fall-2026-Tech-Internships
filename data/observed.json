@@ -290,9 +290,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-26",
      "role_ids": [
+      "workday:aoins:/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
       "workday:aoins:/job/Lansing-MI/Software-Developer-Internship_R_2121"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -656,6 +657,21 @@
       "greenhouse:densityai:4336452009"
      ],
      "count": 1
+    }
+   }
+  },
+  "dev technology group": {
+   "name": "Dev Technology Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "greenhouse:devtechnology:8726074002",
+      "greenhouse:devtechnology:8726212002",
+      "greenhouse:devtechnology:8726259002",
+      "greenhouse:devtechnology:8728292002"
+     ],
+     "count": 4
     }
    }
   },
@@ -2024,6 +2040,18 @@
     }
    }
   },
+  "tarrant regional water district": {
+   "name": "Tarrant Regional Water District",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:trwd:/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218"
+     ],
+     "count": 1
+    }
+   }
+  },
   "td bank": {
    "name": "TD Bank",
    "cycles": {
@@ -2445,5 +2473,5 @@
    }
   }
  },
- "updated_at": "2026-09-02T09:16:35Z"
+ "updated_at": "2026-09-02T13:52:39Z"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-02T20:22:42Z",
- "data_as_of": "2026-09-02T20:22:42Z",
- "rendered_at": "2026-09-02T20:22:42Z",
+ "generated_at": "2026-09-02T22:53:50Z",
+ "data_as_of": "2026-09-02T22:53:50Z",
+ "rendered_at": "2026-09-02T22:53:50Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -519,25 +519,6 @@
    }
   },
   {
-   "company": "CNO Financial Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-03",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-03"
-   }
-  },
-  {
    "company": "JPMorgan Chase",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -605,7 +586,7 @@
    "expected": "2026-08-04",
    "days_until": -29,
    "status": "open",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01871019",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -1688,7 +1669,7 @@
    "expected": "2026-08-31",
    "days_until": -2,
    "status": "open",
-   "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958",
+   "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1993,6 +1974,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-02"
+   }
+  },
+  {
+   "company": "Hadrian",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4604,6 +4604,25 @@
    }
   },
   {
+   "company": "CNO Financial Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-03"
+   }
+  },
+  {
    "company": "Netsmart",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -4813,5 +4832,5 @@
    }
   }
  ],
- "count": 253
+ "count": 254
 }

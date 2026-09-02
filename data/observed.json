@@ -1010,6 +1010,27 @@
     }
    }
   },
+  "hadrian": {
+   "name": "Hadrian",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "ashby:hadrian-automation:2b0423c6-947d-4226-8d23-90743bd5e63e",
+      "ashby:hadrian-automation:f718bcfe-3f5b-4682-a294-697499caf813"
+     ],
+     "count": 2
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "ashby:hadrian-automation:2b0423c6-947d-4226-8d23-90743bd5e63e",
+      "ashby:hadrian-automation:f718bcfe-3f5b-4682-a294-697499caf813"
+     ],
+     "count": 2
+    }
+   }
+  },
   "hartford": {
    "name": "The Hartford",
    "cycles": {
@@ -2533,5 +2554,5 @@
    }
   }
  },
- "updated_at": "2026-09-02T20:22:42Z"
+ "updated_at": "2026-09-02T22:53:50Z"
 }

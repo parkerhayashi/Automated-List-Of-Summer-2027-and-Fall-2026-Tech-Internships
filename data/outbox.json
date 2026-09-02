@@ -1,34 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:ejhp.fa.us6.oraclecloud.com:2622615",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
-      "workday:caci:/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Fall-2026_331472",
-      "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466",
-      "greenhouse:fspco-op012325:8769080002",
-      "workday:magna:/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617",
-      "workday:mastercard:/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284877",
-      "greenhouse:testnisc:8167886",
-      "greenhouse:testnisc:8174096",
-      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
-      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708",
-      "workday:stryker:/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
-      "smartrecruiters:Winsupply1:3743990015014717"
-    ],
-    "telegram": [
-      "oracle:ejhp.fa.us6.oraclecloud.com:2622615",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
-      "workday:caci:/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Fall-2026_331472",
-      "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466",
-      "greenhouse:fspco-op012325:8769080002",
-      "workday:magna:/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617",
-      "workday:mastercard:/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284877",
-      "greenhouse:testnisc:8167886",
-      "greenhouse:testnisc:8174096",
-      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
-      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708",
-      "workday:stryker:/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
-      "smartrecruiters:Winsupply1:3743990015014717"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

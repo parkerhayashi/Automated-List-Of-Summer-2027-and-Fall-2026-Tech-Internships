@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-02T00:21:49Z",
- "data_as_of": "2026-09-02T00:21:49Z",
- "rendered_at": "2026-09-02T00:21:49Z",
+ "generated_at": "2026-09-02T04:47:33Z",
+ "data_as_of": "2026-09-02T04:47:33Z",
+ "rendered_at": "2026-09-02T04:47:33Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1670,25 +1670,6 @@
    "days_until": -2,
    "status": "open",
    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-31"
-   }
-  },
-  {
-   "company": "Ercot",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4681,6 +4662,25 @@
   },
   {
    "company": "Bosch",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Ercot",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
    "precision": "day",

@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-02T00:21:49Z</updated>
+  <updated>2026-09-02T04:47:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2</id>
-    <title>Rockwell Automation: Intern, Cyber Professional Services (LCS) 🛂</title>
-    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2"/>
-    <updated>2026-09-02T00:21:49Z</updated>
+    <id>urn:intern-engine:workable:talentpluto:CCC60EBB0C</id>
+    <title>Talentpluto: Backend Engineering Intern</title>
+    <link href="https://apply.workable.com/talentpluto/j/CCC60EBB0C/"/>
+    <updated>2026-09-02T04:47:33Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Mayfield Heights, Ohio, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · United States (Remote) · $35–$50/hr · Python, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:talentpluto:6F93C25627</id>
+    <title>Talentpluto: AI/ML Engineering Intern</title>
+    <link href="https://apply.workable.com/talentpluto/j/6F93C25627/"/>
+    <updated>2026-09-02T04:47:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States (Remote) · $35–$50/hr · Python, TypeScript, JavaScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:talentpluto:D3050663DF</id>
+    <title>Talentpluto: Full Stack Engineering Intern</title>
+    <link href="https://apply.workable.com/talentpluto/j/D3050663DF/"/>
+    <updated>2026-09-02T04:47:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York, United States · $35–$50/hr · TypeScript, JavaScript, React, Next.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066</id>
+    <title>Altera Corporation: Graduate Intern - Engineering Infrastructure</title>
+    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066"/>
+    <updated>2026-09-02T04:47:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, California, United States · Python, Bash, AWS, Terraform, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2</id>
@@ -22,6 +46,14 @@
     <updated>2026-09-02T00:21:49Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Mayfield Heights, Ohio, United States · Git · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2</id>
+    <title>Rockwell Automation: Intern, Cyber Professional Services (LCS) 🛂</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2"/>
+    <updated>2026-09-02T00:21:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Mayfield Heights, Ohio, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:stryker:/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769</id>
@@ -731,9 +763,9 @@
     <id>urn:intern-engine:workday:ercot:/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404</id>
     <title>Ercot: Summer Intern -- Cyber Security</title>
     <link href="https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404"/>
-    <updated>2026-08-31T21:22:18Z</updated>
+    <updated>2026-09-02T04:47:33Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Taylor, TX</summary>
+    <summary>Summer 2027 · Security · Taylor, TX · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01871019</id>
@@ -774,37 +806,5 @@
     <updated>2026-08-31T21:22:18Z</updated>
     <category term="Summer 2027"/>
     <summary>3 openings · Summer 2027 · Software · O'Fallon, Missouri · $25–$30/hr · Python, Terraform, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990</id>
-    <title>Micron Technology: Intern - AI Systems and Infrastructure Engineering</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990"/>
-    <updated>2026-08-31T21:22:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Austin, TX · Python, C++, PyTorch, LLMs, CUDA · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520</id>
-    <title>Northrop Grumman: 2026 Part-Time Cyber Security Engineering Intern - Aurora CO 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520"/>
-    <updated>2026-08-31T21:22:18Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security · United States-Colorado-Aurora · $20.5–$38/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nike:/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110</id>
-    <title>Nike: NIKE, Inc. Artificial Intelligence, Data, &amp; Machine Learning Engineering Undergraduate Internship</title>
-    <link href="https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110"/>
-    <updated>2026-08-31T21:22:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Beaverton, Oregon · Python, SQL, LLMs, Computer Vision, AWS · H-1B track record: ~484 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nike:/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111</id>
-    <title>Nike: NIKE, Inc. Software Engineering Undergraduate Internship</title>
-    <link href="https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111"/>
-    <updated>2026-08-31T21:22:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Beaverton, Oregon · Python, Java, C#, JavaScript, Swift · H-1B track record: ~484 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

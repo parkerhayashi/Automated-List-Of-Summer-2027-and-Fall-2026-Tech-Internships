@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workable:talentpluto:CCC60EBB0C",
-      "workable:talentpluto:6F93C25627",
-      "workable:talentpluto:D3050663DF",
-      "workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066"
-    ],
-    "telegram": [
-      "workable:talentpluto:CCC60EBB0C",
-      "workable:talentpluto:6F93C25627",
-      "workable:talentpluto:D3050663DF",
-      "workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

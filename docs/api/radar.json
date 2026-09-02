@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-02T13:52:39Z",
- "data_as_of": "2026-09-02T13:52:39Z",
- "rendered_at": "2026-09-02T13:52:39Z",
+ "generated_at": "2026-09-02T17:36:07Z",
+ "data_as_of": "2026-09-02T17:36:07Z",
+ "rendered_at": "2026-09-02T17:36:07Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -519,25 +519,6 @@
    }
   },
   {
-   "company": "CNO Financial Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-03",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-03"
-   }
-  },
-  {
    "company": "JPMorgan Chase",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -605,7 +586,7 @@
    "expected": "2026-08-04",
    "days_until": -29,
    "status": "open",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineering-Intern-Summer-2027-_01870349-1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01871019",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -1023,7 +1004,7 @@
    "expected": "2026-08-19",
    "days_until": -14,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8728292002",
+   "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726074002",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1346,7 +1327,7 @@
    "expected": "2026-08-26",
    "days_until": -7,
    "status": "open",
-   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121",
+   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4544,6 +4525,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-01"
+   }
+  },
+  {
+   "company": "CNO Financial Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-03"
    }
   },
   {

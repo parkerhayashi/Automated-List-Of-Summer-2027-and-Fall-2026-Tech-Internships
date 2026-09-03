@@ -190,6 +190,10 @@ def _rows(open_jobs: list[dict], cfg: dict) -> str:
             + skills
         ).lower()
         seasons = r.get("seasons") or [r.get("season", "")]
+        tracked = set(config.cycles(cfg)) | {filters.NOT_STATED}
+        visible_seasons = [s for s in seasons if s in tracked] or [
+            s for s in seasons if s
+        ]
         if r.get("season_inferred"):
             # Deliberately not a cycle. The old "~Summer 2027" here was a
             # posting-date guess that the postings themselves confirmed 0/60
@@ -203,7 +207,7 @@ def _rows(open_jobs: list[dict], cfg: dict) -> str:
         else:
             cycle_tag = "".join(
                 f"<span class='tag' title='Stated by the employer'>{escape(s)}</span>"
-                for s in seasons
+                for s in visible_seasons
             )
         remote = "1" if filters.is_remote(r.get("location") or "",
                                           r.get("title") or "") else "0"
@@ -237,8 +241,8 @@ def _rows(open_jobs: list[dict], cfg: dict) -> str:
                  "location or title says so.'>R</span>") if remote == "1" else ""
         rows.append(
             f'<tr data-id="{escape(jid)}" '
-            f'data-cycle="{escape(r.get("season", ""))}" '
-            f'data-cycles="{escape("|".join(seasons))}" '
+            f'data-cycle="{escape((visible_seasons[0] if visible_seasons else r.get("season", "")))}" '
+            f'data-cycles="{escape("|".join(visible_seasons))}" '
             f'data-category="{escape(r.get("category", ""))}" '
             f'data-sponsor="{escape(sponsor)}" '
             f'data-h1b="{proven}" '
@@ -400,8 +404,9 @@ def generate(store_data: dict, stats: dict) -> None:
     # Real cycles first, "Not stated" pinned last — it's the absence of a
     # cycle, so alphabetical order (which drops it between Fall and Summer)
     # would read as if it were one.
+    tracked = set(config.cycles(cfg)) | {filters.NOT_STATED}
     cycles = sorted(
-        {r.get("season", "") for r in open_jobs if r.get("season")},
+        {r.get("season", "") for r in open_jobs if r.get("season") in tracked},
         key=lambda s: (s == filters.NOT_STATED, s),
     )
     categories = sorted({r.get("category", "") for r in open_jobs if r.get("category")})

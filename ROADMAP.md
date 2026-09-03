@@ -12,7 +12,7 @@ Difficulty: 🟢 easy · 🟡 medium · 🔴 hard
 - [x] Fetches them all at once (**async**) with auto-retries, backoff, and rate limits
 - [x] **Circuit breaker** — dead job boards get quarantined with exponential backoff and retried automatically (no wasted requests, self-healing)
 - [x] Finds **brand-new** jobs, removes **duplicates**, and merges every platform into one clean format
-- [x] Keeps only **real, dated Canadian tech internships and co-ops** (Fall 2026 / Winter 2027 / Summer 2027)
+- [x] Keeps only **real, dated Canadian tech internships and co-ops** (Summer 2027, plus recent roles with no stated cycle)
 - [x] 🛂 **Visa-sponsorship flags, auto-detected** — reads every matched job's description and marks "no sponsorship" / "US citizens only" (the big lists do this by hand; we compute it)
 - [x] **Real posted dates** from Greenhouse `first_published` + Workday detail pages, frozen so they never shift
 - [x] **Salary capture** where the ATS exposes it (Ashby / Lever / Breezy) → CSV, API, dashboard

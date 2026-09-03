@@ -687,6 +687,15 @@ def _close_out_of_scope(existing: dict, cfg: dict, blocklist: dict | None = None
             or expired_unstated
         )
         if not rejected:
+            tracked_hits = [c for c in config.cycles(cfg) if c in assigned]
+            if (
+                tracked_hits
+                and record.get("season") not in (cycles | {filters.NOT_STATED})
+            ):
+                # Dual-cycle postings (Winter/Summer) stay, but the primary
+                # label must be one we still track or the accuracy gate
+                # treats them as untracked-season.
+                record["season"] = tracked_hits[0]
             continue
         record.update(is_open=False, closed_at=ts, closed_reason="out-of-scope")
         record.pop("missing_streak", None)

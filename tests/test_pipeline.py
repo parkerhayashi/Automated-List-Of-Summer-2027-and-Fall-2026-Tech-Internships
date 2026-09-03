@@ -444,6 +444,32 @@ class TestOutOfScopeSweep:
         assert _close_out_of_scope(existing, cfg) == 0
         assert existing["a"]["is_open"] is True
 
+    def test_dual_cycle_role_is_rebucketed_to_a_tracked_cycle(self):
+        from intern_engine.pipeline import _close_out_of_scope
+        cfg = {"cycles": ["Summer 2027"], "regions": ["Canada"]}
+        existing = {
+            "a": {
+                "is_open": True,
+                "title": "Software Verification Engineer (Co-op/Intern)",
+                "location": "Ottawa, ON, Canada",
+                "season": "Winter 2027",
+                "seasons": ["Winter 2027", "Spring 2027", "Summer 2027"],
+            },
+            "b": {
+                "is_open": True,
+                "title": "Software Engineer Intern (Winter 2027)",
+                "location": "Toronto, ON, Canada",
+                "season": "Winter 2027",
+                "seasons": ["Winter 2027"],
+            },
+        }
+        closed = _close_out_of_scope(existing, cfg)
+        assert closed == 1
+        assert existing["a"]["is_open"] is True
+        assert existing["a"]["season"] == "Summer 2027"
+        assert existing["b"]["is_open"] is False
+        assert existing["b"]["closed_reason"] == "out-of-scope"
+
 
 class TestRetireGuessedCycles:
     """Legacy records must lose cycle labels that came from the old guess."""

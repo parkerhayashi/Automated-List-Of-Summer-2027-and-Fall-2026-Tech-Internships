@@ -174,7 +174,11 @@ def _row(record: dict, cycle: str | None = None, cfg: dict | None = None) -> str
     # A multi-cycle posting appears under each cycle it names. Naming the OTHER
     # cycles here explains why the same title shows up twice — repeating this
     # section's own cycle would just be noise.
-    others = [s for s in (record.get("seasons") or []) if s != cycle]
+    tracked = set(config.cycles(cfg)) if cfg else set()
+    others = [
+        s for s in (record.get("seasons") or [])
+        if s != cycle and (not tracked or s in tracked)
+    ]
     if len(record.get("seasons") or []) > 1 and others:
         title += f" _(also open for {', '.join(others)})_"
     return (f"| {company} | {title} | {category} | {location} | {skill_tags} | "
@@ -288,9 +292,8 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         )
         about_blurb = (
             "This is a Canada-only fork of the internship engine. It tracks "
-            "software, data, and ML internships and co-ops located in Canada — "
-            "including the 4-month Fall, Winter, and Summer terms that Canadian "
-            "co-op programs actually run on."
+            "software, data, and ML internships and co-ops located in Canada "
+            "for Summer 2027, plus recent postings that don't name a cycle."
         )
         flag_legend = (
             f"- **Flags after a role title:** {citizens_flag} = requires Canadian "

@@ -1,7 +1,5 @@
 {
   "cycles": [
-    "Fall 2026",
-    "Winter 2027",
     "Summer 2027"
   ],
   "regions": [
@@ -13,8 +11,6 @@
   "allowlist_only": false,
   "include_international": false,
   "section_limits": {
-    "Fall 2026": 150,
-    "Winter 2027": 200,
     "Summer 2027": 300
   },
   "infer_undated": true,

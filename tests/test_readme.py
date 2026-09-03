@@ -71,6 +71,12 @@ class TestEvidenceSplit:
 
 
 class TestMultiCycleRendering:
+    CFG = {"cycles": ["Summer 2027", "Fall 2026"], "regions": ["US"]}
+
+    @pytest.fixture(autouse=True)
+    def _two_cycles(self, monkeypatch):
+        monkeypatch.setattr(readme.config, "load_config", lambda: self.CFG)
+
     def test_role_appears_under_every_cycle_it_states(self, outputs):
         store = {"a": _rec("a", title="SWE Internship (Fall 2026/Summer 2027)",
                            season="Summer 2027",

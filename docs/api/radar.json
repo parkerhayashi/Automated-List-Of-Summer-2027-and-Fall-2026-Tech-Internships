@@ -1,84 +1,103 @@
 {
  "generated_at": "2026-09-03T19:49:36Z",
  "data_as_of": "2026-09-03T19:49:36Z",
- "rendered_at": "2026-09-03T19:49:36Z",
- "cycle": "Fall 2026",
+ "rendered_at": "2026-09-03T20:19:47Z",
+ "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
   {
-   "company": "Amazon",
+   "company": "Manulife Financial",
    "last_cycle_posted": "",
-   "posted_on": "2025-10-08",
+   "posted_on": "2026-08-27",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2025-10-08",
-   "days_until": -330,
+   "expected": "2026-08-27",
+   "days_until": -7,
    "status": "open",
-   "url": "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
-   "note": "rolling from mid-summer, very early",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2025-10-08"
-   }
-  },
-  {
-   "company": "Later",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-23",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-23",
-   "days_until": -72,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/later/jobs/8604889002",
+   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-23"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-27"
    }
   },
   {
-   "company": "Hitachi Energy",
+   "company": "Lumentum",
    "last_cycle_posted": "",
-   "posted_on": "2026-07-07",
+   "posted_on": "2026-08-28",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-07-07",
-   "days_until": -58,
+   "expected": "2026-08-28",
+   "days_until": -6,
    "status": "open",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1",
+   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261135",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-07-07"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-28"
    }
   },
   {
-   "company": "PA Consulting",
+   "company": "Royal Bank of Canada",
    "last_cycle_posted": "",
-   "posted_on": "2026-08-11",
+   "posted_on": "2026-08-31",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-08-11",
-   "days_until": -23,
+   "expected": "2026-08-31",
+   "days_until": -3,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/PAConsulting/744000142851499",
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer---GRM--AI-Innovation---Business-Analyst-Intern--4-Months-_R-0000182977",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-08-11"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "TC Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "open",
+   "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Student-Intern--Computer-Science_JR-10733",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Geotab",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-02"
    }
   },
   {
@@ -97,25 +116,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.goldmansachs.com/careers/students/programs",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "JPMorgan Chase",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-03-01",
-   "days_until": -186,
-   "status": "waiting",
-   "url": "",
-   "note": "summer analyst opens very early",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://careers.jpmorgan.com/us/en/students/programs",
     "verified_at": "2026-07-21"
    }
   },
@@ -234,25 +234,6 @@
    }
   },
   {
-   "company": "American Express",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-07-01",
-   "days_until": -64,
-   "status": "waiting",
-   "url": "",
-   "note": "campus opens mid-summer",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://www.americanexpress.com/en-us/careers/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Balyasny Asset Management",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -268,25 +249,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.bamfunds.com/careers/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Belvedere Trading",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-07-01",
-   "days_until": -64,
-   "status": "waiting",
-   "url": "",
-   "note": "trading cycle opens very early",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://belvederetrading.com/careers/",
     "verified_at": "2026-07-21"
    }
   },
@@ -386,44 +348,6 @@
    }
   },
   {
-   "company": "Old Mission Capital",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-07-01",
-   "days_until": -64,
-   "status": "waiting",
-   "url": "",
-   "note": "quant cycle opens very early",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://www.oldmissioncapital.com/careers/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "PDT Partners",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-07-01",
-   "days_until": -64,
-   "status": "waiting",
-   "url": "",
-   "note": "quant cycle opens very early",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://pdtpartners.com/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Peak6",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -500,25 +424,6 @@
    }
   },
   {
-   "company": "Virtu Financial",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-07-01",
-   "days_until": -64,
-   "status": "waiting",
-   "url": "",
-   "note": "trading cycle opens very early",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://www.virtu.com/careers/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Voloridge Investment Management",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -591,25 +496,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.accenture.com/us-en/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Akuna Capital",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": -33,
-   "status": "waiting",
-   "url": "",
-   "note": "opens ~Aug-Sep",
-   "provenance": {
-    "type": "verified-window",
-    "url": "akunacapital.com",
     "verified_at": "2026-07-21"
    }
   },
@@ -785,25 +671,6 @@
    }
   },
   {
-   "company": "Five Rings",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": -33,
-   "status": "waiting",
-   "url": "",
-   "note": "opens ~Aug, very early",
-   "provenance": {
-    "type": "verified-window",
-    "url": "fiverings.com",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Google",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -880,25 +747,6 @@
    }
   },
   {
-   "company": "Mastercard",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": -33,
-   "status": "waiting",
-   "url": "",
-   "note": "late-summer opening",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://careers.mastercard.com/us/en/students",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Meta",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -956,6 +804,25 @@
    }
   },
   {
+   "company": "Salesforce",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "month",
+   "rolling": false,
+   "confidence": "window",
+   "source": "known",
+   "expected": "2026-08-01",
+   "days_until": -33,
+   "status": "waiting",
+   "url": "",
+   "note": "Futureforce, opens late summer",
+   "provenance": {
+    "type": "verified-window",
+    "url": "salesforce.com/company/careers",
+    "verified_at": "2026-07-21"
+   }
+  },
+  {
    "company": "SIG",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -971,6 +838,25 @@
    "provenance": {
     "type": "verified-window",
     "url": "sig.com/careers",
+    "verified_at": "2026-07-21"
+   }
+  },
+  {
+   "company": "Snowflake",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "month",
+   "rolling": false,
+   "confidence": "window",
+   "source": "known",
+   "expected": "2026-08-01",
+   "days_until": -33,
+   "status": "waiting",
+   "url": "",
+   "note": "opens ~Aug, rolling",
+   "provenance": {
+    "type": "verified-window",
+    "url": "careers.snowflake.com",
     "verified_at": "2026-07-21"
    }
   },
@@ -1009,25 +895,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.tesla.com/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Tower Research Capital",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": -33,
-   "status": "waiting",
-   "url": "",
-   "note": "opens ~Aug-Sep",
-   "provenance": {
-    "type": "verified-window",
-    "url": "tower-research.com",
     "verified_at": "2026-07-21"
    }
   },
@@ -1640,6 +1507,25 @@
    }
   },
   {
+   "company": "General Motors",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "month",
+   "rolling": false,
+   "confidence": "window",
+   "source": "known",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "waiting",
+   "url": "",
+   "note": "fall opening",
+   "provenance": {
+    "type": "verified-window",
+    "url": "https://search-careers.gm.com/en/",
+    "verified_at": "2026-07-21"
+   }
+  },
+  {
    "company": "GitLab",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1674,44 +1560,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.hashicorp.com/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Honeywell",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -2,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://careers.honeywell.com/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Hudson River Trading",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -2,
-   "status": "waiting",
-   "url": "",
-   "note": "opens fall, closes early Feb",
-   "provenance": {
-    "type": "verified-window",
-    "url": "hudsonrivertrading.com",
     "verified_at": "2026-07-21"
    }
   },
@@ -1773,6 +1621,25 @@
    }
   },
   {
+   "company": "Intuitive Surgical",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "month",
+   "rolling": false,
+   "confidence": "window",
+   "source": "known",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "waiting",
+   "url": "",
+   "note": "fall opening",
+   "provenance": {
+    "type": "verified-window",
+    "url": "https://careers.intuitive.com/",
+    "verified_at": "2026-07-21"
+   }
+  },
+  {
    "company": "Johns Hopkins Applied Physics Laboratory",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1811,25 +1678,6 @@
    }
   },
   {
-   "company": "Leidos",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -2,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening, clearance common",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://careers.leidos.com/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Lockheed Martin",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1864,6 +1712,25 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://lucidmotors.com/careers",
+    "verified_at": "2026-07-21"
+   }
+  },
+  {
+   "company": "Medtronic",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "month",
+   "rolling": false,
+   "confidence": "window",
+   "source": "known",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "waiting",
+   "url": "",
+   "note": "fall opening",
+   "provenance": {
+    "type": "verified-window",
+    "url": "https://jobs.medtronic.com/",
     "verified_at": "2026-07-21"
    }
   },
@@ -2020,25 +1887,6 @@
    }
   },
   {
-   "company": "Point72",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -2,
-   "status": "waiting",
-   "url": "",
-   "note": "Cubist/academy, opens fall",
-   "provenance": {
-    "type": "verified-window",
-    "url": "point72.com/campus",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Qualcomm",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2134,25 +1982,6 @@
    }
   },
   {
-   "company": "Roblox",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -2,
-   "status": "waiting",
-   "url": "",
-   "note": "opens fall for next summer",
-   "provenance": {
-    "type": "verified-window",
-    "url": "careers.roblox.com",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Rockwell Automation",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2187,25 +2016,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.weareroku.com/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "RTX",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -2,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening, many roles need clearance",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://careers.rtx.com/",
     "verified_at": "2026-07-21"
    }
   },
@@ -2476,25 +2286,6 @@
    }
   },
   {
-   "company": "Waymo",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -2,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening for next summer",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://waymo.com/careers/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Workday",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2548,6 +2339,25 @@
    "provenance": {
     "type": "verified-window",
     "url": "deshaw.com/careers",
+    "verified_at": "2026-07-21"
+   }
+  },
+  {
+   "company": "Rocket Lab",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "month",
+   "rolling": false,
+   "confidence": "window",
+   "source": "known",
+   "expected": "2026-10-01",
+   "days_until": 28,
+   "status": "waiting",
+   "url": "",
+   "note": "fall opening",
+   "provenance": {
+    "type": "verified-window",
+    "url": "https://www.rocketlabusa.com/careers/",
     "verified_at": "2026-07-21"
    }
   },
@@ -2647,25 +2457,6 @@
    }
   },
   {
-   "company": "IMC Trading",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "day",
-   "rolling": true,
-   "confidence": "rolling",
-   "source": "known",
-   "expected": "",
-   "days_until": null,
-   "status": "waiting",
-   "url": "",
-   "note": "posts early, rolling",
-   "provenance": {
-    "type": "verified-window",
-    "url": "imc.com/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Jump Trading",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2723,6 +2514,25 @@
    }
   },
   {
+   "company": "NVIDIA",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": true,
+   "confidence": "rolling",
+   "source": "known",
+   "expected": "",
+   "days_until": null,
+   "status": "waiting",
+   "url": "",
+   "note": "multiple programs; Ignite ~Oct, SWE ongoing",
+   "provenance": {
+    "type": "verified-window",
+    "url": "nvidia.com/careers",
+    "verified_at": "2026-07-21"
+   }
+  },
+  {
    "company": "Palantir",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2761,330 +2571,64 @@
    }
   },
   {
-   "company": "Hermeus",
+   "company": "Point72",
    "last_cycle_posted": "",
-   "posted_on": "2026-03-04",
+   "posted_on": "2024-08-15",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-03-04",
-   "days_until": -183,
+   "expected": "2024-08-15",
+   "days_until": -749,
+   "status": "dropped",
+   "url": "",
+   "note": "Cubist/academy, opens fall",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2024-08-15"
+   }
+  },
+  {
+   "company": "Virtu Financial",
+   "last_cycle_posted": "",
+   "posted_on": "2025-09-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2025-09-12",
+   "days_until": -356,
+   "status": "dropped",
+   "url": "",
+   "note": "trading cycle opens very early",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2025-09-12"
+   }
+  },
+  {
+   "company": "Ellipsis Labs",
+   "last_cycle_posted": "",
+   "posted_on": "2026-03-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-03-26",
+   "days_until": -161,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-03-04"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-03-26"
    }
   },
   {
-   "company": "Center for AI Safety",
-   "last_cycle_posted": "",
-   "posted_on": "2026-03-05",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-03-05",
-   "days_until": -182,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-03-05"
-   }
-  },
-  {
-   "company": "Creatify Lab",
-   "last_cycle_posted": "",
-   "posted_on": "2026-03-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-03-18",
-   "days_until": -169,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-03-18"
-   }
-  },
-  {
-   "company": "Varda Space",
-   "last_cycle_posted": "",
-   "posted_on": "2026-03-23",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-03-23",
-   "days_until": -164,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-03-23"
-   }
-  },
-  {
-   "company": "Motorola",
-   "last_cycle_posted": "",
-   "posted_on": "2026-03-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-03-30",
-   "days_until": -157,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-03-30"
-   }
-  },
-  {
-   "company": "SharkNinja",
-   "last_cycle_posted": "",
-   "posted_on": "2026-04-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-04-02",
-   "days_until": -154,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-04-02"
-   }
-  },
-  {
-   "company": "Notion",
-   "last_cycle_posted": "",
-   "posted_on": "2026-04-06",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-04-06",
-   "days_until": -150,
-   "status": "dropped",
-   "url": "",
-   "note": "small cohort, fall opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-04-06"
-   }
-  },
-  {
-   "company": "Verkada",
-   "last_cycle_posted": "",
-   "posted_on": "2026-04-06",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-04-06",
-   "days_until": -150,
-   "status": "dropped",
-   "url": "",
-   "note": "fall opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-04-06"
-   }
-  },
-  {
-   "company": "TELUS Digital",
-   "last_cycle_posted": "",
-   "posted_on": "2026-04-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-04-14",
-   "days_until": -142,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-04-14"
-   }
-  },
-  {
-   "company": "Lego",
-   "last_cycle_posted": "",
-   "posted_on": "2026-04-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-04-20",
-   "days_until": -136,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-04-20"
-   }
-  },
-  {
-   "company": "NVIDIA",
-   "last_cycle_posted": "",
-   "posted_on": "2026-04-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-04-24",
-   "days_until": -132,
-   "status": "dropped",
-   "url": "",
-   "note": "multiple programs; Ignite ~Oct, SWE ongoing",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-04-24"
-   }
-  },
-  {
-   "company": "TMEIC",
-   "last_cycle_posted": "",
-   "posted_on": "2026-04-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-04-24",
-   "days_until": -132,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-04-24"
-   }
-  },
-  {
-   "company": "Dmainc",
-   "last_cycle_posted": "",
-   "posted_on": "2026-04-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-04-27",
-   "days_until": -129,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-04-27"
-   }
-  },
-  {
-   "company": "Gemini",
-   "last_cycle_posted": "",
-   "posted_on": "2026-05-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-05-01",
-   "days_until": -125,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-05-01"
-   }
-  },
-  {
-   "company": "Skydio",
-   "last_cycle_posted": "",
-   "posted_on": "2026-05-05",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-05-05",
-   "days_until": -121,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-05-05"
-   }
-  },
-  {
-   "company": "Samsung Research America",
-   "last_cycle_posted": "",
-   "posted_on": "2026-05-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-05-08",
-   "days_until": -118,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-05-08"
-   }
-  },
-  {
-   "company": "Snowflake",
-   "last_cycle_posted": "",
-   "posted_on": "2026-05-12",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-05-12",
-   "days_until": -114,
-   "status": "dropped",
-   "url": "",
-   "note": "opens ~Aug, rolling",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-05-12"
-   }
-  },
-  {
-   "company": "Astranis",
+   "company": "Amazon",
    "last_cycle_posted": "",
    "posted_on": "2026-05-13",
    "precision": "day",
@@ -3095,433 +2639,148 @@
    "days_until": -113,
    "status": "dropped",
    "url": "",
-   "note": "",
+   "note": "rolling from mid-summer, very early",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-05-13"
    }
   },
   {
-   "company": "Saronic",
+   "company": "InfiniteQuant",
    "last_cycle_posted": "",
-   "posted_on": "2026-05-18",
+   "posted_on": "2026-05-29",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-05-18",
-   "days_until": -108,
+   "expected": "2026-05-29",
+   "days_until": -97,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-05-18"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-05-29"
    }
   },
   {
-   "company": "Achievers",
+   "company": "Walleye Capital",
    "last_cycle_posted": "",
-   "posted_on": "2026-05-20",
+   "posted_on": "2026-06-01",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-05-20",
-   "days_until": -106,
+   "expected": "2026-06-01",
+   "days_until": -94,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-05-20"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-01"
    }
   },
   {
-   "company": "Rocket Lab",
+   "company": "Anduril",
    "last_cycle_posted": "",
-   "posted_on": "2026-05-21",
+   "posted_on": "2026-06-10",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-05-21",
-   "days_until": -105,
-   "status": "dropped",
-   "url": "",
-   "note": "fall opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-05-21"
-   }
-  },
-  {
-   "company": "Beacon Software",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-02",
-   "days_until": -93,
+   "expected": "2026-06-10",
+   "days_until": -85,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-02"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-10"
    }
   },
   {
-   "company": "Beaconsoftware",
+   "company": "Voloridge",
    "last_cycle_posted": "",
-   "posted_on": "2026-06-02",
+   "posted_on": "2026-06-11",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-06-02",
-   "days_until": -93,
+   "expected": "2026-06-11",
+   "days_until": -84,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-02"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-11"
    }
   },
   {
-   "company": "Four Hands",
+   "company": "Western Digital",
    "last_cycle_posted": "",
-   "posted_on": "2026-06-02",
+   "posted_on": "2026-06-28",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-06-02",
-   "days_until": -93,
+   "expected": "2026-06-28",
+   "days_until": -67,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-02"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-28"
    }
   },
   {
-   "company": "Tevora",
+   "company": "IMC Trading",
    "last_cycle_posted": "",
-   "posted_on": "2026-06-05",
+   "posted_on": "2026-07-01",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-06-05",
-   "days_until": -90,
+   "expected": "2026-07-01",
+   "days_until": -64,
    "status": "dropped",
    "url": "",
-   "note": "",
+   "note": "posts early, rolling",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-05"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-01"
    }
   },
   {
-   "company": "1Password",
+   "company": "Tower Research Capital",
    "last_cycle_posted": "",
-   "posted_on": "2026-06-09",
+   "posted_on": "2026-07-05",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-06-09",
-   "days_until": -86,
+   "expected": "2026-07-05",
+   "days_until": -60,
    "status": "dropped",
    "url": "",
-   "note": "",
+   "note": "opens ~Aug-Sep",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-09"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-05"
    }
   },
   {
-   "company": "Vertex Pharmaceuticals",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-09",
-   "days_until": -86,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-09"
-   }
-  },
-  {
-   "company": "Zip",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-09",
-   "days_until": -86,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-09"
-   }
-  },
-  {
-   "company": "General Motors",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-12",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-12",
-   "days_until": -83,
-   "status": "dropped",
-   "url": "",
-   "note": "fall opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-12"
-   }
-  },
-  {
-   "company": "OMERS",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-12",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-12",
-   "days_until": -83,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-12"
-   }
-  },
-  {
-   "company": "SoloPulse",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-16",
-   "days_until": -79,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-16"
-   }
-  },
-  {
-   "company": "ABB",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-18",
-   "days_until": -77,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-18"
-   }
-  },
-  {
-   "company": "TD Bank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-18",
-   "days_until": -77,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-18"
-   }
-  },
-  {
-   "company": "Figure",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-22",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-22",
-   "days_until": -73,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-22"
-   }
-  },
-  {
-   "company": "Intuitive Surgical",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-22",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-22",
-   "days_until": -73,
-   "status": "dropped",
-   "url": "",
-   "note": "fall opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-22"
-   }
-  },
-  {
-   "company": "Salesforce",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-24",
-   "days_until": -71,
-   "status": "dropped",
-   "url": "",
-   "note": "Futureforce, opens late summer",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-24"
-   }
-  },
-  {
-   "company": "Charles River Analytics",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-29",
-   "days_until": -66,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-29"
-   }
-  },
-  {
-   "company": "Charlesriveranalytics90",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-29",
-   "days_until": -66,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-29"
-   }
-  },
-  {
-   "company": "CACI",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-30",
-   "days_until": -65,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-30"
-   }
-  },
-  {
-   "company": "Junior",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-30",
-   "days_until": -65,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-06-30"
-   }
-  },
-  {
-   "company": "State Street",
+   "company": "Flow Traders",
    "last_cycle_posted": "",
    "posted_on": "2026-07-08",
    "precision": "day",
@@ -3535,31 +2794,31 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-07-08"
    }
   },
   {
-   "company": "Uber Freight",
+   "company": "Northrop Grumman",
    "last_cycle_posted": "",
-   "posted_on": "2026-07-09",
+   "posted_on": "2026-07-08",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-07-09",
-   "days_until": -56,
+   "expected": "2026-07-08",
+   "days_until": -57,
    "status": "dropped",
    "url": "",
-   "note": "",
+   "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-07-09"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-08"
    }
   },
   {
-   "company": "Reliable Robotics",
+   "company": "Akuna Capital",
    "last_cycle_posted": "",
    "posted_on": "2026-07-13",
    "precision": "day",
@@ -3570,15 +2829,72 @@
    "days_until": -52,
    "status": "dropped",
    "url": "",
-   "note": "",
+   "note": "opens ~Aug-Sep",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-07-13"
    }
   },
   {
-   "company": "onsemi",
+   "company": "Hudson River Trading",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-13",
+   "days_until": -52,
+   "status": "dropped",
+   "url": "",
+   "note": "opens fall, closes early Feb",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-13"
+   }
+  },
+  {
+   "company": "Five Rings",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-14",
+   "days_until": -51,
+   "status": "dropped",
+   "url": "",
+   "note": "opens ~Aug, very early",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-14"
+   }
+  },
+  {
+   "company": "Old Mission Capital",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-15",
+   "days_until": -50,
+   "status": "dropped",
+   "url": "",
+   "note": "quant cycle opens very early",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-15"
+   }
+  },
+  {
+   "company": "The Trade Desk",
    "last_cycle_posted": "",
    "posted_on": "2026-07-15",
    "precision": "day",
@@ -3592,31 +2908,12 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-07-15"
    }
   },
   {
-   "company": "Sentara Health",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-15",
-   "days_until": -50,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-07-15"
-   }
-  },
-  {
-   "company": "Moog",
+   "company": "Chevron Corporation",
    "last_cycle_posted": "",
    "posted_on": "2026-07-16",
    "precision": "day",
@@ -3630,7 +2927,7 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-07-16"
    }
   },
@@ -3649,12 +2946,12 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-07-17"
    }
   },
   {
-   "company": "Louisiana Blue",
+   "company": "Axon",
    "last_cycle_posted": "",
    "posted_on": "2026-07-20",
    "precision": "day",
@@ -3668,12 +2965,12 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-07-20"
    }
   },
   {
-   "company": "Medtronic",
+   "company": "Chicago Trading Company",
    "last_cycle_posted": "",
    "posted_on": "2026-07-20",
    "precision": "day",
@@ -3684,91 +2981,110 @@
    "days_until": -45,
    "status": "dropped",
    "url": "",
-   "note": "fall opening",
+   "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-07-20"
    }
   },
   {
-   "company": "Red Bull",
+   "company": "Anthelion Capital",
    "last_cycle_posted": "",
-   "posted_on": "2026-07-22",
+   "posted_on": "2026-07-23",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-07-22",
-   "days_until": -43,
+   "expected": "2026-07-23",
+   "days_until": -42,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-07-22"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-23"
    }
   },
   {
-   "company": "Rendezvous Robotics",
+   "company": "Appian",
    "last_cycle_posted": "",
-   "posted_on": "2026-07-22",
+   "posted_on": "2026-07-23",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-07-22",
-   "days_until": -43,
+   "expected": "2026-07-23",
+   "days_until": -42,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-07-22"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-23"
    }
   },
   {
-   "company": "Toshiba Global Commerce",
+   "company": "PDT Partners",
    "last_cycle_posted": "",
-   "posted_on": "2026-07-26",
+   "posted_on": "2026-07-24",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-07-26",
-   "days_until": -39,
+   "expected": "2026-07-24",
+   "days_until": -41,
+   "status": "dropped",
+   "url": "",
+   "note": "quant cycle opens very early",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-24"
+   }
+  },
+  {
+   "company": "Quadrillion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-24",
+   "days_until": -41,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-07-26"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-24"
    }
   },
   {
-   "company": "Mosaic",
+   "company": "Draper",
    "last_cycle_posted": "",
-   "posted_on": "2026-07-27",
+   "posted_on": "2026-07-28",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-07-27",
-   "days_until": -38,
+   "expected": "2026-07-28",
+   "days_until": -37,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-07-27"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-28"
    }
   },
   {
-   "company": "Redwood Materials",
+   "company": "Leidos",
    "last_cycle_posted": "",
    "posted_on": "2026-07-29",
    "precision": "day",
@@ -3779,53 +3095,91 @@
    "days_until": -36,
    "status": "dropped",
    "url": "",
-   "note": "",
+   "note": "fall opening, clearance common",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-07-29"
    }
   },
   {
-   "company": "Sony Pictures Entertainment",
+   "company": "Heliux",
    "last_cycle_posted": "",
-   "posted_on": "2026-07-29",
+   "posted_on": "2026-07-31",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-07-29",
-   "days_until": -36,
+   "expected": "2026-07-31",
+   "days_until": -34,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-07-29"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-31"
    }
   },
   {
    "company": "Melius",
    "last_cycle_posted": "",
-   "posted_on": "2026-07-30",
+   "posted_on": "2026-07-31",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-07-30",
-   "days_until": -35,
+   "expected": "2026-07-31",
+   "days_until": -34,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-07-30"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-31"
    }
   },
   {
-   "company": "Densityai",
+   "company": "HPR (Hyannis Port Research)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-01",
+   "days_until": -33,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-01"
+   }
+  },
+  {
+   "company": "Sentry",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-01",
+   "days_until": -33,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-01"
+   }
+  },
+  {
+   "company": "CNO Financial Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
    "precision": "day",
@@ -3839,12 +3193,164 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-08-03"
    }
   },
   {
-   "company": "Warner Bros.",
+   "company": "JPMorgan Chase",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -31,
+   "status": "dropped",
+   "url": "",
+   "note": "summer analyst opens very early",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-03"
+   }
+  },
+  {
+   "company": "Netsmart",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -31,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-03"
+   }
+  },
+  {
+   "company": "Pentair",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -31,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-03"
+   }
+  },
+  {
+   "company": "Belvedere Trading",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-04",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": "trading cycle opens very early",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-04"
+   }
+  },
+  {
+   "company": "RTX",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-04",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": "fall opening, many roles need clearance",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-04"
+   }
+  },
+  {
+   "company": "General Dynamics Information Technology",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-05",
+   "days_until": -29,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-05"
+   }
+  },
+  {
+   "company": "Regions Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-05",
+   "days_until": -29,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-05"
+   }
+  },
+  {
+   "company": "Roblox",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-05",
+   "days_until": -29,
+   "status": "dropped",
+   "url": "",
+   "note": "opens fall for next summer",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-05"
+   }
+  },
+  {
+   "company": "Atoms",
    "last_cycle_posted": "",
    "posted_on": "2026-08-06",
    "precision": "day",
@@ -3858,12 +3364,12 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-08-06"
    }
   },
   {
-   "company": "Johnson & Johnson",
+   "company": "Duke Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-08-07",
    "precision": "day",
@@ -3877,7 +3383,7 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-08-07"
    }
   },
@@ -3896,12 +3402,69 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-08-07"
    }
   },
   {
-   "company": "CCC Intelligent Solutions",
+   "company": "DV Trading",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-10",
+   "days_until": -24,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-10"
+   }
+  },
+  {
+   "company": "ING",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-10",
+   "days_until": -24,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-10"
+   }
+  },
+  {
+   "company": "Montenson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-10",
+   "days_until": -24,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-10"
+   }
+  },
+  {
+   "company": "Hewlett Packard (HP)",
    "last_cycle_posted": "",
    "posted_on": "2026-08-11",
    "precision": "day",
@@ -3915,12 +3478,12 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-08-11"
    }
   },
   {
-   "company": "Assured Guaranty",
+   "company": "Northwestern Mutual",
    "last_cycle_posted": "",
    "posted_on": "2026-08-12",
    "precision": "day",
@@ -3934,12 +3497,335 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-08-12"
    }
   },
   {
-   "company": "Phoebe",
+   "company": "Teledyne",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": -21,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-13"
+   }
+  },
+  {
+   "company": "Freeform",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-14",
+   "days_until": -20,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-14"
+   }
+  },
+  {
+   "company": "Motorola",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-14",
+   "days_until": -20,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-14"
+   }
+  },
+  {
+   "company": "Notion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-14",
+   "days_until": -20,
+   "status": "dropped",
+   "url": "",
+   "note": "small cohort, fall opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-14"
+   }
+  },
+  {
+   "company": "The Voleon Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-14",
+   "days_until": -20,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-14"
+   }
+  },
+  {
+   "company": "Replit",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-15",
+   "days_until": -19,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-15"
+   }
+  },
+  {
+   "company": "American Express",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": "campus opens mid-summer",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
+   "company": "Conagra Brands",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
+   "company": "Hilton Worldwide",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
+   "company": "KeyBank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
+   "company": "Vanguard",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
+   "company": "Wabtec",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
+   "company": "Xantium",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
+   "company": "Continental Resources",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-18",
+   "days_until": -16,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-18"
+   }
+  },
+  {
+   "company": "PIMCO",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-18",
+   "days_until": -16,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-18"
+   }
+  },
+  {
+   "company": "Dev Technology Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-19",
+   "days_until": -15,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-19"
+   }
+  },
+  {
+   "company": "General Matter",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-19",
+   "days_until": -15,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-19"
+   }
+  },
+  {
+   "company": "AbbVie",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
    "precision": "day",
@@ -3953,12 +3839,88 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-08-20"
    }
   },
   {
-   "company": "Rivet Industries",
+   "company": "Fannie Mae",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -14,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-20"
+   }
+  },
+  {
+   "company": "Fifth Third Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -14,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-20"
+   }
+  },
+  {
+   "company": "Philips",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -14,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-20"
+   }
+  },
+  {
+   "company": "Ontario Teachers' Pension Plan",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -13,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-21"
+   }
+  },
+  {
+   "company": "Advanced Space",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
    "precision": "day",
@@ -3972,31 +3934,506 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-08-24"
    }
   },
   {
-   "company": "Northrop Grumman",
+   "company": "Audax Group",
    "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
+   "posted_on": "2026-08-24",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -3,
+   "expected": "2026-08-24",
+   "days_until": -10,
    "status": "dropped",
    "url": "",
-   "note": "fall opening, many roles need clearance",
+   "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
-    "observed_on": "2026-08-31"
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-24"
    }
   },
   {
-   "company": "Xcel Energy",
+   "company": "BNY",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -10,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-24"
+   }
+  },
+  {
+   "company": "BTI360",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -10,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-24"
+   }
+  },
+  {
+   "company": "Freddie Mac",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -10,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-24"
+   }
+  },
+  {
+   "company": "Sage",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -10,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-24"
+   }
+  },
+  {
+   "company": "The Hartford",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -10,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-24"
+   }
+  },
+  {
+   "company": "Brunswick",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "DTCC",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "GlobalFoundries",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "Grant Thornton",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "Honeywell",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": "fall opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "Verkada",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": "fall opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "Auto-Owners Insurance",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-26"
+   }
+  },
+  {
+   "company": "QTS",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-26"
+   }
+  },
+  {
+   "company": "Verisk",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-26"
+   }
+  },
+  {
+   "company": "Wavetronix",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-26"
+   }
+  },
+  {
+   "company": "WhiteWater Midstream",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-26"
+   }
+  },
+  {
+   "company": "Air Products",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -7,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-27"
+   }
+  },
+  {
+   "company": "AnaVation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -7,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-27"
+   }
+  },
+  {
+   "company": "Booz Allen",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -7,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-27"
+   }
+  },
+  {
+   "company": "Workiva",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -7,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-27"
+   }
+  },
+  {
+   "company": "Charles River Associates (CRA)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-28",
+   "days_until": -6,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-28"
+   }
+  },
+  {
+   "company": "Mastercard",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-28",
+   "days_until": -6,
+   "status": "dropped",
+   "url": "",
+   "note": "late-summer opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-28"
+   }
+  },
+  {
+   "company": "Stantec",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-28",
+   "days_until": -6,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-28"
+   }
+  },
+  {
+   "company": "Northwood Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-29",
+   "days_until": -5,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-29"
+   }
+  },
+  {
+   "company": "Equifax",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-30",
+   "days_until": -4,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-30"
+   }
+  },
+  {
+   "company": "Awetomaton",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
    "precision": "day",
@@ -4010,8 +4447,445 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "BlueCross BlueShield of Nebraska",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Bosch",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "CACI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "DraftKings",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Ercot",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "HP IQ",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Olsson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Oshkosh",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "United Parcel Service (UPS)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Clarios",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "First National Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "FOTH",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Hermeus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "IAT Insurance Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Johnson & Johnson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Newrez",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Stanley Black & Decker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Tarrant Regional Water District",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Texas Instruments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "TRUMPF",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Vermeer",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Allied Solutions",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": -1,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-02"
    }
   },
   {
@@ -4029,12 +4903,12 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-09-02"
    }
   },
   {
-   "company": "Philips",
+   "company": "HD Supply",
    "last_cycle_posted": "",
    "posted_on": "2026-09-02",
    "precision": "day",
@@ -4048,12 +4922,12 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-09-02"
    }
   },
   {
-   "company": "Stantec",
+   "company": "McKesson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-02",
    "precision": "day",
@@ -4067,12 +4941,12 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
     "observed_on": "2026-09-02"
    }
   },
   {
-   "company": "Eurofins",
+   "company": "AXQ Capital",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
    "precision": "day",
@@ -4086,10 +4960,105 @@
    "note": "",
    "provenance": {
     "type": "engine-observed",
-    "cycle": "Fall 2026",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
+   "company": "Cigna Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
+   "company": "Momentive",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
+   "company": "Saab",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
+   "company": "Skyward",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
+   "company": "Waymo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "fall opening for next summer",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
     "observed_on": "2026-09-03"
    }
   }
  ],
- "count": 215
+ "count": 266
 }

@@ -102,12 +102,15 @@ def test_feed_emits_one_entry_for_identical_requisitions():
     assert "3 openings" in summary
 
 
-def test_feed_never_folds_a_closed_requisition_into_a_live_one():
+def test_feed_never_folds_a_closed_requisition_into_a_live_one(monkeypatch, tmp_path):
+    # Pin as-of so the closed sibling stays inside the 14-day feed window.
+    # Without that, this assertion starts failing two weeks after the fixture date.
+    _redirect(monkeypatch, tmp_path)
     publish.write_feed({
         "a": _req("a"),
         "b": _req("b", is_open=False, closed_at="2026-08-07T12:00:00Z"),
-    })
-    tree = ET.parse(paths.FEED_PATH)
+    }, data_as_of="2026-08-08T00:00:00Z")
+    tree = ET.parse(tmp_path / "feed.xml")
     entries = tree.findall("{http://www.w3.org/2005/Atom}entry")
     assert len(entries) == 2
 

@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:foth:072d5e17-c095-49bc-ac02-4cd558bb5d64",
-      "lever:foth:95f75d08-ec27-48ff-8c60-dcf2d5720885",
-      "greenhouse:axq:6181069004",
-      "workday:cigna:/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712",
-      "smartrecruiters:Skyward1:744000147320799"
-    ],
-    "telegram": [
-      "lever:foth:072d5e17-c095-49bc-ac02-4cd558bb5d64",
-      "lever:foth:95f75d08-ec27-48ff-8c60-dcf2d5720885",
-      "greenhouse:axq:6181069004",
-      "workday:cigna:/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712",
-      "smartrecruiters:Skyward1:744000147320799"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

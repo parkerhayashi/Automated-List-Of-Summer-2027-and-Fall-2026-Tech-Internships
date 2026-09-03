@@ -1393,6 +1393,21 @@
     }
    }
   },
+  "mckesson": {
+   "name": "McKesson",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469",
+      "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
+      "workday:mckesson:/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844",
+      "workday:mckesson:/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"
+     ],
+     "count": 4
+    }
+   }
+  },
   "medtronic": {
    "name": "Medtronic",
    "cycles": {
@@ -2554,5 +2569,5 @@
    }
   }
  },
- "updated_at": "2026-09-02T22:53:50Z"
+ "updated_at": "2026-09-03T01:20:06Z"
 }

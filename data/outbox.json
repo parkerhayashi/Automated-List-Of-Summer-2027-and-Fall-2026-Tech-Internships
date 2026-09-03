@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:mckesson:/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635",
+      "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469",
+      "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
+      "workday:mckesson:/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844"
+    ],
+    "telegram": [
+      "workday:mckesson:/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635",
+      "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469",
+      "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
+      "workday:mckesson:/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844"
+    ]
   }
 }

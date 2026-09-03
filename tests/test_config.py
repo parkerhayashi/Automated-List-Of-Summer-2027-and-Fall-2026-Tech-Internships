@@ -45,3 +45,14 @@ def test_canada_only_hides_h1b_history():
     assert config.want_us(cfg) is False
     assert config.show_h1b(cfg) is False
 
+
+def test_japan_is_a_supported_region():
+    cfg = config.validate_config(
+        {"regions": ["Canada", "Japan"], "cycles": ["Summer 2027"]}
+    )
+    assert config.want_japan(cfg) is True
+    assert config.want_canada(cfg) is True
+    assert config.want_us(cfg) is False
+    assert config.show_h1b(cfg) is False
+    assert config.region_phrase(cfg) == "Canada & Japan"
+

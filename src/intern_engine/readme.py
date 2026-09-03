@@ -138,7 +138,8 @@ def _cells(record: dict, cfg: dict | None = None) -> tuple[str, str, str, str, s
     title = _md_cell(record.get("title"))
     is_open = record.get("is_open", True)
     badges = " ".join(
-        b for b in (sponsorship.flag(record.get("sponsorship"), cfg),
+        b for b in (sponsorship.flag(record.get("sponsorship"), cfg,
+                                     record.get("location")),
                     "🆕" if _is_new(record) and is_open else "")
         if b
     )
@@ -199,14 +200,7 @@ def _rolling_row(record: dict, cfg: dict | None = None) -> str:
 
 
 def _region_label(cfg: dict) -> str:
-    if not config.restrict_region(cfg):
-        return "Worldwide"
-    parts = []
-    if config.want_us(cfg):
-        parts.append("United States")
-    if config.want_canada(cfg):
-        parts.append("Canada")
-    return " & ".join(parts) if parts else "Canada"
+    return config.region_phrase(cfg)
 
 
 def _company_count() -> tuple[int, int]:
@@ -263,9 +257,27 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
 
     repo = config.repo_slug()
     stats_url = quote(f"{pages}/api/stats.json", safe="")
-    canada_only = config.want_canada(cfg) and not config.want_us(cfg)
-    citizens_flag = "🇨🇦" if canada_only else "🇺🇸"
-    masthead = "🍁 Canada Tech Internships" if canada_only else "🎓 Summer 2027 Tech Internships"
+    names = config.region_names(cfg)
+    canada = config.want_canada(cfg)
+    japan = config.want_japan(cfg)
+    us = config.want_us(cfg)
+    non_us = config.restrict_region(cfg) and not us
+    if names == ["Canada"]:
+        masthead = "🍁 Canada Tech Internships"
+    elif names == ["Japan"]:
+        masthead = "🇯🇵 Japan Tech Internships"
+    elif names == ["Canada", "Japan"]:
+        masthead = "🍁 Canada & Japan Tech Internships"
+    else:
+        masthead = "🎓 Summer 2027 Tech Internships"
+    flag_bits = []
+    if canada:
+        flag_bits.append("🇨🇦 = requires Canadian citizenship, permanent residency, or a security clearance")
+    if japan:
+        flag_bits.append("🇯🇵 = requires Japanese citizenship or nationality")
+    if us:
+        flag_bits.append("🇺🇸 = requires U.S. citizenship or a security clearance")
+    citizens_legend = " · ".join(flag_bits) if flag_bits else "🇺🇸 = requires U.S. citizenship or a security clearance"
     has_signup = config.signup_endpoint(cfg) is not None
     alerts_link = (
         f" · **[✉️ Email alerts]({pages}/#subscribe)**" if has_signup else ""
@@ -282,22 +294,23 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
             f"**🔔 New roles in your inbox:** [RSS]({pages}/feed.xml) or "
             f"[Feedrabbit]({_email_subscribe_url()})."
         )
-    if canada_only:
+    if non_us:
+        visa_where = " and ".join(names) if names else "this list"
         visa_row = (
-            "| 🛂 **Work authorization, from the posting** | 🇨🇦 / 🛂 flags "
-            "detected automatically from every job description — Canadian "
+            "| 🛂 **Work authorization, from the posting** | "
+            f"{' / '.join(f for f, on in (('🇨🇦', canada), ('🇯🇵', japan)) if on)} / 🛂 "
+            "flags detected automatically from every job description — "
             "citizenship required, or the employer says it won't sponsor a work "
             "permit. Most postings say nothing either way, and those show as "
             "unknown rather than guessed. |"
         )
         about_blurb = (
-            "This is a Canada-only fork of the internship engine. It tracks "
-            "software, data, and ML internships and co-ops located in Canada "
-            "for Summer 2027, plus recent postings that don't name a cycle."
+            f"This fork of the internship engine tracks software, data, and ML "
+            f"internships and co-ops located in {visa_where} for Summer 2027, "
+            "plus recent postings that don't name a cycle."
         )
         flag_legend = (
-            f"- **Flags after a role title:** {citizens_flag} = requires Canadian "
-            "citizenship, permanent residency, or a security clearance · 🛂 = the "
+            f"- **Flags after a role title:** {citizens_legend} · 🛂 = the "
             "posting says it won't sponsor a work permit · 🆕 = spotted in the last "
             "48 hours. Sponsorship flags are detected automatically from each job "
             "description - treat them as a strong hint and confirm on the posting."
@@ -598,7 +611,7 @@ def _select(rows: list[dict], limit, per_company) -> list[dict]:
 
 def _region_of(record: dict) -> str:
     loc = record.get("location") or ""
-    if filters.is_united_states(loc) or filters.is_canada(loc):
+    if filters.is_united_states(loc) or filters.is_canada(loc) or filters.is_japan(loc):
         return "primary"
     return "International"
 

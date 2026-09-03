@@ -5,8 +5,8 @@ Change behavior without touching code:
                     These become the section headings, in this order.
   - default_cycle : where to put roles that have no clear term/year (e.g. just
                     "Software Engineer Intern"). Must be one of `cycles`.
-  - regions       : ["Canada"] for Canada only, ["US"] for United States only,
-                    ["US", "Canada"] for both, or ["Global"] to disable the
+  - regions       : ["Canada"], ["Japan"], ["Canada", "Japan"], ["US"],
+                    combinations of those, or ["Global"] to disable the
                     location filter entirely.
   - role_scope    : "tech" (SWE/data/ML/quant/hardware/...) or "all" internships.
 """
@@ -60,6 +60,7 @@ def pages_base() -> str:
 
 _GLOBAL_TOKENS = {"global", "international", "worldwide", "any", "all"}
 _US_TOKENS = {"us", "usa", "united states", "u.s.", "america"}
+_JP_TOKENS = {"japan", "jp", "jpn"}
 
 
 def _string_list(value, field: str, *, allow_empty: bool = False) -> list[str]:
@@ -95,7 +96,7 @@ def validate_config(raw: object) -> dict:
         raise ConfigError("cycles must use labels such as 'Summer 2027'")
 
     cfg["regions"] = _string_list(cfg.get("regions"), "regions")
-    supported = _GLOBAL_TOKENS | _US_TOKENS | {"canada"}
+    supported = _GLOBAL_TOKENS | _US_TOKENS | _JP_TOKENS | {"canada"}
     unknown = [r for r in cfg["regions"] if r.casefold() not in supported]
     if unknown:
         raise ConfigError(f"unsupported regions: {', '.join(unknown)}")
@@ -166,6 +167,35 @@ def want_us(cfg: dict) -> bool:
 
 def want_canada(cfg: dict) -> bool:
     return any(str(r).lower() == "canada" for r in (cfg.get("regions") or []))
+
+
+def want_japan(cfg: dict) -> bool:
+    return any(str(r).lower() in _JP_TOKENS for r in (cfg.get("regions") or []))
+
+
+def region_names(cfg: dict) -> list[str]:
+    """Human labels for the configured regions, in a stable order."""
+    names = []
+    if want_us(cfg):
+        names.append("United States")
+    if want_canada(cfg):
+        names.append("Canada")
+    if want_japan(cfg):
+        names.append("Japan")
+    return names
+
+
+def region_phrase(cfg: dict) -> str:
+    if not restrict_region(cfg):
+        return "Worldwide"
+    names = region_names(cfg)
+    if not names:
+        return "Worldwide"
+    if len(names) == 1:
+        return names[0]
+    if len(names) == 2:
+        return f"{names[0]} & {names[1]}"
+    return ", ".join(names[:-1]) + f", and {names[-1]}"
 
 
 def show_h1b(cfg: dict) -> bool:

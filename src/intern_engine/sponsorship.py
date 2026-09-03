@@ -22,7 +22,7 @@ from html import unescape
 # re-reads a posting whose stored verdict came from an older version, so
 # classifier improvements propagate to the whole live list instead of only to
 # roles discovered after the change.
-VERSION = 5
+VERSION = 6
 
 # ITAR / export control and security clearances require citizenship (or at
 # minimum a green card), which excludes F-1/OPT candidates the same way.
@@ -33,11 +33,14 @@ _CITIZENS_RE = re.compile(
     r"|citizenship\s*:\s*(?:u\.?s\.?|united states|required)"
     r"|only\s+(?:u\.?s\.?|united states)\s+citizens"
     r"|(?:u\.?s\.?|united states)\s+citizens?\s+(?:or|and)\s+(?:lawful\s+)?(?:permanent\s+residents?|green\s?card)"
-    r"|(?:canadian|canada)\s+citizen(?:ship)?\s+(?:is\s+)?(?:required|only|mandatory)"
-    r"|must\s+be\s+(?:a\s+|an\s+)?canadian\s+citizen"
-    r"|citizenship\s*:\s*canadian"
-    r"|only\s+canadian\s+citizens"
-    r"|canadian\s+citizens?\s+(?:or|and)\s+(?:permanent\s+residents?)"
+    r"|(?:canadian|canada|japanese|japan)\s+citizen(?:ship)?\s+(?:is\s+)?(?:required|only|mandatory)"
+    r"|must\s+be\s+(?:a\s+|an\s+)?(?:canadian|japanese)\s+citizen"
+    r"|citizenship\s*:\s*(?:canadian|japanese)"
+    r"|only\s+(?:canadian|japanese)\s+citizens"
+    r"|(?:canadian|japanese)\s+citizens?\s+(?:or|and)\s+(?:permanent\s+residents?)"
+    r"|japanese\s+(?:citizenship|nationality)\s+(?:is\s+)?(?:required|only|mandatory)"
+    r"|must\s+(?:be|have)\s+(?:a\s+)?japanese\s+national(?:ity)?"
+    r"|only\s+japanese\s+nationals"
     r"|reliability\s+status\s+(?:is\s+)?(?:required|mandatory)"
     r"|(?:subject\s+to|governed\s+by|must\s+(?:meet|comply\s+with))\s+itar\b"
     r"|\bitar\s+(?:requirements?|regulations?|restrictions?)\s+(?:apply|are\s+required)"
@@ -106,6 +109,7 @@ FLAGS = {
     "no-sponsorship": "\U0001f6c2",            # 🛂
 }
 _CANADA_CITIZENS_FLAG = "\U0001f1e8\U0001f1e6"  # 🇨🇦
+_JAPAN_CITIZENS_FLAG = "\U0001f1ef\U0001f1f5"    # 🇯🇵
 
 
 def strip_html(html: str | None) -> str:
@@ -161,10 +165,25 @@ def classify(text: str | None) -> str:
     return "unknown"
 
 
-def flag(value: str | None, cfg: dict | None = None) -> str:
+def flag(value: str | None, cfg: dict | None = None,
+         location: str | None = None) -> str:
     """The emoji shown next to a role title ('' when nothing to warn about)."""
     if value == "citizens-only" and cfg is not None:
         from . import config as _config
-        if _config.want_canada(cfg) and not _config.want_us(cfg):
+        from . import filters as _filters
+        if _config.want_us(cfg):
+            return FLAGS["citizens-only"]
+        japan = _config.want_japan(cfg)
+        canada = _config.want_canada(cfg)
+        loc = location or ""
+        if japan and canada:
+            if _filters.is_japan(loc) and not _filters.is_canada(loc):
+                return _JAPAN_CITIZENS_FLAG
+            if _filters.is_canada(loc):
+                return _CANADA_CITIZENS_FLAG
+            return _CANADA_CITIZENS_FLAG
+        if japan:
+            return _JAPAN_CITIZENS_FLAG
+        if canada:
             return _CANADA_CITIZENS_FLAG
     return FLAGS.get(value or "", "")

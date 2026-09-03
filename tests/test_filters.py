@@ -174,6 +174,21 @@ class TestRegion:
         assert filters.is_united_states("Vancouver, WA")
         assert not filters.is_canada("Vancouver, WA")
 
+    def test_japan_locations(self):
+        for loc in ("Tokyo, Japan", "Osaka, JP", "Yokohama", "Shibuya, Tokyo",
+                    "東京都", "Remote - Japan", "Kanagawa, Japan"):
+            assert filters.is_japan(loc), loc
+            assert filters.region_ok(loc, want_us=False, want_canada=False,
+                                     want_japan=True), loc
+
+    def test_japan_is_not_canada_or_us(self):
+        assert not filters.is_japan("Toronto, Ontario, Canada")
+        assert not filters.is_japan("San Francisco, CA")
+        assert not filters.region_ok("Tokyo, Japan", want_us=True, want_canada=True)
+
+    def test_kochi_india_is_not_japan(self):
+        assert not filters.is_japan("Kochi, India")
+
     def test_country_code_prefix_not_us(self):
         # "DE-Berlin" is Germany, not the Delaware state code
         assert not filters.region_ok("DE-Berlin-Trion", want_us=True, want_canada=False)

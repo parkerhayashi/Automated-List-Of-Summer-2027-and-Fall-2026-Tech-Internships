@@ -67,7 +67,7 @@ def _role_line(record: dict) -> str:
         bits.append(record["location"][:80])
     if record.get("salary"):
         bits.append(record["salary"][:80])
-    flag = sponsorship.flag(record.get("sponsorship"), cfg)
+    flag = sponsorship.flag(record.get("sponsorship"), cfg, record.get("location"))
     if flag:
         bits.append(flag)
     detail = escape(" · ".join(b for b in bits if b))

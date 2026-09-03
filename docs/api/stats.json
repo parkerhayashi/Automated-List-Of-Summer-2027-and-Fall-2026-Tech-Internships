@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-03T19:49:36Z",
- "fetched_at": "2026-09-03T19:49:36Z",
- "duration_seconds": 609.5,
+ "generated_at": "2026-09-03T21:02:28Z",
+ "fetched_at": "2026-09-03T21:02:28Z",
+ "duration_seconds": 823.1,
  "companies_total": 4661,
  "companies_by_source": {
   "greenhouse": 1045,
@@ -17,52 +17,51 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 304,
- "fetched_ok": 4337,
- "fetch_errors": 20,
+ "quarantined": 308,
+ "fetched_ok": 4218,
+ "fetch_errors": 135,
  "errors_by_source": {
-  "lever": 1,
-  "workday": 1,
-  "workable": 17,
-  "oracle": 1
+  "workable": 113,
+  "oracle": 3,
+  "workday": 18,
+  "greenhouse": 1
  },
- "fetch_success_rate": 0.995,
- "fetch_success_rate_registry": 0.93,
- "snapshots_complete": 3728,
- "snapshots_partial": 609,
+ "fetch_success_rate": 0.969,
+ "fetch_success_rate_registry": 0.905,
+ "snapshots_complete": 3635,
+ "snapshots_partial": 583,
  "partial_by_reason": {
-  "result-cap": 547,
-  "malformed-response": 61,
+  "result-cap": 531,
+  "malformed-response": 51,
   "pagination-stalled": 1
  },
- "degraded_fetches": 62,
- "roles_matched": 92,
- "dropped_no_year_in_title": 405,
- "dropped_offcycle_by_text": 140,
+ "degraded_fetches": 52,
+ "roles_matched": 33,
+ "dropped_no_year_in_title": 399,
+ "dropped_offcycle_by_text": 217,
  "roles_cycle_inferred": 20,
  "roles_by_source": {
-  "greenhouse": 6,
+  "greenhouse": 7,
   "lever": 1,
-  "workday": 23
+  "workday": 24,
+  "ashby": 1
  },
  "roles_by_cycle": {
   "Not stated": 20,
-  "Summer 2027": 10,
-  "Winter 2027": 2,
-  "Spring 2027": 2
+  "Summer 2027": 13
  },
  "roles_by_region": {
-  "Canada": 30
+  "Canada": 33
  },
  "sponsorship_counts": {
-  "unknown": 30
+  "unknown": 33
  },
  "posted_date_coverage": 1.0,
- "enriched_this_run": 92,
- "enrichment_detail_fetches": 85,
+ "enriched_this_run": 33,
+ "enrichment_detail_fetches": 31,
  "purged_this_run": 0,
- "new_this_run": 92,
- "open_total": 30,
+ "new_this_run": 2,
+ "open_total": 33,
  "detection_latency": {
   "median_minutes": 120.8,
   "p95_minutes": 2888.0,
@@ -74,6 +73,5 @@
   "median_days": 10,
   "sample_size": 123
  },
- "rendered_at": "2026-09-03T20:19:47Z",
- "stats_basis": "counts recomputed from the store; fetch metrics from the last run"
+ "rendered_at": "2026-09-03T21:02:28Z"
 }

@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-03T19:49:36Z</updated>
+  <updated>2026-09-03T21:02:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:georgian:2ae71a4b-dd9d-4068-8ef2-81351ee74cab</id>
+    <title>Georgian Partners Growth: AI/ML Engineer Intern (2027)</title>
+    <link href="https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab"/>
+    <updated>2026-09-03T21:02:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Toronto Headquarters · Python, PyTorch, TensorFlow, scikit-learn, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:squarepointcapital:7905463</id>
+    <title>Squarepoint Capital: Intern Software Developer - Montreal - 2027</title>
+    <link href="https://www.squarepoint-capital.com/open-opportunities?id=7905463&amp;gh_jid=7905463"/>
+    <updated>2026-09-03T21:02:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Montreal · Python, Java, C++, Rust, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:3136815</id>
     <title>Amazon: Robotics - Software Development Engineer Intern - 2026 - Toronto</title>
@@ -619,9 +635,9 @@
     <id>urn:intern-engine:workday:otppb:/job/Toronto-Canada/Intern--Investments--Infrastructure---Natural-Resources--May-2027--4-Month-Contract-_7163</id>
     <title>Ontario Teachers' Pension Plan: Intern- Investments, Infrastructure &amp; Natural Resources (May 2027- 4 Month Contract)</title>
     <link href="https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Infrastructure---Natural-Resources--May-2027--4-Month-Contract-_7163"/>
-    <updated>2026-09-03T20:18:04Z</updated>
+    <updated>2026-09-03T19:49:36Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Toronto, Canada · status: closed</summary>
+    <summary>Summer 2027 · Software · Toronto, Canada</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rakuten:/job/Toronto-Canada/Software-Quality-Assurance-Co-op_1036325</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-03T19:37:02Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Erlanger, Kentucky · JavaScript, HTML/CSS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Acumatica:744000146749696</id>
-    <title>Acumatica: AI &amp; Automation Intern, Office of the CFO</title>
-    <link href="https://jobs.smartrecruiters.com/Acumatica/744000146749696"/>
-    <updated>2026-09-03T19:37:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bellevue, WA, United States (Remote) · $20/hr · Python, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015046116</id>
-    <title>Winsupply: Data Analyst Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015046116"/>
-    <updated>2026-09-03T19:37:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Moraine, OH, United States · status: closed</summary>
   </entry>
 </feed>

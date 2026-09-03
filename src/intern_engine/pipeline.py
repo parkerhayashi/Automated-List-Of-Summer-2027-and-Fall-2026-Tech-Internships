@@ -420,6 +420,7 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
     restrict = config.restrict_region(cfg)
     wants_us = config.want_us(cfg)
     wants_canada = config.want_canada(cfg)
+    wants_japan = config.want_japan(cfg)
     include_intl = config.include_international(cfg)
     allowlist_only = config.allowlist_only(cfg)
     infer = config.infer_undated(cfg)
@@ -529,7 +530,9 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
             if season is None:
                 dropped_no_year += 1
                 continue
-            in_region = filters.region_ok(job.location, wants_us, wants_canada)
+            in_region = filters.region_ok(
+                job.location, wants_us, wants_canada, wants_japan
+            )
             if restrict and not in_region and not include_intl:
                 continue
             loc = (job.location or "").strip()
@@ -616,13 +619,17 @@ def _close_region_out_of_scope(existing: dict, cfg: dict) -> int:
     if not config.restrict_region(cfg) or config.include_international(cfg):
         return 0
     ts = store.now_iso()
-    wants_us, wants_canada = config.want_us(cfg), config.want_canada(cfg)
+    wants_us, wants_canada, wants_japan = (
+        config.want_us(cfg), config.want_canada(cfg), config.want_japan(cfg)
+    )
     n = 0
     for r in existing.values():
         if not r.get("is_open"):
             continue
         loc = (r.get("location") or "").strip()
-        if loc and loc != "—" and not filters.region_ok(loc, wants_us, wants_canada):
+        if loc and loc != "—" and not filters.region_ok(
+            loc, wants_us, wants_canada, wants_japan
+        ):
             r.update(is_open=False, closed_at=ts, closed_reason="out-of-scope")
             r.pop("missing_streak", None)
             n += 1
@@ -642,7 +649,9 @@ def _close_out_of_scope(existing: dict, cfg: dict, blocklist: dict | None = None
     tech_only = cfg.get("role_scope", "tech") == "tech"
     allowlist_only = config.allowlist_only(cfg)
     restrict = config.restrict_region(cfg) and not config.include_international(cfg)
-    wants_us, wants_canada = config.want_us(cfg), config.want_canada(cfg)
+    wants_us, wants_canada, wants_japan = (
+        config.want_us(cfg), config.want_canada(cfg), config.want_japan(cfg)
+    )
     infer_cutoff = (
         datetime.now(UTC) - timedelta(days=config.infer_max_age_days(cfg))
     ).date()
@@ -677,7 +686,9 @@ def _close_out_of_scope(existing: dict, cfg: dict, blocklist: dict | None = None
             or explicit_offcycle
             or (
                 restrict and bool(location) and location != "—"
-                and not filters.region_ok(location, wants_us, wants_canada)
+                and not filters.region_ok(
+                    location, wants_us, wants_canada, wants_japan
+                )
             )
             or (bool(company) and quality.is_blocked(company, blocklist or {}))
             or (

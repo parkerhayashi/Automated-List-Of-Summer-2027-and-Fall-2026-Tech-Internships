@@ -99,7 +99,7 @@ company. Four verdicts:
 
 | Verdict | Meaning |
 |---|---|
-| `citizens-only` 🇺🇸 / 🇨🇦 | Requires citizenship, a clearance, or (US) ITAR/US-person status. The flag is 🇨🇦 on this Canada-only list. |
+| `citizens-only` 🇺🇸 / 🇨🇦 / 🇯🇵 | Requires citizenship, a clearance, or (US) ITAR/US-person status. This list shows 🇨🇦 for Canadian restrictions and 🇯🇵 for Japanese ones. |
 | `no-sponsorship` 🛂 | The posting says it won't sponsor a work visa / permit. |
 | `offers` | The posting explicitly says sponsorship is available. |
 | `unknown` | The text says nothing conclusive. **This is most postings.** |
@@ -119,8 +119,8 @@ On a **US** list, ✓ means USCIS approved a meaningful number of H-1B petitions
 for that employer in the published fiscal-year window, matched against the
 public [H-1B Employer Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub).
 
-This Canada-only fork **hides** that badge. H-1B history is a US immigration
-dataset and is not a useful signal for Canadian internships or co-ops.
+This Canada & Japan fork **hides** that badge. H-1B history is a US immigration
+dataset and is not a useful signal for Canadian or Japanese internships.
 
 It is **a history, not a promise**. It says nothing about internship
 sponsorship, about current policy, or about this specific role. No ✓ only means

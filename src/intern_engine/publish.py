@@ -40,8 +40,10 @@ def _first_seen(record: dict) -> str:
     return record.get("first_seen_at") or ""
 
 
-def _entry(record: dict, base: str, data_as_of: str | None = None) -> str:
-    flag = sponsorship.flag(record.get("sponsorship"))
+def _entry(record: dict, base: str, data_as_of: str | None = None,
+           cfg: dict | None = None) -> str:
+    cfg = cfg if cfg is not None else config.load_config()
+    flag = sponsorship.flag(record.get("sponsorship"), cfg, record.get("location"))
     title = f"{record.get('company', '')}: {record.get('title', '')}"
     if flag:
         title += f" {flag}"
@@ -62,7 +64,7 @@ def _entry(record: dict, base: str, data_as_of: str | None = None) -> str:
     if not record.get("is_open"):
         summary_bits.append("status: closed")
     approvals = h1b.approvals_for(record.get("company") or "")
-    if config.show_h1b(config.load_config()) and h1b.badge(approvals):
+    if config.show_h1b(cfg) and h1b.badge(approvals):
         summary_bits.append(
             f"H-1B track record: ~{h1b.pretty_count(approvals)} approvals "
             f"({h1b.window_label()})"
@@ -85,7 +87,8 @@ def _entry(record: dict, base: str, data_as_of: str | None = None) -> str:
 def write_feed(store_data: dict, data_as_of: str | None = None) -> int:
     """Atom discovery feed, retaining recent entries even after they close."""
     base = config.pages_base()
-    cycles_phrase = " & ".join(config.cycles(config.load_config()))
+    cfg = config.load_config()
+    cycles_phrase = " & ".join(config.cycles(cfg))
     as_of = _data_as_of(data_as_of)
     cutoff = (
         datetime.strptime(as_of[:19], "%Y-%m-%dT%H:%M:%S").replace(tzinfo=UTC)
@@ -122,7 +125,7 @@ def write_feed(store_data: dict, data_as_of: str | None = None) -> int:
         "  <author><name>Internship Engine</name>"
         f"<uri>https://github.com/{escape(config.repo_slug())}</uri></author>\n",
     ]
-    xml.extend(_entry(r, base, as_of) for r in entries)
+    xml.extend(_entry(r, base, as_of, cfg) for r in entries)
     xml.append("</feed>\n")
 
     os.makedirs(paths.DOCS_DIR, exist_ok=True)

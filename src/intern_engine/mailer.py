@@ -281,7 +281,7 @@ def _role_row(r: dict, cfg: dict | None = None) -> str:
     openings = r.get("openings") or 1
     if openings > 1:
         facts.append(f"{openings} openings")
-    flag = sponsorship.flag(r.get("sponsorship"), cfg)
+    flag = sponsorship.flag(r.get("sponsorship"), cfg, r.get("location"))
     if flag:
         facts.append(flag)
     skills = " ".join(_pill(s, "#f6f8fa", "#57606a") for s in (r.get("skills") or [])[:4])
@@ -354,8 +354,16 @@ def build_digest_html(fresh: list[dict]) -> str:
     if remote:
         summary.append(f"{remote} remote")
 
-    canada_only = config.want_canada(cfg) and not config.want_us(cfg)
-    citizens = "🇨🇦" if canada_only else "🇺🇸"
+    canada = config.want_canada(cfg)
+    japan = config.want_japan(cfg)
+    if japan and not canada:
+        citizens = "🇯🇵"
+    elif canada and japan:
+        citizens = "🇨🇦 / 🇯🇵"
+    elif canada and not config.want_us(cfg):
+        citizens = "🇨🇦"
+    else:
+        citizens = "🇺🇸"
     if config.show_h1b(cfg):
         legend = (
             "<b>✓</b> the employer has a real H-1B track record (USCIS data) · "

@@ -118,6 +118,13 @@ class TestUnknownAndTraps:
         assert sponsorship.flag("unknown") == ""
         assert sponsorship.flag(None) == ""
         assert sponsorship.flag("citizens-only", {"regions": ["Canada"]}) == "🇨🇦"
+        assert sponsorship.flag("citizens-only", {"regions": ["Japan"]}) == "🇯🇵"
+        assert sponsorship.flag(
+            "citizens-only", {"regions": ["Canada", "Japan"]}, "Tokyo, Japan"
+        ) == "🇯🇵"
+        assert sponsorship.flag(
+            "citizens-only", {"regions": ["Canada", "Japan"]}, "Toronto, ON"
+        ) == "🇨🇦"
 
 
 class TestCanadianCitizenship:
@@ -134,6 +141,23 @@ class TestCanadianCitizenship:
     def test_eligible_to_work_in_canada_is_not_citizens_only(self):
         assert sponsorship.classify(
             "Must be legally eligible to work in Canada."
+        ) == "unknown"
+
+
+class TestJapaneseCitizenship:
+    def test_japanese_citizen_required(self):
+        assert sponsorship.classify(
+            "Applicants must be a Japanese citizen or permanent resident."
+        ) == "citizens-only"
+
+    def test_japanese_nationality_required(self):
+        assert sponsorship.classify(
+            "Japanese nationality is required for this internship."
+        ) == "citizens-only"
+
+    def test_must_speak_japanese_is_not_citizens_only(self):
+        assert sponsorship.classify(
+            "Business-level Japanese is required. Must be able to speak Japanese."
         ) == "unknown"
 
     def test_strip_html(self):

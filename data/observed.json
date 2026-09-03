@@ -1178,6 +1178,18 @@
     }
    }
   },
+  "georgian partners growth": {
+   "name": "Georgian Partners Growth",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-14",
+     "role_ids": [
+      "ashby:georgian:2ae71a4b-dd9d-4068-8ef2-81351ee74cab"
+     ],
+     "count": 1
+    }
+   }
+  },
   "geotab": {
    "name": "Geotab",
    "cycles": {
@@ -2542,6 +2554,18 @@
     }
    }
   },
+  "squarepoint capital": {
+   "name": "Squarepoint Capital",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-05-07",
+     "role_ids": [
+      "greenhouse:squarepointcapital:7905463"
+     ],
+     "count": 1
+    }
+   }
+  },
   "stanley black decker": {
    "name": "Stanley Black & Decker",
    "cycles": {
@@ -3072,5 +3096,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T19:49:36Z"
+ "updated_at": "2026-09-03T21:02:28Z"
 }

@@ -170,7 +170,7 @@ def _rows(open_jobs: list[dict], cfg: dict) -> str:
         url = r.get("url") or ""
         apply = f'<a href="{escape(url)}" target="_blank" rel="noopener">Apply</a>' if url else "—"
         sponsor = r.get("sponsorship", "unknown")
-        flag = sponsorship.flag(sponsor, cfg)
+        flag = sponsorship.flag(sponsor, cfg, r.get("location"))
         approvals = h1b.approvals_for(r.get("company") or "") if show_history else None
         proven = "1" if show_history and h1b.badge(approvals) else "0"
         check = (
@@ -392,15 +392,9 @@ def generate(store_data: dict, stats: dict) -> None:
     data_as_of = data_as_of_dt.strftime("%Y-%m-%dT%H:%M:%SZ")
     updated = data_as_of_dt.strftime("%b %d, %Y at %H:%M UTC")
     if config.include_international(cfg):
-        region = "US + International"
-    elif config.want_us(cfg) and config.want_canada(cfg):
-        region = "United States & Canada"
-    elif config.want_us(cfg):
-        region = "United States"
-    elif config.want_canada(cfg):
-        region = "Canada"
+        region = f"{config.region_phrase(cfg)} + International"
     else:
-        region = "Worldwide"
+        region = config.region_phrase(cfg)
 
     # Real cycles first, "Not stated" pinned last — it's the absence of a
     # cycle, so alphabetical order (which drops it between Fall and Summer)
@@ -412,8 +406,22 @@ def generate(store_data: dict, stats: dict) -> None:
     )
     categories = sorted({r.get("category", "") for r in open_jobs if r.get("category")})
     repo = config.repo_slug()
-    canada_only = config.want_canada(cfg) and not config.want_us(cfg)
-    citizens_flag = "🇨🇦" if canada_only else "🇺🇸"
+    canada = config.want_canada(cfg)
+    japan = config.want_japan(cfg)
+    non_us = config.restrict_region(cfg) and not config.want_us(cfg)
+    citizens_flag = "🇯🇵" if japan and not canada else "🇨🇦" if canada else "🇺🇸"
+    if canada and japan:
+        citizens_legend = "🇨🇦 = Canadian citizenship / PR / clearance · 🇯🇵 = Japanese citizenship"
+        spon_restricted = "Explicitly restricted (🇨🇦 / 🇯🇵 / 🛂)"
+    elif japan:
+        citizens_legend = "🇯🇵 = Japanese citizenship required"
+        spon_restricted = f"Explicitly restricted ({citizens_flag} / 🛂)"
+    elif canada:
+        citizens_legend = "🇨🇦 = Canadian citizenship / PR / clearance required"
+        spon_restricted = f"Explicitly restricted ({citizens_flag} / 🛂)"
+    else:
+        citizens_legend = "🇺🇸 = U.S. citizenship or clearance required"
+        spon_restricted = "Explicitly restricted (🇺🇸 / 🛂)"
     cycles_phrase = " & ".join(config.cycles(cfg))
     by_category: dict[str, int] = {}
     for r in open_jobs:
@@ -424,21 +432,20 @@ def generate(store_data: dict, stats: dict) -> None:
     if config.show_h1b(cfg):
         h1b_filter = """        <label class="chk"><input id="h1b" type="checkbox">
           <span>✓ proven H-1B sponsors only</span></label>"""
-    if canada_only:
+    if non_us:
         meta_desc = (
-            f"{cycles_phrase} tech internships in Canada, refreshed every 30 minutes. "
+            f"{cycles_phrase} tech internships in {region}, refreshed every 30 minutes. "
             "Auto-detected work-permit flags and email/RSS alerts."
         )
         og_desc = (
-            f"{len(open_jobs)} open tech internships in Canada, refreshed every 30 minutes."
+            f"{len(open_jobs)} open tech internships in {region}, refreshed every 30 minutes."
         )
         footer_badge = (
             f"Sponsorship flags are auto-detected from posting text — treat them as a "
-            f"strong hint and verify on the posting itself. {citizens_flag} = Canadian "
-            "citizenship / PR / clearance required · 🛂 = no work-permit sponsorship. "
+            f"strong hint and verify on the posting itself. {citizens_legend} · "
+            "🛂 = no work-permit sponsorship. "
             "Roles can close at any time; always confirm on the company's own site."
         )
-        spon_restricted = f"Explicitly restricted ({citizens_flag} / 🛂)"
     else:
         meta_desc = (
             f"{cycles_phrase} tech internships, refreshed every 30 minutes. "
@@ -457,7 +464,6 @@ def generate(store_data: dict, stats: dict) -> None:
             f"Employer Data Hub</a>) — a history, not a promise; no ✓ only means no confident "
             "match. Roles can close at any time; always confirm on the company's own site."
         )
-        spon_restricted = "Explicitly restricted (🇺🇸 / 🛂)"
 
     html_doc = f"""<!DOCTYPE html>
 <html lang="en"><head>

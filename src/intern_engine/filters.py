@@ -15,16 +15,29 @@ _INTERN_RE = re.compile(
     re.IGNORECASE,
 )
 _SENIOR_RE = re.compile(
-    r"\b(senior|sr|staff|principal|manager|director|\blead\b|vp|head)\b",
+    r"\b(senior|sr|staff|principal|director|\blead\b|vp|head)\b",
+    re.IGNORECASE,
+)
+# "manager" is seniority for "Engineering Manager Intern", but intern-track
+# Product Manager / TPM titles are the job family, not a senior IC.
+_MANAGER_RE = re.compile(r"\bmanager\b", re.IGNORECASE)
+_INTERN_TRACK_MANAGER_RE = re.compile(
+    r"\b(?:"
+    r"(?:associate\s+)?product\s+manager|"
+    r"technical\s+program\s+manager|"
+    r"\btpm\b|"
+    r"\bapm\b"
+    r")\b",
     re.IGNORECASE,
 )
 
 # --- tech-role detection -----------------------------------------------------
-# We keep ONLY software / data / ML / security roles. A role must match an
-# INCLUDE term and must NOT match an EXCLUDE term. The exclude list removes
-# non-software engineering (mechanical, aerospace, electrical/hardware, etc.)
-# and non-technical roles (recruiting, sales, marketing, ...). Note we do NOT
-# treat a bare "engineer" as tech — that word alone lets in mech/aero/civil.
+# We keep software / data / ML / security / quant / PM / design roles. A role
+# must match an INCLUDE term and must NOT match an EXCLUDE term. The exclude
+# list removes non-software engineering (mechanical, aerospace, electrical/
+# hardware, etc.) and non-technical roles (recruiting, sales, marketing, ...).
+# Note we do NOT treat a bare "engineer" as tech — that word alone lets in
+# mech/aero/civil. Generic business / marketing / HR internships stay out.
 _INCLUDE_RE = re.compile(
     r"\b("
     r"software|developer|swe|full[\s-]?stack|front[\s-]?end|back[\s-]?end|"
@@ -37,8 +50,18 @@ _INCLUDE_RE = re.compile(
     r"data science|data scientist|data engineer|data analyst|analytics engineer|"
     r"machine learning|ml|deep learning|ai|artificial intelligence|nlp|computer vision|"
     r"research scientist|applied scientist|research engineer|ml engineer|ai engineer|"
-    r"quantitative (?:developer|research|researcher|trading|trader|analyst)|"
-    r"quant (?:developer|research|researcher|trading|trader|analyst)|"
+    r"quantitative (?:developer|research|researcher|trading|trader|analyst|strategist)|"
+    r"quant (?:developer|research|researcher|trading|trader|analyst|strategist|strat)|"
+    r"quant|"
+    r"product manager|product management|associate product manager|"
+    r"product intern(?:ship)?|product co[\s-]?op|"
+    r"apm|technical program manager|tpm|"
+    r"pm intern(?:ship)?|pm co[\s-]?op|"
+    r"product design(?:er)?|ux design(?:er)?|ui design(?:er)?|"
+    r"user experience|ux research(?:er)?|"
+    r"ux\s*/\s*ui|ui\s*/\s*ux|"
+    r"ux intern(?:ship)?|ui intern(?:ship)?|"
+    r"technical business analyst|product analyst|business systems analyst|"
     r"computer science|programming"
     r")\b",
     re.IGNORECASE,
@@ -72,8 +95,8 @@ _NON_TECH_EXCLUDE_RE = re.compile(
     # the recruiting senses of the word exclude.
     r"talent acquisition|talent management|talent partner|talent sourcing|"
     r"talent operations|talent development|"
-    r"communications|supply chain|business development|product design|product designer|"
-    r"product manager|product management|ux design|graphic design|industrial design|"
+    r"communications|supply chain|business development|"
+    r"graphic design|industrial design|"
     r"phd|ph\.d|doctoral"
     r")\b",
     re.IGNORECASE,
@@ -144,11 +167,17 @@ _TITLE_MONTH_TERM = {
 def is_internship(title: str) -> bool:
     if not title:
         return False
-    return bool(_INTERN_RE.search(title)) and not _SENIOR_RE.search(title)
+    if not _INTERN_RE.search(title):
+        return False
+    if _SENIOR_RE.search(title):
+        return False
+    if _MANAGER_RE.search(title) and not _INTERN_TRACK_MANAGER_RE.search(title):
+        return False
+    return True
 
 
 def is_tech(title: str) -> bool:
-    """Keep software/data/ML/security roles; reject hardware/mech/non-tech."""
+    """Keep software/data/ML/security/quant/PM/design; reject hardware/non-tech."""
     if not title:
         return False
     if _NON_TECH_EXCLUDE_RE.search(title):
@@ -590,7 +619,7 @@ def season_from_text(
     return labels[0] if len(labels) == 1 else None
 
 
-# --- location: US / Canada detection -----------------------------------------
+# --- location: US / Canada / Japan detection ---------------------------------
 # Full state/province names are matched case-insensitively; the 2-letter codes
 # are matched case-SENSITIVELY (uppercase) so "OR"/"IN" don't match the words
 # "or"/"in" inside a city name.
@@ -637,6 +666,38 @@ _US_CODES = [
 _CA_CODES = [
     "ON", "QC", "BC", "AB", "MB", "SK", "NS", "NB", "NL", "PE", "YT", "NT",
     "NU", "CAN",
+]
+# Kochi is omitted: it collides with Kochi, India. Mie/Saga are short English
+# words that show up outside Japan; they still match with an explicit "Japan".
+_JP_PREFECTURES = [
+    "hokkaido", "aomori", "iwate", "miyagi", "akita", "yamagata", "fukushima",
+    "ibaraki", "tochigi", "gunma", "saitama", "chiba", "tokyo", "kanagawa",
+    "niigata", "toyama", "ishikawa", "fukui", "yamanashi", "nagano", "gifu",
+    "shizuoka", "aichi", "shiga", "kyoto", "osaka", "hyogo", "hyōgo", "nara",
+    "wakayama", "tottori", "shimane", "okayama", "hiroshima", "yamaguchi",
+    "tokushima", "kagawa", "ehime", "fukuoka", "nagasaki", "kumamoto",
+    "oita", "ōita", "miyazaki", "kagoshima", "okinawa",
+]
+_JP_CITIES = [
+    "tokyo", "osaka", "yokohama", "nagoya", "sapporo", "fukuoka", "kobe",
+    "kōbe", "kawasaki", "kyoto", "hiroshima", "sendai", "chiba", "saitama",
+    "kitakyushu", "kita-kyushu", "sakai", "niigata", "hamamatsu", "shizuoka",
+    "okayama", "kumamoto", "kagoshima", "funabashi", "hachioji", "kawaguchi",
+    "himeji", "matsuyama", "utsunomiya", "matsudo", "nishinomiya", "kurashiki",
+    "ichikawa", "fukuyama", "kanazawa", "nagasaki", "takamatsu", "toyonaka",
+    "nagano", "toyama", "gifu", "hirakata",
+    "fujisawa", "kashiwa", "tokorozawa", "kawagoe", "maebashi", "takasaki",
+    "asahikawa", "hakodate", "naha", "tsukuba", "yokosuka", "machida",
+    "akita", "aomori", "morioka", "iwaki", "koriyama", "kōriyama",
+    "shibuya", "shinjuku", "minato", "chiyoda", "setagaya", "shinagawa",
+    "ikebukuro", "meguro", "nakano", "suginami", "toshima", "bunkyo",
+    "bunkyō", "roppongi", "akihabara", "marunouchi", "otemachi", "ōtemachi",
+    "ginza", "nihonbashi", "ebisu", "harajuku", "akasaka", "toranomon",
+    "osaki", "gotanda", "musashino", "mitaka", "tachikawa", "urayasu",
+    "kamakura", "odawara", "atsugi", "hiratsuka", "chofu", "chōfu",
+]
+_JP_CODES = [
+    "JP", "JPN",
 ]
 
 # US country tokens. These MUST be matched as whole tokens, never as substrings:
@@ -704,6 +765,17 @@ _CA_CITY_RE = re.compile(
 # (Germany) as the US state code DE (Delaware).
 _US_CODE_RE = re.compile(r"\b(" + "|".join(_US_CODES) + r")\b(?!-)")
 _CA_CODE_RE = re.compile(r"\b(" + "|".join(_CA_CODES) + r")\b(?!-)")
+_JP_NAME_RE = re.compile(
+    r"\b(" + "|".join(re.escape(n) for n in _JP_PREFECTURES) + r")\b", re.IGNORECASE
+)
+_JP_CITY_RE = re.compile(
+    r"\b(" + "|".join(re.escape(n) for n in _JP_CITIES) + r")\b", re.IGNORECASE
+)
+_JP_CODE_RE = re.compile(r"\b(" + "|".join(_JP_CODES) + r")\b(?!-)")
+_JP_KANJI_RE = re.compile(
+    r"日本|東京|大阪|京都|横浜|名古屋|福岡|札幌|神戸|広島|仙台|沖縄|神奈川|千葉|"
+    r"埼玉|愛知|北海道"
+)
 
 _LOCATION_PART_RE = re.compile(r"[,;|]+")
 _LOCATION_OPTION_RE = re.compile(r"[;|]+")
@@ -829,20 +901,46 @@ def is_canada(location: str) -> bool:
     return False
 
 
+def is_japan(location: str) -> bool:
+    if not location:
+        return False
+    options = [part.strip() for part in _LOCATION_OPTION_RE.split(location)
+               if part.strip()]
+    if len(options) > 1:
+        return any(is_japan(option) for option in options)
+    if is_united_states(location) or is_canada(location):
+        return False
+    low = location.lower()
+    if re.search(r"\b(?:japan|japanese|nihon|nippon)\b", low):
+        return True
+    if _JP_KANJI_RE.search(location):
+        return True
+    if _JP_NAME_RE.search(low):
+        return True
+    if _JP_CITY_RE.search(low):
+        return True
+    if _JP_CODE_RE.search(location):
+        return True
+    return False
+
+
 def is_us_or_canada(location: str) -> bool:
     return is_united_states(location) or is_canada(location)
 
 
 def region_bucket(location: str) -> str:
-    """Stable stats label: US, Canada, or International."""
+    """Stable stats label: US, Canada, Japan, or International."""
     if is_united_states(location):
         return "US"
     if is_canada(location):
         return "Canada"
+    if is_japan(location):
+        return "Japan"
     return "International"
 
 
-def region_ok(location: str, want_us: bool, want_canada: bool) -> bool:
+def region_ok(location: str, want_us: bool, want_canada: bool,
+              want_japan: bool = False) -> bool:
     """True if the location matches one of the wanted regions.
 
     Conservative: a bare "Remote" with no country mentioned matches nothing.
@@ -851,12 +949,48 @@ def region_ok(location: str, want_us: bool, want_canada: bool) -> bool:
         return True
     if want_canada and is_canada(location):
         return True
+    if want_japan and is_japan(location):
+        return True
     return False
 
 
 # --- category tagging (first match wins; order = specific before generic) -----
 _CATEGORY_PATTERNS = [
     ("Quant", re.compile(r"\b(quant|quantitative|trading|trader)\b", re.IGNORECASE)),
+    (
+        "PM",
+        re.compile(
+            r"\b(?:"
+            r"(?:associate\s+)?product\s+manager|"
+            r"product\s+management|"
+            r"product\s+intern|"
+            r"product\s+analyst|"
+            r"apm|"
+            r"technical\s+program\s+manager|"
+            r"technical\s+business\s+analyst|"
+            r"business\s+systems\s+analyst|"
+            r"tpm|"
+            r"pm\s+intern"
+            r")\b",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "Design",
+        re.compile(
+            r"\b(?:"
+            r"product\s+design(?:er)?|"
+            r"ux(?:\s*/\s*ui)?\s+design(?:er)?|"
+            r"ui(?:\s*/\s*ux)?\s+design(?:er)?|"
+            r"user\s+experience|"
+            r"ux\s+research(?:er)?|"
+            r"ux\s+intern|"
+            r"ui\s+intern|"
+            r"ux/ui|ui/ux"
+            r")\b",
+            re.IGNORECASE,
+        ),
+    ),
     (
         "Data & ML/AI",
         re.compile(

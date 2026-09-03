@@ -400,6 +400,19 @@ class TestRegionConfig:
         kept = self._keep(self._results("Toronto, Ontario, Canada"), ["Canada"])
         assert len(kept) == 1
 
+    def test_japan_only_keeps_tokyo(self):
+        kept = self._keep(self._results("Tokyo, Japan"), ["Japan"])
+        assert len(kept) == 1
+
+    def test_japan_only_drops_canada(self):
+        assert self._keep(self._results("Toronto, Ontario, Canada"), ["Japan"]) == []
+
+    def test_canada_and_japan_keep_both(self):
+        assert len(self._keep(self._results("Tokyo, Japan"), ["Canada", "Japan"])) == 1
+        assert len(self._keep(
+            self._results("Toronto, Ontario, Canada"), ["Canada", "Japan"]
+        )) == 1
+
 
 class TestDateSourceMigration:
     def test_legacy_records_get_a_shape_derived_label(self):

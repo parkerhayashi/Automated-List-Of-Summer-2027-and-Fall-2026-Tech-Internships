@@ -1,10 +1,67 @@
 {
- "generated_at": "2026-09-03T19:49:36Z",
- "data_as_of": "2026-09-03T19:49:36Z",
- "rendered_at": "2026-09-03T20:19:47Z",
+ "generated_at": "2026-09-03T21:02:28Z",
+ "data_as_of": "2026-09-03T21:02:28Z",
+ "rendered_at": "2026-09-03T21:02:28Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
+  {
+   "company": "Squarepoint Capital",
+   "last_cycle_posted": "",
+   "posted_on": "2026-05-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-05-07",
+   "days_until": -119,
+   "status": "open",
+   "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
+   "note": "quant cycle opens very early",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-05-07"
+   }
+  },
+  {
+   "company": "Georgian Partners Growth",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-14",
+   "days_until": -51,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-14"
+   }
+  },
+  {
+   "company": "Ontario Teachers' Pension Plan",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -13,
+   "status": "open",
+   "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Infrastructure---Natural-Resources--May-2027--4-Month-Contract-_7163",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-21"
+   }
+  },
   {
    "company": "Manulife Financial",
    "last_cycle_posted": "",
@@ -401,25 +458,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.quantlab.com/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Squarepoint Capital",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-07-01",
-   "days_until": -64,
-   "status": "waiting",
-   "url": "",
-   "note": "quant cycle opens very early",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://www.squarepoint-capital.com/",
     "verified_at": "2026-07-21"
    }
   },
@@ -3901,25 +3939,6 @@
    }
   },
   {
-   "company": "Ontario Teachers' Pension Plan",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-21",
-   "days_until": -13,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-21"
-   }
-  },
-  {
    "company": "Advanced Space",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -5060,5 +5079,5 @@
    }
   }
  ],
- "count": 266
+ "count": 267
 }

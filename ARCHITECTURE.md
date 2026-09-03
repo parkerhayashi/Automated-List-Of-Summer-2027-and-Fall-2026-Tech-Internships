@@ -172,8 +172,8 @@ keeps the list free of junk/no-name companies.
   the verdict, so it can never be re-inferred back in. Once stored, a season is
   sticky — never re-derived on later runs. `tools/audit_seasons.py` re-audits
   the backlog on demand. Older undated roles and other cycles are dropped.
-- `regions` — `["US"]` (United States only), `["US", "Canada"]`, or `["Global"]`
-  to disable the location filter.
+- `regions` — `["US"]`, `["Canada"]`, `["Japan"]`, combinations such as
+  `["Canada", "Japan"]`, or `["Global"]` to disable the location filter.
 - `role_scope` — `"tech"` keeps only tech roles; `"all"` keeps every internship.
 - `max_age_days` — drop postings published longer ago than this (kills stale/evergreen reqs).
 - `max_per_company` — cap roles shown per company per section, for variety.

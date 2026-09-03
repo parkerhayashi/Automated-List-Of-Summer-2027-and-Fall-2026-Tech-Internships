@@ -807,6 +807,18 @@
     }
    }
   },
+  "eurofins": {
+   "name": "Eurofins",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "smartrecruiters:Eurofins:744000147214369"
+     ],
+     "count": 1
+    }
+   }
+  },
   "fannie mae": {
    "name": "Fannie Mae",
    "cycles": {
@@ -1226,9 +1238,11 @@
       "smartrecruiters:InfiniteQuant:744000144592181",
       "smartrecruiters:InfiniteQuant:744000145205764",
       "smartrecruiters:InfiniteQuant:744000145263134",
-      "smartrecruiters:InfiniteQuant:744000145264634"
+      "smartrecruiters:InfiniteQuant:744000145264634",
+      "smartrecruiters:InfiniteQuant:744000147161390",
+      "smartrecruiters:InfiniteQuant:744000147163879"
      ],
-     "count": 10
+     "count": 12
     }
    }
   },
@@ -1438,6 +1452,19 @@
       "ashby:melius:b61f063a-4f94-4e50-a4ef-05aaab552280"
      ],
      "count": 1
+    }
+   }
+  },
+  "momentive": {
+   "name": "Momentive",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
+      "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756"
+     ],
+     "count": 2
     }
    }
   },
@@ -2571,5 +2598,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T06:03:26Z"
+ "updated_at": "2026-09-03T11:24:20Z"
 }

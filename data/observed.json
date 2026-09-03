@@ -1090,9 +1090,10 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "lever:hermeus:445db430-6f81-41cf-847a-56a947afb936",
+      "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796",
       "lever:hermeus:d87ed913-affc-475e-b721-c5b5f11c3c7b"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1401,10 +1402,11 @@
      "role_ids": [
       "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469",
       "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
+      "workday:mckesson:/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304",
       "workday:mckesson:/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844",
       "workday:mckesson:/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2569,5 +2571,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T01:20:06Z"
+ "updated_at": "2026-09-03T06:03:26Z"
 }

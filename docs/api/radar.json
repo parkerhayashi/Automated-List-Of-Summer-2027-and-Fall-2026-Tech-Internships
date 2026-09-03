@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-03T11:24:20Z",
- "data_as_of": "2026-09-03T11:24:20Z",
- "rendered_at": "2026-09-03T11:24:20Z",
+ "generated_at": "2026-09-03T15:26:58Z",
+ "data_as_of": "2026-09-03T15:26:58Z",
+ "rendered_at": "2026-09-03T15:26:58Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -92,7 +92,7 @@
    "expected": "2026-05-29",
    "days_until": -97,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134",
+   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2049,8 +2049,46 @@
    "expected": "2026-09-03",
    "days_until": 0,
    "status": "open",
-   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
+   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
    "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
+   "company": "Saab",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
+   "company": "Waymo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+   "note": "fall opening for next summer",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -4243,25 +4281,6 @@
    }
   },
   {
-   "company": "Waymo",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -2,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening for next summer",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://waymo.com/careers/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Workday",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -4870,5 +4889,5 @@
    }
   }
  ],
- "count": 256
+ "count": 257
 }

@@ -1,20 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:dynamiccatholic:603f082e-07c8-4b1c-ac09-8963c51229ad",
-      "lever:dynamiccatholic:e94fa581-892c-4958-9515-0221f862ce57",
-      "smartrecruiters:Acumatica:744000146749696",
-      "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1",
-      "greenhouse:waymo:8174099",
-      "smartrecruiters:Winsupply1:3743990015046116"
-    ],
-    "telegram": [
-      "lever:dynamiccatholic:603f082e-07c8-4b1c-ac09-8963c51229ad",
-      "lever:dynamiccatholic:e94fa581-892c-4958-9515-0221f862ce57",
-      "smartrecruiters:Acumatica:744000146749696",
-      "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1",
-      "greenhouse:waymo:8174099",
-      "smartrecruiters:Winsupply1:3743990015046116"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

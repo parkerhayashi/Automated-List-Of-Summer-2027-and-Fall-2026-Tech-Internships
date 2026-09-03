@@ -36,5 +36,5 @@ body:
     attributes:
       label: Quick scope check
       options:
-        - label: They post software / data / ML / security internships (or co-ops)
+        - label: They post software / data / ML / quant / PM / design internships (or co-ops)
         - label: They hire in Canada and/or Japan

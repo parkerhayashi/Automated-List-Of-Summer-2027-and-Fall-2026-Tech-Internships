@@ -46,13 +46,13 @@ Every link comes straight from the source — so it's real and current, not a st
 
 | | |
 |---|---|
-| **Roles** | Software Engineering, Data Science & Machine Learning (and closely related technical internships) |
+| **Roles** | Software, Data & ML/AI, Quant, Product (PM / TPM), and Product Design / UX internships — not marketing, recruiting, or general business |
 | **Region** | Canada & Japan |
 | **Cycles** | Summer 2027 |
 
 ## About
 
-This fork of the internship engine tracks software, data, and ML internships and co-ops located in Canada and Japan for Summer 2027, plus recent postings that don't name a cycle.
+This fork of the internship engine tracks software, data, ML, quant, product (PM/TPM), and product-design internships and co-ops located in Canada and Japan for Summer 2027, plus recent postings that don't name a cycle.
 
 Use it to spot roles early and apply before they fill up. Being first genuinely helps.
 

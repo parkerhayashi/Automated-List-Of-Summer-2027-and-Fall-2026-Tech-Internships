@@ -174,7 +174,8 @@ keeps the list free of junk/no-name companies.
   the backlog on demand. Older undated roles and other cycles are dropped.
 - `regions` — `["US"]`, `["Canada"]`, `["Japan"]`, combinations such as
   `["Canada", "Japan"]`, or `["Global"]` to disable the location filter.
-- `role_scope` — `"tech"` keeps only tech roles; `"all"` keeps every internship.
+- `role_scope` — `"tech"` keeps SWE / data / ML / quant / PM / design / security
+  (and software-first hardware); `"all"` keeps every internship.
 - `max_age_days` — drop postings published longer ago than this (kills stale/evergreen reqs).
 - `max_per_company` — cap roles shown per company per section, for variety.
 - `section_limits` — max rows per section; over the cap, the most sought-after companies win.

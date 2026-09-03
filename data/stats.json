@@ -41,14 +41,14 @@
   "dropped_offcycle_by_text": 217,
   "roles_cycle_inferred": 20,
   "roles_by_source": {
+    "ashby": 1,
     "greenhouse": 7,
     "lever": 1,
-    "workday": 24,
-    "ashby": 1
+    "workday": 24
   },
   "roles_by_cycle": {
-    "Not stated": 20,
-    "Summer 2027": 13
+    "Summer 2027": 13,
+    "Not stated": 20
   },
   "roles_by_region": {
     "Canada": 33
@@ -73,5 +73,6 @@
     "median_days": 10,
     "sample_size": 123
   },
-  "rendered_at": "2026-09-03T21:02:28Z"
+  "rendered_at": "2026-09-03T21:05:02Z",
+  "stats_basis": "counts recomputed from the store; fetch metrics from the last run"
 }

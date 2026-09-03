@@ -414,6 +414,46 @@ class TestRegionConfig:
         )) == 1
 
 
+class TestRoleScope:
+    """tech scope keeps quant/PM and still drops marketing."""
+
+    def _keep(self, title, location="Toronto, Ontario, Canada"):
+        from intern_engine.models import Job
+        job = Job(
+            id="greenhouse:acme:1", source="greenhouse", company="Acme",
+            company_slug="acme", title=title, location=location, url="https://x",
+        )
+        cfg = {"cycles": ["Summer 2027"], "regions": ["Canada"],
+               "role_scope": "tech"}
+        kept, *_ = pipeline._keep_matching(
+            [({"ats": "greenhouse", "slug": "acme", "name": "Acme"},
+              Fetch([job]), None)],
+            cfg, {}, {},
+        )
+        return kept
+
+    def test_quant_and_pm_interns_are_kept(self):
+        for title in (
+            "Quantitative Research Intern, Summer 2027",
+            "Product Manager Intern, Summer 2027",
+            "APM Intern, Summer 2027",
+        ):
+            kept = self._keep(title)
+            assert len(kept) == 1, title
+            if "Quant" in title or "Quantitative" in title:
+                assert kept[0].category == "Quant"
+            else:
+                assert kept[0].category == "PM"
+
+    def test_marketing_intern_is_dropped(self):
+        assert self._keep("Marketing Intern, Summer 2027") == []
+
+    def test_swe_is_still_kept(self):
+        kept = self._keep("Software Engineer Intern, Summer 2027")
+        assert len(kept) == 1
+        assert kept[0].category == "Software"
+
+
 class TestDateSourceMigration:
     def test_legacy_records_get_a_shape_derived_label(self):
         from intern_engine.pipeline import _migrate_date_sources

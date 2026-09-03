@@ -731,7 +731,8 @@ def generate(store_data: dict, stats: dict) -> None:
 </style></head><body><div class="wrap">
   <header class="top">
     <h1>{escape(region)} tech internships</h1>
-    <p class="sub">Read straight from {stats.get('companies_total', 0):,} employer
+    <p class="sub">Software, data, ML, quant, PM, and design internships, read
+    straight from {stats.get('companies_total', 0):,} employer
     job boards. Data as of {escape(updated)}.</p>
     <p class="links"><a href="feed.xml">RSS</a> · <a href="api/jobs.json">JSON API</a>
     · <a href="internships.csv">CSV</a> ·

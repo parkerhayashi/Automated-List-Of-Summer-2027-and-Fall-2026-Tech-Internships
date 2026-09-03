@@ -174,6 +174,14 @@ class TestHeaderCounts:
                    for x in lines)
         assert any("data as of Aug 06, 2026 at 14:08 UTC" in x for x in lines)
 
+    def test_scope_names_quant_and_pm_not_only_swe(self):
+        lines = readme._header(self.CFG, total_open=4, companies=3900,
+                               new_week=1, shown=4)
+        roles = next(x for x in lines if x.startswith("| **Roles** |"))
+        assert "Quant" in roles
+        assert "PM" in roles
+        assert "Software Engineering, Data Science & Machine Learning" not in roles
+
 
 class TestIdenticalOpenings:
     """One row per job, one line per requisition kept reachable.

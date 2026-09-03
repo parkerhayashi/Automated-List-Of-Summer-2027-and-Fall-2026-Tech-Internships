@@ -8,7 +8,7 @@ Change behavior without touching code:
   - regions       : ["Canada"], ["Japan"], ["Canada", "Japan"], ["US"],
                     combinations of those, or ["Global"] to disable the
                     location filter entirely.
-  - role_scope    : "tech" (SWE/data/ML/quant/hardware/...) or "all" internships.
+  - role_scope    : "tech" (SWE/data/ML/quant/PM/design/hardware/...) or "all" internships.
 """
 
 from __future__ import annotations

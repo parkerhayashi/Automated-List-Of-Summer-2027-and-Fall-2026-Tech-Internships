@@ -18,6 +18,21 @@ class TestInternship:
     def test_rejects_senior(self):
         assert not filters.is_internship("Senior Software Intern")
 
+    def test_keeps_intern_track_product_and_tpm_titles(self):
+        for title in (
+            "Product Manager Intern",
+            "Associate Product Manager Intern",
+            "APM Intern",
+            "Product Management Intern",
+            "Technical Program Manager Intern",
+            "TPM Intern",
+        ):
+            assert filters.is_internship(title), title
+
+    def test_still_rejects_generic_manager_internships(self):
+        assert not filters.is_internship("Engineering Manager Intern")
+        assert not filters.is_internship("Project Manager Intern")
+
     def test_cooperative_education_is_a_coop_program(self):
         assert filters.is_internship("Cooperative Education Software Developer")
 
@@ -59,11 +74,39 @@ class TestTech:
             "Quantitative Research Intern",
             "Quant Research Intern",
             "Quantitative Trading Intern",
+            "Quant Intern",
             "Cloud Engineer Intern",
             "Database Engineer Intern",
             "DevSecOps Intern",
         ):
             assert filters.is_tech(title), title
+
+    def test_keeps_pm_tpm_and_product_design(self):
+        for title in (
+            "Product Manager Intern",
+            "Associate Product Manager Intern",
+            "APM Intern",
+            "Product Intern",
+            "Technical Program Manager Intern",
+            "TPM Intern",
+            "UX Design Intern",
+            "Product Design Intern",
+            "UI/UX Intern",
+            "Technical Business Analyst Intern",
+            "Product Analyst Intern",
+        ):
+            assert filters.is_tech(title), title
+
+    def test_still_drops_marketing_and_generic_business(self):
+        for title in (
+            "Marketing Intern",
+            "Product Marketing Intern",
+            "Graphic Design Intern",
+            "Business Analyst Intern",
+            "Finance Intern",
+            "Recruiting Intern",
+        ):
+            assert not filters.is_tech(title), title
 
     def test_software_first_hardware_titles_are_kept(self):
         assert filters.is_tech("Embedded Software / Hardware Intern")
@@ -357,6 +400,13 @@ class TestCategory:
         assert filters.categorize("Software Engineer Intern") == "Software"
         assert filters.categorize("Machine Learning Intern") == "Data & ML/AI"
         assert filters.categorize("Cybersecurity Intern") == "Security"
+        assert filters.categorize("Quantitative Research Intern") == "Quant"
+        assert filters.categorize("Quant Developer Intern") == "Quant"
+        assert filters.categorize("Product Manager Intern") == "PM"
+        assert filters.categorize("APM Intern") == "PM"
+        assert filters.categorize("Technical Program Manager Intern") == "PM"
+        assert filters.categorize("UX Design Intern") == "Design"
+        assert filters.categorize("Product Design Intern") == "Design"
 
 
 class TestCycleUnstatedOk:

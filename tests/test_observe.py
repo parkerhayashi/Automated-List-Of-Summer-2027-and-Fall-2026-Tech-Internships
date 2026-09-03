@@ -4,6 +4,8 @@ import pytest
 
 from intern_engine import observe, paths
 
+CYCLES = ["Summer 2027", "Fall 2026"]
+
 
 def test_records_earliest_real_date_per_company_and_cycle():
     store = {
@@ -11,7 +13,7 @@ def test_records_earliest_real_date_per_company_and_cycle():
         "2": {"company": "NVIDIA", "season": "Summer 2027", "posted_at": "2026-09-03T12:00:00Z"},
         "3": {"company": "NVIDIA", "season": "Fall 2026", "posted_at": "2026-03-01T00:00:00Z"},
     }
-    out = observe.update_from_store(store, {"companies": {}})
+    out = observe.update_from_store(store, {"companies": {}}, CYCLES)
     cycles = out["companies"]["nvidia"]["cycles"]
     assert cycles["Summer 2027"]["first_posted"] == "2026-09-03"   # earliest wins
     assert cycles["Summer 2027"]["count"] == 2
@@ -63,7 +65,7 @@ def test_legacy_inflated_count_is_replaced_by_real_ids():
     }}}}
     store = {"amazon:amazon:1": {"company": "Amazon", "season": "Fall 2026",
                                  "posted_at": "2026-03-25T00:00:00Z"}}
-    out = observe.update_from_store(store, prior)
+    out = observe.update_from_store(store, prior, CYCLES)
     cycle = out["companies"]["amazon"]["cycles"]["Fall 2026"]
     assert cycle["count"] == 1
     assert cycle["first_posted"] == "2026-03-25"  # the real date survives
@@ -114,9 +116,6 @@ def test_normalizes_company_variants_together():
     keys = list(out["companies"])
     assert len(keys) == 1
     assert out["companies"][keys[0]]["cycles"]["Summer 2027"]["first_posted"] == "2026-06-25"
-
-
-CYCLES = ["Summer 2027", "Fall 2026"]
 
 
 def test_inferred_cycle_is_not_recorded():

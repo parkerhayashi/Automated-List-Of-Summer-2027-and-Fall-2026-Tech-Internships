@@ -239,9 +239,10 @@ def _rows(open_jobs: list[dict], cfg: dict) -> str:
         # exactly — one vocabulary and one position across both surfaces.
         rmark = ("<span class='rmark' title='Remote — this role. The posting's "
                  "location or title says so.'>R</span>") if remote == "1" else ""
+        display_cycle = visible_seasons[0] if visible_seasons else r.get("season", "")
         rows.append(
             f'<tr data-id="{escape(jid)}" '
-            f'data-cycle="{escape((visible_seasons[0] if visible_seasons else r.get("season", "")))}" '
+            f'data-cycle="{escape(display_cycle)}" '
             f'data-cycles="{escape("|".join(visible_seasons))}" '
             f'data-category="{escape(r.get("category", ""))}" '
             f'data-sponsor="{escape(sponsor)}" '

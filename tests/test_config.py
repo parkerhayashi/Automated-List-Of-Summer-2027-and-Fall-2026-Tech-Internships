@@ -38,3 +38,10 @@ def test_scope_configuration_rejects_unsafe_shapes(raw, message):
 def test_empty_regions_fail_closed_even_for_unvalidated_callers():
     assert config.restrict_region({"regions": []}) is True
 
+
+def test_canada_only_hides_h1b_history():
+    cfg = config.validate_config({"regions": ["Canada"], "cycles": ["Summer 2027"]})
+    assert config.want_canada(cfg) is True
+    assert config.want_us(cfg) is False
+    assert config.show_h1b(cfg) is False
+

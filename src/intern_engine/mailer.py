@@ -255,7 +255,7 @@ def _pill(text: str, bg: str, fg: str) -> str:
             f'line-height:1.5;white-space:nowrap">{escape(text)}</span>')
 
 
-def _role_row(r: dict) -> str:
+def _role_row(r: dict, cfg: dict | None = None) -> str:
     """One role as a card: employer line, linked title, facts, skills.
 
     Written for email clients, which means tables and inline styles only — no
@@ -265,7 +265,9 @@ def _role_row(r: dict) -> str:
     """
     company = escape(r.get("company") or "")
     marks = ""
-    if h1b.badge(h1b.approvals_for(r.get("company") or "")):
+    if cfg is None:
+        cfg = config.load_config()
+    if h1b.badge(h1b.approvals_for(r.get("company") or "")) and config.show_h1b(cfg):
         marks += ' <span style="color:#1a7f37" title="proven H-1B sponsor">✓</span>'
     if filters.is_remote(r.get("location") or "", r.get("title") or ""):
         marks += " " + _pill("R", "#dafbe1", "#1a7f37")
@@ -279,7 +281,7 @@ def _role_row(r: dict) -> str:
     openings = r.get("openings") or 1
     if openings > 1:
         facts.append(f"{openings} openings")
-    flag = sponsorship.flag(r.get("sponsorship"))
+    flag = sponsorship.flag(r.get("sponsorship"), cfg)
     if flag:
         facts.append(flag)
     skills = " ".join(_pill(s, "#f6f8fa", "#57606a") for s in (r.get("skills") or [])[:4])
@@ -329,8 +331,9 @@ def build_digest_html(fresh: list[dict]) -> str:
     of a 60-row email.
     """
     repo = config.repo_slug()
+    cfg = config.load_config()
     shown = _digest_rows(fresh)
-    rows = "".join(_role_row(r) for r in shown)
+    rows = "".join(_role_row(r, cfg) for r in shown)
     # "…plus N more" counts ROLES the reader can't see here, so it has to
     # subtract the requisitions the printed cards already account for, not the
     # number of cards.
@@ -351,6 +354,23 @@ def build_digest_html(fresh: list[dict]) -> str:
     if remote:
         summary.append(f"{remote} remote")
 
+    canada_only = config.want_canada(cfg) and not config.want_us(cfg)
+    citizens = "🇨🇦" if canada_only else "🇺🇸"
+    if config.show_h1b(cfg):
+        legend = (
+            "<b>✓</b> the employer has a real H-1B track record (USCIS data) · "
+            f"<b>R</b> this role is remote · {citizens} citizens only · 🛂 no visa "
+            "sponsorship.<br>Sponsorship flags are auto-detected from the posting "
+            "text — treat them as a strong hint and confirm on the posting itself."
+        )
+    else:
+        legend = (
+            f"<b>R</b> this role is remote · {citizens} citizenship / PR / clearance "
+            "required · 🛂 no work-permit sponsorship.<br>Sponsorship flags are "
+            "auto-detected from the posting text — treat them as a strong hint and "
+            "confirm on the posting itself."
+        )
+
     return (
         '<div style="font:15px/1.55 -apple-system,BlinkMacSystemFont,Segoe UI,'
         'Roboto,Helvetica,Arial,sans-serif;max-width:640px;margin:0 auto;'
@@ -366,10 +386,7 @@ def build_digest_html(fresh: list[dict]) -> str:
         'font-size:14px;padding:10px 18px;border-radius:7px">'
         "Open the dashboard</a></div>"
         '<div style="color:#57606a;font-size:12px;margin-top:14px;line-height:1.6">'
-        "<b>✓</b> the employer has a real H-1B track record (USCIS data) · "
-        "<b>R</b> this role is remote · 🇺🇸 citizens only · 🛂 no visa "
-        "sponsorship.<br>Sponsorship flags are auto-detected from the posting "
-        "text — treat them as a strong hint and confirm on the posting itself."
+        f"{legend}"
         "</div>"
         f'<div style="color:#8c959f;font-size:12px;margin-top:18px;'
         'border-top:1px solid #e6e8eb;padding-top:12px">'

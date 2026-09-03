@@ -393,6 +393,13 @@ class TestRegionConfig:
         kept = self._keep(self._results("New York, NY"), ["US", "Canada"])
         assert len(kept) == 1
 
+    def test_canada_only_drops_us(self):
+        assert self._keep(self._results("New York, NY"), ["Canada"]) == []
+
+    def test_canada_only_keeps_canada(self):
+        kept = self._keep(self._results("Toronto, Ontario, Canada"), ["Canada"])
+        assert len(kept) == 1
+
 
 class TestDateSourceMigration:
     def test_legacy_records_get_a_shape_derived_label(self):

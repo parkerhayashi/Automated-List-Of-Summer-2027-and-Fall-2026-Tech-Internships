@@ -16,7 +16,7 @@ from html import escape
 from . import config, filters, grouping, h1b, paths, radar, sponsorship, trends
 
 
-def _hero(stats: dict, open_jobs: list[dict], proven_roles: int) -> str:
+def _hero(stats: dict, open_jobs: list[dict], cfg: dict) -> str:
     """The four numbers an applicant actually needs, and nothing else.
 
     This used to be ten equal-weight tiles where "Last run: 402.0s" sat beside
@@ -26,11 +26,23 @@ def _hero(stats: dict, open_jobs: list[dict], proven_roles: int) -> str:
     stated = sum(1 for r in open_jobs if not r.get("season_inferred"))
     remote = sum(1 for r in open_jobs
                  if filters.is_remote(r.get("location") or "", r.get("title") or ""))
+    if config.show_h1b(cfg):
+        proven = sum(
+            1 for r in open_jobs
+            if h1b.badge(h1b.approvals_for(r.get("company") or ""))
+        )
+        third = (str(proven), "at proven H-1B sponsors",
+                 f"USCIS approved {h1b.BADGE_THRESHOLD}+ petitions")
+    else:
+        coop = sum(
+            1 for r in open_jobs
+            if "Co-op" in filters.program_type(r.get("title") or "")
+        )
+        third = (str(coop), "co-ops", "as the posting titled them")
     items = [
         (str(len(open_jobs)), "open roles", "every one linked to the employer"),
         (str(stated), "with a stated cycle", "the employer named it, we didn't guess"),
-        (str(proven_roles), "at proven H-1B sponsors",
-         f"USCIS approved {h1b.BADGE_THRESHOLD}+ petitions"),
+        third,
         (str(remote), "remote", "the posting's own words say so"),
     ]
     return "".join(
@@ -149,17 +161,18 @@ def _sparkline(points: list[dict]) -> str:
     )
 
 
-def _rows(open_jobs: list[dict]) -> str:
+def _rows(open_jobs: list[dict], cfg: dict) -> str:
     window = h1b.window_label()
+    show_history = config.show_h1b(cfg)
     rows = []
     for r in open_jobs:
         posted = (r.get("posted_at") or "")[:10] or "—"
         url = r.get("url") or ""
         apply = f'<a href="{escape(url)}" target="_blank" rel="noopener">Apply</a>' if url else "—"
         sponsor = r.get("sponsorship", "unknown")
-        flag = sponsorship.flag(sponsor)
-        approvals = h1b.approvals_for(r.get("company") or "")
-        proven = "1" if h1b.badge(approvals) else "0"
+        flag = sponsorship.flag(sponsor, cfg)
+        approvals = h1b.approvals_for(r.get("company") or "") if show_history else None
+        proven = "1" if show_history and h1b.badge(approvals) else "0"
         check = (
             f' <span class="ok" title="~{h1b.pretty_count(approvals)} H-1B approvals '
             f'({escape(window)}, USCIS)">✓</span>' if proven == "1" else ""
@@ -393,22 +406,60 @@ def generate(store_data: dict, stats: dict) -> None:
     )
     categories = sorted({r.get("category", "") for r in open_jobs if r.get("category")})
     repo = config.repo_slug()
-    proven_roles = sum(
-        1 for r in open_jobs
-        if h1b.badge(h1b.approvals_for(r.get("company") or ""))
-    )
+    canada_only = config.want_canada(cfg) and not config.want_us(cfg)
+    citizens_flag = "🇨🇦" if canada_only else "🇺🇸"
+    cycles_phrase = " & ".join(config.cycles(cfg))
     by_category: dict[str, int] = {}
     for r in open_jobs:
         cat = r.get("category") or "Other"
         by_category[cat] = by_category.get(cat, 0) + 1
 
+    h1b_filter = ""
+    if config.show_h1b(cfg):
+        h1b_filter = """        <label class="chk"><input id="h1b" type="checkbox">
+          <span>✓ proven H-1B sponsors only</span></label>"""
+    if canada_only:
+        meta_desc = (
+            f"{cycles_phrase} tech internships in Canada, refreshed every 30 minutes. "
+            "Auto-detected work-permit flags and email/RSS alerts."
+        )
+        og_desc = (
+            f"{len(open_jobs)} open tech internships in Canada, refreshed every 30 minutes."
+        )
+        footer_badge = (
+            f"Sponsorship flags are auto-detected from posting text — treat them as a "
+            f"strong hint and verify on the posting itself. {citizens_flag} = Canadian "
+            "citizenship / PR / clearance required · 🛂 = no work-permit sponsorship. "
+            "Roles can close at any time; always confirm on the company's own site."
+        )
+        spon_restricted = f"Explicitly restricted ({citizens_flag} / 🛂)"
+    else:
+        meta_desc = (
+            f"{cycles_phrase} tech internships, refreshed every 30 minutes. "
+            "Auto-detected visa sponsorship flags, proven H-1B sponsor badges, email alerts."
+        )
+        og_desc = (
+            f"{len(open_jobs)} open tech internships, refreshed every 30 minutes. "
+            "Visa-sponsorship flags + proven H-1B sponsor badges for international students."
+        )
+        footer_badge = (
+            f"Sponsorship flags are auto-detected from posting text — treat them as a "
+            f"strong hint and verify on the posting itself. ✓ = USCIS approved "
+            f"{h1b.BADGE_THRESHOLD}+ H-1B petitions for that employer "
+            f"({escape(h1b.window_label() or 'recent years')}, per the public "
+            f'<a href="https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub">'
+            f"Employer Data Hub</a>) — a history, not a promise; no ✓ only means no confident "
+            "match. Roles can close at any time; always confirm on the company's own site."
+        )
+        spon_restricted = "Explicitly restricted (🇺🇸 / 🛂)"
+
     html_doc = f"""<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Internship Engine - Live Dashboard</title>
-<meta name="description" content="Summer 2027 & Fall 2026 tech internships, refreshed every 30 minutes. Auto-detected visa sponsorship flags, proven H-1B sponsor badges, email alerts.">
-<meta property="og:title" content="Internship Engine - Live Dashboard">
-<meta property="og:description" content="{len(open_jobs)} open tech internships, refreshed every 30 minutes. Visa-sponsorship flags + proven H-1B sponsor badges for international students.">
+<title>{escape(region)} tech internships - Live Dashboard</title>
+<meta name="description" content="{escape(meta_desc)}">
+<meta property="og:title" content="{escape(region)} tech internships - Live Dashboard">
+<meta property="og:description" content="{escape(og_desc)}">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <link rel="alternate" type="application/atom+xml" title="New internships" href="feed.xml">
@@ -675,7 +726,7 @@ def generate(store_data: dict, stats: dict) -> None:
     <a href="https://github.com/{escape(repo)}">source</a> ·
     <a href="https://github.com/{escape(repo)}/blob/main/METHODOLOGY.md">methodology</a></p>
   </header>
-  <div class="hero">{_hero(stats, open_jobs, proven_roles)}</div>
+  <div class="hero">{_hero(stats, open_jobs, cfg)}</div>
 
   <h2 id="roles">Open roles <span class="muted">(<span id="count">{len(open_jobs)}</span>
     showing)</span></h2>
@@ -702,7 +753,7 @@ def generate(store_data: dict, stats: dict) -> None:
           <option value="no-restriction">No explicit restriction found</option>
           <option value="offers">Explicitly offers sponsorship</option>
           <option value="unknown">Sponsorship not stated</option>
-          <option value="restricted">Explicitly restricted (🇺🇸 / 🛂)</option>
+          <option value="restricted">{spon_restricted}</option>
         </select>
         <select id="program">
           <option value="">Internships &amp; co-ops</option>
@@ -710,8 +761,7 @@ def generate(store_data: dict, stats: dict) -> None:
           <option value="Co-op">Co-ops</option>
         </select>
         <label class="chk"><input id="remote" type="checkbox"><span><span class="rmark">R</span> remote only</span></label>
-        <label class="chk"><input id="h1b" type="checkbox">
-          <span>✓ proven H-1B sponsors only</span></label>
+        {h1b_filter}
         <label class="chk" title="Show only roles whose employer named the cycle themselves">
           <input id="stated" type="checkbox"><span>employer-stated cycle only</span></label>
         <button id="export" class="ghost" type="button" title="Download your saved roles as CSV">
@@ -729,7 +779,7 @@ def generate(store_data: dict, stats: dict) -> None:
   <table><thead><tr><th class="c-save" title="Save"></th><th>Company</th><th>Role</th>
   <th>Cycle</th><th>Category</th>
   <th>Location</th><th>Salary</th><th>Posted</th><th></th></tr></thead>
-  <tbody id="rows">{_rows(display_jobs)}</tbody></table>
+  <tbody id="rows">{_rows(display_jobs, cfg)}</tbody></table>
   </div>
   <p id="empty" class="muted empty" hidden>No roles match those filters.
     <button class="ghost" type="button" id="reset2">Clear filters</button></p>
@@ -746,13 +796,7 @@ def generate(store_data: dict, stats: dict) -> None:
   {_engine_panel(stats, by_category, _history_points())}
 
   <footer>Generated by the engine on each run across
-  {len(stats.get("companies_by_source", {}))} ATS platforms. Sponsorship flags are
-  auto-detected from posting text — treat them as a strong hint and verify on the
-  posting itself. ✓ = USCIS approved {h1b.BADGE_THRESHOLD}+ H-1B petitions for that
-  employer ({escape(h1b.window_label() or "recent years")}, per the public
-  <a href="https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub">
-  Employer Data Hub</a>) — a history, not a promise; no ✓ only means no confident
-  match. Roles can close at any time; always confirm on the company's own site.</footer>
+  {len(stats.get("companies_by_source", {}))} ATS platforms. {footer_badge}</footer>
 </div>
 <script>
 (function () {{
@@ -863,7 +907,7 @@ def generate(store_data: dict, stats: dict) -> None:
   }}
   function apply() {{
     var text = q.value.trim().toLowerCase(), cy = cycle.value, ca = cat.value,
-        sp = spon.value, proven = h1b.checked, shown = 0,
+        sp = spon.value, proven = h1b && h1b.checked, shown = 0,
         minPosted = age.value ? cutoffISO(parseInt(age.value, 10)) : '',
         statedOnly = stated.checked, prog = program.value,
         remoteOnly = remote.checked, onlySaved = savedonly.checked;
@@ -891,7 +935,8 @@ def generate(store_data: dict, stats: dict) -> None:
     count.textContent = shown;
     empty.hidden = shown !== 0;
   }}
-  var controls = [q, cycle, cat, age, spon, program, remote, h1b, stated, savedonly];
+  var controls = [q, cycle, cat, age, spon, program, remote, h1b, stated, savedonly]
+      .filter(Boolean);
   controls.forEach(function (el) {{
     el.addEventListener('input', apply); el.addEventListener('change', apply);
   }});
@@ -953,6 +998,24 @@ def generate(store_data: dict, stats: dict) -> None:
     _write_confirmation(cfg)
 
 
+def _write_alerts_unconfigured(filename: str, title: str) -> None:
+    """Replace leftover upstream signup pages when this fork has no email list."""
+    page = f"""<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{escape(title)}</title>
+</head><body style="margin:0;background:#0d1117;color:#e6edf3;font:16px/1.6 sans-serif">
+<div style="max-width:520px;margin:18vh auto 0;padding:32px 24px;text-align:center">
+  <h1>Email alerts aren't configured</h1>
+  <p>Subscribe via the RSS feed instead.</p>
+</div>
+</body></html>
+"""
+    os.makedirs(paths.DOCS_DIR, exist_ok=True)
+    with open(os.path.join(paths.DOCS_DIR, filename), "w", encoding="utf-8") as f:
+        f.write(page)
+
+
 def _write_unsubscribe(cfg: dict) -> None:
     """Unsubscribe target for digest emails (?t=<secret token>).
 
@@ -967,6 +1030,7 @@ def _write_unsubscribe(cfg: dict) -> None:
     """
     endpoint = config.signup_endpoint(cfg)
     if not endpoint:
+        _write_alerts_unconfigured("unsubscribe.html", "Unsubscribe")
         return
     url, key = endpoint
     page = f"""<!DOCTYPE html>
@@ -1039,6 +1103,7 @@ def _write_confirmation(cfg: dict) -> None:
     """Click-gated double-opt-in target; scanners cannot confirm on page load."""
     endpoint = config.signup_endpoint(cfg)
     if not endpoint:
+        _write_alerts_unconfigured("confirm.html", "Confirm email alerts")
         return
     url, key = endpoint
     page = f"""<!DOCTYPE html>

@@ -6,7 +6,7 @@ Checks each OPEN role in data/jobs.json against the rules the pipeline promises:
   1. season is a tracked cycle
   2. a title that states a tracked term+year agrees with the assigned season
   3. no title states an off-cycle year (those must be tombstoned, never listed)
-  4. the location passes the US filter (config regions honored)
+  4. the location passes the region filter (config regions honored)
   5. it still reads as a tech internship (title-level filters)
   6. a real posted date exists and is inside max_age_days
   7. inferred (~) rows carry a posted date (that date is the inference's basis)

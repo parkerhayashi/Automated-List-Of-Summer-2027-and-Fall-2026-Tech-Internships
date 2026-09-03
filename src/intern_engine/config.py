@@ -5,8 +5,9 @@ Change behavior without touching code:
                     These become the section headings, in this order.
   - default_cycle : where to put roles that have no clear term/year (e.g. just
                     "Software Engineer Intern"). Must be one of `cycles`.
-  - regions       : ["US"] for United States only, ["US", "Canada"] for both,
-                    or ["Global"] to disable the location filter entirely.
+  - regions       : ["Canada"] for Canada only, ["US"] for United States only,
+                    ["US", "Canada"] for both, or ["Global"] to disable the
+                    location filter entirely.
   - role_scope    : "tech" (SWE/data/ML/quant/hardware/...) or "all" internships.
 """
 
@@ -30,11 +31,11 @@ class ConfigError(RuntimeError):
     """Configuration exists but is unsafe or has the wrong shape.
 
     A bad configuration controls publication scope.  Silently falling back to
-    defaults can therefore publish the wrong cycle or disable the USA filter,
+    defaults can therefore publish the wrong cycle or disable the region filter,
     so malformed files are deliberately fatal.
     """
 
-_FALLBACK_REPO = "zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"
+_FALLBACK_REPO = "parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"
 
 
 def repo_slug() -> str:
@@ -167,6 +168,11 @@ def want_canada(cfg: dict) -> bool:
     return any(str(r).lower() == "canada" for r in (cfg.get("regions") or []))
 
 
+def show_h1b(cfg: dict) -> bool:
+    """H-1B petition history is a US immigration dataset — only show it on US lists."""
+    return want_us(cfg)
+
+
 def section_limit(cfg: dict, label: str):
     """Max rows to show for a section, or None for no cap."""
     return (cfg.get("section_limits") or {}).get(label)
@@ -203,7 +209,7 @@ def allowlist_only(cfg: dict) -> bool:
 
 
 def include_international(cfg: dict) -> bool:
-    """When true, also keep non-US roles (shown in a separate International section)."""
+    """When true, also keep out-of-region roles (shown in a separate International section)."""
     return bool(cfg.get("include_international", False))
 
 

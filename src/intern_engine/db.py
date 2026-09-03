@@ -81,7 +81,7 @@ def _job_rows(store_data: dict) -> list[dict]:
             # stated cycle from a guess, or a real date from a derived one —
             # which is most of what makes this dataset worth querying.
             "season_inferred": bool(r.get("season_inferred")),
-            "region": "US" if filters.is_united_states(location) else "International",
+            "region": filters.region_bucket(location),
             "sponsorship": r.get("sponsorship", "unknown"),
             "salary": r.get("salary"),
             "skills": r.get("skills") or None,

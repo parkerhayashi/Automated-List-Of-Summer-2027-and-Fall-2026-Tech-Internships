@@ -160,6 +160,20 @@ class TestRegion:
         assert not filters.region_ok("Toronto, Ontario, Canada", want_us=True, want_canada=False)
         assert filters.region_ok("Toronto, Ontario, Canada", want_us=False, want_canada=True)
 
+    def test_bare_canadian_cities_count_as_canada(self):
+        for loc in ("Toronto", "Vancouver", "Montreal", "Montréal", "Ottawa",
+                    "Waterloo", "Calgary", "Mississauga"):
+            assert filters.is_canada(loc), loc
+            assert filters.region_ok(loc, want_us=False, want_canada=True), loc
+
+    def test_ambiguous_city_names_are_not_guessed_as_canada(self):
+        for loc in ("London", "Victoria", "Hamilton", "Cambridge", "Surrey"):
+            assert not filters.is_canada(loc), loc
+
+    def test_vancouver_wa_stays_us(self):
+        assert filters.is_united_states("Vancouver, WA")
+        assert not filters.is_canada("Vancouver, WA")
+
     def test_country_code_prefix_not_us(self):
         # "DE-Berlin" is Germany, not the Delaware state code
         assert not filters.region_ok("DE-Berlin-Trion", want_us=True, want_canada=False)

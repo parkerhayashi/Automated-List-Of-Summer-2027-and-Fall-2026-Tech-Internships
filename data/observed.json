@@ -122,7 +122,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2025-10-08",
-     "count": 20,
+     "count": 21,
      "role_ids": [
       "amazon:amazon:10375983",
       "amazon:amazon:10375998",
@@ -141,6 +141,7 @@
       "amazon:amazon:3122111",
       "amazon:amazon:3132414",
       "amazon:amazon:3136266",
+      "amazon:amazon:3136815",
       "amazon:amazon:3147202",
       "amazon:amazon:3149133",
       "amazon:amazon:3204846"
@@ -198,6 +199,37 @@
       "oracle:egug.fa.us2.oraclecloud.com:26013191"
      ],
      "count": 32
+    }
+   }
+  },
+  "american fidelity": {
+   "name": "American Fidelity",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Cyber-Security-Intern--OKC-Local-Only-_JR1023",
+      "workday:americanfidelity:/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016",
+      "workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Software-Mobile-Intern--OKC-Local-Only-_JR1021",
+      "workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Software-Test-Intern--OKC-Local-Only-_JR1020"
+     ],
+     "count": 4
+    }
+   }
+  },
+  "analytic partners": {
+   "name": "Analytic Partners",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-08-11",
+     "role_ids": [
+      "lever:analyticpartners:485ae801-3fae-4dc1-950d-445ba990f6c9",
+      "lever:analyticpartners:5452f2a3-77ba-4cce-afdd-000351105650",
+      "lever:analyticpartners:6303782e-636f-4bac-90cd-051411558b8b",
+      "lever:analyticpartners:eb778fc4-088f-4c5f-b650-e3042ab1b688",
+      "lever:analyticpartners:f4d7b848-878f-4761-be25-3d6e4f4d1a54"
+     ],
+     "count": 5
     }
    }
   },
@@ -296,6 +328,15 @@
       "greenhouse:audaxgroup:4722770005"
      ],
      "count": 1
+    },
+    "Winter 2027": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "greenhouse:audaxgroup:4722770005",
+      "greenhouse:audaxgroup:4722779005",
+      "greenhouse:audaxgroup:4722801005"
+     ],
+     "count": 3
     }
    }
   },
@@ -309,6 +350,20 @@
       "workday:aoins:/job/Lansing-MI/Software-Developer-Internship_R_2121"
      ],
      "count": 2
+    }
+   }
+  },
+  "autodesk": {
+   "name": "Autodesk",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-08-07",
+     "role_ids": [
+      "workday:autodesk:/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
+      "workday:autodesk:/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
+      "workday:autodesk:/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3"
+     ],
+     "count": 3
     }
    }
   },
@@ -397,6 +452,26 @@
     }
    }
   },
+  "bmo": {
+   "name": "BMO",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-08-20",
+     "role_ids": [
+      "workday:bmo:/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769",
+      "workday:bmo:/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-2",
+      "workday:bmo:/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761",
+      "workday:bmo:/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735",
+      "workday:bmo:/job/Toronto-ON-CAN/Junior-Cybersecurity-Intern--Winter-2027--Co-op-Internship----4-Months_R260024652-3",
+      "workday:bmo:/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650",
+      "workday:bmo:/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678",
+      "workday:bmo:/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-3",
+      "workday:bmo:/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-2"
+     ],
+     "count": 9
+    }
+   }
+  },
   "bny": {
    "name": "BNY",
    "cycles": {
@@ -459,6 +534,15 @@
       "smartrecruiters:BoschGroup:744000146547599"
      ],
      "count": 3
+    },
+    "Winter 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "smartrecruiters:BoschGroup:744000146546699",
+      "smartrecruiters:BoschGroup:744000146546849",
+      "smartrecruiters:BoschGroup:744000146547599"
+     ],
+     "count": 3
     }
    }
   },
@@ -466,6 +550,13 @@
    "name": "Brunswick",
    "cycles": {
     "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
+     ],
+     "count": 1
+    },
+    "Winter 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
@@ -509,6 +600,19 @@
       "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"
      ],
      "count": 5
+    }
+   }
+  },
+  "cae": {
+   "name": "CAE",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "workday:cae:/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
+      "workday:cae:/job/Montreal-St-Laurent/C-IT-200-Product-Cybersecurity-Specialist-Intern_123542"
+     ],
+     "count": 2
     }
    }
   },
@@ -632,6 +736,19 @@
     }
    }
   },
+  "cohere": {
+   "name": "Cohere",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-05-01",
+     "role_ids": [
+      "ashby:cohere:36d1f52f-8270-4652-adf5-5303a0ff341b",
+      "ashby:cohere:8c035d3d-081d-4c8a-914a-72f4efaad254"
+     ],
+     "count": 2
+    }
+   }
+  },
   "conagra brands": {
    "name": "Conagra Brands",
    "cycles": {
@@ -667,6 +784,18 @@
      "role_ids": [
       "ashby:creatify:75a1f1ad-13d2-4513-952c-71b6dfcaa84f"
      ]
+    }
+   }
+  },
+  "datadog": {
+   "name": "Datadog",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "greenhouse:datadog:8052095"
+     ],
+     "count": 1
     }
    }
   },
@@ -1001,6 +1130,20 @@
     }
    }
   },
+  "general dynamics uk": {
+   "name": "General Dynamics UK",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "smartrecruiters:GDMSI:744000146985399",
+      "smartrecruiters:GDMSI:744000147019949",
+      "smartrecruiters:GDMSI:744000147269170"
+     ],
+     "count": 3
+    }
+   }
+  },
   "general matter": {
    "name": "General Matter",
    "cycles": {
@@ -1023,6 +1166,40 @@
      "role_ids": [
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795"
      ]
+    },
+    "Winter 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:generalmotors:/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Lighting-Software-Development---Test_JR-202618179",
+      "workday:generalmotors:/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915",
+      "workday:generalmotors:/job/Oshawa-Elevation-Centre---Oshawa-Elevation-Centre/XMLNAME-2027-Winter-Co-op-Body-Controls-Calibration-and-System-Test-Developer_JR-202618823"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "geotab": {
+   "name": "Geotab",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-05-04",
+     "role_ids": [
+      "greenhouse:internshiplist2000:5156504008",
+      "greenhouse:internshiplist2000:5324252008",
+      "greenhouse:internshiplist2000:5350915008",
+      "greenhouse:internshiplist2000:5361630008",
+      "greenhouse:internshiplist2000:5376578008",
+      "greenhouse:internshiplist2000:5383410008",
+      "greenhouse:internshiplist2000:5389341008"
+     ],
+     "count": 7
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "greenhouse:internshiplist2000:5380567008"
+     ],
+     "count": 1
     }
    }
   },
@@ -1169,6 +1346,19 @@
       "oracle:efet.fa.us2.oraclecloud.com:218257"
      ],
      "count": 1
+    }
+   }
+  },
+  "hitachi energy": {
+   "name": "Hitachi Energy",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-07",
+     "role_ids": [
+      "workday:hitachi:/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1",
+      "workday:hitachi:/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1"
+     ],
+     "count": 2
     }
    }
   },
@@ -1359,6 +1549,18 @@
     }
    }
   },
+  "kepler communications": {
+   "name": "Kepler Communications",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "lever:kepler:2ad02ce3-1d56-4aee-9f1d-5199c780c0c1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "keybank": {
    "name": "KeyBank",
    "cycles": {
@@ -1366,6 +1568,18 @@
      "first_posted": "2026-08-17",
      "role_ids": [
       "workday:keybank:/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "later": {
+   "name": "Later",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-06-23",
+     "role_ids": [
+      "greenhouse:later:8604889002"
      ],
      "count": 1
     }
@@ -1400,6 +1614,14 @@
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
      "count": 9
+    },
+    "Winter 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:leidos:/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
+      "workday:leidos:/job/Bethesda-MD/Software-Developer-Co-op_R-00190766"
+     ],
+     "count": 2
     }
    }
   },
@@ -1415,6 +1637,27 @@
     }
    }
   },
+  "lumentum": {
+   "name": "Lumentum",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-08-28",
+     "role_ids": [
+      "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261135",
+      "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261136"
+     ],
+     "count": 2
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-28",
+     "role_ids": [
+      "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261135",
+      "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261136"
+     ],
+     "count": 2
+    }
+   }
+  },
   "manulife financial": {
    "name": "Manulife Financial",
    "cycles": {
@@ -1422,9 +1665,26 @@
      "first_posted": "2026-08-27",
      "role_ids": [
       "workday:manulife:/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682",
-      "workday:manulife:/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
+      "workday:manulife:/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680",
+      "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688",
+      "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685",
+      "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684",
+      "workday:manulife:/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358",
+      "workday:manulife:/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686"
      ],
-     "count": 2
+     "count": 7
+    },
+    "Winter 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:manulife:/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678",
+      "workday:manulife:/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677",
+      "workday:manulife:/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664",
+      "workday:manulife:/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663",
+      "workday:manulife:/job/Toronto-Ontario/XMLNAME-2027-Canada-Winter-Co-op---Quantitative-Analyst_JR26080353",
+      "workday:manulife:/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661"
+     ],
+     "count": 6
     }
    }
   },
@@ -1564,6 +1824,18 @@
     }
    }
   },
+  "nationgraph": {
+   "name": "NationGraph",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-03-21",
+     "role_ids": [
+      "ashby:nationgraph:a1bcdd3e-d863-42b6-8469-ec587190ad68"
+     ],
+     "count": 1
+    }
+   }
+  },
   "netsmart": {
    "name": "Netsmart",
    "cycles": {
@@ -1586,6 +1858,21 @@
       "workday:newrez:/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
      ],
      "count": 1
+    }
+   }
+  },
+  "nokia": {
+   "name": "Nokia",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39237",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39342",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39432",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39435"
+     ],
+     "count": 4
     }
    }
   },
@@ -1754,6 +2041,25 @@
     }
    }
   },
+  "ontario teachers pension plan": {
+   "name": "Ontario Teachers' Pension Plan",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-08-21",
+     "role_ids": [
+      "workday:otppb:/job/Toronto-Canada/Intern--Investments--Infrastructure---Natural-Resources--January-2027--4-Month-Contract-_7161"
+     ],
+     "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-21",
+     "role_ids": [
+      "workday:otppb:/job/Toronto-Canada/Intern--Investments--Infrastructure---Natural-Resources--May-2027--4-Month-Contract-_7163"
+     ],
+     "count": 1
+    }
+   }
+  },
   "oshkosh": {
    "name": "Oshkosh",
    "cycles": {
@@ -1761,6 +2067,18 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "pa consulting": {
+   "name": "PA Consulting",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-11",
+     "role_ids": [
+      "smartrecruiters:PAConsulting:744000142851499"
      ],
      "count": 1
     }
@@ -1844,6 +2162,13 @@
       "greenhouse:point72:7297642002"
      ],
      "count": 1
+    },
+    "Winter 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "greenhouse:point72:8721562002"
+     ],
+     "count": 1
     }
    }
   },
@@ -1919,6 +2244,18 @@
     }
    }
   },
+  "remarcable": {
+   "name": "Remarcable",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "ashby:remarcable-inc:a4f3aaaa-9469-42e8-a610-450d25eb5da7"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rendezvous robotics": {
    "name": "Rendezvous Robotics",
    "cycles": {
@@ -1979,6 +2316,34 @@
     }
    }
   },
+  "royal bank of canada": {
+   "name": "Royal Bank of Canada",
+   "cycles": {
+    "Winter 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "workday:rbc:/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661-1",
+      "workday:rbc:/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4--8--12-months-_R-0000184514",
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186-1",
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-1",
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern--4-Months-_R-0000185625-2",
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000185825-1",
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000186286-1",
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624-1",
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-1",
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116-2"
+     ],
+     "count": 10
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer---GRM--AI-Innovation---Business-Analyst-Intern--4-Months-_R-0000182977"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rtx": {
    "name": "RTX",
    "cycles": {
@@ -2001,6 +2366,15 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324"
      ],
      "count": 14
+    },
+    "Winter 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:globalhr:/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-de-donnes--Services-de-pices-de-rechange---Internship---Winter-2027---Data-Analyst--Spare-Parts-Services_01872182",
+      "workday:globalhr:/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-systmes-d-affaires-et-transformation---Internship---Winter-2027---Analyst-Business-Systems-and-Transformation_01869327",
+      "workday:globalhr:/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-aux-equipes-HEP--hybrid-electric-propulsion--Soutien-aux-publications-techniques-des-moteurs-avances---Internship---Winter-2027--HEP--Hybrid-Electric-propulsion--Advanced-Aerospace-Engine-Technical-Publication-Developer_01865619"
+     ],
+     "count": 3
     }
    }
   },
@@ -2238,6 +2612,18 @@
     }
    }
   },
+  "tc energy": {
+   "name": "TC Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:tcenergy:/job/Calgary-Alberta/Student-Intern--Computer-Science_JR-10733"
+     ],
+     "count": 1
+    }
+   }
+  },
   "td bank": {
    "name": "TD Bank",
    "cycles": {
@@ -2369,6 +2755,13 @@
    "name": "TRUMPF",
    "cycles": {
     "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:trumpf:/job/Farmington-CT/CNC-Programming-Intern_R00042595"
+     ],
+     "count": 1
+    },
+    "Winter 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:trumpf:/job/Farmington-CT/CNC-Programming-Intern_R00042595"
@@ -2539,6 +2932,14 @@
       "smartrecruiters:Wabtec:3743990014706157"
      ],
      "count": 2
+    },
+    "Winter 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "smartrecruiters:Wabtec:3743990014629016",
+      "smartrecruiters:Wabtec:3743990014706157"
+     ],
+     "count": 2
     }
    }
   },
@@ -2671,5 +3072,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T19:10:35Z"
+ "updated_at": "2026-09-03T19:49:36Z"
 }

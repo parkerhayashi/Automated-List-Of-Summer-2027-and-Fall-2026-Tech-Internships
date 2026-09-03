@@ -6,7 +6,7 @@
 
 A dependency-light Python engine that reads public ATS job feeds directly,
 keeps only the internships in scope (configurable cycle / region / role scope),
-classifies visa sponsorship from real posting text, tracks every role's
+classifies visa / work-permit language from real posting text, tracks every role's
 lifecycle over time, and regenerates the public `README.md`, a CSV, an Atom
 feed, a JSON API, and a live dashboard. GitHub Actions runs it on a schedule
 and commits the refreshed output.

@@ -45,7 +45,8 @@ def _role_line(record: dict) -> str:
     bold employer, linked title, dim detail line.
     """
     company = escape((record.get("company") or "")[:180])
-    if h1b.badge(h1b.approvals_for(record.get("company") or "")):
+    cfg = config.load_config()
+    if config.show_h1b(cfg) and h1b.badge(h1b.approvals_for(record.get("company") or "")):
         company += " ✓"
     if filters.is_remote(record.get("location") or "", record.get("title") or ""):
         company += " 🆁"
@@ -66,7 +67,7 @@ def _role_line(record: dict) -> str:
         bits.append(record["location"][:80])
     if record.get("salary"):
         bits.append(record["salary"][:80])
-    flag = sponsorship.flag(record.get("sponsorship"))
+    flag = sponsorship.flag(record.get("sponsorship"), cfg)
     if flag:
         bits.append(flag)
     detail = escape(" · ".join(b for b in bits if b))

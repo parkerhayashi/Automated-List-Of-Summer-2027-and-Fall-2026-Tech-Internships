@@ -62,7 +62,7 @@ def _entry(record: dict, base: str, data_as_of: str | None = None) -> str:
     if not record.get("is_open"):
         summary_bits.append("status: closed")
     approvals = h1b.approvals_for(record.get("company") or "")
-    if h1b.badge(approvals):
+    if config.show_h1b(config.load_config()) and h1b.badge(approvals):
         summary_bits.append(
             f"H-1B track record: ~{h1b.pretty_count(approvals)} approvals "
             f"({h1b.window_label()})"

@@ -117,6 +117,24 @@ class TestUnknownAndTraps:
         assert sponsorship.flag("offers") == ""
         assert sponsorship.flag("unknown") == ""
         assert sponsorship.flag(None) == ""
+        assert sponsorship.flag("citizens-only", {"regions": ["Canada"]}) == "🇨🇦"
+
+
+class TestCanadianCitizenship:
+    def test_canadian_citizen_required(self):
+        assert sponsorship.classify(
+            "Applicants must be a Canadian citizen or permanent resident."
+        ) == "citizens-only"
+
+    def test_reliability_status(self):
+        assert sponsorship.classify(
+            "Reliability status is required for this role."
+        ) == "citizens-only"
+
+    def test_eligible_to_work_in_canada_is_not_citizens_only(self):
+        assert sponsorship.classify(
+            "Must be legally eligible to work in Canada."
+        ) == "unknown"
 
     def test_strip_html(self):
         assert sponsorship.strip_html("<p>Hello&nbsp;<b>world</b></p>") == "Hello world"

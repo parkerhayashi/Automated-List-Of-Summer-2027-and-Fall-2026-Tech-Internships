@@ -124,9 +124,10 @@ def _is_new(record: dict, hours: int = 48) -> bool:
 REMOTE_MARK = "🆁"  # U+1F181 — a squared R, so it reads as a badge, not a word
 
 
-def _cells(record: dict) -> tuple[str, str, str, str, str, str, str]:
+def _cells(record: dict, cfg: dict | None = None) -> tuple[str, str, str, str, str, str, str]:
     company = _md_cell(record.get("company"))
-    if h1b.badge(h1b.approvals_for(record.get("company") or "")):
+    if cfg is not None and config.show_h1b(cfg) and \
+            h1b.badge(h1b.approvals_for(record.get("company") or "")):
         company += " ✓"
     # The remote mark sits beside the H-1B ✓ in the first column, where the eye
     # already goes for row-level markers, instead of trailing a title that can
@@ -137,7 +138,7 @@ def _cells(record: dict) -> tuple[str, str, str, str, str, str, str]:
     title = _md_cell(record.get("title"))
     is_open = record.get("is_open", True)
     badges = " ".join(
-        b for b in (sponsorship.flag(record.get("sponsorship")),
+        b for b in (sponsorship.flag(record.get("sponsorship"), cfg),
                     "🆕" if _is_new(record) and is_open else "")
         if b
     )
@@ -168,8 +169,8 @@ def _cells(record: dict) -> tuple[str, str, str, str, str, str, str]:
     )
 
 
-def _row(record: dict, cycle: str | None = None) -> str:
-    company, title, category, location, skill_tags, posted, apply = _cells(record)
+def _row(record: dict, cycle: str | None = None, cfg: dict | None = None) -> str:
+    company, title, category, location, skill_tags, posted, apply = _cells(record, cfg)
     # A multi-cycle posting appears under each cycle it names. Naming the OTHER
     # cycles here explains why the same title shows up twice — repeating this
     # section's own cycle would just be noise.
@@ -180,7 +181,7 @@ def _row(record: dict, cycle: str | None = None) -> str:
             f"{posted} | {apply} |")
 
 
-def _rolling_row(record: dict) -> str:
+def _rolling_row(record: dict, cfg: dict | None = None) -> str:
     """A row in the cycle-not-stated lane.
 
     There is deliberately no "likely cycle" column any more. It used to print
@@ -188,7 +189,7 @@ def _rolling_row(record: dict) -> str:
     postings it was confirmed 0 times out of 60 and contradicted every time it
     could be checked. These rows now say what's true — nobody stated a cycle.
     """
-    company, title, category, location, skill_tags, posted, apply = _cells(record)
+    company, title, category, location, skill_tags, posted, apply = _cells(record, cfg)
     return (f"| {company} | {title} | {category} | {location} | {skill_tags} | "
             f"{posted} | {apply} |")
 
@@ -201,7 +202,7 @@ def _region_label(cfg: dict) -> str:
         parts.append("United States")
     if config.want_canada(cfg):
         parts.append("Canada")
-    return " & ".join(parts) if parts else "United States"
+    return " & ".join(parts) if parts else "Canada"
 
 
 def _company_count() -> tuple[int, int]:
@@ -250,18 +251,112 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         count_phrase = f"{total_open} open roles ({shown} listed below)"
     region = _region_label(cfg)
     cycles = config.cycles(cfg)
-    cycles_phrase = " and ".join(cycles)
+    if len(cycles) <= 2:
+        cycles_phrase = " and ".join(cycles)
+    else:
+        cycles_phrase = ", ".join(cycles[:-1]) + f", and {cycles[-1]}"
     pages = config.pages_base()
 
     repo = config.repo_slug()
     stats_url = quote(f"{pages}/api/stats.json", safe="")
+    canada_only = config.want_canada(cfg) and not config.want_us(cfg)
+    citizens_flag = "🇨🇦" if canada_only else "🇺🇸"
+    masthead = "🍁 Canada Tech Internships" if canada_only else "🎓 Summer 2027 Tech Internships"
+    has_signup = config.signup_endpoint(cfg) is not None
+    alerts_link = (
+        f" · **[✉️ Email alerts]({pages}/#subscribe)**" if has_signup else ""
+    )
+    if has_signup:
+        inbox_line = (
+            f"**🔔 New roles in your inbox:** [subscribe by email]({pages}/#subscribe) "
+            "- one email a day, only when new internships actually appeared, "
+            "unsubscribe from any email in two clicks. (Prefer RSS-to-email? "
+            f"[Feedrabbit works too]({_email_subscribe_url()}).)"
+        )
+    else:
+        inbox_line = (
+            f"**🔔 New roles in your inbox:** [RSS]({pages}/feed.xml) or "
+            f"[Feedrabbit]({_email_subscribe_url()})."
+        )
+    if canada_only:
+        visa_row = (
+            "| 🛂 **Work authorization, from the posting** | 🇨🇦 / 🛂 flags "
+            "detected automatically from every job description — Canadian "
+            "citizenship required, or the employer says it won't sponsor a work "
+            "permit. Most postings say nothing either way, and those show as "
+            "unknown rather than guessed. |"
+        )
+        about_blurb = (
+            "This is a Canada-only fork of the internship engine. It tracks "
+            "software, data, and ML internships and co-ops located in Canada — "
+            "including the 4-month Fall, Winter, and Summer terms that Canadian "
+            "co-op programs actually run on."
+        )
+        flag_legend = (
+            f"- **Flags after a role title:** {citizens_flag} = requires Canadian "
+            "citizenship, permanent residency, or a security clearance · 🛂 = the "
+            "posting says it won't sponsor a work permit · 🆕 = spotted in the last "
+            "48 hours. Sponsorship flags are detected automatically from each job "
+            "description - treat them as a strong hint and confirm on the posting."
+        )
+        h1b_legend = ""
+    else:
+        visa_row = (
+            "| 🛂 **Visa intel, computed** | 🇺🇸 / 🛂 flags detected automatically from "
+            "every job description, plus ✓ for employers with a real H-1B track "
+            "record (USCIS data, FY2022-23 — a history, not a promise). The big "
+            "lists crowdsource this by hand; here it's code. Most postings say "
+            "nothing either way, and those show as unknown rather than guessed. |"
+        )
+        about_blurb = (
+            "I'm an international student studying in the United States, so I built "
+            "this for the search I'm doing myself. The list is US roles only for "
+            "now — that's where I'm searching."
+        )
+        flag_legend = (
+            "- **Flags after a role title:** 🇺🇸 = requires U.S. citizenship or a "
+            "security clearance · 🛂 = the posting says it won't sponsor a work "
+            "visa · 🆕 = spotted in the last 48 hours. Sponsorship flags are "
+            "detected automatically from each job description - treat them as a "
+            "strong hint and confirm on the posting."
+        )
+        h1b_legend = (
+            f"- **✓ after a company name** = a real H-1B track record: USCIS approved "
+            f"{h1b.BADGE_THRESHOLD}+ petitions for that employer in "
+            f"{h1b.window_label() or 'recent fiscal years'} (matched automatically "
+            "against the official [H-1B Employer Data Hub]"
+            "(https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)). "
+            "No ✓ doesn't mean they won't sponsor - it means we can't prove they have."
+        )
+    if has_signup:
+        alerts_row = (
+            f"| 🔔 **Alerts your way** | [Email digests]({pages}/#subscribe) or "
+            f"[RSS]({pages}/feed.xml) — point any reader, or a Slack/Discord RSS "
+            f"integration, at it. Plus a [live dashboard]({pages}/) with search, "
+            "filters, and a saved-roles list that never leaves your browser. |"
+        )
+        shipped = (
+            "**Recently shipped:** email alerts · the Drop Radar · auto-detected "
+            "sponsorship flags · the live dashboard"
+        )
+    else:
+        alerts_row = (
+            f"| 🔔 **Alerts your way** | [RSS]({pages}/feed.xml) — point any "
+            f"reader, or a Slack/Discord RSS integration, at it. Plus a "
+            f"[live dashboard]({pages}/) with search, filters, and a saved-roles "
+            "list that never leaves your browser. |"
+        )
+        shipped = (
+            "**Recently shipped:** the Drop Radar · auto-detected sponsorship "
+            "flags · the live dashboard"
+        )
     # The masthead is centered HTML: GitHub renders it, and it gives the page a
     # real header block instead of a left-aligned pile of bold lines. Markdown
     # inside needs the blank lines around it to keep parsing as markdown.
     return [
         '<div align="center">',
         "",
-        "# 🎓 Summer 2027 Tech Internships",
+        f"# {masthead}",
         "",
         "**A self-updating engine that tracks tech internships so you don't have "
         "to.**",
@@ -287,8 +382,8 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "",
         f"**[🖥️ Live dashboard]({pages}/)** · "
         f"**[📡 RSS]({pages}/feed.xml)** · "
-        f"**[⚙️ JSON API]({pages}/api/jobs.json)** · "
-        f"**[✉️ Email alerts]({pages}/#subscribe)**",
+        f"**[⚙️ JSON API]({pages}/api/jobs.json)**"
+        f"{alerts_link}",
         "",
         "</div>",
         "",
@@ -302,11 +397,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         # Native signup posts into our own Supabase list (RLS: insert-only).
         # The Feedrabbit link is the zero-account fallback via the raw feed URL,
         # which works even when GitHub Pages is off.
-        f"**🔔 New roles in your inbox:** [subscribe by email]({pages}/#subscribe) "
-        "- one email a day, only when new internships actually appeared, "
-        f"unsubscribe from any email in two clicks. (Prefer RSS-to-email? "
-        "[Feedrabbit works too]"
-        f"({_email_subscribe_url()}).)",
+        inbox_line,
         "",
         "---",
         "",
@@ -331,11 +422,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "drop date the moment the engine catches it live. Windows are estimates "
         "and labelled as such; only dates the engine saw itself are marked "
         "verified. |",
-        "| 🛂 **Visa intel, computed** | 🇺🇸 / 🛂 flags detected automatically from "
-        "every job description, plus ✓ for employers with a real H-1B track "
-        "record (USCIS data, FY2022-23 — a history, not a promise). The big "
-        "lists crowdsource this by hand; here it's code. Most postings say "
-        "nothing either way, and those show as unknown rather than guessed. |",
+        visa_row,
         "| 📆 **A real date on nearly every role** | Taken from the job portal "
         "itself wherever the portal states one, so newest-first actually means "
         "newest. The exact coverage figure is printed at the bottom of this "
@@ -344,10 +431,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "for the stack it wants (Python, C++, PyTorch, …) and the pay it "
         f"states — searchable on the [dashboard]({pages}/), and included in the "
         "CSV and API. |",
-        f"| 🔔 **Alerts your way** | [Email digests]({pages}/#subscribe) or "
-        f"[RSS]({pages}/feed.xml) — point any reader, or a Slack/Discord RSS "
-        f"integration, at it. Plus a [live dashboard]({pages}/) with search, "
-        "filters, and a saved-roles list that never leaves your browser. |",
+        alerts_row,
         f"| ⚙️ **An engine, not a spreadsheet** | {companies:,} job-board "
         f"endpoints ({(employers or companies):,} distinct employers; some run "
         "more than one board) polled every 30 minutes across 12 ATS platforms. "
@@ -367,9 +451,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "",
         "## About",
         "",
-        "I'm an international student studying in the United States, so I built "
-        "this for the search I'm doing myself. The list is US roles only for "
-        "now — that's where I'm searching.",
+        about_blurb,
         "",
         "Use it to spot roles early and apply before they fill up. Being first "
         "genuinely helps.",
@@ -378,8 +460,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "",
         "I'm building this in the open and adding to it as it grows.",
         "",
-        "**Recently shipped:** email alerts · the Drop Radar · auto-detected "
-        "sponsorship flags · the live dashboard",
+        shipped,
         "",
         "**Next up:** personalized alerts (pick your categories) · per-company "
         "hiring pages · a ghost-posting detector",
@@ -410,17 +491,8 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         f"- **{REMOTE_MARK} after a company name** = **this role is remote** — "
         "the posting's own location or title says so. It marks the role on that "
         "row, not the whole company.",
-        "- **Flags after a role title:** 🇺🇸 = requires U.S. citizenship or a "
-        "security clearance · 🛂 = the posting says it won't sponsor a work "
-        "visa · 🆕 = spotted in the last 48 hours. Sponsorship flags are "
-        "detected automatically from each job description - treat them as a "
-        "strong hint and confirm on the posting.",
-        f"- **✓ after a company name** = a real H-1B track record: USCIS approved "
-        f"{h1b.BADGE_THRESHOLD}+ petitions for that employer in "
-        f"{h1b.window_label() or 'recent fiscal years'} (matched automatically "
-        "against the official [H-1B Employer Data Hub]"
-        "(https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)). "
-        "No ✓ doesn't mean they won't sponsor - it means we can't prove they have.",
+        flag_legend,
+        h1b_legend,
         "- Track your applications with [`data/internships.csv`](data/internships.csv) "
         "(opens in Excel / Google Sheets).",
         "- Missing a company? Adding one takes a single line, see "
@@ -462,8 +534,8 @@ def _footer() -> list[str]:
         "## How this list is built",
         "",
         "[METHODOLOGY.md](METHODOLOGY.md) documents exactly what every label "
-        "claims — what separates a stated cycle from an inferred one, what the ✓ "
-        "H-1B badge does and doesn't mean, how a role gets closed, and which "
+        "claims — what separates a stated cycle from an inferred one, how "
+        "sponsorship flags are detected, how a role gets closed, and which "
         "limitations are known. Anything on this page that doesn't match the "
         "code is a bug worth reporting.",
         "",
@@ -522,7 +594,10 @@ def _select(rows: list[dict], limit, per_company) -> list[dict]:
 
 
 def _region_of(record: dict) -> str:
-    return "US" if filters.is_united_states(record.get("location") or "") else "International"
+    loc = record.get("location") or ""
+    if filters.is_united_states(loc) or filters.is_canada(loc):
+        return "primary"
+    return "International"
 
 
 def _new_this_week(open_jobs: list[dict], data_as_of: str | None = None) -> int:
@@ -665,7 +740,7 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
     sections: list[tuple[str, str, list[dict]]] = []
     displayed: list[dict] = []
     seen_display: set[str] = set()
-    for region in ("US", "International"):
+    for region in ("primary", "International"):
         for cycle in cycles:
             # Group BEFORE selecting, so an employer that opened one job eight
             # times spends one row of the per-company budget instead of eight —
@@ -677,7 +752,7 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
                 per_company,
             )
             if rows:
-                heading = cycle if region == "US" else f"{cycle} (International)"
+                heading = cycle if region == "primary" else f"{cycle} (International)"
                 sections.append((heading, cycle, rows))
                 for r in rows:
                     if r.get("id") not in seen_display:
@@ -703,7 +778,7 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
         lines.append("")
         lines.append("| Company | Role | Category | Location | Skills | Posted | Apply |")
         lines.append("|---|---|---|---|---|---|---|")
-        lines.extend(_row(r, cycle) for r in rows)
+        lines.extend(_row(r, cycle, cfg) for r in rows)
         lines.append("")
 
     if rolling_rows:
@@ -721,7 +796,7 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
             "| Company | Role | Category | Location | Skills | Posted | Apply |",
             "|---|---|---|---|---|---|---|",
         ])
-        lines.extend(_rolling_row(r) for r in rolling_rows)
+        lines.extend(_rolling_row(r, cfg) for r in rolling_rows)
         lines.append("")
 
     if not displayed and not rolling_rows:

@@ -28,7 +28,7 @@ A posting must pass all of:
    is software work students filter for) and a small number of **Hardware**
    roles whose titles are software-first (embedded, firmware). The dashboard's
    category filter separates all of them, so you can exclude either.
-3. **It's in the configured region** — United States by default.
+3. **It's in the configured region** — Canada (this fork).
 4. **It maps to a tracked cycle** — see below.
 
 The filters are precision-first: we would rather miss a role than list a wrong
@@ -99,8 +99,8 @@ company. Four verdicts:
 
 | Verdict | Meaning |
 |---|---|
-| `citizens-only` 🇺🇸 | Requires US citizenship, a clearance, or ITAR/US-person status. |
-| `no-sponsorship` 🛂 | The posting says it won't sponsor a work visa. |
+| `citizens-only` 🇺🇸 / 🇨🇦 | Requires citizenship, a clearance, or (US) ITAR/US-person status. The flag is 🇨🇦 on this Canada-only list. |
+| `no-sponsorship` 🛂 | The posting says it won't sponsor a work visa / permit. |
 | `offers` | The posting explicitly says sponsorship is available. |
 | `unknown` | The text says nothing conclusive. **This is most postings.** |
 
@@ -115,9 +115,12 @@ whole live list rather than only roles found after the change.
 
 ## The ✓ H-1B badge
 
-✓ means USCIS approved a meaningful number of H-1B petitions for that employer
-in the published fiscal-year window, matched against the public
-[H-1B Employer Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub).
+On a **US** list, ✓ means USCIS approved a meaningful number of H-1B petitions
+for that employer in the published fiscal-year window, matched against the
+public [H-1B Employer Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub).
+
+This Canada-only fork **hides** that badge. H-1B history is a US immigration
+dataset and is not a useful signal for Canadian internships or co-ops.
 
 It is **a history, not a promise**. It says nothing about internship
 sponsorship, about current policy, or about this specific role. No ✓ only means

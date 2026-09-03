@@ -925,7 +925,7 @@ def _build_stats(companies, benched, succeeded, complete_keys, errors, errors_by
             for cyc in (r.get("seasons") or [r.get("season")]) if cyc
         )),
         "roles_by_region": dict(Counter(
-            "US" if filters.is_united_states(r.get("location") or "") else "International"
+            filters.region_bucket(r.get("location") or "")
             for r in open_records
         )),
         "sponsorship_counts": dict(Counter(
@@ -969,7 +969,7 @@ def restat(existing: dict, stats: dict) -> dict:
         "roles_cycle_inferred": sum(1 for r in open_records if r.get("season_inferred")),
         "roles_by_source": dict(Counter(r.get("source") for r in open_records)),
         "roles_by_region": dict(Counter(
-            "US" if filters.is_united_states(r.get("location") or "") else "International"
+            filters.region_bucket(r.get("location") or "")
             for r in open_records
         )),
         "sponsorship_counts": dict(Counter(

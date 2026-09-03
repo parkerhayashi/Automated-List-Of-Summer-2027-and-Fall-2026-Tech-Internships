@@ -607,9 +607,25 @@ _US_STATES = [
     "district of columbia",
 ]
 _CA_PROVINCES = [
-    "ontario", "quebec", "british columbia", "alberta", "manitoba",
+    "ontario", "quebec", "québec", "british columbia", "alberta", "manitoba",
     "saskatchewan", "nova scotia", "new brunswick", "newfoundland", "labrador",
     "prince edward island", "yukon", "northwest territories", "nunavut",
+]
+# Bare city names ATS boards often emit without a province. Ambiguous names
+# (London, Victoria, Hamilton, Cambridge, Kingston, Surrey, Richmond) are
+# omitted — those still match when they carry a province or "Canada".
+_CA_CITIES = [
+    "toronto", "vancouver", "montreal", "montréal", "ottawa", "calgary",
+    "edmonton", "winnipeg", "mississauga", "waterloo", "kitchener",
+    "markham", "burnaby", "kanata", "halifax", "gatineau", "vaughan",
+    "brampton", "saskatoon", "regina", "kelowna", "guelph",
+    "oakville", "richmond hill", "north york", "scarborough",
+    "etobicoke", "laval", "longueuil", "quebec city", "québec city",
+    "coquitlam", "new westminster", "north vancouver", "west vancouver",
+    "st. john's", "saint john", "fredericton", "charlottetown",
+    "whitehorse", "yellowknife", "iqaluit", "ajax", "whitby", "pickering",
+    "newmarket", "barrie", "oshawa", "niagara falls", "thunder bay",
+    "red deer", "lethbridge", "kamloops", "nanaimo",
 ]
 _US_CODES = [
     "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID",
@@ -618,7 +634,10 @@ _US_CODES = [
     "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV",
     "WI", "WY", "DC", "US", "USA",
 ]
-_CA_CODES = ["ON", "QC", "BC", "AB", "MB", "SK", "NS", "NB", "NL", "PE", "YT", "NT", "NU"]
+_CA_CODES = [
+    "ON", "QC", "BC", "AB", "MB", "SK", "NS", "NB", "NL", "PE", "YT", "NT",
+    "NU", "CAN",
+]
 
 # US country tokens. These MUST be matched as whole tokens, never as substrings:
 # "usa" hides inside Lausanne, Jerusalem, Busan, Sausalito and dozens of other
@@ -677,6 +696,9 @@ _US_NAME_RE = re.compile(
 )
 _CA_NAME_RE = re.compile(
     r"\b(" + "|".join(re.escape(n) for n in _CA_PROVINCES) + r")\b", re.IGNORECASE
+)
+_CA_CITY_RE = re.compile(
+    r"\b(" + "|".join(re.escape(n) for n in _CA_CITIES) + r")\b", re.IGNORECASE
 )
 # case-sensitive; (?!-) avoids matching country-style prefixes like "DE-Berlin"
 # (Germany) as the US state code DE (Delaware).
@@ -800,6 +822,8 @@ def is_canada(location: str) -> bool:
         return True
     if _CA_NAME_RE.search(low):
         return True
+    if _CA_CITY_RE.search(low):
+        return True
     if _CA_CODE_RE.search(location):
         return True
     return False
@@ -807,6 +831,15 @@ def is_canada(location: str) -> bool:
 
 def is_us_or_canada(location: str) -> bool:
     return is_united_states(location) or is_canada(location)
+
+
+def region_bucket(location: str) -> str:
+    """Stable stats label: US, Canada, or International."""
+    if is_united_states(location):
+        return "US"
+    if is_canada(location):
+        return "Canada"
+    return "International"
 
 
 def region_ok(location: str, want_us: bool, want_canada: bool) -> bool:

@@ -44,7 +44,7 @@ improve precision/recall against real titles are very welcome.
 
 ## Improving the sponsorship flags
 
-The 🇺🇸 / 🛂 flags come from
+The 🇺🇸 / 🛂 / 🇨🇦 flags come from
 [`src/intern_engine/sponsorship.py`](src/intern_engine/sponsorship.py), which
 matches phrases employers actually write. Found a posting it gets wrong? Add
 the phrase to the right pattern **with a test** in

@@ -1498,6 +1498,18 @@
     }
    }
   },
+  "intact": {
+   "name": "Intact",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:intactfc:/job/Montral-Quebec-CAN/Developer-DevOPS---4-months-Co-op-Internship_R155352"
+     ],
+     "count": 1
+    }
+   }
+  },
   "intuitive surgical": {
    "name": "Intuitive Surgical",
    "cycles": {
@@ -2179,6 +2191,18 @@
      "first_posted": "2026-08-17",
      "role_ids": [
       "greenhouse:point72:8721562002"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "pricewaterhousecoopers pwc": {
+   "name": "PricewaterhouseCoopers (PwC)",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:pwc:/job/Ottawa/May-2027---Cyber-as-a-Service---Summer-Intern---Ottawa_759780WD"
      ],
      "count": 1
     }
@@ -3096,5 +3120,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T21:02:28Z"
+ "updated_at": "2026-09-09T18:17:09Z"
 }

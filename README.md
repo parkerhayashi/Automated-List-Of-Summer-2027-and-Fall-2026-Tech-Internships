@@ -8,7 +8,7 @@
 
 ### 41 open roles (29 listed below) · 41 new this week
 
-4,414 employers tracked · data as of Sep 09, 2026 at 18:17 UTC
+4,414 employers tracked · data as of Sep 09, 2026 at 21:22 UTC
 
 _15 have a cycle the employer stated · 26 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -89,6 +89,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Amazon | Software Development Engineer Intern, ROBOTICS - 2027 🆕 | Hardware | Toronto, International | Python, Java, C++, C# | Sep 09, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027) |
 | Intact | Developer DevOPS - 4 months Co-op Internship 🛂 🆕 | Software | Montréal, Quebec, CAN | Java, Angular, Kubernetes, Docker | Sep 08, 2026 | [Apply](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Developer-DevOPS---4-months-Co-op-Internship_R155352) |
 | PricewaterhouseCoopers (PwC) | May 2027 - Cyber as a Service - Summer Intern - Ottawa 🆕 | Security | Ottawa | Python, Java, C++, HTML/CSS | Sep 04, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cyber-as-a-Service---Summer-Intern---Ottawa_759780WD) |
 | Geotab | Hardware Developer Intern (Summer/May 2027, 12 Months) | Hardware | Oakville, Ontario - Canada | No skills listed | Sep 02, 2026 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008) |
@@ -96,7 +97,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Manulife Financial | Summer Intern 2027 - AI | Data & ML/AI | Toronto, Ontario | Python, Java, SQL, PyTorch | Aug 31, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688) |
 | Manulife Financial | Summer Intern 2027 - Software Engineering (8 Months) | Software | Toronto, Ontario | Python, Java, JavaScript, HTML/CSS | Aug 31, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685) |
 | Manulife Financial | Summer Intern 2027 - Software Engineering | Software | Toronto, Ontario | Python, Java, JavaScript, HTML/CSS | Aug 31, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684) |
-| Royal Bank of Canada | 2027 Summer - GRM, AI Innovation - Business Analyst Intern (4 Months) | Data & ML/AI | TORONTO, Ontario, Canada | Python, PyTorch, TensorFlow, scikit-learn | Aug 31, 2026 | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer---GRM--AI-Innovation---Business-Analyst-Intern--4-Months-_R-0000182977) |
 | Lumentum | Software Verification Engineer (Co-op/Intern) _(2 openings)_ | Software | Canada - Ottawa (Bill Leathem) | Python, C#, Bash, Linux | Aug 28, 2026 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261135) [#2](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261136) |
 | Ontario Teachers' Pension Plan | Intern- Investments, Infrastructure & Natural Resources (May 2027- 4 Month Contract) | Software | Toronto, Canada | No skills listed | Aug 21, 2026 | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Infrastructure---Natural-Resources--May-2027--4-Month-Contract-_7163) |
 | Georgian Partners Growth | AI/ML Engineer Intern (2027) | Data & ML/AI | Toronto Headquarters | Python, PyTorch, TensorFlow, scikit-learn | Jul 14, 2026 | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab) |
@@ -111,16 +111,16 @@ These postings never name a cycle — not in the title, not in the posting text 
 | BMO | AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months 🆕 | Data & ML/AI | Toronto, ON, CAN | AWS, Azure | Sep 08, 2026 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3) |
 | Entrust | Intern - Software Developer - 8 months Hybrid in Ottawa 🆕 | Software | Canada - Ottawa | React, Angular, Spring, AWS | Sep 07, 2026 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358) |
 | Brave | Software Engineering Intern - Waterloo University 🆕 | Software | Canada | Python, C++, Rust, TypeScript | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/brave/jobs/8161945) |
-| PlayStation | Software Developer Co-op 🆕 | Software | Canada, Waterloo, ON | Python, C++, JavaScript, React | Sep 03, 2026 | [Apply](https://job-boards.greenhouse.io/waterloocoop/jobs/6180979004) |
-| PlayStation | Software Developer Co-op – Back End 🆕 | Software | Canada, Waterloo, ON | Java, SQL, AWS, Kubernetes | Sep 03, 2026 | [Apply](https://job-boards.greenhouse.io/waterloocoop/jobs/6181055004) |
+| PlayStation | Software Development Engineer in Test - Backend Co-op 🆕 | Software | Canada, Waterloo, ON | Python, Java, C#, JavaScript | Sep 03, 2026 | [Apply](https://job-boards.greenhouse.io/waterloocoop/jobs/6180261004) |
 | PlayStation | Software Developer in Test Co-Op 🆕 _(2 openings)_ | Software | Canada, Waterloo, ON | Python, JavaScript, Git | Sep 03, 2026 | [Apply](https://job-boards.greenhouse.io/waterloocoop/jobs/6180267004) [#2](https://job-boards.greenhouse.io/waterloocoop/jobs/6180270004) |
+| PlayStation | Software Developer Co-op 🆕 | Software | Canada, Waterloo, ON | Python, C++, JavaScript, React | Sep 03, 2026 | [Apply](https://job-boards.greenhouse.io/waterloocoop/jobs/6180979004) |
 | Teledyne | LiDAR Data Analyst (Co-op) | Data & ML/AI | Canada - Concord, ON (TDY) | Python, C++, MATLAB | Sep 03, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Concord-ON-TDY/LiDAR-Data-Analyst--Co-op-_REQ36378) |
 | Intelcom / Dragonfly | Front-End Developer Intern - Power Platform Integration | Software | Canada, Quebec, Montreal | TypeScript, JavaScript, React, Azure | Sep 01, 2026 | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-End-Developer-Intern---Power-Platform-Integration_JR111615-1) |
 | Intelcom / Dragonfly | Software Development Intern - Address Intelligence Platform | Software | Canada, Quebec, Montreal | Python, Java, C#, TypeScript | Sep 01, 2026 | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Address-Intelligence-Platform_JR111611) |
 | Intelcom / Dragonfly | Software Development Intern - Warehouse Productivity | Software | Canada, Quebec, Montreal | C#, Azure | Sep 01, 2026 | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Warehouse-Productivity_JR111578-1) |
 | Stripe | Software Engineer, Intern (Summer or Winter) | Software | Toronto | Java, JavaScript, Scala, Ruby | Aug 31, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
 | Ciena | AI & Automation Intern - GCN Services Business Operations | Data & ML/AI | Ottawa | No skills listed | Aug 31, 2026 | [Apply](https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Resourcing-and-Enablement-Intern_R030908) |
-| Autodesk | Intern, AI Developer/ Stagiaire en développement IA | Data & ML/AI | Montreal, QC, CAN | Python, C++, PyTorch, TensorFlow | Aug 30, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) |
+| Autodesk | Intern, AI Developer/ Stagiaire en développement IA | Data & ML/AI | Montreal, QC, CAN | Python, C++, PyTorch, TensorFlow | Aug 30, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1) |
 | Epic Games | Machine Learning Intern | Data & ML/AI | Montreal,Quebec,Canada | Python, C++, C#, PyTorch | Aug 07, 2026 | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | InstaLILY | Software Engineer I, Toronto Co-op | Software | Toronto | Python, TypeScript, LLMs, AWS | Jul 31, 2026 | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) |
 
@@ -174,6 +174,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Royal Bank of Canada | 2027 Summer - GRM, AI Innovation - Business Analyst Intern (4 Months) | Summer 2027 | 2026-09-09 | gone from feed |
 | Amazon | Software Development Engineer Intern, Annapurna Labs - 2027 | Summer 2027 | 2026-09-03 | out of scope |
 | Ellipsis Labs | Software Engineer - 2027 Interns | Summer 2027 | 2026-09-03 | out of scope |
 | Heliux | Software Engineer (Internship, Summer 2027) | Summer 2027 | 2026-09-03 | out of scope |
@@ -213,7 +214,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Flow Traders | Quantitative Trading Intern Summer 2027 | Summer 2027 | 2026-09-03 | out of scope |
 | Freeform | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-09-03 | out of scope |
 | General Matter | Summer 2027 Internship - Software Engineering | Summer 2027 | 2026-09-03 | out of scope |
-| General Matter | Summer 2027 Internship - Embedded Software Engineering | Summer 2027 | 2026-09-03 | out of scope |
 
 </details>
 
@@ -232,7 +232,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,399 of 4,661 registered boards returned successfully across 12 ATS platforms (94% of boards attempted, 94% of the full registry) · completed in 1261.6s · 648 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,318 of 4,661 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 871.9s · 608 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

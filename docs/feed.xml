@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-09T18:17:09Z</updated>
+  <updated>2026-09-09T21:22:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:ashby:bree:42fe78c1-e73f-4918-bf71-776b8142112b</id>
-    <title>Bree: Software Engineer, Backend (Co-op)</title>
-    <link href="https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b"/>
-    <updated>2026-09-09T18:17:09Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto · $50–$70/hr · TypeScript, JavaScript, Node.js, AWS, Git · status: closed</summary>
+    <id>urn:intern-engine:amazon:amazon:10535280</id>
+    <title>Amazon: Software Development Engineer Intern, ROBOTICS - 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027"/>
+    <updated>2026-09-09T21:22:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Toronto, International · Python, Java, C++, C#, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850</id>
+    <title>Intel: AI and Compiler Engineering Graduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850"/>
+    <updated>2026-09-09T21:22:49Z</updated>
+    <category term="Fall 2027"/>
+    <summary>Fall 2027 · Data &amp; ML/AI · Virtual Canada · C++, PyTorch, LLMs, CUDA · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:bree:17d8dd15-5f97-4003-8d6c-170dca13ff88</id>
@@ -24,28 +32,12 @@
     <summary>Winter 2027 · Software · Toronto · $50–$70/hr · TypeScript, JavaScript, React, Node.js, AWS · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:myview:/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038</id>
-    <title>Loblaw Companies: Applied Machine Learning - Co-op Student</title>
-    <link href="https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038"/>
+    <id>urn:intern-engine:ashby:bree:42fe78c1-e73f-4918-bf71-776b8142112b</id>
+    <title>Bree: Software Engineer, Backend (Co-op)</title>
+    <link href="https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b"/>
     <updated>2026-09-09T18:17:09Z</updated>
     <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · 1 Presidents Choice Circle, Brampton, ON · Python, SQL, AWS, GCP, Azure · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:myview:/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000699845</id>
-    <title>Loblaw Companies: Software Development - Co-op Student</title>
-    <link href="https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000699845"/>
-    <updated>2026-09-09T18:17:09Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · 500 Lake Shore Blvd W, Toronto, ON · Python, SQL, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3</id>
-    <title>BMO: AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months</title>
-    <link href="https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3"/>
-    <updated>2026-09-09T18:17:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto, ON, CAN · AWS, Azure</summary>
+    <summary>Winter 2027 · Software · Toronto · $50–$70/hr · TypeScript, JavaScript, Node.js, AWS, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:brave:8161945</id>
@@ -54,6 +46,54 @@
     <updated>2026-09-09T18:17:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada · Python, C++, Rust, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waterloocoop:6180261004</id>
+    <title>PlayStation: Software Development Engineer in Test - Backend Co-op</title>
+    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6180261004"/>
+    <updated>2026-09-09T18:17:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Waterloo, ON · Python, Java, C#, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waterloocoop:6180267004</id>
+    <title>PlayStation: Software Developer in Test Co-Op</title>
+    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6180267004"/>
+    <updated>2026-09-09T18:17:09Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Canada, Waterloo, ON · Python, JavaScript, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waterloocoop:6180979004</id>
+    <title>PlayStation: Software Developer Co-op</title>
+    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6180979004"/>
+    <updated>2026-09-09T18:17:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Waterloo, ON · Python, C++, JavaScript, React, Vue</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waterloocoop:6181014004</id>
+    <title>PlayStation: Software Developer in Test, Front End Co-op</title>
+    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6181014004"/>
+    <updated>2026-09-09T18:17:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Waterloo, ON · Python, JavaScript, HTML/CSS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waterloocoop:6181055004</id>
+    <title>PlayStation: Software Developer Co-op – Back End</title>
+    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6181055004"/>
+    <updated>2026-09-09T18:17:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Waterloo, ON · Java, SQL, AWS, Kubernetes, Docker</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3</id>
+    <title>BMO: AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months</title>
+    <link href="https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3"/>
+    <updated>2026-09-09T18:17:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toronto, ON, CAN · AWS, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:entrust:/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358</id>
@@ -72,44 +112,20 @@
     <summary>Summer 2027 · Software · Montréal, Quebec, CAN · Java, Angular, Kubernetes, Docker · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:waterloocoop:6180979004</id>
-    <title>PlayStation: Software Developer Co-op</title>
-    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6180979004"/>
+    <id>urn:intern-engine:workday:myview:/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038</id>
+    <title>Loblaw Companies: Applied Machine Learning - Co-op Student</title>
+    <link href="https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038"/>
     <updated>2026-09-09T18:17:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Waterloo, ON · Python, C++, JavaScript, React, Vue</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · 1 Presidents Choice Circle, Brampton, ON · Python, SQL, AWS, GCP, Azure · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:waterloocoop:6181055004</id>
-    <title>PlayStation: Software Developer Co-op – Back End</title>
-    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6181055004"/>
+    <id>urn:intern-engine:workday:myview:/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000699845</id>
+    <title>Loblaw Companies: Software Development - Co-op Student</title>
+    <link href="https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000699845"/>
     <updated>2026-09-09T18:17:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Waterloo, ON · Java, SQL, AWS, Kubernetes, Docker</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waterloocoop:6180267004</id>
-    <title>PlayStation: Software Developer in Test Co-Op</title>
-    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6180267004"/>
-    <updated>2026-09-09T18:17:09Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Canada, Waterloo, ON · Python, JavaScript, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waterloocoop:6181014004</id>
-    <title>PlayStation: Software Developer in Test, Front End Co-op</title>
-    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6181014004"/>
-    <updated>2026-09-09T18:17:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Waterloo, ON · Python, JavaScript, HTML/CSS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waterloocoop:6180261004</id>
-    <title>PlayStation: Software Development Engineer in Test - Backend Co-op</title>
-    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6180261004"/>
-    <updated>2026-09-09T18:17:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Waterloo, ON · Python, Java, C#, JavaScript, SQL</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · 500 Lake Shore Blvd W, Toronto, ON · Python, SQL, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:pwc:/job/Ottawa/May-2027---Cyber-as-a-Service---Summer-Intern---Ottawa_759780WD</id>
@@ -370,7 +386,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2</id>
     <title>Autodesk: Intern, AI Developer/ Stagiaire en développement IA</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montreal, QC, CAN · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>
@@ -779,9 +795,9 @@
     <id>urn:intern-engine:workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer---GRM--AI-Innovation---Business-Analyst-Intern--4-Months-_R-0000182977</id>
     <title>Royal Bank of Canada: 2027 Summer - GRM, AI Innovation - Business Analyst Intern (4 Months)</title>
     <link href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer---GRM--AI-Innovation---Business-Analyst-Intern--4-Months-_R-0000182977"/>
-    <updated>2026-09-03T19:49:36Z</updated>
+    <updated>2026-09-09T21:22:50Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · TORONTO, Ontario, Canada · Python, PyTorch, TensorFlow, scikit-learn, LLMs</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · TORONTO, Ontario, Canada · Python, PyTorch, TensorFlow, scikit-learn, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186-1</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-03T20:18:04Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Data &amp; ML/AI · TORONTO, Ontario, Canada · Python, SQL, Bash, Linux, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-1</id>
-    <title>Royal Bank of Canada: 2027 Winter - GRM, AI &amp; Stress Testing Analytics Intern (4 Months)</title>
-    <link href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-1"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · TORONTO, Ontario, Canada · Python, SQL, LLMs, HTML/CSS, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern--4-Months-_R-0000185625-2</id>
-    <title>Royal Bank of Canada: 2027 Winter - GRM, AI Business Analyst Intern (4 Months)</title>
-    <link href="https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern--4-Months-_R-0000185625-2"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · TORONTO, Ontario, Canada · Python, LLMs · status: closed</summary>
   </entry>
 </feed>

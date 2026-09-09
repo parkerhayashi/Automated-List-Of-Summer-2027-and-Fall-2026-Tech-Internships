@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-09T18:17:09Z",
- "data_as_of": "2026-09-09T18:17:09Z",
- "rendered_at": "2026-09-09T18:17:09Z",
+ "generated_at": "2026-09-09T21:22:50Z",
+ "data_as_of": "2026-09-09T21:22:50Z",
+ "rendered_at": "2026-09-09T21:22:50Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -22,6 +22,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-05-07"
+   }
+  },
+  {
+   "company": "Amazon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-05-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-05-13",
+   "days_until": -119,
+   "status": "open",
+   "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027",
+   "note": "rolling from mid-summer, very early",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-05-13"
    }
   },
   {
@@ -98,25 +117,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-28"
-   }
-  },
-  {
-   "company": "Royal Bank of Canada",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -9,
-   "status": "open",
-   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer---GRM--AI-Innovation---Business-Analyst-Intern--4-Months-_R-0000182977",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-31"
    }
   },
   {
@@ -2704,25 +2704,6 @@
    }
   },
   {
-   "company": "Amazon",
-   "last_cycle_posted": "",
-   "posted_on": "2026-05-13",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-05-13",
-   "days_until": -119,
-   "status": "dropped",
-   "url": "",
-   "note": "rolling from mid-summer, very early",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-05-13"
-   }
-  },
-  {
    "company": "InfiniteQuant",
    "last_cycle_posted": "",
    "posted_on": "2026-05-29",
@@ -4643,6 +4624,25 @@
   },
   {
    "company": "Oshkosh",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Royal Bank of Canada",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
    "precision": "day",

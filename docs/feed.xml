@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-10T16:38:09Z</updated>
+  <updated>2026-09-10T19:29:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849</id>
-    <title>Intel: Compiler Engineering Undergraduate Intern - SYCL Runtime</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849"/>
-    <updated>2026-09-10T16:38:09Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Canada, Toronto · C++, CUDA, Linux · status: closed</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/AI-Solutions---Automation-Intern_R-259241</id>
     <title>AstraZeneca: AI Solutions &amp; Automation Intern</title>
@@ -22,6 +14,14 @@
     <updated>2026-09-10T16:38:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849</id>
+    <title>Intel: Compiler Engineering Undergraduate Intern - SYCL Runtime</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849"/>
+    <updated>2026-09-10T16:38:09Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Canada, Toronto · C++, CUDA, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10535280</id>
@@ -402,7 +402,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2</id>
     <title>Autodesk: Intern, AI Developer/ Stagiaire en développement IA</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montreal, QC, CAN · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>

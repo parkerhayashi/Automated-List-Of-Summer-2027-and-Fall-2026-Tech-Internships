@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-11T00:18:59Z</updated>
+  <updated>2026-09-11T04:41:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:zaber:EAB5877DC3</id>
+    <title>Zaber Technologies: Software Developer (Co-op)</title>
+    <link href="https://apply.workable.com/zaber/j/EAB5877DC3/"/>
+    <updated>2026-09-11T04:41:38Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Vancouver, British Columbia, Canada · $24–$28/hr · Python, TypeScript, SQL, React · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:zaber:1F627CC2BB</id>
+    <title>Zaber Technologies: Embedded Software Developer (Co-op)</title>
+    <link href="https://apply.workable.com/zaber/j/1F627CC2BB/"/>
+    <updated>2026-09-11T04:41:38Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Vancouver, British Columbia, Canada · $24–$28/hr · C++ · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/AI-Solutions---Automation-Intern_R-259241</id>
     <title>AstraZeneca: AI Solutions &amp; Automation Intern</title>
@@ -402,7 +418,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2</id>
     <title>Autodesk: Intern, AI Developer/ Stagiaire en développement IA</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montreal, QC, CAN · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>
@@ -790,21 +806,5 @@
     <updated>2026-09-09T18:17:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Toronto, Canada · Java, C#, SQL, Kotlin, Selenium · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rbc:/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661-1</id>
-    <title>Royal Bank of Canada: Winter 2027 - GRM, BSLR Liquidity Data &amp; AI Intern (4 Months)</title>
-    <link href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661-1"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · TORONTO, Ontario, Canada · Python, LLMs, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rbc:/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4--8--12-months-_R-0000184514</id>
-    <title>Royal Bank of Canada: Winter 2027 Co-op Student – Data Analyst, Personal Banking (4, 8, 12 months)</title>
-    <link href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4--8--12-months-_R-0000184514"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · TORONTO, Ontario, Canada · Python, SQL, Tableau · status: closed</summary>
   </entry>
 </feed>

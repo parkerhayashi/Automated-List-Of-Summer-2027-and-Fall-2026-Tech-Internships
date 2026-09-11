@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-11T20:18:09Z</updated>
+  <updated>2026-09-11T22:42:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/Data---Ai-Solutions-Intern_R-259890</id>
-    <title>AstraZeneca: Data &amp; Ai Solutions Intern</title>
-    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/Data---Ai-Solutions-Intern_R-259890"/>
+    <id>urn:intern-engine:amazon:amazon:10538066</id>
+    <title>Amazon: ML Systems Software Development Engineer Intern, Annapurna Labs - 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027"/>
+    <updated>2026-09-11T22:42:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, International · Python, C++, TypeScript, PyTorch, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lyft:8797069002</id>
+    <title>Lyft: UX Research Intern (Summer 2027)</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002"/>
     <updated>2026-09-11T20:18:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga · Python, SQL, LLMs, AWS, Spark</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Design · Toronto, Canada · $48/hr · SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lyft:8802332002</id>
@@ -24,12 +32,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Toronto, Canada · $53/hr · Python, PyTorch, TensorFlow, scikit-learn</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:lyft:8797069002</id>
-    <title>Lyft: UX Research Intern (Summer 2027)</title>
-    <link href="https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002"/>
+    <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/Data---Ai-Solutions-Intern_R-259890</id>
+    <title>AstraZeneca: Data &amp; Ai Solutions Intern</title>
+    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/Data---Ai-Solutions-Intern_R-259890"/>
     <updated>2026-09-11T20:18:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Design · Toronto, Canada · $48/hr · SQL</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga · Python, SQL, LLMs, AWS, Spark</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lyft:8767534002</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Toronto, Ontario · Python, Java, SQL, PyTorch, scikit-learn</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685</id>
-    <title>Manulife Financial: Summer Intern 2027 - Software Engineering (8 Months)</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Toronto, Ontario · Python, Java, JavaScript, HTML/CSS, Git</summary>
   </entry>
 </feed>

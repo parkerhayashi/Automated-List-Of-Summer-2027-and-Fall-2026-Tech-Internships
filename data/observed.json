@@ -1683,6 +1683,23 @@
     }
    }
   },
+  "lyft": {
+   "name": "Lyft",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "greenhouse:lyft:8767534002",
+      "greenhouse:lyft:8767697002",
+      "greenhouse:lyft:8767710002",
+      "greenhouse:lyft:8796054002",
+      "greenhouse:lyft:8797376002",
+      "greenhouse:lyft:8797859002"
+     ],
+     "count": 6
+    }
+   }
+  },
   "manulife financial": {
    "name": "Manulife Financial",
    "cycles": {
@@ -3121,5 +3138,5 @@
    }
   }
  },
- "updated_at": "2026-09-11T13:47:45Z"
+ "updated_at": "2026-09-11T17:26:58Z"
 }

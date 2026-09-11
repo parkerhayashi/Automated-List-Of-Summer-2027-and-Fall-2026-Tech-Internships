@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "greenhouse:lyft:8797376002",
+      "greenhouse:lyft:8767697002",
+      "greenhouse:lyft:8796054002",
+      "greenhouse:lyft:8767710002",
+      "greenhouse:lyft:8797859002",
+      "greenhouse:lyft:8767534002"
+    ],
+    "telegram": [
+      "greenhouse:lyft:8797376002",
+      "greenhouse:lyft:8767697002",
+      "greenhouse:lyft:8796054002",
+      "greenhouse:lyft:8767710002",
+      "greenhouse:lyft:8797859002",
+      "greenhouse:lyft:8767534002"
+    ]
   }
 }

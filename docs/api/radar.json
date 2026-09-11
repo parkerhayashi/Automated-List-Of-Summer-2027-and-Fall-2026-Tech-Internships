@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T13:47:45Z",
- "data_as_of": "2026-09-11T13:47:45Z",
- "rendered_at": "2026-09-11T13:47:45Z",
+ "generated_at": "2026-09-11T17:26:58Z",
+ "data_as_of": "2026-09-11T17:26:58Z",
+ "rendered_at": "2026-09-11T17:26:58Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -193,6 +193,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "Lyft",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-11"
    }
   },
   {
@@ -5117,5 +5136,5 @@
    }
   }
  ],
- "count": 269
+ "count": 270
 }

@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-11T04:41:38Z</updated>
+  <updated>2026-09-11T09:21:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workable:zaber:EAB5877DC3</id>
-    <title>Zaber Technologies: Software Developer (Co-op)</title>
-    <link href="https://apply.workable.com/zaber/j/EAB5877DC3/"/>
-    <updated>2026-09-11T04:41:38Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Vancouver, British Columbia, Canada · $24–$28/hr · Python, TypeScript, SQL, React · status: closed</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:workable:zaber:1F627CC2BB</id>
     <title>Zaber Technologies: Embedded Software Developer (Co-op)</title>
@@ -22,6 +14,14 @@
     <updated>2026-09-11T04:41:38Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Vancouver, British Columbia, Canada · $24–$28/hr · C++ · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:zaber:EAB5877DC3</id>
+    <title>Zaber Technologies: Software Developer (Co-op)</title>
+    <link href="https://apply.workable.com/zaber/j/EAB5877DC3/"/>
+    <updated>2026-09-11T04:41:38Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Vancouver, British Columbia, Canada · $24–$28/hr · Python, TypeScript, SQL, React · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/AI-Solutions---Automation-Intern_R-259241</id>

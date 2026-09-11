@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-09-11T09:21:30Z",
- "data_as_of": "2026-09-11T09:21:30Z",
- "rendered_at": "2026-09-11T09:21:31Z",
+ "generated_at": "2026-09-11T13:47:45Z",
+ "data_as_of": "2026-09-11T13:47:45Z",
+ "rendered_at": "2026-09-11T13:47:45Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 42,
+ "count": 43,
  "jobs": [
+  {
+   "id": "workday:micron:/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212",
+   "company": "Micron Technology",
+   "title": "INTERNSHIP - NAND Cell Characterization & AI Tools",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Vimercate (MB), Italy",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212",
+   "posted_at": "2026-09-11T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-11T13:47:45Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "LLMs"
+   ],
+   "source": "workday",
+   "h1b_approvals": 489,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:astrazeneca:/job/Canada---Mississauga/AI-Solutions---Automation-Intern_R-259241",
    "company": "AstraZeneca",

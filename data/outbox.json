@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:astrazeneca:/job/Canada---Mississauga/Data---Ai-Solutions-Intern_R-259890",
-      "greenhouse:lyft:8802332002",
-      "greenhouse:lyft:8797069002"
-    ],
-    "telegram": [
-      "workday:astrazeneca:/job/Canada---Mississauga/Data---Ai-Solutions-Intern_R-259890",
-      "greenhouse:lyft:8802332002",
-      "greenhouse:lyft:8797069002"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

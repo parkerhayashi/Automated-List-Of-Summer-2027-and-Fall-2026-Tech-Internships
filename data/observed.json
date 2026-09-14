@@ -406,6 +406,18 @@
     }
    }
   },
+  "bank of montreal": {
+   "name": "Bank of Montreal",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:bmo:/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3"
+     ],
+     "count": 1
+    }
+   }
+  },
   "beacon software": {
    "name": "Beacon Software",
    "cycles": {
@@ -3155,5 +3167,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T14:07:58Z"
+ "updated_at": "2026-09-14T19:34:10Z"
 }

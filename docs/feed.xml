@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-14T14:07:58Z</updated>
+  <updated>2026-09-14T19:34:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ciena:/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631</id>
+    <title>Ciena: Software Engineering, Optical Transport and IP Networking Intern</title>
+    <link href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631"/>
+    <updated>2026-09-14T19:34:10Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Hardware · Ottawa · Python, Java, C++, JavaScript, Bash · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3</id>
+    <title>Bank of Montreal: Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months</title>
+    <link href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3"/>
+    <updated>2026-09-14T19:34:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Toronto, ON, CAN · Python, SQL, Pandas, AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Eurofins:744000149363579</id>
+    <title>Eurofins: AI Compliance Internship</title>
+    <link href="https://jobs.smartrecruiters.com/Eurofins/744000149363579"/>
+    <updated>2026-09-14T19:34:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Maastricht, LI, International (NL)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Ottawa-Canada/Firmware-Engineer-Intern_2604738-1</id>
+    <title>Marvell: Firmware Engineer Intern</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Ottawa-Canada/Firmware-Engineer-Intern_2604738-1"/>
+    <updated>2026-09-14T19:34:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Ottawa, Canada · Python, Bash, LLMs, Linux, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:robinhood:8142930</id>
     <title>Robinhood: Software Developer Intern, Backend (Summer 2027)</title>
@@ -774,37 +806,5 @@
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada, Quebec, Montreal · Python, Java, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Full-Stack-Developer-Intern---Route-Optimization_JR111570-1</id>
-    <title>Intelcom | Dragonfly: Full-Stack Developer Intern - Route Optimization</title>
-    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Full-Stack-Developer-Intern---Route-Optimization_JR111570-1"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Quebec, Montreal · Python, Java, C#, AWS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Site-Reliability-Engineering--SRE--Intern_JR111560</id>
-    <title>Intelcom | Dragonfly: Site Reliability Engineering (SRE) Intern</title>
-    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Site-Reliability-Engineering--SRE--Intern_JR111560"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Quebec, Montreal · Python, Bash, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Software-Developer-in-Test-Intern_JR111565</id>
-    <title>Intelcom | Dragonfly: Software Developer in Test Intern</title>
-    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Developer-in-Test-Intern_JR111565"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Quebec, Montreal · Python, Java, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Software-Development-Intern---Address-Intelligence-Platform_JR111611</id>
-    <title>Intelcom | Dragonfly: Software Development Intern - Address Intelligence Platform</title>
-    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Address-Intelligence-Platform_JR111611"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Quebec, Montreal · Python, Java, C#, TypeScript, JavaScript</summary>
   </entry>
 </feed>

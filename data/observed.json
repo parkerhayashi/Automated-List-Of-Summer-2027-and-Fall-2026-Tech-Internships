@@ -483,6 +483,13 @@
       "workday:bmo:/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-2"
      ],
      "count": 9
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:bmo:/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3"
+     ],
+     "count": 1
     }
    }
   },
@@ -2421,9 +2428,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792",
+      "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742",
       "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer---GRM--AI-Innovation---Business-Analyst-Intern--4-Months-_R-0000182977"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -3167,5 +3177,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T19:34:10Z"
+ "updated_at": "2026-09-14T22:56:49Z"
 }

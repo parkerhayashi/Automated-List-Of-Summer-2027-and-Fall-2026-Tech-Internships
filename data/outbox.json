@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:bmo:/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
-      "smartrecruiters:Eurofins:744000149363579",
-      "workday:marvell:/job/Ottawa-Canada/Firmware-Engineer-Intern_2604738-1"
-    ],
-    "telegram": [
-      "workday:bmo:/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
-      "smartrecruiters:Eurofins:744000149363579",
-      "workday:marvell:/job/Ottawa-Canada/Firmware-Engineer-Intern_2604738-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

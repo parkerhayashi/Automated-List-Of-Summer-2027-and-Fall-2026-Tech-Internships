@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "greenhouse:robinhood:8142930",
+      "greenhouse:robinhood:8199729",
+      "greenhouse:robinhood:8199744"
+    ],
+    "telegram": [
+      "greenhouse:robinhood:8142930",
+      "greenhouse:robinhood:8199729",
+      "greenhouse:robinhood:8199744"
+    ]
   }
 }

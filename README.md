@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 53 open roles (36 listed below) · 24 new this week
+### 56 open roles (39 listed below) · 27 new this week
 
-4,550 employers tracked · data as of Sep 14, 2026 at 07:11 UTC
+4,550 employers tracked · data as of Sep 14, 2026 at 14:07 UTC
 
-_24 have a cycle the employer stated · 29 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_27 have a cycle the employer stated · 29 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -85,10 +85,13 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (16 employer-stated)
+## Summer 2027  (19 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Robinhood | Software Developer Intern, Backend (Summer 2027) 🆕 | Software | Toronto, Canada | Python, Django, AWS, Kubernetes | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930) |
+| Robinhood | Software Developer Intern, iOS (Summer 2027) 🆕 | Software | Toronto, Canada | Swift | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729) |
+| Robinhood | Software Developer Intern, Web (Summer 2027) 🆕 | Software | Toronto, Canada | Python, TypeScript, JavaScript, React | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744) |
 | Amazon | ML Systems Software Development Engineer Intern, Annapurna Labs - 2027 | Data & ML/AI | Toronto, International | Python, C++, TypeScript, PyTorch | Sep 11, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) |
 | Lyft | UX Research Intern (Summer 2027) | Design | Toronto, Canada | SQL | Sep 11, 2026 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
 | Lyft | Software Engineer Intern, Machine Learning (Summer 2027) | Data & ML/AI | Toronto, Canada | Python, PyTorch, TensorFlow, scikit-learn | Sep 11, 2026 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) |
@@ -127,7 +130,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Intelcom / Dragonfly | Software Development Intern - Warehouse Productivity | Software | Canada, Quebec, Montreal | C#, Azure | Sep 01, 2026 | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Warehouse-Productivity_JR111578-1) |
 | Stripe | Software Engineer, Intern (Summer or Winter) | Software | Toronto | Java, JavaScript, Scala, Ruby | Aug 31, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
 | Ciena | AI & Automation Intern - GCN Services Business Operations | Data & ML/AI | Ottawa | No skills listed | Aug 31, 2026 | [Apply](https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Resourcing-and-Enablement-Intern_R030908) |
-| Autodesk | Intern, AI Developer/ Stagiaire en développement IA | Data & ML/AI | Montreal, QC, CAN | Python, C++, PyTorch, TensorFlow | Aug 30, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1) |
+| Autodesk | Intern, AI Developer/ Stagiaire en développement IA | Data & ML/AI | Montreal, QC, CAN | Python, C++, PyTorch, TensorFlow | Aug 30, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) |
 | Epic Games | Machine Learning Intern | Data & ML/AI | Montreal,Quebec,Canada | Python, C++, C#, PyTorch | Aug 07, 2026 | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | InstaLILY | Software Engineer I, Toronto Co-op | Software | Toronto | Python, TypeScript, LLMs, AWS | Jul 31, 2026 | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) |
 
@@ -172,7 +175,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | AMD | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Anduril Industries | ~Sep | ~Sep · any day now | ⏳ waiting |
 
-_270 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **141** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_270 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **142** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles that left the list in the last 14 days</summary>
@@ -239,7 +242,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,500 of 4,802 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 749.3s · 622 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,523 of 4,802 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 773.0s · 649 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

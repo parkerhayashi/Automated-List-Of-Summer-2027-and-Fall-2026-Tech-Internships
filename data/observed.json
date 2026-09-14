@@ -2349,6 +2349,20 @@
     }
    }
   },
+  "robinhood": {
+   "name": "Robinhood",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:robinhood:8142930",
+      "greenhouse:robinhood:8199729",
+      "greenhouse:robinhood:8199744"
+     ],
+     "count": 3
+    }
+   }
+  },
   "roblox": {
    "name": "Roblox",
    "cycles": {
@@ -3141,5 +3155,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T07:11:51Z"
+ "updated_at": "2026-09-14T14:07:58Z"
 }

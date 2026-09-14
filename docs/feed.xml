@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-14T07:11:51Z</updated>
+  <updated>2026-09-14T14:07:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:robinhood:8142930</id>
+    <title>Robinhood: Software Developer Intern, Backend (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&amp;gh_jid=8142930"/>
+    <updated>2026-09-14T14:07:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, Canada · Python, Django, AWS, Kubernetes, Kafka</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:robinhood:8199729</id>
+    <title>Robinhood: Software Developer Intern, iOS (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&amp;gh_jid=8199729"/>
+    <updated>2026-09-14T14:07:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, Canada · Swift</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:robinhood:8199744</id>
+    <title>Robinhood: Software Developer Intern, Web (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&amp;gh_jid=8199744"/>
+    <updated>2026-09-14T14:07:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, Canada · Python, TypeScript, JavaScript, React, Django</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10538066</id>
     <title>Amazon: ML Systems Software Development Engineer Intern, Annapurna Labs - 2027</title>
@@ -522,7 +546,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2</id>
     <title>Autodesk: Intern, AI Developer/ Stagiaire en développement IA</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montreal, QC, CAN · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>
@@ -782,29 +806,5 @@
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada, Quebec, Montreal · Python, Java, C#, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Software-Development-Intern---Warehouse-Productivity_JR111578-1</id>
-    <title>Intelcom | Dragonfly: Software Development Intern - Warehouse Productivity</title>
-    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Warehouse-Productivity_JR111578-1"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Quebec, Montreal · C#, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261135</id>
-    <title>Lumentum: Software Verification Engineer (Co-op/Intern)</title>
-    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261135"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Software · Canada - Ottawa (Bill Leathem) · $24–$35/hr · Python, C#, Bash, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688</id>
-    <title>Manulife Financial: Summer Intern 2027 - AI</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, Ontario · Python, Java, SQL, PyTorch, scikit-learn</summary>
   </entry>
 </feed>

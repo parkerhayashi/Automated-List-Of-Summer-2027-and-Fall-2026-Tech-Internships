@@ -1708,10 +1708,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-28",
      "role_ids": [
+      "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261356",
       "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261135",
       "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261136"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3189,5 +3190,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T12:56:04Z"
+ "updated_at": "2026-09-15T17:58:19Z"
 }

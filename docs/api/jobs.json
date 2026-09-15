@@ -1,11 +1,38 @@
 {
- "generated_at": "2026-09-14T22:56:49Z",
- "data_as_of": "2026-09-14T22:56:49Z",
- "rendered_at": "2026-09-14T22:56:50Z",
+ "generated_at": "2026-09-15T01:35:09Z",
+ "data_as_of": "2026-09-15T01:35:09Z",
+ "rendered_at": "2026-09-15T01:35:09Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 63,
  "jobs": [
+  {
+   "id": "greenhouse:doordashcanada:8170944",
+   "company": "DoorDash",
+   "title": "Software Engineer, Intern (Summer 2027) - TOR",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Toronto, ON",
+   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944",
+   "posted_at": "2026-09-14T18:50:07-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-15T01:35:09Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "Kotlin",
+    "AWS"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": 685,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "ashby:cerebras:c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6",
    "company": "Cerebras",
@@ -34,15 +61,15 @@
    "remote": false
   },
   {
-   "id": "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742",
+   "id": "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
    "company": "Royal Bank of Canada",
-   "title": "2027 Capital Markets, Global Equities, Quantitative Trading Analyst (16 Months, Co-op)",
+   "title": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
-   "category": "Quant",
+   "category": "Data & ML/AI",
    "location": "TORONTO, Ontario, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742",
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
    "posted_at": "2026-09-14T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-14T22:56:49Z",
@@ -50,7 +77,10 @@
    "salary": null,
    "skills": [
     "Python",
-    "SQL"
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "Linux"
    ],
    "source": "workday",
    "h1b_approvals": 4,
@@ -84,15 +114,15 @@
    "remote": false
   },
   {
-   "id": "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
+   "id": "workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742",
    "company": "Royal Bank of Canada",
-   "title": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
+   "title": "2027 Capital Markets, Global Equities, Quantitative Trading Analyst (16 Months, Co-op)",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
-   "category": "Data & ML/AI",
+   "category": "Quant",
    "location": "TORONTO, Ontario, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742",
    "posted_at": "2026-09-14T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-14T22:56:49Z",
@@ -100,10 +130,7 @@
    "salary": null,
    "skills": [
     "Python",
-    "PyTorch",
-    "scikit-learn",
-    "Pandas",
-    "Linux"
+    "SQL"
    ],
    "source": "workday",
    "h1b_approvals": 4,
@@ -1555,34 +1582,6 @@
    "source": "greenhouse",
    "h1b_approvals": 28,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:instalilyai:4342089009",
-   "company": "InstaLILY",
-   "title": "Software Engineer I, Toronto Co-op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Toronto",
-   "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4342089009",
-   "posted_at": "2026-07-31T14:24:00-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-03T19:49:36Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "TypeScript",
-    "LLMs",
-    "AWS",
-    "GCP",
-    "Azure"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Co-op",
    "remote": false
   },
   {

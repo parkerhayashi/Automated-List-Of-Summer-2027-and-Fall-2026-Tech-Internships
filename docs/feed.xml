@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-14T22:56:49Z</updated>
+  <updated>2026-09-15T01:35:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:doordashcanada:8170944</id>
+    <title>DoorDash: Software Engineer, Intern (Summer 2027) - TOR</title>
+    <link href="https://job-boards.greenhouse.io/doordashcanada/jobs/8170944"/>
+    <updated>2026-09-15T01:35:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, ON · Python, Java, SQL, Kotlin, AWS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:cerebras:c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6</id>
     <title>Cerebras: DevOps Engineer Intern - PEY</title>
@@ -16,12 +24,12 @@
     <summary>Not stated · Software · Toronto, CAN · Python, Bash, AWS, Kubernetes, Docker</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742</id>
-    <title>Royal Bank of Canada: 2027 Capital Markets, Global Equities, Quantitative Trading Analyst (16 Months, Co-op)</title>
-    <link href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742"/>
+    <id>urn:intern-engine:workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1</id>
+    <title>Royal Bank of Canada: 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)</title>
+    <link href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1"/>
     <updated>2026-09-14T22:56:49Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · TORONTO, Ontario, Canada · Python, SQL</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · TORONTO, Ontario, Canada · Python, PyTorch, scikit-learn, Pandas, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792</id>
@@ -32,12 +40,12 @@
     <summary>Summer 2027 · Quant · TORONTO, Ontario, Canada · Python, Java, C++, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1</id>
-    <title>Royal Bank of Canada: 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)</title>
-    <link href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1"/>
+    <id>urn:intern-engine:workday:rbc:/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742</id>
+    <title>Royal Bank of Canada: 2027 Capital Markets, Global Equities, Quantitative Trading Analyst (16 Months, Co-op)</title>
+    <link href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742"/>
     <updated>2026-09-14T22:56:49Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · TORONTO, Ontario, Canada · Python, PyTorch, scikit-learn, Pandas, Linux</summary>
+    <summary>Summer 2027 · Quant · TORONTO, Ontario, Canada · Python, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000149363579</id>
@@ -427,9 +435,9 @@
     <id>urn:intern-engine:greenhouse:instalilyai:4342089009</id>
     <title>InstaLILY: Software Engineer I, Toronto Co-op</title>
     <link href="https://job-boards.greenhouse.io/instalilyai/jobs/4342089009"/>
-    <updated>2026-09-03T19:49:36Z</updated>
+    <updated>2026-09-15T01:22:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto · Python, TypeScript, LLMs, AWS, GCP</summary>
+    <summary>Not stated · Software · Toronto · Python, TypeScript, LLMs, AWS, GCP · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:internshiplist2000:5156504008</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-03T20:18:04Z</updated>
     <category term="Fall 2026"/>
     <summary>2 openings · Fall 2026 · Software · Toronto, Ontario, Canada · Python, Bash, Docker, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR111568</id>
-    <title>Intelcom | Dragonfly: AI Data Analyst Intern</title>
-    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR111568"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Canada, Quebec, Montreal · Python, Pandas</summary>
   </entry>
 </feed>

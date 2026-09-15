@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-15T01:35:09Z",
- "data_as_of": "2026-09-15T01:35:09Z",
- "rendered_at": "2026-09-15T01:35:09Z",
+ "generated_at": "2026-09-15T06:56:04Z",
+ "data_as_of": "2026-09-15T06:56:04Z",
+ "rendered_at": "2026-09-15T06:56:04Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 63,
@@ -160,14 +160,14 @@
   },
   {
    "id": "workday:bmo:/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
-   "company": "BMO",
+   "company": "Bank of Montreal",
    "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
    "category": "Quant",
    "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
+   "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
    "posted_at": "2026-09-14T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-14T19:34:10Z",
@@ -184,7 +184,7 @@
     "Git"
    ],
    "source": "workday",
-   "h1b_approvals": null,
+   "h1b_approvals": 6,
    "program": "Internship / Co-op",
    "remote": false
   },

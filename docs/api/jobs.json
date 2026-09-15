@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-15T21:34:03Z",
- "data_as_of": "2026-09-15T21:34:03Z",
- "rendered_at": "2026-09-15T21:34:03Z",
+ "generated_at": "2026-09-15T23:55:09Z",
+ "data_as_of": "2026-09-15T23:55:09Z",
+ "rendered_at": "2026-09-15T23:55:10Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 65,
+ "count": 64,
  "jobs": [
   {
    "id": "workday:altera:/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
@@ -1186,27 +1186,6 @@
    "remote": false
   },
   {
-   "id": "workday:ciena:/job/Ottawa/Resourcing-and-Enablement-Intern_R030908",
-   "company": "Ciena",
-   "title": "AI & Automation Intern - GCN Services Business Operations",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Resourcing-and-Enablement-Intern_R030908",
-   "posted_at": "2026-08-31T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-03T19:49:36Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 43,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:intelcomgroup:/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR111568",
    "company": "Intelcom | Dragonfly",
    "title": "AI Data Analyst Intern",
@@ -1509,7 +1488,7 @@
    "season_inferred": true,
    "category": "Data & ML/AI",
    "location": "Montreal, QC, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1",
    "posted_at": "2026-08-30T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-03T19:49:36Z",

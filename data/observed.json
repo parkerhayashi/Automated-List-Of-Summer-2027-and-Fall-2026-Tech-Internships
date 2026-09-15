@@ -271,6 +271,19 @@
     }
    }
   },
+  "apera ai": {
+   "name": "Apera AI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "greenhouse:aperaaiinc:5239394007",
+      "greenhouse:aperaaiinc:5239440007"
+     ],
+     "count": 2
+    }
+   }
+  },
   "appian": {
    "name": "Appian",
    "cycles": {
@@ -3190,5 +3203,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T21:34:03Z"
+ "updated_at": "2026-09-15T23:55:09Z"
 }

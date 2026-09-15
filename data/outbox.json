@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39600",
-      "workday:intelcomgroup:/job/Canada-Quebec-Montreal/Back-end-Developer-Intern---Mobile-Application_JR111747"
-    ],
-    "telegram": [
-      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39600",
-      "workday:intelcomgroup:/job/Canada-Quebec-Montreal/Back-end-Developer-Intern---Mobile-Application_JR111747"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

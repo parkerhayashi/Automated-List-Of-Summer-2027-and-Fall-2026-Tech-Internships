@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-15T17:58:19Z",
- "data_as_of": "2026-09-15T17:58:19Z",
- "rendered_at": "2026-09-15T17:58:19Z",
+ "generated_at": "2026-09-15T21:34:03Z",
+ "data_as_of": "2026-09-15T21:34:03Z",
+ "rendered_at": "2026-09-15T21:34:03Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 65,
  "jobs": [
+  {
+   "id": "workday:altera:/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
+   "company": "Altera Corporation",
+   "title": "Quartus Compiler Software - Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
+   "posted_at": "2026-09-15T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-15T21:34:03Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C++",
+    "Verilog"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39600",
    "company": "Nokia",
@@ -1260,31 +1284,6 @@
    "remote": false
   },
   {
-   "id": "workday:intelcomgroup:/job/Canada-Quebec-Montreal/Front-end-Developer-Intern---Mobile-Application_JR111571",
-   "company": "Intelcom | Dragonfly",
-   "title": "Front-end Developer Intern - Mobile Application",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Canada, Quebec, Montreal",
-   "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-end-Developer-Intern---Mobile-Application_JR111571",
-   "posted_at": "2026-08-31T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-03T19:49:36Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C#"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:intelcomgroup:/job/Canada-Quebec-Montreal/Full-Stack-Developer-Intern---Route-Optimization_JR111570-1",
    "company": "Intelcom | Dragonfly",
    "title": "Full-Stack Developer Intern - Route Optimization",
@@ -1510,7 +1509,7 @@
    "season_inferred": true,
    "category": "Data & ML/AI",
    "location": "Montreal, QC, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
    "posted_at": "2026-08-30T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-03T19:49:36Z",

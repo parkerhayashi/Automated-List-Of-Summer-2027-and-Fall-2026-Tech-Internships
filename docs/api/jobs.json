@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-16T10:08:44Z",
- "data_as_of": "2026-09-16T10:08:44Z",
- "rendered_at": "2026-09-16T10:08:44Z",
+ "generated_at": "2026-09-16T15:05:00Z",
+ "data_as_of": "2026-09-16T15:05:00Z",
+ "rendered_at": "2026-09-16T15:05:00Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 64,
+ "count": 63,
  "jobs": [
   {
    "id": "workday:altera:/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
@@ -709,32 +709,6 @@
    "skills": [
     "AWS",
     "Azure"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship / Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:intactfc:/job/Montral-Quebec-CAN/Developer-DevOPS---4-months-Co-op-Internship_R155352",
-   "company": "Intact",
-   "title": "Developer DevOPS - 4 months Co-op Internship",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Montréal, Quebec, CAN",
-   "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Developer-DevOPS---4-months-Co-op-Internship_R155352",
-   "posted_at": "2026-09-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-09T18:17:09Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "Java",
-    "Angular",
-    "Kubernetes",
-    "Docker"
    ],
    "source": "workday",
    "h1b_approvals": null,

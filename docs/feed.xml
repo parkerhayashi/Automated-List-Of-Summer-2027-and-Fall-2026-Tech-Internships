@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-16T19:08:49Z</updated>
+  <updated>2026-09-16T22:21:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:aperaaiinc:5240274007</id>
+    <title>Apera AI: Software Developer (Cloud Infrastructure) – Co-Op</title>
+    <link href="https://job-boards.greenhouse.io/aperaaiinc/jobs/5240274007"/>
+    <updated>2026-09-16T22:21:46Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Vancouver, British Columbia · Python, TypeScript, JavaScript, Computer Vision, Vue · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:aperaaiinc:5240259007</id>
+    <title>Apera AI: Software Developer - Full Stack (Co-op)</title>
+    <link href="https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007"/>
+    <updated>2026-09-16T22:21:46Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Vancouver, British Columbia · Python, React, Vue, Flask, AWS · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ciena:/job/Ottawa/AI---Automation-Intern---GCN-Services-Business-Operations_R031664</id>
     <title>Ciena: AI &amp; Automation Intern - GCN Services Business Operations</title>
@@ -539,9 +555,9 @@
     <id>urn:intern-engine:greenhouse:internshiplist2000:5380567008</id>
     <title>Geotab: Hardware Developer Intern (Summer/May 2027, 12 Months)</title>
     <link href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008"/>
-    <updated>2026-09-03T19:49:36Z</updated>
+    <updated>2026-09-16T22:21:46Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Oakville, Ontario - Canada</summary>
+    <summary>Summer 2027 · Hardware · Oakville, Ontario - Canada · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:internshiplist2000:5383410008</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-03T20:18:04Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Security · Montreal (St. Laurent) · Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ciena:/job/Ottawa/Resourcing-and-Enablement-Intern_R030908</id>
-    <title>Ciena: AI &amp; Automation Intern - GCN Services Business Operations</title>
-    <link href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Resourcing-and-Enablement-Intern_R030908"/>
-    <updated>2026-09-15T23:55:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Ottawa · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flir:/job/Canada---Concord-ON-TDY/LiDAR-Data-Analyst--Co-op-_REQ36378</id>
-    <title>Teledyne: LiDAR Data Analyst (Co-op)</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Concord-ON-TDY/LiDAR-Data-Analyst--Co-op-_REQ36378"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Canada - Concord, ON (TDY) · Python, C++, MATLAB</summary>
   </entry>
 </feed>

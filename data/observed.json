@@ -278,9 +278,11 @@
      "first_posted": "2026-09-15",
      "role_ids": [
       "greenhouse:aperaaiinc:5239394007",
-      "greenhouse:aperaaiinc:5239440007"
+      "greenhouse:aperaaiinc:5239440007",
+      "greenhouse:aperaaiinc:5240259007",
+      "greenhouse:aperaaiinc:5240274007"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -3203,5 +3205,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T19:08:49Z"
+ "updated_at": "2026-09-16T22:21:46Z"
 }

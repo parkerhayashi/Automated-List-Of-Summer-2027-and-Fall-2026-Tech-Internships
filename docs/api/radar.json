@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-16T19:08:49Z",
- "data_as_of": "2026-09-16T19:08:49Z",
- "rendered_at": "2026-09-16T19:08:49Z",
+ "generated_at": "2026-09-16T22:21:46Z",
+ "data_as_of": "2026-09-16T22:21:46Z",
+ "rendered_at": "2026-09-16T22:21:46Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -155,25 +155,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-01"
-   }
-  },
-  {
-   "company": "Geotab",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-02",
-   "days_until": -14,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-02"
    }
   },
   {
@@ -4947,6 +4928,25 @@
   },
   {
    "company": "Allied Solutions",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": -14,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-02"
+   }
+  },
+  {
+   "company": "Geotab",
    "last_cycle_posted": "",
    "posted_on": "2026-09-02",
    "precision": "day",

@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-15T23:55:09Z</updated>
+  <updated>2026-09-16T04:53:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:greenhouse:aperaaiinc:5239440007</id>
-    <title>Apera AI: Machine Learning Applied Scientist (Co-op)</title>
-    <link href="https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007"/>
-    <updated>2026-09-15T23:55:09Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Vancouver, British Columbia · Python, PyTorch, Computer Vision, Vue, AWS · status: closed</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:aperaaiinc:5239394007</id>
     <title>Apera AI: Software Developer - C++ (Co-op)</title>
@@ -22,6 +14,14 @@
     <updated>2026-09-15T23:55:09Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Software · Vancouver, British Columbia · C++, Python, Computer Vision, Vue, Linux · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:aperaaiinc:5239440007</id>
+    <title>Apera AI: Machine Learning Applied Scientist (Co-op)</title>
+    <link href="https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007"/>
+    <updated>2026-09-15T23:55:09Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Vancouver, British Columbia · Python, PyTorch, Computer Vision, Vue, AWS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108</id>
@@ -666,7 +666,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2</id>
     <title>Autodesk: Intern, AI Developer/ Stagiaire en développement IA</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montreal, QC, CAN · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>

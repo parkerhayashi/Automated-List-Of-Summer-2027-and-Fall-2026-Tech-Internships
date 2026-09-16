@@ -8,7 +8,7 @@
 
 ### 64 open roles (47 listed below) · 38 new this week
 
-4,562 employers tracked · data as of Sep 15, 2026 at 23:55 UTC
+4,562 employers tracked · data as of Sep 16, 2026 at 04:53 UTC
 
 _32 have a cycle the employer stated · 32 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -139,7 +139,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Intelcom / Dragonfly | Front-End Developer Intern - Power Platform Integration | Software | Canada, Quebec, Montreal | TypeScript, JavaScript, React, Azure | Sep 01, 2026 | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-End-Developer-Intern---Power-Platform-Integration_JR111615-1) |
 | Intelcom / Dragonfly | Software Development Intern - Address Intelligence Platform | Software | Canada, Quebec, Montreal | Python, Java, C#, TypeScript | Sep 01, 2026 | [Apply](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Address-Intelligence-Platform_JR111611) |
 | Stripe | Software Engineer, Intern (Summer or Winter) | Software | Toronto | Java, JavaScript, Scala, Ruby | Aug 31, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
-| Autodesk | Intern, AI Developer/ Stagiaire en développement IA | Data & ML/AI | Montreal, QC, CAN | Python, C++, PyTorch, TensorFlow | Aug 30, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1) |
+| Autodesk | Intern, AI Developer/ Stagiaire en développement IA | Data & ML/AI | Montreal, QC, CAN | Python, C++, PyTorch, TensorFlow | Aug 30, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) |
 | Epic Games | Machine Learning Intern | Data & ML/AI | Montreal,Quebec,Canada | Python, C++, C#, PyTorch | Aug 07, 2026 | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 
 <a id="drop-radar"></a>
@@ -152,36 +152,36 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 
 | Company | Typical opening | Expected this cycle | Status |
 |---|---|---|---|
-| Accenture | ~Aug | ~Aug · any day now | ⏳ waiting |
-| AQR Capital Management | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Atlassian | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Bridgewater Associates | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Cisco | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Citadel | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Databricks | ~Aug | ~Aug · any day now | ⏳ waiting |
-| DRW | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Figma | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Google | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Intuit | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Jane Street | ~Aug | ~Aug · any day now | ⏳ waiting |
-| John Deere | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Meta | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Optiver | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Pinterest | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Salesforce | ~Aug | ~Aug · any day now | ⏳ waiting |
-| SIG | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Snowflake | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Target | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Tesla | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Uber | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Visa | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Walmart | ~Aug | ~Aug · any day now | ⏳ waiting |
 | 3M | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Adobe | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Airbnb | ~Sep | ~Sep · any day now | ⏳ waiting |
 | AMD | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Anduril Industries | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Applied Intuition | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Asana | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Aurora | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Bloomberg | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Blue Origin | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Boeing | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Booz Allen Hamilton | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Boston Scientific | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Carvana | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Caterpillar | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Chewy | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Cloudflare | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Comcast | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Confluent | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Coupang | ~Sep | ~Sep · any day now | ⏳ waiting |
+| CrowdStrike | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Dell Technologies | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Discord | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Dropbox | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Elastic | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Electronic Arts | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Epic Games | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Fastly | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Ford | ~Sep | ~Sep · any day now | ⏳ waiting |
+| General Motors | ~Sep | ~Sep · any day now | ⏳ waiting |
 
 _273 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **146** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
@@ -250,7 +250,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,385 of 4,816 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 939.1s · 566 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,517 of 4,816 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 730.8s · 629 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

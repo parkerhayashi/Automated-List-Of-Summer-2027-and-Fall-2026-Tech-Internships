@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-16T15:05:00Z</updated>
+  <updated>2026-09-16T19:08:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ciena:/job/Ottawa/AI---Automation-Intern---GCN-Services-Business-Operations_R031664</id>
+    <title>Ciena: AI &amp; Automation Intern - GCN Services Business Operations</title>
+    <link href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/AI---Automation-Intern---GCN-Services-Business-Operations_R031664"/>
+    <updated>2026-09-16T19:08:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ottawa</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:aperaaiinc:5239394007</id>
     <title>Apera AI: Software Developer - C++ (Co-op)</title>
@@ -371,9 +379,9 @@
     <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3</id>
     <title>BMO: AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months</title>
     <link href="https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3"/>
-    <updated>2026-09-09T18:17:09Z</updated>
+    <updated>2026-09-16T19:08:49Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto, ON, CAN · AWS, Azure</summary>
+    <summary>Not stated · Data &amp; ML/AI · Toronto, ON, CAN · AWS, Azure · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:entrust:/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358</id>
@@ -666,7 +674,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2</id>
     <title>Autodesk: Intern, AI Developer/ Stagiaire en développement IA</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montreal, QC, CAN · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>
@@ -798,13 +806,5 @@
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Canada - Concord, ON (TDY) · Python, C++, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Lighting-Software-Development---Test_JR-202618179</id>
-    <title>General Motors: 2027 Winter Co-op Lighting Software Development &amp; Test</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Lighting-Software-Development---Test_JR-202618179"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Markham, Ontario, Canada · Python · status: closed</summary>
   </entry>
 </feed>

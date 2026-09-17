@@ -1739,11 +1739,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-28",
      "role_ids": [
+      "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261355",
       "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261356",
       "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261135",
       "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261136"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1775,12 +1776,13 @@
       "workday:manulife:/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682",
       "workday:manulife:/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680",
       "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688",
+      "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Infrastructure-Equity-Internship_JR26081107",
       "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685",
       "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684",
       "workday:manulife:/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358",
       "workday:manulife:/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686"
      ],
-     "count": 7
+     "count": 8
     },
     "Winter 2027": {
      "first_posted": "2026-08-31",
@@ -3221,5 +3223,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T10:42:32Z"
+ "updated_at": "2026-09-17T15:32:04Z"
 }

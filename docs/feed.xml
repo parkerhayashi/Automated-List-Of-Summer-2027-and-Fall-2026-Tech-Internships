@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-17T05:33:08Z</updated>
+  <updated>2026-09-17T10:42:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:bci:/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1</id>
+    <title>British Columbia Investment: AI and Automation Engineer Co-op/Internship (Winter &amp; Summer 2027)</title>
+    <link href="https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1"/>
+    <updated>2026-09-17T10:42:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Victoria, BC · Python, LLMs, Azure, Terraform, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bci:/job/Victoria-BC/DevSecOps-Engineer-Co-op-Internship--Winter-2027---Summer-2027-_JR101591</id>
+    <title>British Columbia Investment: DevSecOps Engineer Co-op/Internship (Winter 2027 &amp; Summer 2027)</title>
+    <link href="https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/DevSecOps-Engineer-Co-op-Internship--Winter-2027---Summer-2027-_JR101591"/>
+    <updated>2026-09-17T10:42:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Victoria, BC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bci:/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596</id>
+    <title>British Columbia Investment: Investment Tech/Data &amp; Analytics -  Software Engineer Co-op Internship (Winter 2027 or Winter &amp; Summer 2027)</title>
+    <link href="https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596"/>
+    <updated>2026-09-17T10:42:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Victoria, BC · Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bci:/job/Victoria-BC/Platform-Engineer-ServiceNow-Co-op-Internship--Winter-2027---Summer-2027-_JR101585</id>
+    <title>British Columbia Investment: Platform Engineer ServiceNow Co-op/Internship (Winter 2027 &amp; Summer 2027)</title>
+    <link href="https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Platform-Engineer-ServiceNow-Co-op-Internship--Winter-2027---Summer-2027-_JR101585"/>
+    <updated>2026-09-17T10:42:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Victoria, BC · Python, JavaScript, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bci:/job/Victoria-BC/Portfolio-Management---Insights-Co-op-Internship--Winter-2027-or-Summer-2027-_JR101581</id>
+    <title>British Columbia Investment: Infrastructure &amp; Renewable Resources - Portfolio Management &amp; Insights Co-op/Internship (Winter or Summer 2027)</title>
+    <link href="https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Portfolio-Management---Insights-Co-op-Internship--Winter-2027-or-Summer-2027-_JR101581"/>
+    <updated>2026-09-17T10:42:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Victoria, BC</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000150008719</id>
     <title>Bosch: Internship at Technical IT Group in manufacturing / Industry 4.0 software developer for internal application</title>
@@ -706,7 +746,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2</id>
     <title>Autodesk: Intern, AI Developer/ Stagiaire en développement IA</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montreal, QC, CAN · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>
@@ -766,45 +806,5 @@
     <updated>2026-09-03T20:18:04Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Data &amp; ML/AI · Toronto, ON, CAN · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Junior-Cybersecurity-Intern--Winter-2027--Co-op-Internship----4-Months_R260024652-3</id>
-    <title>BMO: Junior Cybersecurity Intern, Winter 2027 (Co-op/Internship) - 4 Months</title>
-    <link href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Cybersecurity-Intern--Winter-2027--Co-op-Internship----4-Months_R260024652-3"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Security · Toronto, ON, CAN · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650</id>
-    <title>BMO: Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months</title>
-    <link href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto, ON, CAN · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678</id>
-    <title>BMO: Software Developer, Winter 2027 (Co-op/Internship) - 12 Months</title>
-    <link href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto, ON, CAN · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-3</id>
-    <title>BMO: Software Developer, Winter 2027 (Co-op/Internship) - 4 Months</title>
-    <link href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-3"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto, ON, CAN · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-2</id>
-    <title>BMO: Software Developer, Winter 2027 (Co-op/Internship) - 8 Months</title>
-    <link href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-2"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto, ON, CAN · status: closed</summary>
   </entry>
 </feed>

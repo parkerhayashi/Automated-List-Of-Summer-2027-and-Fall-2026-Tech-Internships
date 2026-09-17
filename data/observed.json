@@ -582,6 +582,22 @@
     }
    }
   },
+  "british columbia investment": {
+   "name": "British Columbia Investment",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:bci:/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1",
+      "workday:bci:/job/Victoria-BC/DevSecOps-Engineer-Co-op-Internship--Winter-2027---Summer-2027-_JR101591",
+      "workday:bci:/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596",
+      "workday:bci:/job/Victoria-BC/Platform-Engineer-ServiceNow-Co-op-Internship--Winter-2027---Summer-2027-_JR101585",
+      "workday:bci:/job/Victoria-BC/Portfolio-Management---Insights-Co-op-Internship--Winter-2027-or-Summer-2027-_JR101581"
+     ],
+     "count": 5
+    }
+   }
+  },
   "brunswick": {
    "name": "Brunswick",
    "cycles": {
@@ -3205,5 +3221,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T05:33:08Z"
+ "updated_at": "2026-09-17T10:42:32Z"
 }

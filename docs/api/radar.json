@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T05:33:08Z",
- "data_as_of": "2026-09-17T05:33:08Z",
- "rendered_at": "2026-09-17T05:33:08Z",
+ "generated_at": "2026-09-17T10:42:32Z",
+ "data_as_of": "2026-09-17T10:42:32Z",
+ "rendered_at": "2026-09-17T10:42:32Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -250,6 +250,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-14"
+   }
+  },
+  {
+   "company": "British Columbia Investment",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-17"
    }
   },
   {
@@ -5193,5 +5212,5 @@
    }
   }
  ],
- "count": 273
+ "count": 274
 }

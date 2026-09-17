@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-17T19:32:18Z</updated>
+  <updated>2026-09-17T22:41:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053</id>
+    <title>Manulife Financial: Summer Intern 2027 - Software Engineering (12 Months)</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053"/>
+    <updated>2026-09-17T22:41:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Waterloo, Ontario · Python, Java, JavaScript, HTML/CSS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rockwellautomation:/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Physical-AI--OTTO-at-Rockwell-Automation-_R26-6872-1</id>
+    <title>Rockwell Automation: Co-op, Robotics Research - Physical AI (OTTO at Rockwell Automation) 🛂</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Physical-AI--OTTO-at-Rockwell-Automation-_R26-6872-1"/>
+    <updated>2026-09-17T22:41:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Waterloo, Ontario, Canada · PyTorch, ROS · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rockwellautomation:/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-6732-1</id>
+    <title>Rockwell Automation: Co-op, User Experience - Robotics (OTTO by Rockwell Automation) 🛂</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-6732-1"/>
+    <updated>2026-09-17T22:41:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Design · Waterloo, Ontario, Canada · LLMs, React, ROS · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:towerresearchcapital:8212179</id>
+    <title>Tower Research Capital: Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)</title>
+    <link href="https://www.tower-research.com/open-positions/?gh_jid=8212179"/>
+    <updated>2026-09-17T22:41:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Montreal · Python, Java, C++, Go, Rust</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:npx:048ca8da-bfb9-4454-8147-ac9497629634</id>
     <title>Nuclear Promise X: Software Developer Intern</title>
@@ -18,7 +50,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1</id>
     <title>Autodesk: Intern, Software Developer/ Stagiaire en Développement Logiciel</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1"/>
     <updated>2026-09-17T15:32:04Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Montreal, QC, CAN · Java</summary>
@@ -134,6 +166,14 @@
     <updated>2026-09-15T21:34:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Toronto, Ontario, Canada · C++, Verilog</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2</id>
+    <title>Autodesk: Intern, Software Developer, Stagiaire en Développement Logiciel</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2"/>
+    <updated>2026-09-15T21:34:03Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Montreal, QC, CAN · Java, TypeScript, Docker, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39600</id>
@@ -273,7 +313,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lyft:8802332002</id>
-    <title>Lyft: Software Engineer Intern, Machine Learning (Summer 2027)</title>
+    <title>Lyft: Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)</title>
     <link href="https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002"/>
     <updated>2026-09-11T20:18:09Z</updated>
     <category term="Summer 2027"/>
@@ -297,7 +337,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lyft:8767697002</id>
-    <title>Lyft: Data Science Intern, Algorithms (Summer 2027)</title>
+    <title>Lyft: Data Science Intern, Algorithms (Summer 2027 - Toronto)</title>
     <link href="https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002"/>
     <updated>2026-09-11T17:26:58Z</updated>
     <category term="Summer 2027"/>
@@ -305,7 +345,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lyft:8767710002</id>
-    <title>Lyft: Software Engineer Intern, Backend (Summer 2027)</title>
+    <title>Lyft: Software Engineer Intern, Backend (Summer 2027 - Toronto)</title>
     <link href="https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002"/>
     <updated>2026-09-11T17:26:58Z</updated>
     <category term="Summer 2027"/>
@@ -313,7 +353,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lyft:8796054002</id>
-    <title>Lyft: Software Engineer Intern, Backend (Summer 2027)</title>
+    <title>Lyft: Software Engineer Intern, Backend (Summer 2027 - Montreal)</title>
     <link href="https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002"/>
     <updated>2026-09-11T17:26:58Z</updated>
     <category term="Summer 2027"/>
@@ -329,7 +369,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lyft:8797859002</id>
-    <title>Lyft: Software Engineer Intern, Fullstack (Summer 2027)</title>
+    <title>Lyft: Software Engineer Intern, Fullstack (Summer 2027 - Toronto)</title>
     <link href="https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002"/>
     <updated>2026-09-11T17:26:58Z</updated>
     <category term="Summer 2027"/>
@@ -536,140 +576,12 @@
     <summary>Summer 2027 · Software · Montreal · Python, Java, C++, Rust, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:amazon:amazon:3136815</id>
-    <title>Amazon: Robotics - Software Development Engineer Intern - 2026 - Toronto</title>
-    <link href="https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Toronto, International · Python, Java, C++, C#, Rust · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:cohere:36d1f52f-8270-4652-adf5-5303a0ff341b</id>
-    <title>Cohere: Machine Learning Intern/Co-op  (Winter 2027)</title>
-    <link href="https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Canada · Python, TensorFlow, CUDA · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:cohere:8c035d3d-081d-4c8a-914a-72f4efaad254</id>
-    <title>Cohere: Software Engineer Intern (Winter 2027)</title>
-    <link href="https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Canada · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:nationgraph:a1bcdd3e-d863-42b6-8469-ec587190ad68</id>
-    <title>NationGraph: Winter 2027 Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto · CA$6K – CA$8K per month · Python, TypeScript, JavaScript, LLMs, React · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:remarcable-inc:a4f3aaaa-9469-42e8-a610-450d25eb5da7</id>
-    <title>Remarcable: Full Stack Developer (Student Co-op)</title>
-    <link href="https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Vancouver, BC · CA$23 – CA$26 · Python, JavaScript, SQL, Angular, HTML/CSS · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:epicgames:6138140004</id>
     <title>Epic Games: Machine Learning Intern</title>
     <link href="https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montreal,Quebec,Canada · Python, C++, C#, PyTorch, scikit-learn</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:instalilyai:4342089009</id>
-    <title>InstaLILY: Software Engineer I, Toronto Co-op</title>
-    <link href="https://job-boards.greenhouse.io/instalilyai/jobs/4342089009"/>
-    <updated>2026-09-15T01:22:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto · Python, TypeScript, LLMs, AWS, GCP · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:internshiplist2000:5156504008</id>
-    <title>Geotab: Insights &amp; Integrations Consultancy, Data Scientist Intern (Winter/January 2027, 4 - 8 Months)</title>
-    <link href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5156504008"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Oakville, Ontario - Canada; Waterloo, Ontario - Canada · Python, SQL, scikit-learn, Pandas, Tableau · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:internshiplist2000:5324252008</id>
-    <title>Geotab: Data Analyst Intern (Winter/January 2027, 8+ Months)</title>
-    <link href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5324252008"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Oakville, Ontario - Canada; Toronto, Ontario - Canada · Python, SQL, Tableau · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:internshiplist2000:5350915008</id>
-    <title>Geotab: Software Developer Intern (Winter/January 2027, 8 Months)</title>
-    <link href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5350915008"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Oakville, Ontario - Canada; Toronto, Ontario - Canada · C#, JavaScript, React, HTML/CSS, .NET · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:internshiplist2000:5361630008</id>
-    <title>Geotab: Software Developer Intern, MyAdmin (Winter/January 2027, 8+ Months)</title>
-    <link href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Oakville, Ontario - Canada; Waterloo, Ontario - Canada · C#, TypeScript, JavaScript, SQL, React · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:internshiplist2000:5376578008</id>
-    <title>Geotab: Software Developer Intern, Geotab Vitality (Winter/January 2027, 4 Months)</title>
-    <link href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Oakville, Ontario - Canada; Toronto, Ontario - Canada; Waterloo, Ontario - Canada · C#, TypeScript, JavaScript, SQL, React · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:internshiplist2000:5380567008</id>
-    <title>Geotab: Hardware Developer Intern (Summer/May 2027, 12 Months)</title>
-    <link href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008"/>
-    <updated>2026-09-16T22:21:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Oakville, Ontario - Canada · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:internshiplist2000:5383410008</id>
-    <title>Geotab: Data Scientist Intern (Winter/January 2027, 4-8 Months)</title>
-    <link href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5383410008"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Oakville, Ontario - Canada; Toronto, Ontario - Canada · Python, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:internshiplist2000:5389341008</id>
-    <title>Geotab: Software Developer Intern (Winter/January 2027, 12 Months)</title>
-    <link href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5389341008"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Oakville, Ontario - Canada · C#, TypeScript, JavaScript, SQL, HTML/CSS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:later:8604889002</id>
-    <title>Later: AI Automation Co-op (Fall 2026)</title>
-    <link href="https://job-boards.greenhouse.io/later/jobs/8604889002"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Vancouver, British Columbia, Canada · Python, C#, JavaScript, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:later:8643138002</id>
-    <title>Later: Software Development Co-op (Later Influence)</title>
-    <link href="https://job-boards.greenhouse.io/later/jobs/8643138002"/>
-    <updated>2026-09-09T17:56:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Vancouver, British Columbia, Canada · Python, Java, C#, TypeScript, JavaScript · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stripe:8130805</id>
@@ -688,123 +600,155 @@
     <summary>Not stated · Software · Canada, Waterloo, ON · Vue</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:kepler:2ad02ce3-1d56-4aee-9f1d-5199c780c0c1</id>
-    <title>Kepler Communications: Embedded Software Engineering Intern (January 2027) (4 months)</title>
-    <link href="https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto, Ontario · Python, C++, Linux, Git, Verilog · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:shyftlabs:4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd</id>
-    <title>ShyftLabs: AI Engineer Intern</title>
-    <link href="https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd"/>
-    <updated>2026-09-09T17:56:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto, Ontario · $20–$30/hr · Python, LLMs, AWS, Kubernetes, Docker · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39237</id>
-    <title>Nokia: DSP Firmware Engineering Co-op/Intern</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Hardware · Canada · C++, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39342</id>
-    <title>Nokia: Software Tester – Co-op/Intern</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39342"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Canada · Python, Java, JavaScript, SQL, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39432</id>
-    <title>Nokia: Software Applications Co-op/Intern</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39432"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Canada · Java, Kubernetes, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39435</id>
-    <title>Nokia: Software Developer Co-op/Intern</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39435"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Canada · Java, Kubernetes, Docker, Linux, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:GDMSI:744000146985399</id>
-    <title>General Dynamics UK: Co-op Winter 2027 - Software Engineering Developer - 16-Months</title>
-    <link href="https://jobs.smartrecruiters.com/GDMSI/744000146985399"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Calgary, AB, Canada (Hybrid) · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:GDMSI:744000147019949</id>
-    <title>General Dynamics UK: Co-op Winter 2027 - Software Developer - 8 Months</title>
-    <link href="https://jobs.smartrecruiters.com/GDMSI/744000147019949"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Ottawa, ON, Canada (Hybrid) · Python, Java · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:GDMSI:744000147269170</id>
-    <title>General Dynamics UK: Co-op January 2027 - Software Engineering - 8 Months</title>
-    <link href="https://jobs.smartrecruiters.com/GDMSI/744000147269170"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Ottawa, ON, Canada (Hybrid) · Python, Java, C++, C#, Kotlin · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PAConsulting:744000142851499</id>
-    <title>PA Consulting: AI to accelerate realisation of the intelligent enterprise - internship</title>
-    <link href="https://jobs.smartrecruiters.com/PAConsulting/744000142851499"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Utrecht, International (NL) · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2</id>
     <title>Autodesk: Intern, AI Developer/ Stagiaire en développement IA</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montreal, QC, CAN · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2</id>
-    <title>Autodesk: Intern Software Developer, Stagiaire en Développement Logiciel</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>2 openings · Winter 2027 · Software · Montreal, QC, CAN · Python, C++ · status: closed</summary>
+    <id>urn:intern-engine:workday:flir:/job/Canada---Concord-ON-TDY/LiDAR-Data-Analyst--Co-op-_REQ36378</id>
+    <title>Teledyne: LiDAR Data Analyst (Co-op)</title>
+    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Concord-ON-TDY/LiDAR-Data-Analyst--Co-op-_REQ36378"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Canada - Concord, ON (TDY) · Python, C++, MATLAB</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2</id>
-    <title>Autodesk: Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Montreal, QC, CAN · Python, Java, C#, TypeScript, JavaScript · status: closed</summary>
+    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR111568</id>
+    <title>Intelcom | Dragonfly: AI Data Analyst Intern</title>
+    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR111568"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Canada, Quebec, Montreal · Python, Pandas</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3</id>
-    <title>Autodesk: Stagiaire en Développement Cloud, Intern Cloud Developer</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Montreal, QC, CAN · Python, Java, SQL, Ruby, React · status: closed</summary>
+    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR111555</id>
+    <title>Intelcom | Dragonfly: Business Intelligence (BI) Developer Intern</title>
+    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR111555"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Quebec, Montreal · SQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769</id>
-    <title>BMO: BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)</title>
-    <link href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto, ON, CAN · Python, C++, C#, React, Docker · status: closed</summary>
+    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/DevOps-Intern_JR111562</id>
+    <title>Intelcom | Dragonfly: DevOps Intern</title>
+    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/DevOps-Intern_JR111562"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Quebec, Montreal · Python, Bash, AWS, Azure, Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Front-End-Developer-Intern---Power-Platform-Integration_JR111615-1</id>
+    <title>Intelcom | Dragonfly: Front-End Developer Intern - Power Platform Integration</title>
+    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-End-Developer-Intern---Power-Platform-Integration_JR111615-1"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Quebec, Montreal · TypeScript, JavaScript, React, Azure, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Full-Stack-Developer-Intern---Route-Optimization_JR111570-1</id>
+    <title>Intelcom | Dragonfly: Full-Stack Developer Intern - Route Optimization</title>
+    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Full-Stack-Developer-Intern---Route-Optimization_JR111570-1"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Quebec, Montreal · Python, Java, C#, AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Site-Reliability-Engineering--SRE--Intern_JR111560</id>
+    <title>Intelcom | Dragonfly: Site Reliability Engineering (SRE) Intern</title>
+    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Site-Reliability-Engineering--SRE--Intern_JR111560"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Quebec, Montreal · Python, Bash, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Software-Developer-in-Test-Intern_JR111565</id>
+    <title>Intelcom | Dragonfly: Software Developer in Test Intern</title>
+    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Developer-in-Test-Intern_JR111565"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Quebec, Montreal · Python, Java, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Software-Development-Intern---Address-Intelligence-Platform_JR111611</id>
+    <title>Intelcom | Dragonfly: Software Development Intern - Address Intelligence Platform</title>
+    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Address-Intelligence-Platform_JR111611"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Quebec, Montreal · Python, Java, C#, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intelcomgroup:/job/Canada-Quebec-Montreal/Software-Development-Intern---Warehouse-Productivity_JR111578-1</id>
+    <title>Intelcom | Dragonfly: Software Development Intern - Warehouse Productivity</title>
+    <link href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Warehouse-Productivity_JR111578-1"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Quebec, Montreal · C#, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261135</id>
+    <title>Lumentum: Software Verification Engineer (Co-op/Intern)</title>
+    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Software-Verification-Engineer--Co-op-Intern-_20261135"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>2 openings · Summer 2027 · Software · Canada - Ottawa (Bill Leathem) · $24–$35/hr · Python, C#, Bash, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688</id>
+    <title>Manulife Financial: Summer Intern 2027 - AI</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, Ontario · Python, Java, SQL, PyTorch, scikit-learn</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685</id>
+    <title>Manulife Financial: Summer Intern 2027 - Software Engineering (8 Months)</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, Ontario · Python, Java, JavaScript, HTML/CSS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684</id>
+    <title>Manulife Financial: Summer Intern 2027 - Software Engineering</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, Ontario · Python, Java, JavaScript, HTML/CSS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358</id>
+    <title>Manulife Financial: Summer Intern 2027 - Quantitative Analyst</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Toronto, Ontario · Python, C++, MATLAB, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686</id>
+    <title>Manulife Financial: Summer Intern 2027 - Software Engineering</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Waterloo, Ontario · Python, Java, JavaScript, HTML/CSS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:otppb:/job/Toronto-Canada/Intern--Investments--Infrastructure---Natural-Resources--May-2027--4-Month-Contract-_7163</id>
+    <title>Ontario Teachers' Pension Plan: Intern- Investments, Infrastructure &amp; Natural Resources (May 2027- 4 Month Contract)</title>
+    <link href="https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Infrastructure---Natural-Resources--May-2027--4-Month-Contract-_7163"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, Canada</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tcenergy:/job/Calgary-Alberta/Student-Intern--Computer-Science_JR-10733</id>
+    <title>TC Energy: Student Intern, Computer Science</title>
+    <link href="https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Student-Intern--Computer-Science_JR-10733"/>
+    <updated>2026-09-03T19:49:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Calgary, Alberta</summary>
   </entry>
 </feed>

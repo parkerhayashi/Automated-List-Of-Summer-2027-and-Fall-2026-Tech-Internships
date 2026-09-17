@@ -1780,9 +1780,10 @@
       "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685",
       "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684",
       "workday:manulife:/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358",
+      "workday:manulife:/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053",
       "workday:manulife:/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686"
      ],
-     "count": 8
+     "count": 9
     },
     "Winter 2027": {
      "first_posted": "2026-08-31",
@@ -2882,10 +2883,11 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-05",
-     "count": 2,
+     "count": 3,
      "role_ids": [
       "greenhouse:towerresearchcapital:8024128",
-      "greenhouse:towerresearchcapital:8044334"
+      "greenhouse:towerresearchcapital:8044334",
+      "greenhouse:towerresearchcapital:8212179"
      ]
     }
    }
@@ -3223,5 +3225,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T19:32:18Z"
+ "updated_at": "2026-09-17T22:41:18Z"
 }

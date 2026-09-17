@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:manulife:/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053",
+      "workday:rockwellautomation:/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Physical-AI--OTTO-at-Rockwell-Automation-_R26-6872-1",
+      "workday:rockwellautomation:/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-6732-1",
+      "greenhouse:towerresearchcapital:8212179"
+    ],
+    "telegram": [
+      "workday:manulife:/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053",
+      "workday:rockwellautomation:/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Physical-AI--OTTO-at-Rockwell-Automation-_R26-6872-1",
+      "workday:rockwellautomation:/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-6732-1",
+      "greenhouse:towerresearchcapital:8212179"
+    ]
   }
 }

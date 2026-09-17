@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T19:32:18Z",
- "data_as_of": "2026-09-17T19:32:18Z",
- "rendered_at": "2026-09-17T19:32:18Z",
+ "generated_at": "2026-09-17T22:41:18Z",
+ "data_as_of": "2026-09-17T22:41:18Z",
+ "rendered_at": "2026-09-17T22:41:18Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -41,6 +41,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-05-13"
+   }
+  },
+  {
+   "company": "Tower Research Capital",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-05",
+   "days_until": -74,
+   "status": "open",
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8212179",
+   "note": "opens ~Aug-Sep",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-05"
    }
   },
   {
@@ -2853,25 +2872,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-07-01"
-   }
-  },
-  {
-   "company": "Tower Research Capital",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-05",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-05",
-   "days_until": -74,
-   "status": "dropped",
-   "url": "",
-   "note": "opens ~Aug-Sep",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-07-05"
    }
   },
   {

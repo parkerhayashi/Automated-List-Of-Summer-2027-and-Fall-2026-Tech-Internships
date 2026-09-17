@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-17T00:36:51Z</updated>
+  <updated>2026-09-17T05:33:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000150008719</id>
+    <title>Bosch: Internship at Technical IT Group in manufacturing / Industry 4.0 software developer for internal application</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000150008719"/>
+    <updated>2026-09-17T05:33:08Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Hardware · Higashimatsuyama-shi, Kanagawa-ken, International (JP) · Python, Java, C++ · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thales:/job/Ottawa---Palladium/Computer-Science-Intern-or-Coop_R0338233</id>
+    <title>Thales: Computer Science Intern or Coop 🇨🇦</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Ottawa---Palladium/Computer-Science-Intern-or-Coop_R0338233"/>
+    <updated>2026-09-17T05:33:08Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Ottawa - Palladium · $55k–$65k/yr · C# · sponsorship: citizens-only · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:aperaaiinc:5240259007</id>
     <title>Apera AI: Software Developer - Full Stack (Co-op)</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-03T20:18:04Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Software · Toronto, ON, CAN · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cae:/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1</id>
-    <title>CAE: C-FIN-275 Software Engineering Intern, AI, Automation and Business Intelligence</title>
-    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Montreal (St. Laurent) · Azure · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cae:/job/Montreal-St-Laurent/C-IT-200-Product-Cybersecurity-Specialist-Intern_123542</id>
-    <title>CAE: C-IT-200 Product Cybersecurity Specialist Intern</title>
-    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-200-Product-Cybersecurity-Specialist-Intern_123542"/>
-    <updated>2026-09-03T20:18:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Security · Montreal (St. Laurent) · Linux · status: closed</summary>
   </entry>
 </feed>

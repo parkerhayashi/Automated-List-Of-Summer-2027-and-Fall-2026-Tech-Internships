@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T15:32:04Z",
-  "fetched_at": "2026-09-17T15:32:04Z",
-  "duration_seconds": 904.0,
+  "generated_at": "2026-09-17T19:32:18Z",
+  "fetched_at": "2026-09-17T19:32:18Z",
+  "duration_seconds": 1119.8,
   "companies_total": 4838,
   "companies_by_source": {
     "greenhouse": 1078,
@@ -17,26 +17,26 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 279,
-  "fetched_ok": 4550,
-  "fetch_errors": 9,
+  "quarantined": 280,
+  "fetched_ok": 4452,
+  "fetch_errors": 106,
   "errors_by_source": {
-    "workday": 2,
-    "greenhouse": 1,
-    "workable": 6
+    "workday": 86,
+    "ashby": 1,
+    "workable": 19
   },
-  "fetch_success_rate": 0.998,
-  "fetch_success_rate_registry": 0.94,
-  "snapshots_complete": 3895,
-  "snapshots_partial": 655,
+  "fetch_success_rate": 0.977,
+  "fetch_success_rate_registry": 0.92,
+  "snapshots_complete": 3836,
+  "snapshots_partial": 616,
   "partial_by_reason": {
     "result-cap": 564,
-    "malformed-response": 91
+    "malformed-response": 52
   },
-  "degraded_fetches": 91,
-  "roles_matched": 66,
+  "degraded_fetches": 52,
+  "roles_matched": 65,
   "dropped_no_year_in_title": 443,
-  "dropped_offcycle_by_text": 307,
+  "dropped_offcycle_by_text": 301,
   "roles_cycle_inferred": 33,
   "roles_by_source": {
     "amazon": 2,
@@ -57,15 +57,15 @@
     "unknown": 69
   },
   "posted_date_coverage": 1.0,
-  "enriched_this_run": 7,
-  "enrichment_detail_fetches": 3,
+  "enriched_this_run": 5,
+  "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 2,
+  "new_this_run": 0,
   "open_total": 69,
   "detection_latency": {
-    "median_minutes": 81.6,
-    "p95_minutes": 1094.8,
-    "sample_size": 20,
+    "median_minutes": 87.9,
+    "p95_minutes": 266.3,
+    "sample_size": 21,
     "window_days": 7,
     "basis": "roles published in the window with an exact source timestamp"
   },
@@ -73,5 +73,5 @@
     "median_days": 10,
     "sample_size": 127
   },
-  "rendered_at": "2026-09-17T15:32:04Z"
+  "rendered_at": "2026-09-17T19:32:18Z"
 }

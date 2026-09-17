@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:autodesk:/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
-      "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Infrastructure-Equity-Internship_JR26081107"
-    ],
-    "telegram": [
-      "workday:autodesk:/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
-      "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Infrastructure-Equity-Internship_JR26081107"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

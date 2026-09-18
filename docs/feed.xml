@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-17T22:41:18Z</updated>
+  <updated>2026-09-18T01:04:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:towerresearchcapital:8212179</id>
+    <title>Tower Research Capital: Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)</title>
+    <link href="https://www.tower-research.com/open-positions/?gh_jid=8212179"/>
+    <updated>2026-09-17T22:41:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Montreal · Python, Java, C++, Go, Rust</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:manulife:/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053</id>
     <title>Manulife Financial: Summer Intern 2027 - Software Engineering (12 Months)</title>
@@ -32,14 +40,6 @@
     <summary>Not stated · Design · Waterloo, Ontario, Canada · LLMs, React, ROS · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:towerresearchcapital:8212179</id>
-    <title>Tower Research Capital: Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)</title>
-    <link href="https://www.tower-research.com/open-positions/?gh_jid=8212179"/>
-    <updated>2026-09-17T22:41:18Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Montreal · Python, Java, C++, Go, Rust</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:npx:048ca8da-bfb9-4454-8147-ac9497629634</id>
     <title>Nuclear Promise X: Software Developer Intern</title>
     <link href="https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634"/>
@@ -50,7 +50,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1</id>
     <title>Autodesk: Intern, Software Developer/ Stagiaire en Développement Logiciel</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114"/>
     <updated>2026-09-17T15:32:04Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Montreal, QC, CAN · Java</summary>
@@ -602,7 +602,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2</id>
     <title>Autodesk: Intern, AI Developer/ Stagiaire en développement IA</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montreal, QC, CAN · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>

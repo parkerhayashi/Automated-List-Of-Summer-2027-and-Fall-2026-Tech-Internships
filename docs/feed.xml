@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-18T06:07:05Z</updated>
+  <updated>2026-09-18T11:23:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000150296334</id>
+    <title>Bosch: 【MA】Internship Regional Product Manager in Aftermarket Asia Pacific South</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000150296334"/>
+    <updated>2026-09-18T11:23:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · Bosch Corporation_Internship, Kanagawa, International (JP) · Python, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:towerresearchcapital:8212179</id>
     <title>Tower Research Capital: Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)</title>
@@ -50,7 +58,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1</id>
     <title>Autodesk: Intern, Software Developer/ Stagiaire en Développement Logiciel</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114"/>
     <updated>2026-09-17T15:32:04Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Montreal, QC, CAN · Java</summary>
@@ -590,14 +598,6 @@
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Toronto · Java, JavaScript, Scala, Ruby</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2</id>
-    <title>Autodesk: Intern, AI Developer/ Stagiaire en développement IA</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Montreal, QC, CAN · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:flir:/job/Canada---Concord-ON-TDY/LiDAR-Data-Analyst--Co-op-_REQ36378</id>

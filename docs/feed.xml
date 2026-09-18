@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-18T01:04:01Z</updated>
+  <updated>2026-09-18T06:07:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:towerresearchcapital:8212179</id>
@@ -50,7 +50,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1</id>
     <title>Autodesk: Intern, Software Developer/ Stagiaire en Développement Logiciel</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1"/>
     <updated>2026-09-17T15:32:04Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Montreal, QC, CAN · Java</summary>
@@ -475,41 +475,41 @@
     <id>urn:intern-engine:greenhouse:waterloocoop:6180261004</id>
     <title>PlayStation: Software Development Engineer in Test - Backend Co-op</title>
     <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6180261004"/>
-    <updated>2026-09-09T18:17:09Z</updated>
+    <updated>2026-09-18T06:07:05Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Waterloo, ON · Python, Java, C#, JavaScript, SQL</summary>
+    <summary>Not stated · Software · Canada, Waterloo, ON · Python, Java, C#, JavaScript, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:waterloocoop:6180267004</id>
     <title>PlayStation: Software Developer in Test Co-Op</title>
     <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6180267004"/>
-    <updated>2026-09-09T18:17:09Z</updated>
+    <updated>2026-09-18T06:07:05Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Canada, Waterloo, ON · Python, JavaScript, Git</summary>
+    <summary>2 openings · Not stated · Software · Canada, Waterloo, ON · Python, JavaScript, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:waterloocoop:6180979004</id>
     <title>PlayStation: Software Developer Co-op</title>
     <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6180979004"/>
-    <updated>2026-09-09T18:17:09Z</updated>
+    <updated>2026-09-18T06:07:05Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Waterloo, ON · Python, C++, JavaScript, React, Vue</summary>
+    <summary>Not stated · Software · Canada, Waterloo, ON · Python, C++, JavaScript, React, Vue · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:waterloocoop:6181014004</id>
     <title>PlayStation: Software Developer in Test, Front End Co-op</title>
     <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6181014004"/>
-    <updated>2026-09-09T18:17:09Z</updated>
+    <updated>2026-09-18T06:07:05Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Waterloo, ON · Python, JavaScript, HTML/CSS, Git</summary>
+    <summary>Not stated · Software · Canada, Waterloo, ON · Python, JavaScript, HTML/CSS, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:waterloocoop:6181055004</id>
     <title>PlayStation: Software Developer Co-op – Back End</title>
     <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6181055004"/>
-    <updated>2026-09-09T18:17:09Z</updated>
+    <updated>2026-09-18T06:07:05Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Waterloo, ON · Java, SQL, AWS, Kubernetes, Docker</summary>
+    <summary>Not stated · Software · Canada, Waterloo, ON · Java, SQL, AWS, Kubernetes, Docker · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-3</id>
@@ -592,17 +592,9 @@
     <summary>Not stated · Software · Toronto · Java, JavaScript, Scala, Ruby</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:waterloocoop:6180264004</id>
-    <title>PlayStation: Software Developer Co-op - Build &amp; Tools</title>
-    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6180264004"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Waterloo, ON · Vue</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2</id>
     <title>Autodesk: Intern, AI Developer/ Stagiaire en développement IA</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montreal, QC, CAN · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>

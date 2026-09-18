@@ -149,14 +149,15 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 6,
+     "count": 7,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
       "amazon:amazon:10459543",
       "amazon:amazon:10517567",
       "amazon:amazon:10535280",
-      "amazon:amazon:10538066"
+      "amazon:amazon:10538066",
+      "amazon:amazon:10553947"
      ]
     }
    }
@@ -3225,5 +3226,5 @@
    }
   }
  },
- "updated_at": "2026-09-18T18:39:06Z"
+ "updated_at": "2026-09-18T21:30:35Z"
 }

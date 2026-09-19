@@ -24,6 +24,7 @@ _MANAGER_RE = re.compile(r"\bmanager\b", re.IGNORECASE)
 _INTERN_TRACK_MANAGER_RE = re.compile(
     r"\b(?:"
     r"(?:associate\s+)?product\s+manager|"
+    r"product\s+owner|"
     r"technical\s+program\s+manager|"
     r"\btpm\b|"
     r"\bapm\b"
@@ -32,12 +33,14 @@ _INTERN_TRACK_MANAGER_RE = re.compile(
 )
 
 # --- tech-role detection -----------------------------------------------------
-# We keep software / data / ML / security / quant / PM / design roles. A role
-# must match an INCLUDE term and must NOT match an EXCLUDE term. The exclude
-# list removes non-software engineering (mechanical, aerospace, electrical/
-# hardware, etc.) and non-technical roles (recruiting, sales, marketing, ...).
-# Note we do NOT treat a bare "engineer" as tech — that word alone lets in
-# mech/aero/civil. Generic business / marketing / HR internships stay out.
+# We keep software / data / ML / security / quant / PM / VC / design roles. A
+# role must match an INCLUDE term and must NOT match an EXCLUDE term. The
+# exclude list removes non-software engineering (mechanical, aerospace,
+# electrical/hardware, etc.) and non-technical roles (recruiting, sales,
+# marketing, ...). Note we do NOT treat a bare "engineer" as tech — that word
+# alone lets in mech/aero/civil. Generic business / marketing / HR internships
+# stay out. VC is title-specific (venture capital / investor intern), not every
+# finance or investment-banking posting.
 _INCLUDE_RE = re.compile(
     r"\b("
     r"software|developer|swe|full[\s-]?stack|front[\s-]?end|back[\s-]?end|"
@@ -53,7 +56,7 @@ _INCLUDE_RE = re.compile(
     r"quantitative (?:developer|research|researcher|trading|trader|analyst|strategist)|"
     r"quant (?:developer|research|researcher|trading|trader|analyst|strategist|strat)|"
     r"quant|"
-    r"product manager|product management|associate product manager|"
+    r"product manager|product management|associate product manager|product owner|"
     r"product intern(?:ship)?|product co[\s-]?op|"
     r"apm|technical program manager|tpm|"
     r"pm intern(?:ship)?|pm co[\s-]?op|"
@@ -62,6 +65,9 @@ _INCLUDE_RE = re.compile(
     r"ux\s*/\s*ui|ui\s*/\s*ux|"
     r"ux intern(?:ship)?|ui intern(?:ship)?|"
     r"technical business analyst|product analyst|business systems analyst|"
+    r"venture capital|venture intern(?:ship)?|venture co[\s-]?op|venture analyst|"
+    r"vc intern(?:ship)?|vc co[\s-]?op|vc analyst|"
+    r"investor intern(?:ship)?|investments intern(?:ship)?|investment intern(?:ship)?|"
     r"computer science|programming"
     r")\b",
     re.IGNORECASE,
@@ -177,7 +183,7 @@ def is_internship(title: str) -> bool:
 
 
 def is_tech(title: str) -> bool:
-    """Keep software/data/ML/security/quant/PM/design; reject hardware/non-tech."""
+    """Keep software/data/ML/security/quant/PM/VC/design; reject hardware/non-tech."""
     if not title:
         return False
     if _NON_TECH_EXCLUDE_RE.search(title):
@@ -969,8 +975,27 @@ _CATEGORY_PATTERNS = [
             r"technical\s+program\s+manager|"
             r"technical\s+business\s+analyst|"
             r"business\s+systems\s+analyst|"
+            r"product\s+owner|"
             r"tpm|"
-            r"pm\s+intern"
+            r"pm\s+intern|"
+            r"pm\s+co[\s-]?op"
+            r")\b",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "VC",
+        re.compile(
+            r"\b(?:"
+            r"venture\s+capital|"
+            r"venture\s+intern|"
+            r"venture\s+co[\s-]?op|"
+            r"venture\s+analyst|"
+            r"vc\s+intern|"
+            r"vc\s+co[\s-]?op|"
+            r"vc\s+analyst|"
+            r"investor\s+intern|"
+            r"investments?\s+intern"
             r")\b",
             re.IGNORECASE,
         ),

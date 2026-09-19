@@ -306,7 +306,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         )
         about_blurb = (
             f"This fork of the internship engine tracks software, data, ML, "
-            f"quant, product (PM/TPM), and product-design internships and "
+            f"quant, product (PM/TPM), venture capital, and product-design internships and "
             f"co-ops located in {visa_where} for Summer 2027, "
             "plus recent postings that don't name a cycle."
         )
@@ -459,7 +459,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "| | |",
         "|---|---|",
         "| **Roles** | Software, Data & ML/AI, Quant, Product (PM / TPM), "
-        "and Product Design / UX internships — not marketing, recruiting, "
+        "VC, and Product Design / UX internships — not marketing, recruiting, "
         "or general business |",
         f"| **Region** | {region}"
         + (" (primary), with a separate International section"

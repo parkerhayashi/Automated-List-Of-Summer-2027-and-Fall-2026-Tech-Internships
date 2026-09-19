@@ -24,7 +24,7 @@ Difficulty: 🟢 easy · 🟡 medium · 🔴 hard
 - [x] **Live dashboard** (GitHub Pages) with search, filters, an **"F-1 friendly" toggle**, and a run-history chart
 - [x] Saves everything to a real **database** (Postgres / Supabase) with analytics views
 - [x] **Quality gate** — hides junk / no-name companies
-- [x] **Auto-discovers** new companies weekly from public datasets (both Workday URL shapes, Oracle site numbers, 6 datasets + README mining)
+- [x] **Auto-discovers** new companies weekly from public datasets (both Workday URL shapes, Oracle site numbers, 7 datasets + README mining)
 - [x] **Tests** (65) + linting (ruff) + CI so changes don't break things
 
 ---

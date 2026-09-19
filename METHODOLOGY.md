@@ -25,12 +25,14 @@ A posting must pass all of:
    Manager / TPM titles are kept (the word "manager" is the job family there).
 2. **It's a tech-track role** — software, data, ML/AI, security, **Quant**
    (quant research / trading / developer), **PM** (product manager, APM,
-   product intern, technical program manager), or **Design** (product design /
-   UX / UI). A bare "engineer" isn't enough (that admits mechanical, civil,
-   aerospace). A small number of **Hardware** roles whose titles are
-   software-first (embedded, firmware) are also kept. Marketing, recruiting,
-   sales, accounting, and generic business internships are out. The
-   dashboard's category filter separates all of them, so you can exclude any.
+   product intern, technical program manager), **VC** (venture capital /
+   investor / investment intern), or **Design** (product design / UX / UI). A
+   bare "engineer" isn't enough (that admits mechanical, civil, aerospace). A
+   small number of **Hardware** roles whose titles are software-first
+   (embedded, firmware) are also kept. Marketing, recruiting, sales,
+   accounting, investment banking, and generic business internships are out.
+   The dashboard's category filter separates all of them, so you can exclude
+   any.
 3. **It's in the configured region** — Canada and Japan (this fork).
 4. **It maps to a tracked cycle** — see below.
 

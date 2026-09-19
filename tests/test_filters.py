@@ -24,6 +24,7 @@ class TestInternship:
             "Associate Product Manager Intern",
             "APM Intern",
             "Product Management Intern",
+            "Product Owner Intern",
             "Technical Program Manager Intern",
             "TPM Intern",
         ):
@@ -87,6 +88,9 @@ class TestTech:
             "Associate Product Manager Intern",
             "APM Intern",
             "Product Intern",
+            "PM Intern",
+            "PM Co-op",
+            "Product Owner Intern",
             "Technical Program Manager Intern",
             "TPM Intern",
             "UX Design Intern",
@@ -104,9 +108,22 @@ class TestTech:
             "Graphic Design Intern",
             "Business Analyst Intern",
             "Finance Intern",
+            "Investment Banking Intern",
             "Recruiting Intern",
         ):
             assert not filters.is_tech(title), title
+
+    def test_keeps_vc_interns(self):
+        for title in (
+            "Venture Capital Intern",
+            "VC Intern",
+            "Venture Intern",
+            "Investor Intern",
+            "Investment Intern",
+            "Investments Intern",
+            "VC Analyst Intern",
+        ):
+            assert filters.is_tech(title), title
 
     def test_software_first_hardware_titles_are_kept(self):
         assert filters.is_tech("Embedded Software / Hardware Intern")
@@ -405,8 +422,14 @@ class TestCategory:
         assert filters.categorize("Product Manager Intern") == "PM"
         assert filters.categorize("APM Intern") == "PM"
         assert filters.categorize("Technical Program Manager Intern") == "PM"
+        assert filters.categorize("PM Co-op") == "PM"
+        assert filters.categorize("Product Owner Intern") == "PM"
         assert filters.categorize("UX Design Intern") == "Design"
         assert filters.categorize("Product Design Intern") == "Design"
+        assert filters.categorize("Venture Capital Intern") == "VC"
+        assert filters.categorize("VC Intern") == "VC"
+        assert filters.categorize("Investor Intern") == "VC"
+        assert filters.categorize("Investment Intern") == "VC"
 
 
 class TestCycleUnstatedOk:

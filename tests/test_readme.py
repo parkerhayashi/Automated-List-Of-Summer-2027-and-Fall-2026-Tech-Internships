@@ -180,6 +180,7 @@ class TestHeaderCounts:
         roles = next(x for x in lines if x.startswith("| **Roles** |"))
         assert "Quant" in roles
         assert "PM" in roles
+        assert "VC" in roles
         assert "Software Engineering, Data Science & Machine Learning" not in roles
 
 

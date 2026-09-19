@@ -28,6 +28,7 @@ from . import registry
 JSON_SOURCES = [
     # Current + upcoming cycles first (freshest tokens), then older cycles —
     # old boards mostly still exist, and dead ones get quarantined anyway.
+    "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
     "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
     "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
     "https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/dev/.github/scripts/listings.json",

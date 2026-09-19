@@ -415,7 +415,7 @@ class TestRegionConfig:
 
 
 class TestRoleScope:
-    """tech scope keeps quant/PM and still drops marketing."""
+    """tech scope keeps quant/PM/VC and still drops marketing."""
 
     def _keep(self, title, location="Toronto, Ontario, Canada"):
         from intern_engine.models import Job
@@ -444,6 +444,16 @@ class TestRoleScope:
                 assert kept[0].category == "Quant"
             else:
                 assert kept[0].category == "PM"
+
+    def test_vc_interns_are_kept(self):
+        for title in (
+            "Venture Capital Intern, Summer 2027",
+            "VC Intern, Summer 2027",
+            "Investment Intern, Summer 2027",
+        ):
+            kept = self._keep(title)
+            assert len(kept) == 1, title
+            assert kept[0].category == "VC"
 
     def test_marketing_intern_is_dropped(self):
         assert self._keep("Marketing Intern, Summer 2027") == []

@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-20T10:18:38Z",
-  "fetched_at": "2026-09-20T10:18:38Z",
-  "duration_seconds": 902.0,
-  "companies_total": 4863,
+  "generated_at": "2026-09-20T14:21:19Z",
+  "fetched_at": "2026-09-20T14:21:19Z",
+  "duration_seconds": 716.8,
+  "companies_total": 4866,
   "companies_by_source": {
     "greenhouse": 1082,
     "lever": 404,
     "ashby": 746,
     "recruitee": 3,
-    "workday": 1819,
+    "workday": 1821,
     "smartrecruiters": 298,
     "rippling": 162,
     "workable": 177,
     "oracle": 158,
     "amazon": 1,
-    "breezy": 12,
+    "breezy": 13,
     "eightfold": 1
   },
-  "quarantined": 340,
-  "fetched_ok": 4502,
-  "fetch_errors": 21,
+  "quarantined": 338,
+  "fetched_ok": 4523,
+  "fetch_errors": 5,
   "errors_by_source": {
-    "workday": 20,
-    "greenhouse": 1
+    "lever": 1,
+    "workday": 4
   },
-  "fetch_success_rate": 0.995,
-  "fetch_success_rate_registry": 0.926,
-  "snapshots_complete": 3895,
-  "snapshots_partial": 607,
+  "fetch_success_rate": 0.999,
+  "fetch_success_rate_registry": 0.93,
+  "snapshots_complete": 3905,
+  "snapshots_partial": 618,
   "partial_by_reason": {
-    "result-cap": 606,
-    "malformed-response": 1
+    "result-cap": 615,
+    "malformed-response": 3
   },
-  "degraded_fetches": 1,
+  "degraded_fetches": 3,
   "roles_matched": 63,
-  "dropped_no_year_in_title": 487,
-  "dropped_offcycle_by_text": 316,
+  "dropped_no_year_in_title": 488,
+  "dropped_offcycle_by_text": 318,
   "roles_cycle_inferred": 40,
   "roles_by_source": {
     "amazon": 3,
@@ -74,5 +74,5 @@
     "median_days": 10.0,
     "sample_size": 134
   },
-  "rendered_at": "2026-09-20T10:18:38Z"
+  "rendered_at": "2026-09-20T14:21:19Z"
 }

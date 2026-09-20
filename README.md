@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 79 open roles (54 listed below) · 40 new this week
+### 69 open roles (51 listed below) · 30 new this week
 
-4,607 employers tracked · data as of Sep 20, 2026 at 21:01 UTC
+4,607 employers tracked · data as of Sep 20, 2026 at 23:28 UTC
 
-_39 have a cycle the employer stated · 40 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_39 have a cycle the employer stated · 30 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -89,7 +89,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Amazon | Software Development Engineer Intern - Summer 2027 (CAN) 🆕 | Software | Vancouver, International | Python, Java, C++, C# | Sep 18, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) |
+| Amazon | Software Development Engineer Intern - Summer 2027 (CAN) | Software | Vancouver, International | Python, Java, C++, C# | Sep 18, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) |
 | Tower Research Capital | Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027) | Software | Montreal | Python, Java, C++, Go | Sep 17, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8212179) |
 | Manulife Financial | Summer Intern 2027 - Software Engineering (12 Months) | Software | Waterloo, Ontario | Python, Java, JavaScript, HTML/CSS | Sep 17, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053) |
 | Manulife Financial | Summer Intern 2027 - Infrastructure Equity Internship | Software | Toronto, Ontario | HTML/CSS | Sep 17, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Infrastructure-Equity-Internship_JR26081107) |
@@ -117,16 +117,13 @@ If it helps you, a star means a lot and tells me to keep going.
 | Georgian Partners Growth | AI/ML Engineer Intern (2027) | Data & ML/AI | Toronto Headquarters | Python, PyTorch, TensorFlow, scikit-learn | Jul 14, 2026 | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab) |
 | Squarepoint Capital | Intern Software Developer - Montreal - 2027 | Software | Montreal | Python, Java, C++, Rust | May 07, 2026 | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) |
 
-## Recently posted — cycle not stated  (26 roles)
+## Recently posted — cycle not stated  (23 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Autodesk | Product Management Intern, Stagiaire Gestion de Produit 🆕 | PM | Montreal, QC, CAN | LLMs | Sep 19, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1) |
-| Genesys | Software Developer, Intern (Genesys Cloud) | Software | Toronto (Flexible) | TypeScript, JavaScript, Vue, AWS | Sep 18, 2026 | [Apply](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Toronto-Flexible/Software-Developer--Intern--Genesys-Cloud-_JR112244-1) |
-| Genesys | Software Developer Full-Stack Intern, AI Scoring, Evaluations and Surveys | Data & ML/AI | Toronto (Flexible) | Python, Java, TypeScript, JavaScript | Sep 18, 2026 | [Apply](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Toronto-Flexible/Software-Developer-Full-Stack-Intern--AI-Scoring--Evaluations-and-Surveys_JR112168-1) |
-| Genesys | Software Developer Intern, Predictions Data & Decision Science | Data & ML/AI | Toronto (Flexible) | Python, Java, C++, C# | Sep 18, 2026 | [Apply](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Toronto-Flexible/Software-Developer-Intern--Predictions-Data---Decision-Science_JR112176-1) |
 | Keenfinity | Research Intern – AI-Based Audio Optimization | Data & ML/AI | Eindhoven +2 more | Python, C++, MATLAB | Sep 18, 2026 | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000150347490) |
 | Bosch | 【MA】Internship Regional Product Manager in Aftermarket Asia Pacific South | PM | Bosch Corporation_Internship +2 more | Python, SQL | Sep 18, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150296334) |
 | Rockwell Automation | Co-op, Robotics Research - Physical AI (OTTO at Rockwell Automation) 🛂 | Data & ML/AI | Waterloo, Ontario, Canada | PyTorch, ROS | Sep 17, 2026 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Physical-AI--OTTO-at-Rockwell-Automation-_R26-6872-1) |
@@ -221,7 +218,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,445 of 4,866 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1068.2s · 575 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,358 of 4,866 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 89% of the full registry) · completed in 1068.5s · 572 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

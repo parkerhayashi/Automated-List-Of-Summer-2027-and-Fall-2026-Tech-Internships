@@ -1,10 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:cibc:/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1"
-    ],
-    "telegram": [
-      "workday:cibc:/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

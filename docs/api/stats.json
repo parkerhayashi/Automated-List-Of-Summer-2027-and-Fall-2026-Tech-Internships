@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-09-21T14:18:01Z",
- "fetched_at": "2026-09-21T14:18:01Z",
- "duration_seconds": 1116.3,
- "companies_total": 4866,
+ "generated_at": "2026-09-21T19:38:38Z",
+ "fetched_at": "2026-09-21T19:38:38Z",
+ "duration_seconds": 1176.9,
+ "companies_total": 4870,
  "companies_by_source": {
-  "greenhouse": 1082,
+  "greenhouse": 1083,
   "lever": 404,
-  "ashby": 746,
+  "ashby": 747,
   "recruitee": 3,
-  "workday": 1821,
+  "workday": 1823,
   "smartrecruiters": 298,
   "rippling": 162,
   "workable": 177,
@@ -17,27 +17,26 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 297,
- "fetched_ok": 4563,
- "fetch_errors": 6,
+ "quarantined": 301,
+ "fetched_ok": 4458,
+ "fetch_errors": 111,
  "errors_by_source": {
-  "workday": 2,
-  "greenhouse": 2,
-  "lever": 1,
+  "workday": 98,
+  "workable": 12,
   "ashby": 1
  },
- "fetch_success_rate": 0.999,
- "fetch_success_rate_registry": 0.938,
- "snapshots_complete": 3902,
- "snapshots_partial": 661,
+ "fetch_success_rate": 0.976,
+ "fetch_success_rate_registry": 0.915,
+ "snapshots_complete": 3852,
+ "snapshots_partial": 606,
  "partial_by_reason": {
-  "result-cap": 566,
-  "malformed-response": 95
+  "result-cap": 523,
+  "malformed-response": 83
  },
- "degraded_fetches": 95,
- "roles_matched": 63,
- "dropped_no_year_in_title": 489,
- "dropped_offcycle_by_text": 289,
+ "degraded_fetches": 83,
+ "roles_matched": 60,
+ "dropped_no_year_in_title": 479,
+ "dropped_offcycle_by_text": 276,
  "roles_cycle_inferred": 30,
  "roles_by_source": {
   "amazon": 3,
@@ -60,15 +59,15 @@
   "no-sponsorship": 2
  },
  "posted_date_coverage": 1.0,
- "enriched_this_run": 5,
- "enrichment_detail_fetches": 0,
+ "enriched_this_run": 7,
+ "enrichment_detail_fetches": 2,
  "purged_this_run": 0,
  "new_this_run": 0,
  "open_total": 69,
  "detection_latency": {
-  "median_minutes": 115.3,
-  "p95_minutes": 266.3,
-  "sample_size": 12,
+  "median_minutes": 101.5,
+  "p95_minutes": 228.3,
+  "sample_size": 11,
   "window_days": 7,
   "basis": "roles published in the window with an exact source timestamp"
  },
@@ -76,5 +75,5 @@
   "median_days": 9.5,
   "sample_size": 144
  },
- "rendered_at": "2026-09-21T14:18:02Z"
+ "rendered_at": "2026-09-21T19:38:38Z"
 }

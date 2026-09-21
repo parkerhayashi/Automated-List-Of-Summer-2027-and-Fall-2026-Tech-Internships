@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-21T19:38:38Z</updated>
+  <updated>2026-09-21T23:05:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:td:/job/Toronto-Ontario/Cyber-Security-Co-op-Intern---JEDI-Partnership_R_1512330</id>
-    <title>TD Bank: Cyber Security Co-op/Intern – JEDI Partnership</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Co-op-Intern---JEDI-Partnership_R_1512330"/>
-    <updated>2026-09-21T19:38:38Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Security · Toronto, Ontario · status: closed</summary>
+    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1</id>
+    <title>CIBC: Cloud Engineering Co-op</title>
+    <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1"/>
+    <updated>2026-09-21T23:05:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toronto, ON · Python, AWS, GCP, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cae:/job/Montreal-St-Laurent/Tax-Intern---Tax-Technology---AI-Enablement_123617</id>
@@ -22,6 +22,14 @@
     <updated>2026-09-21T19:38:38Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Data &amp; ML/AI · Montreal (St. Laurent) · LLMs, Azure · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:td:/job/Toronto-Ontario/Cyber-Security-Co-op-Intern---JEDI-Partnership_R_1512330</id>
+    <title>TD Bank: Cyber Security Co-op/Intern – JEDI Partnership</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Co-op-Intern---JEDI-Partnership_R_1512330"/>
+    <updated>2026-09-21T19:38:38Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Security · Toronto, Ontario · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1</id>
@@ -795,14 +803,6 @@
     <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685</id>
     <title>Manulife Financial: Summer Intern 2027 - Software Engineering (8 Months)</title>
     <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685"/>
-    <updated>2026-09-03T19:49:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Toronto, Ontario · Python, Java, JavaScript, HTML/CSS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684</id>
-    <title>Manulife Financial: Summer Intern 2027 - Software Engineering</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684"/>
     <updated>2026-09-03T19:49:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Toronto, Ontario · Python, Java, JavaScript, HTML/CSS, Git</summary>

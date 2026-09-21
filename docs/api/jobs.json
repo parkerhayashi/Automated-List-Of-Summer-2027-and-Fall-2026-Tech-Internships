@@ -1,11 +1,37 @@
 {
- "generated_at": "2026-09-21T19:38:38Z",
- "data_as_of": "2026-09-21T19:38:38Z",
- "rendered_at": "2026-09-21T19:38:38Z",
+ "generated_at": "2026-09-21T23:05:45Z",
+ "data_as_of": "2026-09-21T23:05:45Z",
+ "rendered_at": "2026-09-21T23:05:45Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 69,
+ "count": 70,
  "jobs": [
+  {
+   "id": "workday:cibc:/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1",
+   "company": "CIBC",
+   "title": "Cloud Engineering Co-op",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1",
+   "posted_at": "2026-09-21T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-21T23:05:45Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "AWS",
+    "GCP",
+    "Azure"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Co-op",
+   "remote": false
+  },
   {
    "id": "workday:autodesk:/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1",
    "company": "Autodesk",

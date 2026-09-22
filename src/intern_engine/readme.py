@@ -200,7 +200,7 @@ def _rolling_row(record: dict, cfg: dict | None = None) -> str:
 
 
 def _region_label(cfg: dict) -> str:
-    return config.region_phrase(cfg)
+    return config.region_scope_phrase(cfg)
 
 
 def _company_count() -> tuple[int, int]:
@@ -262,12 +262,28 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
     japan = config.want_japan(cfg)
     us = config.want_us(cfg)
     non_us = config.restrict_region(cfg) and not us
+    geo_labels = [_geo_label(k) for k in config.display_region_keys(cfg)]
+    if len(geo_labels) > 1:
+        grouping_bullet = (
+            "- Roles are grouped by **region** ("
+            + ", then ".join(geo_labels)
+            + "), then by cycle - **newest posting on top, oldest at the bottom.**"
+        )
+    else:
+        grouping_bullet = (
+            "- Roles are grouped by cycle below - **newest posting on top, "
+            "oldest at the bottom.**"
+        )
     if names == ["Canada"]:
         masthead = "🍁 Canada Tech Internships"
     elif names == ["Japan"]:
         masthead = "🇯🇵 Japan Tech Internships"
     elif names == ["Canada", "Japan"]:
         masthead = "🍁 Canada & Japan Tech Internships"
+    elif canada and japan:
+        masthead = "🍁 Canada, Japan & more Tech Internships"
+    elif canada:
+        masthead = "🍁 Canada & more Tech Internships"
     else:
         masthead = "🎓 Summer 2027 Tech Internships"
     flag_bits = []
@@ -295,7 +311,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
             f"[Feedrabbit]({_email_subscribe_url()})."
         )
     if non_us:
-        visa_where = " and ".join(names) if names else "this list"
+        visa_where = config.region_phrase(cfg)
         visa_row = (
             "| 🛂 **Work authorization, from the posting** | "
             f"{' / '.join(f for f, on in (('🇨🇦', canada), ('🇯🇵', japan)) if on)} / 🛂 "
@@ -308,7 +324,8 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
             f"This fork of the internship engine tracks software, data, ML, "
             f"quant, product (PM/TPM), venture capital, and product-design internships and "
             f"co-ops located in {visa_where} for Summer 2027, "
-            "plus recent postings that don't name a cycle."
+            "plus recent postings that don't name a cycle. The Scope table lists "
+            "every country."
         )
         flag_legend = (
             f"- **Flags after a role title:** {citizens_legend} · 🛂 = the "
@@ -493,12 +510,12 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "<summary><b>Reading the table — flags, dates, and the cycle split</b>"
         " (click to expand)</summary>",
         "",
-        "- Roles are grouped by cycle below - **newest posting on top, oldest at the bottom.**",
+        grouping_bullet,
         "- A cycle section holds only roles whose **employer stated that cycle** - "
         "in the title, or in the posting's own text. Postings that name no cycle "
-        "anywhere are in *Recently posted — cycle not stated* further down, with "
-        "**no cycle guessed for them**. Same quality bar, different amount of "
-        "evidence.",
+        "anywhere are in *Recently posted — cycle not stated* under the same "
+        "region, with **no cycle guessed for them**. Same quality bar, different "
+        "amount of evidence.",
         "- The **Posted** column is the date the company published the role.",
         "- **_(3 openings)_ after a role title** = the employer has that many "
         "separate live requisitions for the same job, in the same place, for "
@@ -612,10 +629,17 @@ def _select(rows: list[dict], limit, per_company) -> list[dict]:
 
 
 def _region_of(record: dict) -> str:
-    loc = record.get("location") or ""
-    if filters.is_united_states(loc) or filters.is_canada(loc) or filters.is_japan(loc):
-        return "primary"
-    return "International"
+    return filters.display_region(record.get("location") or "")
+
+
+def _geo_label(key: str) -> str:
+    return filters.DISPLAY_REGION_LABELS.get(key, key)
+
+
+def _heading(cycle: str, geo: str, multi: bool) -> str:
+    if not multi:
+        return cycle
+    return f"{cycle} — {_geo_label(geo)}"
 
 
 def _new_this_week(open_jobs: list[dict], data_as_of: str | None = None) -> int:
@@ -747,62 +771,103 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
     # certainty than the evidence supports. They get their own lane below.
     stated = [r for r in open_jobs if not r.get("season_inferred")]
     inferred = [r for r in open_jobs if r.get("season_inferred")]
+    geo_keys = config.display_region_keys(cfg)
+    multi_geo = len(geo_keys) > 1
 
-    groups: dict[tuple[str, str], list[dict]] = {}
+    stated_groups: dict[tuple[str, str], list[dict]] = {}
     for r in stated:
         # A multi-cycle posting ("Fall 2026/Summer 2027") belongs in EVERY
         # cycle it states — that's the point of keeping the full set.
         for cyc in (r.get("seasons") or [r.get("season", "")]):
-            groups.setdefault((_region_of(r), cyc), []).append(r)
+            stated_groups.setdefault((_region_of(r), cyc), []).append(r)
+    inferred_groups: dict[str, list[dict]] = {}
+    for r in inferred:
+        inferred_groups.setdefault(_region_of(r), []).append(r)
 
-    sections: list[tuple[str, str, list[dict]]] = []
     displayed: list[dict] = []
     seen_display: set[str] = set()
-    for region in ("primary", "International"):
-        for cycle in cycles:
-            # Group BEFORE selecting, so an employer that opened one job eight
-            # times spends one row of the per-company budget instead of eight —
-            # the cap exists for variety, and eight copies of one title is the
-            # opposite of variety.
-            rows = _select(
-                grouping.group(groups.get((region, cycle)) or []),
-                config.section_limit(cfg, cycle),
-                per_company,
-            )
-            if rows:
-                heading = cycle if region == "primary" else f"{cycle} (International)"
-                sections.append((heading, cycle, rows))
-                for r in rows:
-                    if r.get("id") not in seen_display:
-                        seen_display.add(r.get("id"))
-                        displayed.append(r)
 
-    rolling_rows = _select(grouping.group(inferred), None, per_company)
-    # Count OPENINGS, not rows: a row that says "3 openings" has put three of
-    # the total on the page, and "165 open roles (158 listed below)" would
-    # otherwise under-report what a reader can actually reach.
-    shown_total = sum(
-        r.get("openings") or 1 for r in (*displayed, *rolling_rows)
+    def _take(rows: list[dict], limit) -> list[dict]:
+        selected = _select(grouping.group(rows), limit, per_company)
+        for record in selected:
+            if record.get("id") not in seen_display:
+                seen_display.add(record.get("id"))
+                displayed.append(record)
+        return selected
+
+    blocks: list[tuple[str, str, str | None, list[dict], bool]] = []
+    # (geo, kind, cycle_or_none, rows, write_iec_blurb)
+    iec_blurb_pending = True
+    for geo in geo_keys:
+        for cycle in cycles:
+            rows = _take(
+                stated_groups.get((geo, cycle)) or [],
+                config.section_limit(cfg, cycle),
+            )
+            if not rows:
+                continue
+            blurb = geo == "IEC" and iec_blurb_pending
+            if blurb:
+                iec_blurb_pending = False
+            blocks.append((geo, "stated", cycle, rows, blurb))
+        rolling_rows = _take(inferred_groups.get(geo) or [], None)
+        if rolling_rows:
+            blurb = geo == "IEC" and iec_blurb_pending
+            if blurb:
+                iec_blurb_pending = False
+            blocks.append((geo, "inferred", None, rolling_rows, blurb))
+
+    shown_total = sum(r.get("openings") or 1 for r in displayed)
+    endpoints, employers = _company_count()
+    lines = _header(
+        cfg, len(open_jobs), endpoints,
+        _new_this_week(open_jobs, data_as_of), employers=employers,
+        shown=shown_total, stated=len(stated), inferred=len(inferred),
+        data_as_of=data_as_of,
     )
 
-    endpoints, employers = _company_count()
-    lines = _header(cfg, len(open_jobs), endpoints,
-                    _new_this_week(open_jobs, data_as_of), employers=employers,
-                    shown=shown_total, stated=len(stated), inferred=len(inferred),
-                    data_as_of=data_as_of)
-    
-    for heading, cycle, rows in sections:
-        lines.append(f"## {heading}  ({len(rows)} employer-stated)")
-        lines.append("")
-        lines.append("| Company | Role | Category | Location | Skills | Posted | Apply |")
-        lines.append("|---|---|---|---|---|---|---|")
-        lines.extend(_row(r, cycle, cfg) for r in rows)
-        lines.append("")
+    if multi_geo:
+        used = {geo for geo, *_ in blocks}
+        jump = " · ".join(
+            f"[{_geo_label(geo)}](#{geo.lower()})"
+            for geo in geo_keys if geo in used
+        )
+        if jump.count("](#") > 1:
+            lines.extend(["**Jump to:** " + jump, ""])
 
-    if rolling_rows:
+    anchored: set[str] = set()
+    iec_phrase = config.iec_country_phrase(cfg)
+    for geo, kind, cycle, rows, write_blurb in blocks:
+        if geo not in anchored:
+            lines.append(f'<a id="{geo.lower()}"></a>')
+            anchored.add(geo)
+        if kind == "stated":
+            lines.append(
+                f"## {_heading(cycle, geo, multi_geo)}  "
+                f"({len(rows)} employer-stated)"
+            )
+            lines.append("")
+            if write_blurb and iec_phrase:
+                lines.append(f"Located in {iec_phrase}.")
+                lines.append("")
+            lines.append(
+                "| Company | Role | Category | Location | Skills | Posted | Apply |"
+            )
+            lines.append("|---|---|---|---|---|---|---|")
+            lines.extend(_row(r, cycle, cfg) for r in rows)
+            lines.append("")
+            continue
+        rolling_heading = "Recently posted — cycle not stated"
+        if multi_geo:
+            rolling_heading += f" — {_geo_label(geo)}"
         lines.extend([
-            f"## Recently posted — cycle not stated  ({len(rolling_rows)} roles)",
+            f"## {rolling_heading}  ({len(rows)} roles)",
             "",
+        ])
+        if write_blurb and iec_phrase:
+            lines.append(f"Located in {iec_phrase}.")
+            lines.append("")
+        lines.extend([
             "These postings never name a cycle — not in the title, not in the "
             "posting text — so neither do we. They're recent tech internships "
             "(posted within the last few weeks), often exactly the early drops "
@@ -814,10 +879,10 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
             "| Company | Role | Category | Location | Skills | Posted | Apply |",
             "|---|---|---|---|---|---|---|",
         ])
-        lines.extend(_rolling_row(r, cfg) for r in rolling_rows)
+        lines.extend(_rolling_row(r, cfg) for r in rows)
         lines.append("")
 
-    if not displayed and not rolling_rows:
+    if not displayed:
         lines.append(
             "_No matching roles right now, the list fills as companies post. "
             "Star it and check back._"
@@ -856,7 +921,7 @@ def _csv_safe(value):
 def _write_csv(open_jobs: list[dict]) -> None:
     fields = [
         "id", "company", "title", "season", "season_inferred", "seasons", "program",
-        "remote", "category", "location", "sponsorship", "h1b_approvals",
+        "remote", "category", "location", "region", "sponsorship", "h1b_approvals",
         "salary", "skills", "posted_at", "posted_at_source", "first_seen_at",
         "url",
     ]
@@ -872,6 +937,10 @@ def _write_csv(open_jobs: list[dict]) -> None:
         row["skills"] = "; ".join(r.get("skills") or [])
         row["seasons"] = "; ".join(r.get("seasons") or [])
         row["program"] = filters.program_type(r.get("title") or "")
+        row["region"] = filters.DISPLAY_REGION_LABELS.get(
+            filters.display_region(r.get("location") or ""),
+            filters.display_region(r.get("location") or ""),
+        )
         row["remote"] = "yes" if filters.is_remote(
             r.get("location") or "", r.get("title") or "") else ""
         writer.writerow({k: _csv_safe(v) for k, v in row.items()})

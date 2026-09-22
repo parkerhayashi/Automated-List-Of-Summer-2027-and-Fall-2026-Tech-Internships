@@ -99,7 +99,7 @@ off, and a partial snapshot is never allowed to close anything. Roughly 90 of
 | `src/intern_engine/config.py` | Loads `data/config.json`; derives the repo/Pages URLs. |
 | `src/intern_engine/net.py` | Async HTTP with retry/backoff + per-host concurrency limits. |
 | `src/intern_engine/connectors/` | One module per ATS: Greenhouse, Lever, Ashby, SmartRecruiters, Workday, Oracle, Amazon, Rippling, Workable, Breezy, Recruitee, Eightfold. |
-| `src/intern_engine/filters.py` | Classification: internship? tech? season/year? US/Canada? category. |
+| `src/intern_engine/filters.py` | Classification: internship? tech? season/year? US/Canada/Japan/partner-country? category. |
 | `src/intern_engine/sponsorship.py` | Phrase-anchored visa/citizenship classifier + display flags. |
 | `src/intern_engine/h1b.py` | Joins companies against the USCIS H-1B employer index (✓ badge). |
 | `src/intern_engine/enrich.py` | Fetches posting text for new matched roles; backfills exact dates. |
@@ -172,8 +172,9 @@ keeps the list free of junk/no-name companies.
   the verdict, so it can never be re-inferred back in. Once stored, a season is
   sticky — never re-derived on later runs. `tools/audit_seasons.py` re-audits
   the backlog on demand. Older undated roles and other cycles are dropped.
-- `regions` — `["US"]`, `["Canada"]`, `["Japan"]`, combinations such as
-  `["Canada", "Japan"]`, or `["Global"]` to disable the location filter.
+- `regions` — `["US"]`, `["Canada"]`, `["Japan"]`, named partner countries
+  (`"France"`, `"United Kingdom"`, `"Germany"`, …), combinations of those, or
+  `["Global"]` to disable the location filter.
 - `role_scope` — `"tech"` keeps SWE / data / ML / quant / PM / VC / design / security
   (and software-first hardware); `"all"` keeps every internship.
 - `max_age_days` — drop postings published longer ago than this (kills stale/evergreen reqs).

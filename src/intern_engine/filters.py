@@ -930,23 +930,189 @@ def is_japan(location: str) -> bool:
     return False
 
 
+# Partner countries beyond US / Canada / Japan. US and Canada are vetoed
+# first so Paris TX, London Ontario, Melbourne FL, Athens GA, San Jose CA,
+# Berlin NH, and similar collisions never count as the foreign city.
+# Do not match bare DE (Delaware) as Germany; use city / "Germany" instead.
+# Aliases are regex fragments so Ireland can exclude "Northern Ireland"
+# (that's the UK) and Wales can exclude "New South Wales" (Australia).
+_PARTNER_SPECS: tuple[tuple[str, tuple[str, ...], tuple[str, ...], tuple[str, ...]], ...] = (
+    ("Australia", (r"\baustralia\b", r"\bnew south wales\b"),
+     ("AU", "AUS"),
+     ("sydney", "melbourne", "brisbane", "perth", "adelaide", "canberra")),
+    ("Austria", (r"\baustria\b", r"\bösterreich\b", r"\bosterreich\b"),
+     ("AT", "AUT"),
+     ("vienna", "wien", "graz", "linz", "salzburg", "innsbruck")),
+    ("Chile", (r"\bchile\b",), ("CL", "CHL"), ()),
+    ("Costa Rica", (r"\bcosta rica\b",), ("CR", "CRI"), ()),
+    ("Croatia", (r"\bcroatia\b", r"\bhrvatska\b"),
+     ("HR", "HRV"), ("zagreb", "split", "rijeka")),
+    ("Czech Republic",
+     (r"\bczech republic\b", r"\bczechia\b", r"\bčesko\b", r"\bcesko\b"),
+     ("CZ", "CZE"), ("prague", "praha", "brno")),
+    ("Estonia", (r"\bestonia\b", r"\beesti\b"),
+     ("EE", "EST"), ("tallinn", "tartu")),
+    ("France", (r"\bfrance\b",),
+     ("FR", "FRA"),
+     ("paris", "lyon", "marseille", "toulouse", "lille", "nantes", "bordeaux",
+      "strasbourg", "rennes", "grenoble", "montpellier")),
+    ("Germany", (r"\bgermany\b", r"\bdeutschland\b"),
+     (),  # never match DE — that's Delaware
+     ("berlin", "munich", "münchen", "muenchen", "hamburg", "frankfurt",
+      "stuttgart", "cologne", "köln", "koeln", "düsseldorf", "dusseldorf",
+      "dortmund", "leipzig", "dresden", "nuremberg", "nürnberg", "nuernberg",
+      "aachen", "karlsruhe", "mannheim", "bremen", "hannover", "heidelberg")),
+    ("Greece", (r"\bgreece\b", r"\bhellas\b"),
+     ("GR", "GRC"), ("thessaloniki",)),
+    ("Ireland",
+     (r"(?<!northern\s)\bireland\b", r"\béire\b", r"\beire\b",
+      r"\brepublic of ireland\b"),
+     ("IE", "IRL"), ("dublin", "cork", "galway", "limerick")),
+    ("Italy", (r"\bitaly\b", r"\bitalia\b"),
+     ("IT", "ITA"),
+     ("rome", "roma", "milan", "milano", "turin", "torino", "bologna",
+      "genoa", "genova", "padua", "padova")),
+    ("Latvia", (r"\blatvia\b", r"\blatvija\b"), ("LV", "LVA"), ("riga",)),
+    ("Lithuania", (r"\blithuania\b", r"\blietuva\b"),
+     ("LT", "LTU"), ("vilnius", "kaunas")),
+    ("Luxembourg", (r"\bluxembourg\b", r"\bluxemburg\b"), ("LU", "LUX"), ()),
+    ("Norway", (r"\bnorway\b", r"\bnorge\b"),
+     ("NO", "NOR"), ("oslo", "bergen", "trondheim", "stavanger")),
+    ("Poland", (r"\bpoland\b", r"\bpolska\b"),
+     ("PL", "POL"),
+     ("warsaw", "warszawa", "krakow", "kraków", "wroclaw", "wrocław",
+      "gdansk", "gdańsk", "poznan", "poznań")),
+    ("Portugal", (r"\bportugal\b",),
+     ("PT", "PRT"), ("lisbon", "lisboa", "porto", "braga")),
+    ("Slovakia", (r"\bslovakia\b", r"\bslovensko\b"),
+     ("SK", "SVK"), ("bratislava", "kosice", "košice")),
+    ("Slovenia", (r"\bslovenia\b", r"\bslovenija\b"),
+     ("SI", "SVN"), ("ljubljana",)),
+    ("Spain", (r"\bspain\b", r"\bespaña\b", r"\bespana\b"),
+     ("ES", "ESP"),
+     ("madrid", "barcelona", "valencia", "seville", "sevilla", "bilbao",
+      "malaga", "málaga")),
+    ("Sweden", (r"\bsweden\b", r"\bsverige\b"),
+     ("SE", "SWE"),
+     ("stockholm", "gothenburg", "goteborg", "göteborg", "malmo", "malmö",
+      "uppsala", "lund")),
+    ("Switzerland",
+     (r"\bswitzerland\b", r"\bschweiz\b", r"\bsuisse\b", r"\bsvizzera\b"),
+     ("CH", "CHE"),
+     ("zurich", "zürich", "geneva", "genève", "geneve", "basel", "bern",
+      "lausanne", "zug", "winterthur", "lugano")),
+    ("Taiwan", (r"\btaiwan\b", r"\bchinese taipei\b"),
+     ("TW", "TWN"),
+     ("taipei", "hsinchu", "taichung", "tainan", "kaohsiung")),
+    ("United Kingdom",
+     (r"\bunited kingdom\b", r"\bgreat britain\b", r"\bnorthern ireland\b",
+      r"(?<!new\s)\bengland\b", r"\bscotland\b", r"(?<!south\s)\bwales\b",
+      r"\bbreatain\b"),
+     ("GB", "GBR", "UK"),
+     ("london", "manchester", "edinburgh", "glasgow", "cardiff", "belfast")),
+)
+
+
+def _compile_partner_matchers() -> list[tuple[str, re.Pattern, re.Pattern | None, re.Pattern | None]]:
+    compiled = []
+    for name, aliases, codes, cities in _PARTNER_SPECS:
+        alias_re = re.compile("|".join(aliases), re.IGNORECASE)
+        code_re = (
+            re.compile(r"\b(" + "|".join(codes) + r")\b(?!-)") if codes else None
+        )
+        city_re = None
+        if cities:
+            city_re = re.compile(
+                r"\b(" + "|".join(re.escape(c) for c in
+                                  sorted(cities, key=len, reverse=True)) + r")\b",
+                re.IGNORECASE,
+            )
+        compiled.append((name, alias_re, code_re, city_re))
+    return compiled
+
+
+_PARTNER_MATCHERS = _compile_partner_matchers()
+# US state codes that ATS feeds also use as ISO country codes. A German city
+# plus "DE" is Germany; a full US state name ("Berlin, New Hampshire") is US.
+_ISO_US_COLLISIONS = {"DE": "Germany"}
+
+
+def _partner_country_one(location: str) -> str | None:
+    """Match one location option. Canada wins; US homonyms stay US."""
+    if not location or is_canada(location):
+        return None
+    low = location.lower()
+    for name, alias_re, _code_re, _city_re in _PARTNER_MATCHERS:
+        if alias_re.search(low):
+            return name
+    us = is_united_states(location)
+    if us:
+        parts = _location_parts(location)
+        us_signal = _structured_signal(parts, _US_STATES, _US_CODES)
+        if not (
+            us_signal
+            and us_signal[1] == "code"
+            and us_signal[2].upper() in _ISO_US_COLLISIONS
+        ):
+            return None
+        target = _ISO_US_COLLISIONS[us_signal[2].upper()]
+        for name, _alias_re, _code_re, city_re in _PARTNER_MATCHERS:
+            if name == target and city_re is not None and city_re.search(low):
+                return name
+        return None
+    for name, _alias_re, code_re, city_re in _PARTNER_MATCHERS:
+        if city_re is not None and city_re.search(low):
+            return name
+        if code_re is not None and code_re.search(location):
+            return name
+    return None
+
+
+def partner_countries(location: str) -> set[str]:
+    """Every configured partner country named in a (possibly multi-site) location."""
+    if not location:
+        return set()
+    options = [part.strip() for part in _LOCATION_OPTION_RE.split(location)
+               if part.strip()]
+    if len(options) > 1:
+        found: set[str] = set()
+        for option in options:
+            found |= partner_countries(option)
+        return found
+    hit = _partner_country_one(location)
+    return {hit} if hit else set()
+
+
+def partner_country(location: str) -> str | None:
+    found = partner_countries(location)
+    if not found:
+        return None
+    for name, *_ in _PARTNER_SPECS:
+        if name in found:
+            return name
+    return next(iter(found))
+
+
 def is_us_or_canada(location: str) -> bool:
     return is_united_states(location) or is_canada(location)
 
 
 def region_bucket(location: str) -> str:
-    """Stable stats label: US, Canada, Japan, or International."""
+    """Stable stats label: US, Canada, Japan, a partner country, or International."""
     if is_united_states(location):
         return "US"
     if is_canada(location):
         return "Canada"
     if is_japan(location):
         return "Japan"
+    partner = partner_country(location)
+    if partner:
+        return partner
     return "International"
 
 
 def region_ok(location: str, want_us: bool, want_canada: bool,
-              want_japan: bool = False) -> bool:
+              want_japan: bool = False, want_countries=None) -> bool:
     """True if the location matches one of the wanted regions.
 
     Conservative: a bare "Remote" with no country mentioned matches nothing.
@@ -957,7 +1123,34 @@ def region_ok(location: str, want_us: bool, want_canada: bool,
         return True
     if want_japan and is_japan(location):
         return True
+    if want_countries:
+        return bool(partner_countries(location) & set(want_countries))
     return False
+
+
+DISPLAY_REGIONS = (
+    "Canada", "Japan", "IEC", "United States", "International",
+)
+DISPLAY_REGION_LABELS = {
+    "Canada": "Canada",
+    "Japan": "Japan",
+    "IEC": "IEC countries",
+    "United States": "United States",
+    "International": "International",
+}
+
+
+def display_region(location: str) -> str:
+    """Which public list a role belongs on. Canada wins a multi-country string."""
+    if is_canada(location):
+        return "Canada"
+    if is_japan(location):
+        return "Japan"
+    if partner_countries(location):
+        return "IEC"
+    if is_united_states(location):
+        return "United States"
+    return "International"
 
 
 # --- category tagging (first match wins; order = specific before generic) -----

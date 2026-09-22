@@ -56,3 +56,29 @@ def test_japan_is_a_supported_region():
     assert config.show_h1b(cfg) is False
     assert config.region_phrase(cfg) == "Canada & Japan"
 
+
+def test_partner_countries_are_supported_regions():
+    cfg = config.validate_config({
+        "regions": ["Canada", "Japan", "France", "UK"],
+        "cycles": ["Summer 2027"],
+    })
+    assert config.want_countries(cfg) == frozenset({"France", "United Kingdom"})
+    assert config.region_names(cfg) == [
+        "Canada", "Japan", "France", "United Kingdom",
+    ]
+    assert config.region_phrase(cfg) == "Canada, Japan, and 2 other countries"
+    assert "France" in config.region_scope_phrase(cfg)
+    assert "United Kingdom" in config.region_scope_phrase(cfg)
+
+
+def test_full_partner_list_validates():
+    cfg = config.validate_config({
+        "regions": ["Canada", "Japan", *config.PARTNER_REGION_NAMES],
+        "cycles": ["Summer 2027"],
+    })
+    assert len(config.want_countries(cfg)) == len(config.PARTNER_REGION_NAMES)
+    assert config.region_phrase(cfg) == "Canada, Japan, and 25 other countries"
+    assert config.display_region_keys(cfg) == ["Canada", "Japan", "IEC"]
+    assert "France" in config.iec_country_phrase(cfg)
+    assert "United Kingdom" in config.iec_country_phrase(cfg)
+

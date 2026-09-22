@@ -5,9 +5,9 @@ Change behavior without touching code:
                     These become the section headings, in this order.
   - default_cycle : where to put roles that have no clear term/year (e.g. just
                     "Software Engineer Intern"). Must be one of `cycles`.
-  - regions       : ["Canada"], ["Japan"], ["Canada", "Japan"], ["US"],
-                    combinations of those, or ["Global"] to disable the
-                    location filter entirely.
+  - regions       : ["Canada"], ["Japan"], ["US"], named partner countries
+                    (France, Germany, United Kingdom, …), combinations of
+                    those, or ["Global"] to disable the location filter.
   - role_scope    : "tech" (SWE/data/ML/quant/PM/VC/design/hardware/...) or "all" internships.
 """
 
@@ -61,6 +61,46 @@ def pages_base() -> str:
 _GLOBAL_TOKENS = {"global", "international", "worldwide", "any", "all"}
 _US_TOKENS = {"us", "usa", "united states", "u.s.", "america"}
 _JP_TOKENS = {"japan", "jp", "jpn"}
+# Canonical names, in the order they appear on the public list. Tokens below
+# also accept a few aliases ("UK", "Czechia") so config stays readable.
+PARTNER_REGION_NAMES = (
+    "Australia", "Austria", "Chile", "Costa Rica", "Croatia",
+    "Czech Republic", "Estonia", "France", "Germany", "Greece",
+    "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg",
+    "Norway", "Poland", "Portugal", "Slovakia", "Slovenia",
+    "Spain", "Sweden", "Switzerland", "Taiwan", "United Kingdom",
+)
+_PARTNER_TOKENS = {
+    "australia": "Australia",
+    "austria": "Austria",
+    "chile": "Chile",
+    "costa rica": "Costa Rica",
+    "croatia": "Croatia",
+    "czech republic": "Czech Republic",
+    "czechia": "Czech Republic",
+    "estonia": "Estonia",
+    "france": "France",
+    "germany": "Germany",
+    "greece": "Greece",
+    "ireland": "Ireland",
+    "italy": "Italy",
+    "latvia": "Latvia",
+    "lithuania": "Lithuania",
+    "luxembourg": "Luxembourg",
+    "norway": "Norway",
+    "poland": "Poland",
+    "portugal": "Portugal",
+    "slovakia": "Slovakia",
+    "slovenia": "Slovenia",
+    "spain": "Spain",
+    "sweden": "Sweden",
+    "switzerland": "Switzerland",
+    "taiwan": "Taiwan",
+    "united kingdom": "United Kingdom",
+    "uk": "United Kingdom",
+    "great britain": "United Kingdom",
+    "gb": "United Kingdom",
+}
 
 
 def _string_list(value, field: str, *, allow_empty: bool = False) -> list[str]:
@@ -96,7 +136,9 @@ def validate_config(raw: object) -> dict:
         raise ConfigError("cycles must use labels such as 'Summer 2027'")
 
     cfg["regions"] = _string_list(cfg.get("regions"), "regions")
-    supported = _GLOBAL_TOKENS | _US_TOKENS | _JP_TOKENS | {"canada"}
+    supported = (
+        _GLOBAL_TOKENS | _US_TOKENS | _JP_TOKENS | {"canada"} | set(_PARTNER_TOKENS)
+    )
     unknown = [r for r in cfg["regions"] if r.casefold() not in supported]
     if unknown:
         raise ConfigError(f"unsupported regions: {', '.join(unknown)}")
@@ -173,6 +215,16 @@ def want_japan(cfg: dict) -> bool:
     return any(str(r).lower() in _JP_TOKENS for r in (cfg.get("regions") or []))
 
 
+def want_countries(cfg: dict) -> frozenset[str]:
+    """Canonical partner-country names listed in ``regions``."""
+    found = []
+    for raw in cfg.get("regions") or []:
+        canon = _PARTNER_TOKENS.get(str(raw).strip().casefold())
+        if canon:
+            found.append(canon)
+    return frozenset(found)
+
+
 def region_names(cfg: dict) -> list[str]:
     """Human labels for the configured regions, in a stable order."""
     names = []
@@ -182,10 +234,13 @@ def region_names(cfg: dict) -> list[str]:
         names.append("Canada")
     if want_japan(cfg):
         names.append("Japan")
+    wanted = want_countries(cfg)
+    names.extend(name for name in PARTNER_REGION_NAMES if name in wanted)
     return names
 
 
 def region_phrase(cfg: dict) -> str:
+    """Compact label for titles and metadata (not the full country list)."""
     if not restrict_region(cfg):
         return "Worldwide"
     names = region_names(cfg)
@@ -195,6 +250,49 @@ def region_phrase(cfg: dict) -> str:
         return names[0]
     if len(names) == 2:
         return f"{names[0]} & {names[1]}"
+    if len(names) == 3:
+        return f"{names[0]}, {names[1]}, and {names[2]}"
+    return f"{names[0]}, {names[1]}, and {len(names) - 2} other countries"
+
+
+def region_scope_phrase(cfg: dict) -> str:
+    """Full country list for the README Scope table."""
+    if not restrict_region(cfg):
+        return "Worldwide"
+    names = region_names(cfg)
+    if not names:
+        return "Worldwide"
+    if len(names) == 1:
+        return names[0]
+    if len(names) == 2:
+        return f"{names[0]} & {names[1]}"
+    return ", ".join(names[:-1]) + f", and {names[-1]}"
+
+
+def display_region_keys(cfg: dict) -> list[str]:
+    """Public list sections, in the order they render."""
+    keys = []
+    if want_canada(cfg):
+        keys.append("Canada")
+    if want_japan(cfg):
+        keys.append("Japan")
+    if want_countries(cfg):
+        keys.append("IEC")
+    if want_us(cfg):
+        keys.append("United States")
+    if include_international(cfg):
+        keys.append("International")
+    return keys
+
+
+def iec_country_phrase(cfg: dict) -> str:
+    names = [name for name in PARTNER_REGION_NAMES if name in want_countries(cfg)]
+    if not names:
+        return ""
+    if len(names) == 1:
+        return names[0]
+    if len(names) == 2:
+        return f"{names[0]} and {names[1]}"
     return ", ".join(names[:-1]) + f", and {names[-1]}"
 
 

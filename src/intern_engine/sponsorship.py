@@ -150,8 +150,8 @@ def _has_affirmative(pattern: re.Pattern, text: str) -> bool:
 def classify(text: str | None) -> str:
     """Classify one posting's text. Strictest verdict wins.
 
-    citizens-only beats no-sponsorship (it also excludes green-card holders),
-    and both beat an "offers" phrase elsewhere in the same posting.
+    citizens-only beats no-sponsorship. An explicit "we don't sponsor" beats
+    an explicit "we sponsor" on the same posting.
     """
     if not text:
         return "unknown"

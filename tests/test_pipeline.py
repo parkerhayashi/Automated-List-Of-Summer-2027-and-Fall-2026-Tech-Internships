@@ -413,6 +413,20 @@ class TestRegionConfig:
             self._results("Toronto, Ontario, Canada"), ["Canada", "Japan"]
         )) == 1
 
+    def test_france_is_kept_when_configured(self):
+        kept = self._keep(self._results("Lyon, France"), ["Canada", "France"])
+        assert len(kept) == 1
+
+    def test_france_is_dropped_on_canada_only(self):
+        assert self._keep(self._results("Lyon, France"), ["Canada"]) == []
+
+    def test_uk_alias_keeps_london(self):
+        kept = self._keep(self._results("London, UK"), ["UK"])
+        assert len(kept) == 1
+
+    def test_paris_texas_is_not_france(self):
+        assert self._keep(self._results("Paris, TX"), ["France"]) == []
+
 
 class TestRoleScope:
     """tech scope keeps quant/PM/VC and still drops marketing."""
@@ -499,6 +513,25 @@ class TestOutOfScopeSweep:
         assert existing["a"]["closed_reason"] == "out-of-scope"
         assert existing["b"]["is_open"] is True
         assert existing["d"]["is_open"] is True
+
+    def test_france_stays_open_when_configured_canada_only_does_not(self):
+        from intern_engine.pipeline import _close_out_of_scope
+        canada_only = {"regions": ["Canada"], "cycles": ["Summer 2027"]}
+        with_france = {"regions": ["Canada", "France"], "cycles": ["Summer 2027"]}
+        existing = {
+            "a": {
+                "is_open": True,
+                "title": "Software Engineer Intern",
+                "location": "Lyon, France",
+            },
+        }
+        assert _close_out_of_scope(existing, canada_only) == 1
+        assert existing["a"]["is_open"] is False
+        existing["a"]["is_open"] = True
+        existing["a"].pop("closed_reason", None)
+        existing["a"].pop("closed_at", None)
+        assert _close_out_of_scope(existing, with_france) == 0
+        assert existing["a"]["is_open"] is True
 
     def test_sweep_is_off_when_international_is_included(self):
         from intern_engine.pipeline import _close_out_of_scope

@@ -164,8 +164,25 @@ def _sparkline(points: list[dict]) -> str:
 def _rows(open_jobs: list[dict], cfg: dict) -> str:
     window = h1b.window_label()
     show_history = config.show_h1b(cfg)
+    rank = {key: i for i, key in enumerate(filters.DISPLAY_REGIONS)}
+    # Stable: date order inside a region is whatever the caller already sorted.
+    ordered = sorted(
+        open_jobs,
+        key=lambda r: rank.get(filters.display_region(r.get("location") or ""), 99),
+    )
+    geos = {filters.display_region(r.get("location") or "") for r in ordered}
+    multi = len(geos) > 1
     rows = []
-    for r in open_jobs:
+    last_geo = None
+    for r in ordered:
+        geo = filters.display_region(r.get("location") or "")
+        if multi and geo != last_geo:
+            label = filters.DISPLAY_REGION_LABELS.get(geo, geo)
+            rows.append(
+                f'<tr class="region-head" data-region-head="{escape(geo)}">'
+                f'<td colspan="9">{escape(label)}</td></tr>'
+            )
+            last_geo = geo
         posted = (r.get("posted_at") or "")[:10] or "—"
         url = r.get("url") or ""
         apply = f'<a href="{escape(url)}" target="_blank" rel="noopener">Apply</a>' if url else "—"
@@ -245,6 +262,7 @@ def _rows(open_jobs: list[dict], cfg: dict) -> str:
             f'data-cycle="{escape(display_cycle)}" '
             f'data-cycles="{escape("|".join(visible_seasons))}" '
             f'data-category="{escape(r.get("category", ""))}" '
+            f'data-region="{escape(geo)}" '
             f'data-sponsor="{escape(sponsor)}" '
             f'data-h1b="{proven}" '
             f'data-remote="{remote}" '
@@ -405,6 +423,24 @@ def generate(store_data: dict, stats: dict) -> None:
         key=lambda s: (s == filters.NOT_STATED, s),
     )
     categories = sorted({r.get("category", "") for r in open_jobs if r.get("category")})
+    geo_present = []
+    seen_geo = set()
+    for r in display_jobs:
+        geo = filters.display_region(r.get("location") or "")
+        if geo not in seen_geo:
+            seen_geo.add(geo)
+            geo_present.append(geo)
+    geo_present.sort(key=lambda g: filters.DISPLAY_REGIONS.index(g)
+                     if g in filters.DISPLAY_REGIONS else 99)
+    region_filter = ""
+    if len(geo_present) > 1:
+        opts = "".join(
+            f'<option value="{escape(g)}">{escape(filters.DISPLAY_REGION_LABELS.get(g, g))}</option>'
+            for g in geo_present
+        )
+        region_filter = (
+            f'<select id="region"><option value="">All regions</option>{opts}</select>'
+        )
     repo = config.repo_slug()
     canada = config.want_canada(cfg)
     japan = config.want_japan(cfg)
@@ -620,7 +656,13 @@ def generate(store_data: dict, stats: dict) -> None:
            border-bottom:1px solid var(--line-soft); vertical-align:top; }}
   tbody tr:last-child td {{ border-bottom:0; }}
   tbody tr {{ transition:background .13s var(--ease); }}
-  tbody tr:hover {{ background:#ffffff0b; }}
+    tbody tr:hover {{ background:#ffffff0b; }}
+    tbody tr.region-head:hover {{ background:transparent; }}
+    tr.region-head td {{
+      font-weight:650; font-size:12px; letter-spacing:.04em;
+      text-transform:uppercase; color:var(--muted);
+      background:var(--raise); padding-top:16px;
+    }}
   thead th {{ position:sticky; top:0; z-index:1; background:var(--raise);
               border-bottom:1px solid var(--line);
               text-transform:uppercase; font-size:11px; letter-spacing:.05em; }}
@@ -746,6 +788,7 @@ def generate(store_data: dict, stats: dict) -> None:
   <div class="filters" id="filters">
     <input id="q" type="search" placeholder="Search company, role, location, or skill (try “Python”)…" autocomplete="off">
     <select id="cycle"><option value="">All cycles</option>{_options(cycles)}</select>
+    {region_filter}
     <label class="chk" title="Show only the roles you've starred (stored in this browser)">
       <input id="savedonly" type="checkbox"><span>★ saved (<span id="savedn">0</span>)</span></label>
     <!-- Secondary filters. A real <details> so phones get a one-tap disclosure
@@ -814,6 +857,7 @@ def generate(store_data: dict, stats: dict) -> None:
 <script>
 (function () {{
   var q = document.getElementById('q'), cycle = document.getElementById('cycle'),
+      region = document.getElementById('region'),
       cat = document.getElementById('cat'), spon = document.getElementById('spon'),
       h1b = document.getElementById('h1b'), age = document.getElementById('age'),
       stated = document.getElementById('stated'),
@@ -841,6 +885,7 @@ def generate(store_data: dict, stats: dict) -> None:
   // roles a reader had saved.
   var currentIds = {{}};
   rows.forEach(function (tr) {{
+    if (!tr.dataset.id) return;
     var ids = (tr.dataset.ids || tr.dataset.id).split('|');
     ids.forEach(function (id) {{ currentIds[id] = true; }});
     if (ids.length > 1 && !saved[tr.dataset.id]) {{
@@ -865,7 +910,10 @@ def generate(store_data: dict, stats: dict) -> None:
     }}
     tr.classList.toggle('saved', on);
   }}
-  function paintAll() {{ rows.forEach(paintRow); savedn.textContent = savedCount(); }}
+  function paintAll() {{
+    rows.forEach(function (tr) {{ if (tr.dataset.id) paintRow(tr); }});
+    savedn.textContent = savedCount();
+  }}
 
   document.getElementById('rows').addEventListener('click', function (ev) {{
     var btn = ev.target.closest ? ev.target.closest('.star') : null;
@@ -920,16 +968,19 @@ def generate(store_data: dict, stats: dict) -> None:
   }}
   function apply() {{
     var text = q.value.trim().toLowerCase(), cy = cycle.value, ca = cat.value,
+        rg = region ? region.value : '',
         sp = spon.value, proven = h1b && h1b.checked, shown = 0,
         minPosted = age.value ? cutoffISO(parseInt(age.value, 10)) : '',
         statedOnly = stated.checked, prog = program.value,
         remoteOnly = remote.checked, onlySaved = savedonly.checked;
     rows.forEach(function (tr) {{
+      if (!tr.dataset.id) return;
       // A multi-cycle posting matches EVERY cycle it states, so filtering to
       // "Fall 2026" still finds a "Fall 2026/Summer 2027" requisition.
       var cycles = (tr.dataset.cycles || tr.dataset.cycle || '').split('|');
       var ok = (!text || tr.dataset.text.indexOf(text) !== -1)
         && (!cy || cycles.indexOf(cy) !== -1)
+        && (!rg || tr.dataset.region === rg)
         && (!ca || tr.dataset.category === ca)
         && sponsorOK(sp, tr.dataset.sponsor)
         && (!proven || tr.dataset.h1b === '1')
@@ -945,10 +996,24 @@ def generate(store_data: dict, stats: dict) -> None:
       // with the one in the hero and the JSON API.
       if (ok) shown += parseInt(tr.dataset.openings || '1', 10) || 1;
     }});
+    var visibleInSection = 0, lastHead = null;
+    function flushHead() {{
+      if (lastHead) lastHead.style.display = visibleInSection ? '' : 'none';
+    }}
+    rows.forEach(function (tr) {{
+      if (tr.classList.contains('region-head')) {{
+        flushHead();
+        lastHead = tr;
+        visibleInSection = 0;
+        return;
+      }}
+      if (tr.style.display !== 'none') visibleInSection += 1;
+    }});
+    flushHead();
     count.textContent = shown;
     empty.hidden = shown !== 0;
   }}
-  var controls = [q, cycle, cat, age, spon, program, remote, h1b, stated, savedonly]
+  var controls = [q, cycle, region, cat, age, spon, program, remote, h1b, stated, savedonly]
       .filter(Boolean);
   controls.forEach(function (el) {{
     el.addEventListener('input', apply); el.addEventListener('change', apply);

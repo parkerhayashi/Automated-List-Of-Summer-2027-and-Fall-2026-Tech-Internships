@@ -85,3 +85,18 @@ def test_a_star_on_an_absorbed_requisition_moves_to_the_surviving_row():
     assert "if (saved[ids[i]]) { saved[tr.dataset.id] = saved[ids[i]]; break; }" in html
     # And every one of those ids still counts as present.
     assert "ids.forEach(function (id) { currentIds[id] = true; });" in html
+
+
+def test_canada_and_iec_are_separate_dashboard_sections():
+    html = _render({
+        "a": _opening("a", location="Toronto, Ontario, Canada"),
+        "b": _opening("b", location="Paris, France",
+                      title="Software Engineering Intern, Paris"),
+    })
+    assert 'data-region="Canada"' in html
+    assert 'data-region="IEC"' in html
+    assert 'data-region-head="Canada"' in html
+    assert 'data-region-head="IEC"' in html
+    assert 'id="region"' in html
+    assert ">IEC countries<" in html
+    assert "tr.dataset.region === rg" in html

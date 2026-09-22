@@ -143,6 +143,17 @@ class TestCanadianCitizenship:
             "Must be legally eligible to work in Canada."
         ) == "unknown"
 
+    def test_iec_mention_is_not_a_sponsorship_verdict(self):
+        assert sponsorship.classify(
+            "We are unable to sponsor work permits. IEC candidates are welcome."
+        ) == "no-sponsorship"
+        assert sponsorship.flag("iec") == ""
+
+    def test_iec_62304_is_not_the_immigration_program(self):
+        assert sponsorship.classify(
+            "Experience with IEC 62304. We cannot sponsor visas."
+        ) == "no-sponsorship"
+
 
 class TestJapaneseCitizenship:
     def test_japanese_citizen_required(self):

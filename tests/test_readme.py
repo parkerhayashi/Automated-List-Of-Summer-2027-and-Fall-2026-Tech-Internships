@@ -11,7 +11,7 @@ def _rec(jid, **extra):
     rec = {
         "id": jid, "company": "Acme", "title": "Software Engineer Intern",
         "season": "Summer 2027", "season_inferred": False, "category": "Software",
-        "location": "Austin, TX", "url": f"https://x/{jid}", "is_open": True,
+        "location": "Toronto, Ontario, Canada", "url": f"https://x/{jid}", "is_open": True,
         "posted_at": "2026-07-01T00:00:00Z", "first_seen_at": "2026-07-01T00:00:00Z",
         "sponsorship": "unknown", "skills": [],
     }
@@ -36,8 +36,8 @@ class TestEvidenceSplit:
         }
         readme.generate(store)
         text = (outputs / "README.md").read_text(encoding="utf-8")
-        assert "## Summer 2027  (1 employer-stated)" in text
-        assert "Recently posted — cycle not stated  (1 roles)" in text
+        assert "## Summer 2027 — Canada  (1 employer-stated)" in text
+        assert "Recently posted — cycle not stated — Canada  (1 roles)" in text
         # No guessed cycle anywhere: the lane states the absence, not a value.
         assert "~Summer 2027" not in text
         assert "Likely cycle" not in text
@@ -80,19 +80,22 @@ class TestMultiCycleRendering:
     def test_role_appears_under_every_cycle_it_states(self, outputs):
         store = {"a": _rec("a", title="SWE Internship (Fall 2026/Summer 2027)",
                            season="Summer 2027",
-                           seasons=["Summer 2027", "Fall 2026"])}
+                           seasons=["Summer 2027", "Fall 2026"],
+                           location="Austin, TX")}
         readme.generate(store)
         text = (outputs / "README.md").read_text(encoding="utf-8")
         assert "## Summer 2027  (1 employer-stated)" in text
         assert "## Fall 2026  (1 employer-stated)" in text
 
     def test_it_is_counted_once_not_twice(self, outputs):
-        store = {"a": _rec("a", seasons=["Summer 2027", "Fall 2026"])}
+        store = {"a": _rec("a", seasons=["Summer 2027", "Fall 2026"],
+                           location="Austin, TX")}
         out = readme.generate(store)
         assert out["open"] == 1
 
     def test_the_cross_reference_names_only_the_other_cycle(self, outputs):
-        store = {"a": _rec("a", seasons=["Summer 2027", "Fall 2026"])}
+        store = {"a": _rec("a", seasons=["Summer 2027", "Fall 2026"],
+                           location="Austin, TX")}
         readme.generate(store)
         text = (outputs / "README.md").read_text(encoding="utf-8")
         # Under Summer 2027 it should point at Fall 2026, and vice versa —
@@ -118,6 +121,7 @@ class TestCsvCompleteness:
         assert row["id"]
         assert row["program"] == "Co-op"
         assert row["remote"] == "yes"
+        assert row["region"] == "United States"
 
     def test_closed_roles_are_excluded(self, outputs):
         store = {"a": _rec("a"), "b": _rec("b", is_open=False)}
@@ -228,10 +232,63 @@ class TestIdenticalOpenings:
 
     def test_a_different_location_is_not_folded_away(self, outputs):
         store = self._store(2)
-        store["1"]["location"] = "Seattle, WA"
+        store["1"]["location"] = "Vancouver, British Columbia, Canada"
         readme.generate(store)
         text = (outputs / "README.md").read_text(encoding="utf-8")
         assert text.count("| Acme | Software Engineer Intern") == 2
         # No row claims a count (the legend explaining the marker is not a row).
         rows = [ln for ln in text.splitlines() if ln.startswith("| Acme |")]
         assert rows and not any("openings)" in ln for ln in rows)
+
+
+class TestGeoSections:
+    """Canadian jobs and IEC-country jobs are separate README sections."""
+
+    def test_canada_and_iec_are_not_mixed(self, outputs):
+        store = {
+            "a": _rec("a", location="Toronto, Ontario, Canada"),
+            "b": _rec("b", location="Paris, France", title="SWE Intern, Paris"),
+            "c": _rec("c", location="Tokyo, Japan", title="SWE Intern, Tokyo"),
+        }
+        readme.generate(store)
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "## Summer 2027 — Canada  (1 employer-stated)" in text
+        assert "## Summer 2027 — Japan  (1 employer-stated)" in text
+        assert "## Summer 2027 — IEC countries  (1 employer-stated)" in text
+        canada = text.index("Summer 2027 — Canada")
+        japan = text.index("Summer 2027 — Japan")
+        iec = text.index("Summer 2027 — IEC countries")
+        assert canada < japan < iec
+        assert "Toronto" in text[canada:japan]
+        assert "Paris" in text[iec:]
+        assert "Tokyo" in text[japan:iec]
+        assert "**Jump to:**" in text
+        assert "[Canada](#canada)" in text
+        assert "[IEC countries](#iec)" in text
+        assert "Located in Australia" in text
+
+    def test_inferred_iec_does_not_land_in_canada(self, outputs):
+        store = {
+            "a": _rec("a", location="Montreal, Quebec, Canada",
+                      season_inferred=True, title="Backend Intern"),
+            "b": _rec("b", location="Berlin, Germany",
+                      season_inferred=True, title="Backend Intern, Berlin"),
+        }
+        readme.generate(store)
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "Recently posted — cycle not stated — Canada" in text
+        assert "Recently posted — cycle not stated — IEC countries" in text
+        canada = text.index("cycle not stated — Canada")
+        iec = text.index("cycle not stated — IEC countries")
+        assert "Montreal" in text[canada:iec]
+        assert "Berlin" in text[iec:]
+
+    def test_us_only_config_keeps_an_unsuffixed_cycle_heading(self, outputs, monkeypatch):
+        monkeypatch.setattr(
+            readme.config, "load_config",
+            lambda: {"cycles": ["Summer 2027"], "regions": ["US"]},
+        )
+        readme.generate({"a": _rec("a", location="Austin, TX")})
+        text = (outputs / "README.md").read_text(encoding="utf-8")
+        assert "## Summer 2027  (1 employer-stated)" in text
+        assert "Summer 2027 — " not in text

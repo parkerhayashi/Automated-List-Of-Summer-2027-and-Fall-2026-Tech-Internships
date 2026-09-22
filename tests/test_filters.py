@@ -342,6 +342,121 @@ class TestRegion:
         assert filters.is_united_states("San Francisco, ca")
 
 
+class TestPartnerCountries:
+    """Jobs located in configured partner countries, not visa-program titles."""
+
+    COUNTRIES = frozenset(name for name, *_ in filters._PARTNER_SPECS)
+
+    def test_specs_match_config_names(self):
+        from intern_engine import config
+        assert [name for name, *_ in filters._PARTNER_SPECS] == list(
+            config.PARTNER_REGION_NAMES
+        )
+
+    def test_named_cities_and_countries(self):
+        cases = (
+            ("Sydney, Australia", "Australia"),
+            ("Melbourne, VIC, AU", "Australia"),
+            ("Vienna, Austria", "Austria"),
+            ("Santiago, Chile", "Chile"),
+            ("San José, Costa Rica", "Costa Rica"),
+            ("Zagreb, Croatia", "Croatia"),
+            ("Prague, Czechia", "Czech Republic"),
+            ("Tallinn, Estonia", "Estonia"),
+            ("Paris, France", "France"),
+            ("Lyon, FR", "France"),
+            ("Berlin, Germany", "Germany"),
+            ("Berlin, DE", "Germany"),
+            ("Munich", "Germany"),
+            ("DE-Berlin-Trion", "Germany"),
+            ("Thessaloniki, Greece", "Greece"),
+            ("Dublin, Ireland", "Ireland"),
+            ("Cork, IE", "Ireland"),
+            ("Milan, Italy", "Italy"),
+            ("Riga, Latvia", "Latvia"),
+            ("Vilnius, Lithuania", "Lithuania"),
+            ("Luxembourg", "Luxembourg"),
+            ("Oslo, Norway", "Norway"),
+            ("Warsaw, Poland", "Poland"),
+            ("Lisbon, Portugal", "Portugal"),
+            ("Bratislava, Slovakia", "Slovakia"),
+            ("Ljubljana, Slovenia", "Slovenia"),
+            ("Madrid, Spain", "Spain"),
+            ("Barcelona, ES", "Spain"),
+            ("Stockholm, Sweden", "Sweden"),
+            ("Zurich, Switzerland", "Switzerland"),
+            ("Zurich, CH", "Switzerland"),
+            ("Taipei, Taiwan", "Taiwan"),
+            ("London, UK", "United Kingdom"),
+            ("London, England", "United Kingdom"),
+            ("Edinburgh, Scotland", "United Kingdom"),
+            ("Belfast, Northern Ireland", "United Kingdom"),
+        )
+        for loc, country in cases:
+            assert filters.partner_country(loc) == country, loc
+            assert filters.region_ok(
+                loc, want_us=False, want_canada=False, want_japan=False,
+                want_countries=self.COUNTRIES,
+            ), loc
+
+    def test_us_and_canada_homonyms_are_not_partner_countries(self):
+        collisions = (
+            "Paris, TX",
+            "London, Ontario",
+            "London, KY",
+            "Melbourne, FL",
+            "Athens, GA",
+            "San Jose, CA",
+            "Berlin, NH",
+            "Cambridge, MA",
+            "Dublin, OH",
+            "Valencia, CA",
+            "Warsaw, IN",
+            "Geneva, NY",
+            "Vienna, VA",
+        )
+        for loc in collisions:
+            assert filters.partner_country(loc) is None, loc
+            assert not filters.region_ok(
+                loc, want_us=False, want_canada=False,
+                want_countries=self.COUNTRIES,
+            ), loc
+
+    def test_northern_ireland_is_uk_not_ireland(self):
+        assert filters.partner_country("Belfast, Northern Ireland") == "United Kingdom"
+        assert "Ireland" not in filters.partner_countries("Belfast, Northern Ireland")
+
+    def test_new_south_wales_is_australia_not_uk(self):
+        assert filters.partner_country("Sydney, New South Wales") == "Australia"
+        assert "United Kingdom" not in filters.partner_countries(
+            "Sydney, New South Wales"
+        )
+
+    def test_unlisted_country_is_out(self):
+        assert filters.partner_country("Amsterdam, Netherlands") is None
+        assert not filters.region_ok(
+            "Amsterdam, Netherlands", want_us=False, want_canada=False,
+            want_countries=self.COUNTRIES,
+        )
+
+    def test_iec_title_does_not_admit_a_foreign_office(self):
+        assert not filters.region_ok(
+            "Lyon, France", want_us=False, want_canada=True,
+        )
+
+    def test_france_is_kept_when_configured(self):
+        assert filters.region_ok(
+            "Lyon, France", want_us=False, want_canada=True,
+            want_countries={"France"},
+        )
+
+    def test_display_region_splits_canada_from_iec(self):
+        assert filters.display_region("Toronto, Ontario, Canada") == "Canada"
+        assert filters.display_region("Paris, France") == "IEC"
+        assert filters.display_region("Tokyo, Japan") == "Japan"
+        assert filters.display_region("London, UK; Toronto, Canada") == "Canada"
+
+
 class TestMultiCycle:
     """One requisition can genuinely hire for two cycles."""
 

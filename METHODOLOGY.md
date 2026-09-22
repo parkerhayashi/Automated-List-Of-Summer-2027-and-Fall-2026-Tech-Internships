@@ -33,7 +33,12 @@ A posting must pass all of:
    accounting, investment banking, and generic business internships are out.
    The dashboard's category filter separates all of them, so you can exclude
    any.
-3. **It's in the configured region** — Canada and Japan (this fork).
+3. **It's in the configured region** — Canada, Japan, and the IEC countries
+   listed in `data/config.json` (this fork). The README splits them: Canadian
+   jobs are one section, IEC-country jobs are another, Japan is a third.
+   Location matching is precision-first: US and Canadian homonyms (Paris TX,
+   London Ontario, Melbourne FL, Athens GA) stay out. A title that names a
+   visa program does not pull a foreign office in.
 4. **It maps to a tracked cycle** — see below.
 
 The filters are precision-first: we would rather miss a role than list a wrong
@@ -124,8 +129,8 @@ On a **US** list, ✓ means USCIS approved a meaningful number of H-1B petitions
 for that employer in the published fiscal-year window, matched against the
 public [H-1B Employer Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub).
 
-This Canada & Japan fork **hides** that badge. H-1B history is a US immigration
-dataset and is not a useful signal for Canadian or Japanese internships.
+This fork **hides** that badge. H-1B history is a US immigration dataset and is
+not a useful signal for internships outside the United States.
 
 It is **a history, not a promise**. It says nothing about internship
 sponsorship, about current policy, or about this specific role. No ✓ only means

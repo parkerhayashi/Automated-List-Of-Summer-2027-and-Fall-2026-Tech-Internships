@@ -5,8 +5,104 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-22T12:51:26Z</updated>
+  <updated>2026-09-22T20:45:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5425</id>
+    <title>SCOR: Sustainable Investment Intern</title>
+    <link href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5425"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · VC · Paris, Ile-de-France, France · Python · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Software-Application-Developer-Co-op_2619461</id>
+    <title>CIBC: Software/Application Developer Co-op</title>
+    <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Toronto, ON · Python, Java, JavaScript, SQL, Spring · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:snowflake:ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8</id>
+    <title>Snowflake: Software Engineer Intern - Berlin (2027)</title>
+    <link href="https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · DE-Berlin-Trion Building · Java, C++, SQL, AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ag:/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522</id>
+    <title>Airbus: Internship (d/f/m) within Airbus site Artificial Intelligence Centre (AIC)</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bremen Area · Python, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:artefactlinkedin:8785636002</id>
+    <title>Artefact: Data Scientist Intern - Paris</title>
+    <link href="https://job-boards.greenhouse.io/artefactlinkedin/jobs/8785636002"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 9th arrondissement of Paris, 75009, Paris, France · AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Application-Software-Developer-Co-op_2619454</id>
+    <title>CIBC: Application/Software Developer Co-op</title>
+    <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op_2619454"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toronto, ON · Python, Azure, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dvtrading:4736603005</id>
+    <title>DV Trading: Security Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4736603005"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · London · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751</id>
+    <title>Marvell: Firmware Engineer Intern</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · CA-ON - Toronto - TOR · Python, C++, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053</id>
+    <title>Marvell: Software/Firmware Engineer Intern</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · CA-ON - Toronto - TOR · Python, C++, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:pg:/job/PARIS-GO-SAINT-OUEN-GO/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355</id>
+    <title>Procter &amp; Gamble (P&amp;G): Analysis &amp; Insights Internship (Stagiaire Data Analyst)</title>
+    <link href="https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-SAINT-OUEN-GO/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · PARIS GO: SAINT-OUEN GO · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10554706</id>
+    <title>Amazon: 2027 Software Dev Engineer Intern - Luxembourg</title>
+    <link href="https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg"/>
+    <updated>2026-09-22T12:51:26Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Luxembourg, International · Python, Java, C++, C#, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10555855</id>
+    <title>Amazon: 2027 Software Dev Engineer Intern - Spain</title>
+    <link href="https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain"/>
+    <updated>2026-09-22T12:51:26Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Madrid, International · Python, Java, C++, C#, Rust</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10555867</id>
     <title>Amazon: 2027 Software Dev Engineer Intern - Italy</title>
@@ -22,22 +118,6 @@
     <updated>2026-09-22T12:51:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Gdansk, International · Python, Java, C++, C#, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10555855</id>
-    <title>Amazon: 2027 Software Dev Engineer Intern - Spain</title>
-    <link href="https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain"/>
-    <updated>2026-09-22T12:51:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Madrid, International · Python, Java, C++, C#, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10554706</id>
-    <title>Amazon: 2027 Software Dev Engineer Intern - Luxembourg</title>
-    <link href="https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg"/>
-    <updated>2026-09-22T12:51:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Luxembourg, International · Python, Java, C++, C#, Rust</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210792010</id>
@@ -441,7 +521,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013756</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate AI Engineer - 2027 (UK - Burgess Hill)</title>
+    <title>American Express: Campus - Internship Programme - Undergraduate - AI Engineer - 2027 (UK - Burgess Hill)</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756"/>
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
@@ -449,7 +529,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013758</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate AI Engineer - 2027 (UK - London)</title>
+    <title>American Express: Campus - Internship Programme - Undergraduate - AI Engineer - 2027 (UK - London)</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758"/>
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
@@ -457,7 +537,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013761</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate Information Security Engineer - 2027 (UK - Burgess Hill)</title>
+    <title>American Express: Campus - Internship Programme - Undergraduate - Information Security Engineer - 2027 (UK - Burgess Hill)</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013761"/>
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
@@ -465,7 +545,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013764</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate Product Manager - 2027 (UK - Burgess Hill)</title>
+    <title>American Express: Campus - Internship Programme - Undergraduate - Product Manager - 2027 (UK - Burgess Hill)</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764"/>
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
@@ -473,7 +553,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013766</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate Product Manager - 2027 (UK - London)</title>
+    <title>American Express: Campus - Internship Programme - Undergraduate - Product Manager - 2027 (UK - London)</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766"/>
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
@@ -523,9 +603,9 @@
     <id>urn:intern-engine:oracle:ekbq.fa.em2.oraclecloud.com:1953</id>
     <title>Schroders: 2027 Schroders Capital Infrastructure - Product Strategy Internship Programme</title>
     <link href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1953"/>
-    <updated>2026-09-22T01:54:52Z</updated>
+    <updated>2026-09-22T20:27:03Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, United Kingdom</summary>
+    <summary>Summer 2027 · Software · London, United Kingdom · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81318</id>
@@ -726,85 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Winter 2026"/>
     <summary>Winter 2026 · Data &amp; ML/AI · Wernau (Neckar), BW, Germany (Hybrid) · Python, LLMs, Spark, Databricks · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000149963299</id>
-    <title>Bosch: WEB DEVELOPER INTERN (PYTHON &amp; AUTOMATION)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000149963299"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, Heredia, International (CR) (Hybrid) · Python, JavaScript, Angular, HTML/CSS, Docker</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000150216697</id>
-    <title>Bosch: DATA ANALYST INTERN</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000150216697"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco, Heredia, International (CR) (Hybrid) · Python, SQL, Pandas, Git, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RedBull:744000148756269</id>
-    <title>Red Bull: Internship Data Science</title>
-    <link href="https://jobs.smartrecruiters.com/RedBull/744000148756269"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Elsbethen, Salzburg, International (AT) · Python, SQL, Snowflake</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Sia:744000146907409</id>
-    <title>Sia Partners: Final Year Internship Consultant - Cybersecurity</title>
-    <link href="https://jobs.smartrecruiters.com/Sia/744000146907409"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Paris, IDF, International (FR)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Sia:744000148977039</id>
-    <title>Sia Partners: Final year internship - DevOps / Platform Engineer</title>
-    <link href="https://jobs.smartrecruiters.com/Sia/744000148977039"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Paris, IDF, International (FR) · Python, AWS, GCP, Azure, Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Sia:744000148980099</id>
-    <title>Sia Partners: Final Year Internship Consultant - Data Analyst</title>
-    <link href="https://jobs.smartrecruiters.com/Sia/744000148980099"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Data &amp; ML/AI · Paris, IDF, International (FR) · Python, SQL, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Sia:744000149281258</id>
-    <title>Sia Partners: Final year internship - Data Scientist &amp; AI Consultant</title>
-    <link href="https://jobs.smartrecruiters.com/Sia/744000149281258"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Paris, IDF, International (FR) · Python, PyTorch, TensorFlow, LLMs, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Sia:744000149618239</id>
-    <title>Sia Partners: Final year Internship - CIO, Data &amp; AI Advisory</title>
-    <link href="https://jobs.smartrecruiters.com/Sia/744000149618239"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Paris, IDF, International (FR)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:SopraSteria1:744000149533944</id>
-    <title>Sopra Steria: Internship/Stage - VC Analyst</title>
-    <link href="https://jobs.smartrecruiters.com/SopraSteria1/744000149533944"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · VC · Paris, IDF, International (FR) · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:TTP1:744000149038758</id>
-    <title>TTP: Summer Internship - Software Engineering Consultant - 2027</title>
-    <link href="https://jobs.smartrecruiters.com/TTP1/744000149038758"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Melbourn, England, United Kingdom</summary>
   </entry>
 </feed>

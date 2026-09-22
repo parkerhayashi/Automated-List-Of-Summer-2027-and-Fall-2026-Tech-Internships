@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:snowflake:ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
-      "workday:ag:/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522",
-      "greenhouse:artefactlinkedin:8785636002",
-      "workday:cibc:/job/Toronto-ON/Application-Software-Developer-Co-op_2619454",
-      "greenhouse:dvtrading:4736603005",
-      "workday:marvell:/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751",
-      "workday:marvell:/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053",
-      "workday:pg:/job/PARIS-GO-SAINT-OUEN-GO/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355"
-    ],
-    "telegram": [
-      "ashby:snowflake:ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
-      "workday:ag:/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522",
-      "greenhouse:artefactlinkedin:8785636002",
-      "workday:cibc:/job/Toronto-ON/Application-Software-Developer-Co-op_2619454",
-      "greenhouse:dvtrading:4736603005",
-      "workday:marvell:/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751",
-      "workday:marvell:/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053",
-      "workday:pg:/job/PARIS-GO-SAINT-OUEN-GO/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

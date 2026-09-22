@@ -149,7 +149,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 8,
+     "count": 12,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -158,7 +158,11 @@
       "amazon:amazon:10535280",
       "amazon:amazon:10538066",
       "amazon:amazon:10553947",
-      "amazon:amazon:10554586"
+      "amazon:amazon:10554586",
+      "amazon:amazon:10554706",
+      "amazon:amazon:10555855",
+      "amazon:amazon:10555867",
+      "amazon:amazon:10555873"
      ]
     }
    }
@@ -604,6 +608,18 @@
       "smartrecruiters:BoschGroup:744000146547599"
      ],
      "count": 3
+    }
+   }
+  },
+  "brevan howard": {
+   "name": "Brevan Howard",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-22",
+     "role_ids": [
+      "workday:brevanhoward:/job/London/AI---Quantitative-Analyst--London_JR101605"
+     ],
+     "count": 1
     }
    }
   },
@@ -1720,9 +1736,10 @@
       "oracle:jpmc.fa.oraclecloud.com:210775223",
       "oracle:jpmc.fa.oraclecloud.com:210775780",
       "oracle:jpmc.fa.oraclecloud.com:210776172",
-      "oracle:jpmc.fa.oraclecloud.com:210788659"
+      "oracle:jpmc.fa.oraclecloud.com:210788659",
+      "oracle:jpmc.fa.oraclecloud.com:210792010"
      ],
-     "count": 13
+     "count": 14
     }
    }
   },
@@ -3473,5 +3490,5 @@
    }
   }
  },
- "updated_at": "2026-09-22T07:03:30Z"
+ "updated_at": "2026-09-22T12:51:26Z"
 }

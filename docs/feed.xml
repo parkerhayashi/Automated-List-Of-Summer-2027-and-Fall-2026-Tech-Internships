@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-22T07:03:30Z</updated>
+  <updated>2026-09-22T12:51:26Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10555867</id>
+    <title>Amazon: 2027 Software Dev Engineer Intern - Italy</title>
+    <link href="https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy"/>
+    <updated>2026-09-22T12:51:26Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Turin, International · Python, Java, C++, C#, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10555873</id>
+    <title>Amazon: 2027 Software Dev Engineer Intern - Poland</title>
+    <link href="https://www.amazon.jobs/en/jobs/10555873/2027-software-dev-engineer-intern-poland"/>
+    <updated>2026-09-22T12:51:26Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Gdansk, International · Python, Java, C++, C#, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10555855</id>
+    <title>Amazon: 2027 Software Dev Engineer Intern - Spain</title>
+    <link href="https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain"/>
+    <updated>2026-09-22T12:51:26Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Madrid, International · Python, Java, C++, C#, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10554706</id>
+    <title>Amazon: 2027 Software Dev Engineer Intern - Luxembourg</title>
+    <link href="https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg"/>
+    <updated>2026-09-22T12:51:26Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Luxembourg, International · Python, Java, C++, C#, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210792010</id>
+    <title>JPMorganChase: 2027 Quantitative Research – Asset Management - Summer Analyst Internship - London</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210792010"/>
+    <updated>2026-09-22T12:51:26Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · LONDON, LONDON, United Kingdom · Python, Java, C++, SQL, MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:brevanhoward:/job/London/AI---Quantitative-Analyst--London_JR101605</id>
+    <title>Brevan Howard: 2027 Summer Internship Program - AI &amp; Quantitative Analyst, London</title>
+    <link href="https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605"/>
+    <updated>2026-09-22T12:51:26Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · London · Python, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:soti:/job/Galway-Ireland/Software-Development---QA-Intern-Opportunities-26-27_R10547</id>
+    <title>SOTI: Software Development &amp; QA Intern Opportunities 26/27</title>
+    <link href="https://soti.wd3.myworkdayjobs.com/Careers/job/Galway-Ireland/Software-Development---QA-Intern-Opportunities-26-27_R10547"/>
+    <updated>2026-09-22T12:51:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Galway, Ireland · C#, JavaScript, SQL, Node.js, Angular</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/Melbourne-Victoria-Australia/Intern-Software-Developer_R-00190834</id>
     <title>Leidos: Intern Software Developer</title>
@@ -717,7 +773,7 @@
     <link href="https://jobs.smartrecruiters.com/Sia/744000148980099"/>
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Paris, IDF, International (FR) · Python, SQL, Tableau</summary>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · Paris, IDF, International (FR) · Python, SQL, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Sia:744000149281258</id>
@@ -750,61 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Melbourn, England, United Kingdom</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000148452419</id>
-    <title>Wavestone: Cybersecurity Consulting Intern – Wavestone Luxembourg</title>
-    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000148452419"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Leudelange, District de Luxembourg, International (LU)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000148461461</id>
-    <title>Wavestone: Artificial Intelligence Consultant Intern - Wavestone Luxembourg</title>
-    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000148461461"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Leideleng, Distrikt Luxemburg, International (LU) · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000145156358</id>
-    <title>Western Digital: Intern - AI Information Technology (Studying Master's and Bachelor Degree)</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000145156358"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · BangPa-in, PHRA NAKHON SI AYUTTHAYA, International (TH) · Python, Java, C++, C#, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:cogna:45A6283F88</id>
-    <title>Cogna: Software Engineer Intern (2027 Cohort)</title>
-    <link href="https://apply.workable.com/cogna/j/45A6283F88/"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, England, United Kingdom (Hybrid) · Python, Java, C++, C#, Go</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:fasanara:FC82BCC5C5</id>
-    <title>Fasanara: Quant Trading Intern</title>
-    <link href="https://apply.workable.com/fasanara/j/FC82BCC5C5/"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · London, England, United Kingdom · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:fifty-five:D8F4443694</id>
-    <title>Fifty-Five: Data Science Consultant Intern (H/F)</title>
-    <link href="https://apply.workable.com/fifty-five/j/D8F4443694/"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Paris, Île-de-France, France · SQL, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:javelin-global-commodities:C2B7BC10AD</id>
-    <title>Javelin Global Commodities: Summer Intern: Software Engineering</title>
-    <link href="https://apply.workable.com/javelin-global-commodities/j/C2B7BC10AD/"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · London, England, United Kingdom</summary>
   </entry>
 </feed>

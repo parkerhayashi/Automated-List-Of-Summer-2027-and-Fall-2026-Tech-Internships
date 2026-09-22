@@ -1603,10 +1603,11 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-13",
-     "count": 2,
+     "count": 3,
      "role_ids": [
       "greenhouse:wehrtyou:7964062",
-      "greenhouse:wehrtyou:8052083"
+      "greenhouse:wehrtyou:8052083",
+      "greenhouse:wehrtyou:8222413"
      ]
     }
    }
@@ -3498,5 +3499,5 @@
    }
   }
  },
- "updated_at": "2026-09-22T20:45:49Z"
+ "updated_at": "2026-09-22T23:32:54Z"
 }

@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-22T20:45:49Z</updated>
+  <updated>2026-09-22T23:32:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5425</id>
-    <title>SCOR: Sustainable Investment Intern</title>
-    <link href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5425"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · VC · Paris, Ile-de-France, France · Python · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Software-Application-Developer-Co-op_2619461</id>
-    <title>CIBC: Software/Application Developer Co-op</title>
-    <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto, ON · Python, Java, JavaScript, SQL, Spring · status: closed</summary>
+    <id>urn:intern-engine:greenhouse:wehrtyou:8222413</id>
+    <title>Hudson River Trading: Data Scientist Intern - 2027</title>
+    <link href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413"/>
+    <updated>2026-09-22T23:32:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · London, United Kingdom · Python, Pandas</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:snowflake:ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8</id>
@@ -32,20 +24,36 @@
     <summary>Summer 2027 · Software · DE-Berlin-Trion Building · Java, C++, SQL, AWS, GCP</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ag:/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522</id>
-    <title>Airbus: Internship (d/f/m) within Airbus site Artificial Intelligence Centre (AIC)</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bremen Area · Python, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:artefactlinkedin:8785636002</id>
     <title>Artefact: Data Scientist Intern - Paris</title>
     <link href="https://job-boards.greenhouse.io/artefactlinkedin/jobs/8785636002"/>
     <updated>2026-09-22T20:45:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · 9th arrondissement of Paris, 75009, Paris, France · AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dvtrading:4736603005</id>
+    <title>DV Trading: Security Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4736603005"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · London · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5425</id>
+    <title>SCOR: Sustainable Investment Intern</title>
+    <link href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5425"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · VC · Paris, Ile-de-France, France · Python · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ag:/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522</id>
+    <title>Airbus: Internship (d/f/m) within Airbus site Artificial Intelligence Centre (AIC)</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522"/>
+    <updated>2026-09-22T20:45:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bremen Area · Python, PyTorch, TensorFlow</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Application-Software-Developer-Co-op_2619454</id>
@@ -56,12 +64,12 @@
     <summary>Not stated · Software · Toronto, ON · Python, Azure, Databricks</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:dvtrading:4736603005</id>
-    <title>DV Trading: Security Engineer Intern - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4736603005"/>
+    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Software-Application-Developer-Co-op_2619461</id>
+    <title>CIBC: Software/Application Developer Co-op</title>
+    <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461"/>
     <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · London · Python, Linux</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Toronto, ON · Python, Java, JavaScript, SQL, Spring · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Design · Aveiro, International (PT)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000149826650</id>
-    <title>Bosch: Internship Machine Learning for Predictive Reliability Analytics - Heat Pumps</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000149826650"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Data &amp; ML/AI · Wernau (Neckar), BW, Germany (Hybrid) · Python, LLMs, Spark, Databricks · status: closed</summary>
   </entry>
 </feed>

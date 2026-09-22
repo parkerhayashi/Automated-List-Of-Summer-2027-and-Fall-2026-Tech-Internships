@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-22T20:45:49Z",
- "data_as_of": "2026-09-22T20:45:49Z",
- "rendered_at": "2026-09-22T20:45:49Z",
+ "generated_at": "2026-09-22T23:32:54Z",
+ "data_as_of": "2026-09-22T23:32:54Z",
+ "rendered_at": "2026-09-22T23:32:55Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 246,
+ "count": 247,
  "jobs": [
+  {
+   "id": "greenhouse:wehrtyou:8222413",
+   "company": "Hudson River Trading",
+   "title": "Data Scientist Intern - 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "London, United Kingdom",
+   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413",
+   "posted_at": "2026-09-22T18:08:38-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-22T23:32:54Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Pandas"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": 29,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "ashby:snowflake:ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
    "company": "Snowflake",
@@ -32,6 +56,30 @@
    ],
    "source": "ashby",
    "h1b_approvals": 322,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "greenhouse:dvtrading:4736603005",
+   "company": "DV Trading",
+   "title": "Security Engineer Intern - Summer 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Security",
+   "location": "London",
+   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4736603005",
+   "posted_at": "2026-09-22T09:52:06-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-22T20:45:48Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Linux"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
@@ -83,30 +131,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:dvtrading:4736603005",
-   "company": "DV Trading",
-   "title": "Security Engineer Intern - Summer 2027",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security",
-   "location": "London",
-   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4736603005",
-   "posted_at": "2026-09-22T09:52:06-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-22T20:45:48Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
    "remote": false
   },
   {

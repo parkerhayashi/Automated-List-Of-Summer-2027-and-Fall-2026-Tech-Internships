@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:10555867",
-      "amazon:amazon:10555873",
-      "amazon:amazon:10555855",
-      "amazon:amazon:10554706",
-      "oracle:jpmc.fa.oraclecloud.com:210792010",
-      "workday:brevanhoward:/job/London/AI---Quantitative-Analyst--London_JR101605",
-      "smartrecruiters:Sia:744000150967979",
-      "workday:soti:/job/Galway-Ireland/Software-Development---QA-Intern-Opportunities-26-27_R10547"
-    ],
-    "telegram": [
-      "amazon:amazon:10555867",
-      "amazon:amazon:10555873",
-      "amazon:amazon:10555855",
-      "amazon:amazon:10554706",
-      "oracle:jpmc.fa.oraclecloud.com:210792010",
-      "workday:brevanhoward:/job/London/AI---Quantitative-Analyst--London_JR101605",
-      "smartrecruiters:Sia:744000150967979",
-      "workday:soti:/job/Galway-Ireland/Software-Development---QA-Intern-Opportunities-26-27_R10547"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

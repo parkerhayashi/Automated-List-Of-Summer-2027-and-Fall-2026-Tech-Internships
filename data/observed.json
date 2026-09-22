@@ -149,7 +149,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 7,
+     "count": 8,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -157,7 +157,8 @@
       "amazon:amazon:10517567",
       "amazon:amazon:10535280",
       "amazon:amazon:10538066",
-      "amazon:amazon:10553947"
+      "amazon:amazon:10553947",
+      "amazon:amazon:10554586"
      ]
     }
    }
@@ -199,9 +200,17 @@
       "oracle:egug.fa.us2.oraclecloud.com:26012764",
       "oracle:egug.fa.us2.oraclecloud.com:26012781",
       "oracle:egug.fa.us2.oraclecloud.com:26013190",
-      "oracle:egug.fa.us2.oraclecloud.com:26013191"
+      "oracle:egug.fa.us2.oraclecloud.com:26013191",
+      "oracle:egug.fa.us2.oraclecloud.com:26013756",
+      "oracle:egug.fa.us2.oraclecloud.com:26013758",
+      "oracle:egug.fa.us2.oraclecloud.com:26013761",
+      "oracle:egug.fa.us2.oraclecloud.com:26013764",
+      "oracle:egug.fa.us2.oraclecloud.com:26013766",
+      "oracle:egug.fa.us2.oraclecloud.com:26013769",
+      "oracle:egug.fa.us2.oraclecloud.com:26013771",
+      "oracle:egug.fa.us2.oraclecloud.com:26014306"
      ],
-     "count": 32
+     "count": 40
     }
    }
   },
@@ -297,6 +306,18 @@
       "greenhouse:appian:8041237",
       "greenhouse:appian:8088496"
      ]
+    }
+   }
+  },
+  "aquatic capital management": {
+   "name": "Aquatic Capital Management",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-04-01",
+     "role_ids": [
+      "greenhouse:aquaticcapitalmanagement:8489186002"
+     ],
+     "count": 1
     }
    }
   },
@@ -522,9 +543,12 @@
       "oracle:eofe.fa.us2.oraclecloud.com:81251",
       "oracle:eofe.fa.us2.oraclecloud.com:81252",
       "oracle:eofe.fa.us2.oraclecloud.com:81253",
-      "oracle:eofe.fa.us2.oraclecloud.com:81254"
+      "oracle:eofe.fa.us2.oraclecloud.com:81254",
+      "oracle:eofe.fa.us2.oraclecloud.com:81318",
+      "oracle:eofe.fa.us2.oraclecloud.com:81322",
+      "oracle:eofe.fa.us2.oraclecloud.com:81922"
      ],
-     "count": 8
+     "count": 11
     }
    }
   },
@@ -596,6 +620,18 @@
       "workday:bci:/job/Victoria-BC/Portfolio-Management---Insights-Co-op-Internship--Winter-2027-or-Summer-2027-_JR101581"
      ],
      "count": 5
+    }
+   }
+  },
+  "brookfield": {
+   "name": "Brookfield",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "workday:brookfield:/job/London-England/Summer-MBA-Associate--Investments--Infrastructure-AI_R2052880-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -744,10 +780,11 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-20",
-     "count": 2,
+     "count": 3,
      "role_ids": [
       "greenhouse:ctccampusboard:4708188005",
-      "greenhouse:ctccampusboard:4708230005"
+      "greenhouse:ctccampusboard:4708230005",
+      "greenhouse:ctccampusboard:4709545005"
      ]
     }
    }
@@ -786,6 +823,18 @@
       "workday:cnoinc:/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419"
      ],
      "count": 2
+    }
+   }
+  },
+  "cogna": {
+   "name": "Cogna",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "workable:cogna:45A6283F88"
+     ],
+     "count": 1
     }
    }
   },
@@ -849,6 +898,14 @@
       "greenhouse:datadog:8052095"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:datadog:8114186",
+      "greenhouse:datadog:8143729"
+     ],
+     "count": 2
     }
    }
   },
@@ -983,9 +1040,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-10",
      "role_ids": [
-      "greenhouse:dvtrading:4719119005"
+      "greenhouse:dvtrading:4719119005",
+      "greenhouse:dvtrading:4719125005"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1061,6 +1119,18 @@
       "workday:fifththird:/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
      ],
      "count": 3
+    }
+   }
+  },
+  "figma": {
+   "name": "Figma",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:figma:6152695004"
+     ],
+     "count": 1
     }
    }
   },
@@ -1160,6 +1230,30 @@
      "first_posted": "2026-08-14",
      "role_ids": [
       "greenhouse:freeformfuturecorp:7872198003"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "fti consulting": {
+   "name": "FTI Consulting",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:fticonsulting:/job/Paris-France/XMLNAME-2027-Intern--Forensic---Litigation-Consulting--Cyber_JR260757"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "garrett motion": {
+   "name": "Garrett Motion",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "oracle:ehth.fa.em2.oraclecloud.com:15037"
      ],
      "count": 1
     }
@@ -1620,9 +1714,15 @@
       "oracle:jpmc.fa.oraclecloud.com:210774038",
       "oracle:jpmc.fa.oraclecloud.com:210774061",
       "oracle:jpmc.fa.oraclecloud.com:210774074",
-      "oracle:jpmc.fa.oraclecloud.com:210775223"
+      "oracle:jpmc.fa.oraclecloud.com:210774716",
+      "oracle:jpmc.fa.oraclecloud.com:210774745",
+      "oracle:jpmc.fa.oraclecloud.com:210774813",
+      "oracle:jpmc.fa.oraclecloud.com:210775223",
+      "oracle:jpmc.fa.oraclecloud.com:210775780",
+      "oracle:jpmc.fa.oraclecloud.com:210776172",
+      "oracle:jpmc.fa.oraclecloud.com:210788659"
      ],
-     "count": 7
+     "count": 13
     }
    }
   },
@@ -1800,6 +1900,18 @@
     }
    }
   },
+  "marshall wace": {
+   "name": "Marshall Wace",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "greenhouse:mwinternshipprogram:8772688002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "mastercard": {
    "name": "Mastercard",
    "cycles": {
@@ -1814,6 +1926,19 @@
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875"
      ],
      "count": 6
+    }
+   }
+  },
+  "maven securities": {
+   "name": "Maven Securities",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-31",
+     "role_ids": [
+      "greenhouse:mavensecuritiesholdingltd:7806987",
+      "greenhouse:mavensecuritiesholdingltd:8043552"
+     ],
+     "count": 2
     }
    }
   },
@@ -2101,6 +2226,14 @@
       "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
       "workday:nvidia:/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "workday:nvidia:/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
+      "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628"
+     ],
+     "count": 2
     }
    }
   },
@@ -2259,9 +2392,12 @@
      "first_posted": "2026-08-18",
      "role_ids": [
       "workday:pimco:/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
+      "workday:pimco:/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804",
+      "workday:pimco:/job/London-GBR/XMLNAME-2027-Summer-Intern---Product-Analyst--EMEA_R106780",
+      "workday:pimco:/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800",
       "workday:pimco:/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816"
      ],
-     "count": 2
+     "count": 5
     }
    }
   },
@@ -2454,6 +2590,18 @@
     }
    }
   },
+  "rothesay": {
+   "name": "Rothesay",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "greenhouse:rothesaygraduates:8811533002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "royal bank of canada": {
    "name": "Royal Bank of Canada",
    "cycles": {
@@ -2582,6 +2730,44 @@
     }
    }
   },
+  "scale ai": {
+   "name": "Scale AI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:scaleai:4730846005"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "schonfeld": {
+   "name": "Schonfeld",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:schonfeld:8187178",
+      "greenhouse:schonfeld:8207942"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "schroders": {
+   "name": "Schroders",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "oracle:ekbq.fa.em2.oraclecloud.com:1952",
+      "oracle:ekbq.fa.em2.oraclecloud.com:1953"
+     ],
+     "count": 2
+    }
+   }
+  },
   "sentara health": {
    "name": "Sentara Health",
    "cycles": {
@@ -2601,9 +2787,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-01",
      "role_ids": [
-      "ashby:sentry:672e2a76-d8e1-49c1-b227-4a189c4e49a1"
+      "ashby:sentry:672e2a76-d8e1-49c1-b227-4a189c4e49a1",
+      "ashby:sentry:fa522ac5-fc9f-4ce1-a191-842496a235a2"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2753,6 +2940,19 @@
     }
    }
   },
+  "talos": {
+   "name": "Talos",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "ashby:talos-trading:42cad756-c312-4142-a9b7-18ed76f61c5d",
+      "ashby:talos-trading:f2a0aaa2-af88-4715-9f2d-8f61bd5e2935"
+     ],
+     "count": 2
+    }
+   }
+  },
   "tarrant regional water district": {
    "name": "Tarrant Regional Water District",
    "cycles": {
@@ -2816,6 +3016,14 @@
       "ashby:telus-digital:8c55d9eb-4e10-44e8-b323-cbc2146b620f",
       "ashby:telus-digital:d3c383b5-6a56-46b6-8c4e-186188b19e1a"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-28",
+     "role_ids": [
+      "ashby:telus-digital:89730055-fa03-444d-aa05-0058946fa436",
+      "ashby:telus-digital:98495440-1a32-4c7e-8183-f38beebfd1d0"
+     ],
+     "count": 2
     }
    }
   },
@@ -2884,9 +3092,10 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-05",
-     "count": 3,
+     "count": 4,
      "role_ids": [
       "greenhouse:towerresearchcapital:8024128",
+      "greenhouse:towerresearchcapital:8037860",
       "greenhouse:towerresearchcapital:8044334",
       "greenhouse:towerresearchcapital:8212179"
      ]
@@ -2919,6 +3128,18 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:trumpf:/job/Farmington-CT/CNC-Programming-Intern_R00042595"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "ttp": {
+   "name": "TTP",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "smartrecruiters:TTP1:744000149038758"
      ],
      "count": 1
     }
@@ -3042,9 +3263,11 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2025-09-12",
-     "count": 3,
+     "count": 5,
      "role_ids": [
       "greenhouse:virtu:8142539002",
+      "greenhouse:virtu:8547254002",
+      "greenhouse:virtu:8551566002",
       "greenhouse:virtu:8624408002",
       "greenhouse:virtu:8624410002"
      ]
@@ -3188,6 +3411,30 @@
     }
    }
   },
+  "worldquant": {
+   "name": "WorldQuant",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2024-09-04",
+     "role_ids": [
+      "greenhouse:worldquant:4393652006"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "wtw": {
+   "name": "WTW",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "oracle:eedu.fa.em3.oraclecloud.com:202605997"
+     ],
+     "count": 1
+    }
+   }
+  },
   "xantium": {
    "name": "Xantium",
    "cycles": {
@@ -3226,5 +3473,5 @@
    }
   }
  },
- "updated_at": "2026-09-21T23:05:45Z"
+ "updated_at": "2026-09-22T01:54:52Z"
 }

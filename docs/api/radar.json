@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-22T01:54:52Z",
- "data_as_of": "2026-09-22T01:54:52Z",
- "rendered_at": "2026-09-22T01:54:53Z",
+ "generated_at": "2026-09-22T07:03:30Z",
+ "data_as_of": "2026-09-22T07:03:30Z",
+ "rendered_at": "2026-09-22T07:03:31Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -130,7 +130,7 @@
    "expected": "2026-07-05",
    "days_until": -79,
    "status": "open",
-   "url": "https://www.tower-research.com/open-positions/?gh_jid=8212179",
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8037860",
    "note": "opens ~Aug-Sep",
    "provenance": {
     "type": "engine-observed",
@@ -206,7 +206,7 @@
    "expected": "2026-07-31",
    "days_until": -53,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552",
+   "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -244,7 +244,7 @@
    "expected": "2026-08-03",
    "days_until": -50,
    "status": "open",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210788659",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774716",
    "note": "summer analyst opens very early",
    "provenance": {
     "type": "engine-observed",
@@ -282,7 +282,7 @@
    "expected": "2026-08-17",
    "days_until": -36,
    "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014306",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756",
    "note": "campus opens mid-summer",
    "provenance": {
     "type": "engine-observed",
@@ -320,7 +320,7 @@
    "expected": "2026-08-18",
    "days_until": -35,
    "status": "open",
-   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800",
+   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -339,31 +339,12 @@
    "expected": "2026-08-19",
    "days_until": -34,
    "status": "open",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
    "note": "multiple programs; Ignite ~Oct, SWE ongoing",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-19"
-   }
-  },
-  {
-   "company": "Ontario Teachers' Pension Plan",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-21",
-   "days_until": -32,
-   "status": "open",
-   "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Infrastructure---Natural-Resources--May-2027--4-Month-Contract-_7163",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-21"
    }
   },
   {
@@ -377,7 +358,7 @@
    "expected": "2026-08-24",
    "days_until": -29,
    "status": "open",
-   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -548,7 +529,7 @@
    "expected": "2026-09-08",
    "days_until": -14,
    "status": "open",
-   "url": "https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729",
+   "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
    "note": "posts roles across the year",
    "provenance": {
     "type": "engine-observed",
@@ -567,7 +548,7 @@
    "expected": "2026-09-08",
    "days_until": -14,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -738,7 +719,7 @@
    "expected": "2026-09-16",
    "days_until": -6,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/talos-trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935",
+   "url": "https://jobs.ashbyhq.com/talos-trading/42cad756-c312-4142-a9b7-18ed76f61c5d",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4297,6 +4278,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-20"
+   }
+  },
+  {
+   "company": "Ontario Teachers' Pension Plan",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -32,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-21"
    }
   },
   {

@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:coram-ai:0c4bb1e4-0d05-40b5-a61c-6db475e21640",
+      "workday:abb:/job/Krakow-Lesser-Poland-Poland/Student-Internship---UX-Designer_JR00048119-1",
+      "workday:entrust:/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360",
+      "workday:entrust:/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
+      "smartrecruiters:Sia:744000151389740"
+    ],
+    "telegram": [
+      "ashby:coram-ai:0c4bb1e4-0d05-40b5-a61c-6db475e21640",
+      "workday:abb:/job/Krakow-Lesser-Poland-Poland/Student-Internship---UX-Designer_JR00048119-1",
+      "workday:entrust:/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360",
+      "workday:entrust:/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
+      "smartrecruiters:Sia:744000151389740"
+    ]
   }
 }

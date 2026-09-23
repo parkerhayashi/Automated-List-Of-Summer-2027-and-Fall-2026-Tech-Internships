@@ -5,15 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-23T13:54:25Z</updated>
+  <updated>2026-09-23T18:16:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:sanofi:/job/Paris/internship-6-months-data-science_R2872264</id>
-    <title>Sanofi: internship 6 months data science</title>
-    <link href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/internship-6-months-data-science_R2872264"/>
-    <updated>2026-09-23T13:54:25Z</updated>
+    <id>urn:intern-engine:workday:intel:/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862</id>
+    <title>Intel: Firmware Development Undergraduate Engineering Co-op</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862"/>
+    <updated>2026-09-23T18:16:29Z</updated>
     <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Paris · Python, LLMs · status: closed</summary>
+    <summary>Winter 2027 · Hardware · Virtual Canada · Python, C++, Rust · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:coram-ai:0c4bb1e4-0d05-40b5-a61c-6db475e21640</id>
+    <title>Coram AI: Software Engineer - Internship</title>
+    <link href="https://jobs.ashbyhq.com/coram-ai/0c4bb1e4-0d05-40b5-a61c-6db475e21640"/>
+    <updated>2026-09-23T18:16:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · London · Python, Go, TypeScript, LLMs, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/Krakow-Lesser-Poland-Poland/Student-Internship---UX-Designer_JR00048119-1</id>
+    <title>ABB: Student Internship - UX Designer</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Student-Internship---UX-Designer_JR00048119-1"/>
+    <updated>2026-09-23T18:16:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Design · Krakow, Lesser Poland, Poland</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entrust:/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360</id>
+    <title>Entrust: Intern, Software Development - Hybrid in Ottawa</title>
+    <link href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360"/>
+    <updated>2026-09-23T18:16:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada - Ottawa · $23–$28/hr · C#, React, .NET, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entrust:/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359</id>
+    <title>Entrust: Intern – Software Development  - 8 months - Hybrid Ottawa</title>
+    <link href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359"/>
+    <updated>2026-09-23T18:16:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada - Ottawa · $23–$28/hr · Java, TypeScript, JavaScript, React, Spring</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000151373865</id>
+    <title>Wavestone: Internship Wavestone Luxembourg - Cybersecurity &amp; Artificial Intelligence Consulting</title>
+    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000151373865"/>
+    <updated>2026-09-23T13:54:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Leideleng, Distrikt Luxemburg, International (LU) · Python, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:flextronics:/job/Italy-Milano/Software-Quality-Engineer_WD230181</id>
@@ -56,12 +96,12 @@
     <summary>Not stated · Software · Krakow, Poland · React, Python, JavaScript, Node.js, HTML/CSS</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000151373865</id>
-    <title>Wavestone: Internship Wavestone Luxembourg - Cybersecurity &amp; Artificial Intelligence Consulting</title>
-    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000151373865"/>
+    <id>urn:intern-engine:workday:sanofi:/job/Paris/internship-6-months-data-science_R2872264</id>
+    <title>Sanofi: internship 6 months data science</title>
+    <link href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/internship-6-months-data-science_R2872264"/>
     <updated>2026-09-23T13:54:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Leideleng, Distrikt Luxemburg, International (LU) · Python, LLMs</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Paris · Python, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3</id>
@@ -633,7 +673,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013769</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate Software Engineer - 2027 (UK - London)</title>
+    <title>American Express: Campus - Internship Programme - Undergraduate - Software Engineer - 2027 (UK - London)</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769"/>
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
@@ -641,7 +681,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013771</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate Software Engineer - 2027 (UK - Burgess Hill)</title>
+    <title>American Express: Campus - Internship Programme - Undergraduate - Software Engineer - 2027 (UK - Burgess Hill)</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771"/>
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
@@ -766,45 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Dublin, Ireland</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210788659</id>
-    <title>JPMorganChase: 2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210788659"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · LONDON, LONDON, United Kingdom · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AristaNetworks:744000149101159</id>
-    <title>Arista Networks: Intern Software Engineer - C/C++</title>
-    <link href="https://jobs.smartrecruiters.com/AristaNetworks/744000149101159"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Poland - Remote, International (PL) (Remote) · C++, Python, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000143272044</id>
-    <title>Bosch: IT Internship (BackEnd, Java) (f/m)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000143272044"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Warszawa, Województwo mazowieckie, International (PL) (Hybrid) · Java, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000143454572</id>
-    <title>Bosch: C# Developer - Internship (f/m/div.)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000143454572"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Ovar, International (PT) (Hybrid) · C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000143455469</id>
-    <title>Bosch: DevOps Engineer - Internship (f/m/div.)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000143455469"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Ovar, International (PT) (Hybrid) · Python, Bash, Linux, Git</summary>
   </entry>
 </feed>

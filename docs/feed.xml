@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-23T07:57:43Z</updated>
+  <updated>2026-09-23T13:54:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:sanofi:/job/Paris/internship-6-months-data-science_R2872264</id>
+    <title>Sanofi: internship 6 months data science</title>
+    <link href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/internship-6-months-data-science_R2872264"/>
+    <updated>2026-09-23T13:54:25Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Paris · Python, LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:flextronics:/job/Italy-Milano/Software-Quality-Engineer_WD230181</id>
+    <title>Flextronics International: Software Quality Engineer- Internship</title>
+    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/Italy-Milano/Software-Quality-Engineer_WD230181"/>
+    <updated>2026-09-23T13:54:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Italy, Milano</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804</id>
+    <title>Hewlett Packard Enterprise: Software Engineering Internship (Placement Year)</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804"/>
+    <updated>2026-09-23T13:54:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Bristol, Avon, United Kingdom · Python, Java, C++, C#, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jci:/job/Cork-County-Cork-Ireland/Architecture---AI-Intern_WD30279250</id>
+    <title>Johnson Controls: Architecture &amp; AI Intern</title>
+    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Cork-County-Cork-Ireland/Architecture---AI-Intern_WD30279250"/>
+    <updated>2026-09-23T13:54:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Cork-County Cork-Ireland · LLMs, AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Madrid/Software-Engineer-Intern_2604258</id>
+    <title>Marvell: Software Engineer Intern</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Madrid/Software-Engineer-Intern_2604258"/>
+    <updated>2026-09-23T13:54:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Madrid · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879</id>
+    <title>Motorola: Intern Software Developer (React/JS)</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879"/>
+    <updated>2026-09-23T13:54:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Krakow, Poland · React, Python, JavaScript, Node.js, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000151373865</id>
+    <title>Wavestone: Internship Wavestone Luxembourg - Cybersecurity &amp; Artificial Intelligence Consulting</title>
+    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000151373865"/>
+    <updated>2026-09-23T13:54:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Leideleng, Distrikt Luxemburg, International (LU) · Python, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3</id>
     <title>Autodesk: Software Engineering Intern Summer 2027</title>
@@ -750,61 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Ovar, International (PT) (Hybrid) · Python, Bash, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000144735299</id>
-    <title>Bosch: Academic Internship in Software Engineering (f/m/div.)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000144735299"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Braga, Braga, International (PT) · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000145524340</id>
-    <title>Bosch: Paid Internship in AI Application Team (f/m)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000145524340"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Warszawa, Województwo mazowieckie, International (PL) (Hybrid) · Python, JavaScript, SQL, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000147258159</id>
-    <title>Bosch: Paid internship - UX/UI Designer (f/m)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000147258159"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Design · Warszawa, Województwo mazowieckie, International (PL) (Hybrid)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000147479999</id>
-    <title>Bosch: ETAS - Curricular Internship for Thesis | Optimizing AUTOSAR Code Generation for Resource-Constrained Embedded Architectures</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000147479999"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Torino, Piemonte, International (IT) (Hybrid)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148960754</id>
-    <title>Bosch: Extracurricular Internship: AI &amp; Automation Development (f/m/div.)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148960754"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Aveiro, International (PT) · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148964769</id>
-    <title>Bosch: Extracurricular Internship: Infrastructure &amp; DevOps Engineer (f/m/div.)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148964769"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Aveiro, International (PT) (Hybrid) · Terraform, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148966469</id>
-    <title>Bosch: Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148966469"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Aveiro, International (PT) (Hybrid) · C++</summary>
   </entry>
 </feed>

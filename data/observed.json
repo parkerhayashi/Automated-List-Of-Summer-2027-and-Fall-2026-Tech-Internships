@@ -1518,6 +1518,18 @@
     }
    }
   },
+  "hewlett packard enterprise": {
+   "name": "Hewlett Packard Enterprise",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-23",
+     "role_ids": [
+      "workday:hpe:/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hewlett packard hp": {
    "name": "Hewlett Packard (HP)",
    "cycles": {
@@ -3506,5 +3518,5 @@
    }
   }
  },
- "updated_at": "2026-09-23T07:57:43Z"
+ "updated_at": "2026-09-23T13:54:25Z"
 }

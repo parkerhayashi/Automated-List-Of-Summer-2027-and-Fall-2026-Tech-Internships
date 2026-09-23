@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:flextronics:/job/Italy-Milano/Software-Quality-Engineer_WD230181",
+      "workday:hpe:/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804",
+      "workday:jci:/job/Cork-County-Cork-Ireland/Architecture---AI-Intern_WD30279250",
+      "workday:marvell:/job/Madrid/Software-Engineer-Intern_2604258",
+      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879",
+      "smartrecruiters:Wavestone1:744000151373865"
+    ],
+    "telegram": [
+      "workday:flextronics:/job/Italy-Milano/Software-Quality-Engineer_WD230181",
+      "workday:hpe:/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804",
+      "workday:jci:/job/Cork-County-Cork-Ireland/Architecture---AI-Intern_WD30279250",
+      "workday:marvell:/job/Madrid/Software-Engineer-Intern_2604258",
+      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879",
+      "smartrecruiters:Wavestone1:744000151373865"
+    ]
   }
 }

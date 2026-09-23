@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 248 open roles (190 listed below) · 189 new this week
+### 246 open roles (189 listed below) · 187 new this week
 
-4,616 employers tracked · data as of Sep 23, 2026 at 02:02 UTC
+4,616 employers tracked · data as of Sep 23, 2026 at 07:57 UTC
 
-_108 have a cycle the employer stated · 140 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_108 have a cycle the employer stated · 138 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -227,7 +227,7 @@ Located in Australia, Austria, Chile, Costa Rica, Croatia, Czech Republic, Eston
 | Aquatic Capital Management | Quantitative Researcher, Intern (Summer 2027) 🆕 | Quant | Chicago; London | Python | Apr 01, 2026 | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
 | WorldQuant | Quantitative Research Internship 2027 🆕 | Quant | Paris | Python, C++, C#, Bash | Sep 04, 2024 | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4393652006) |
 
-## Recently posted — cycle not stated — IEC countries  (77 roles)
+## Recently posted — cycle not stated — IEC countries  (76 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -306,7 +306,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Hitachi Energy | Internship – Full-stack Software Engineer 🆕 | Software | Krakow, Lesser Poland, Poland | Java, TypeScript, Kotlin, React | Aug 26, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Full-stack-Software-Engineer_R0142565-1) |
 | Phlair | Working Student / Intern – Control Team (Systems & Data Infrastructure) (f/m/d) 🆕 | Data & ML/AI | München | Python, PostgreSQL | Aug 24, 2026 | [Apply](https://jobs.ashbyhq.com/phlair/8021960b-1e19-406b-99c2-bac26fbe2c86) |
 | Western Digital | Intern - AI Information Technology (Studying Master's and Bachelor Degree) 🆕 | Data & ML/AI | BangPa-in +2 more | Python, Java, C++, C# | Aug 24, 2026 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000145156358) |
-| Trend Micro | Applied AI Engineer Internship 🆕 | Data & ML/AI | Cork | Python, TypeScript, SQL, Pandas | Aug 24, 2026 | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Cork/Applied-AI-Engineer-Internship_R0010091) |
 | Garda Capital Partners | Software Engineer Intern (AI Internal Tools) 🆕 | Data & ML/AI | Geneva +5 more | No skills listed | Aug 18, 2026 | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6146408004) |
 | Stripe | Software Engineer, Intern (Summer or Winter) 🆕 | Software | Dublin | Java, JavaScript, Scala, Ruby | Aug 17, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8097801) |
 | Tower Research Capital | Quantitative Research Internship - 6 Months, Central Execution Research 🆕 | Quant | London | Python, C++, Rust | Aug 12, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8113986) |
@@ -384,7 +383,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,463 of 4,876 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1155.6s · 591 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,527 of 4,876 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 999.2s · 632 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

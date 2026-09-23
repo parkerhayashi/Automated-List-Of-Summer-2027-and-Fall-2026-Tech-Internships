@@ -407,6 +407,13 @@
       "workday:autodesk:/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3"
      ],
      "count": 3
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-05",
+     "role_ids": [
+      "workday:autodesk:/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3"
+     ],
+     "count": 1
     }
    }
   },
@@ -3499,5 +3506,5 @@
    }
   }
  },
- "updated_at": "2026-09-22T23:32:54Z"
+ "updated_at": "2026-09-23T02:02:37Z"
 }

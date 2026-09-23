@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 247 open roles (189 listed below) · 188 new this week
+### 248 open roles (190 listed below) · 189 new this week
 
-4,616 employers tracked · data as of Sep 22, 2026 at 23:32 UTC
+4,616 employers tracked · data as of Sep 23, 2026 at 02:02 UTC
 
-_107 have a cycle the employer stated · 140 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_108 have a cycle the employer stated · 140 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -164,7 +164,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Bosch | 【MA】Internship Regional Product Manager in Aftermarket Asia Pacific South | PM | Bosch Corporation_Internship +2 more | Python, SQL | Sep 18, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150296334) |
 
 <a id="iec"></a>
-## Summer 2027 — IEC countries  (55 employer-stated)
+## Summer 2027 — IEC countries  (56 employer-stated)
 
 Located in Australia, Austria, Chile, Costa Rica, Croatia, Czech Republic, Estonia, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, Taiwan, and United Kingdom.
 
@@ -216,6 +216,7 @@ Located in Australia, Austria, Chile, Costa Rica, Croatia, Czech Republic, Eston
 | Xantium | Quantitative Developer Intern | Quant | London, England, New York, New York | Python, C++ | Aug 17, 2026 | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4360768009) |
 | Xantium | Quantitative Researcher Intern | Quant | London, England, New York, New York | No skills listed | Aug 17, 2026 | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4371217009) |
 | DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) 🆕 | Software | London | Python, C++ | Aug 10, 2026 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) |
+| Autodesk | Software Engineering Intern Summer 2027 🆕 | Software | Norway - Oslo | No skills listed | Aug 05, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3) |
 | Maven Securities | Quant Trader Internship 2027 (6 months) 🆕 | Quant | London | Python, C++, C# | Jul 31, 2026 | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) |
 | Chicago Trading Company | Quant Trading Internship - Summer 2027 🆕 | Quant | London, England, United Kingdom | Python | Jul 21, 2026 | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) |
 | Virtu Financial | 2027 Internship - Software Engineer 🆕 | Software | Dublin, Ireland | No skills listed | Jul 20, 2026 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8551566002) |
@@ -351,7 +352,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | Ford | ~Sep | ~Sep · any day now | ⏳ waiting |
 | General Motors | ~Sep | ~Sep · any day now | ⏳ waiting |
 
-_290 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **168** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_291 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **169** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 5 roles that left the list in the last 14 days</summary>
@@ -383,7 +384,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,469 of 4,876 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1107.1s · 592 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,463 of 4,876 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1155.6s · 591 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

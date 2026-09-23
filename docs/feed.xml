@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-22T23:32:54Z</updated>
+  <updated>2026-09-23T02:02:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3</id>
+    <title>Autodesk: Software Engineering Intern Summer 2027</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3"/>
+    <updated>2026-09-23T02:02:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Norway - Oslo</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:wehrtyou:8222413</id>
     <title>Hudson River Trading: Data Scientist Intern - 2027</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Aveiro, International (PT) (Hybrid) · C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148968029</id>
-    <title>Bosch: Extracurricular Internship: UX/UI Designer (f/m/div.)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148968029"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Design · Aveiro, International (PT)</summary>
   </entry>
 </feed>

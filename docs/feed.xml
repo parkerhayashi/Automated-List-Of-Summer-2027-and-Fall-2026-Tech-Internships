@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-23T18:16:29Z</updated>
+  <updated>2026-09-23T21:44:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862</id>
-    <title>Intel: Firmware Development Undergraduate Engineering Co-op</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862"/>
-    <updated>2026-09-23T18:16:29Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Hardware · Virtual Canada · Python, C++, Rust · status: closed</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:ashby:coram-ai:0c4bb1e4-0d05-40b5-a61c-6db475e21640</id>
     <title>Coram AI: Software Engineer - Internship</title>
@@ -46,6 +38,14 @@
     <updated>2026-09-23T18:16:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada - Ottawa · $23–$28/hr · Java, TypeScript, JavaScript, React, Spring</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862</id>
+    <title>Intel: Firmware Development Undergraduate Engineering Co-op</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862"/>
+    <updated>2026-09-23T18:16:29Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Hardware · Virtual Canada · Python, C++, Rust · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Wavestone1:744000151373865</id>

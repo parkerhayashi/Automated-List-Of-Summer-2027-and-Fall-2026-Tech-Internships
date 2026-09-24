@@ -1,29 +1,10 @@
 {
- "generated_at": "2026-09-24T14:43:11Z",
- "data_as_of": "2026-09-24T14:43:11Z",
- "rendered_at": "2026-09-24T14:43:12Z",
+ "generated_at": "2026-09-24T18:50:51Z",
+ "data_as_of": "2026-09-24T18:50:51Z",
+ "rendered_at": "2026-09-24T18:50:51Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
-  {
-   "company": "WorldQuant",
-   "last_cycle_posted": "",
-   "posted_on": "2024-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2024-09-04",
-   "days_until": -750,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/worldquant/jobs/4393652006",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2024-09-04"
-   }
-  },
   {
    "company": "Virtu Financial",
    "last_cycle_posted": "",
@@ -3271,6 +3252,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2024-08-15"
+   }
+  },
+  {
+   "company": "WorldQuant",
+   "last_cycle_posted": "",
+   "posted_on": "2024-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2024-09-04",
+   "days_until": -750,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2024-09-04"
    }
   },
   {

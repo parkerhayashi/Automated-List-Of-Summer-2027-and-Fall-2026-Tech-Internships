@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:ferrovial:/job/Madrid/AI-Program-Internship_JR19467",
+      "smartrecruiters:Bertelsmann-Jobs:744000151659959",
+      "smartrecruiters:BoschGroup:744000151644699",
+      "workday:jj:/job/Schaffhausen-Switzerland/Data-Science---Process-Modeling-Intern_R-101009",
+      "smartrecruiters:Sia:744000151643504"
+    ],
+    "telegram": [
+      "workday:ferrovial:/job/Madrid/AI-Program-Internship_JR19467",
+      "smartrecruiters:Bertelsmann-Jobs:744000151659959",
+      "smartrecruiters:BoschGroup:744000151644699",
+      "workday:jj:/job/Schaffhausen-Switzerland/Data-Science---Process-Modeling-Intern_R-101009",
+      "smartrecruiters:Sia:744000151643504"
+    ]
   }
 }

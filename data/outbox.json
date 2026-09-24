@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:logitech:/job/Krakow-Poland/Software-Engineer-Intern--3-month-contract-_148290",
+      "workday:logitech:/job/Krakow-Poland/C---Software-Developer-Intern--3-month-contract-_148315",
+      "workday:logitech:/job/Krakow-Poland/Software-QA-Intern--Engineering--3-month-contract-_148297-1",
+      "workday:pwc:/job/Prague/Datov-internship-v-Technology-Consultingu_742242WD-1",
+      "workday:pg:/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355",
+      "workday:semtech:/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617"
+    ],
+    "telegram": [
+      "workday:logitech:/job/Krakow-Poland/Software-Engineer-Intern--3-month-contract-_148290",
+      "workday:logitech:/job/Krakow-Poland/C---Software-Developer-Intern--3-month-contract-_148315",
+      "workday:logitech:/job/Krakow-Poland/Software-QA-Intern--Engineering--3-month-contract-_148297-1",
+      "workday:pwc:/job/Prague/Datov-internship-v-Technology-Consultingu_742242WD-1",
+      "workday:pg:/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355",
+      "workday:semtech:/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617"
+    ]
   }
 }

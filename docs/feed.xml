@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-24T09:48:05Z</updated>
+  <updated>2026-09-24T14:43:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hrhub:/job/Paris/Commodities-Data-Analyst-Intern_R28885-1</id>
+    <title>Euronext: Commodities Data Analyst Intern</title>
+    <link href="https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Commodities-Data-Analyst-Intern_R28885-1"/>
+    <updated>2026-09-24T14:43:11Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Paris · Python, SQL, Pandas · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:logitech:/job/Krakow-Poland/Software-Engineer-Intern--3-month-contract-_148290</id>
+    <title>Logitech: Software Engineer Intern (3-month contract)</title>
+    <link href="https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-Engineer-Intern--3-month-contract-_148290"/>
+    <updated>2026-09-24T14:43:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Krakow, Poland · Java, C++, Kotlin, Bash, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:logitech:/job/Krakow-Poland/C---Software-Developer-Intern--3-month-contract-_148315</id>
+    <title>Logitech: C++ Software Developer Intern (3-month contract)</title>
+    <link href="https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/C---Software-Developer-Intern--3-month-contract-_148315"/>
+    <updated>2026-09-24T14:43:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Krakow, Poland · C++, Bash, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:logitech:/job/Krakow-Poland/Software-QA-Intern--Engineering--3-month-contract-_148297-1</id>
+    <title>Logitech: Software QA Intern, Engineering (3-month contract)</title>
+    <link href="https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-QA-Intern--Engineering--3-month-contract-_148297-1"/>
+    <updated>2026-09-24T14:43:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Krakow, Poland · Python, Bash, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:pwc:/job/Prague/Datov-internship-v-Technology-Consultingu_742242WD-1</id>
+    <title>PricewaterhouseCoopers (PwC): Data Engineer Intern</title>
+    <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Datov-internship-v-Technology-Consultingu_742242WD-1"/>
+    <updated>2026-09-24T14:43:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Prague · Python, LLMs, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:pg:/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355</id>
+    <title>Procter &amp; Gamble (P&amp;G): Analysis &amp; Insights Internship (Stagiaire Data Analyst)</title>
+    <link href="https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355"/>
+    <updated>2026-09-24T14:43:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · PARIS GO-ASNIERES-SUR-SEINE · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:semtech:/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617</id>
+    <title>Semtech: Firmware Design Intern</title>
+    <link href="https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617"/>
+    <updated>2026-09-24T14:43:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · CAN - Ottawa, ON · Python, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:abb:/job/Lodz-Lodz-Poland/Student-Internship---UX-Designer_JR00048119-1</id>
     <title>ABB: Student Internship - UX Designer</title>
@@ -750,61 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Greater Manchester, United Kingdom · Python, Java, JavaScript, HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81922</id>
-    <title>BNY: 2027 BNY Summer Internship Program - Product Management (London)</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, United Kingdom</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:16490</id>
-    <title>Citco: AI Intern - 6 Months (2 positions)</title>
-    <link href="https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16490"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Dublin, Co. Dublin, Ireland · Python, LLMs, AWS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40280</id>
-    <title>Nokia: AI Software Engineer – Intern</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40280"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Italy · Python, Java, C#, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdsn.fa.us6.oraclecloud.com:2948</id>
-    <title>American Tower: Internship - AI Project Coordinator (6 months)</title>
-    <link href="https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2948"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bagneux, France</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210774716</id>
-    <title>JPMorganChase: 2027 Software Engineer Program - Summer Internship - Glasgow, London</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774716"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · LONDON, LONDON, United Kingdom; GLASGOW, LANARKSHIRE, United Kingdom</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210774745</id>
-    <title>JPMorganChase: 2027 Data &amp; AI - Summer Internship -  Glasgow, London</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774745"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · LONDON, LONDON, United Kingdom; GLASGOW, LANARKSHIRE, United Kingdom · Python, SQL, LLMs, AWS, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210774813</id>
-    <title>JPMorganChase: 2027 Software Engineer Immersion Program - Summer Internship - Glasgow</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774813"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · GLASGOW, LANARKSHIRE, United Kingdom</summary>
   </entry>
 </feed>

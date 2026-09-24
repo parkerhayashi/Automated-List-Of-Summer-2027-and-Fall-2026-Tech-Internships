@@ -2806,6 +2806,18 @@
     }
    }
   },
+  "semtech": {
+   "name": "Semtech",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "workday:semtech:/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sentara health": {
    "name": "Sentara Health",
    "cycles": {
@@ -3518,5 +3530,5 @@
    }
   }
  },
- "updated_at": "2026-09-24T09:48:05Z"
+ "updated_at": "2026-09-24T14:43:11Z"
 }

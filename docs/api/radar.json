@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-24T18:50:51Z",
- "data_as_of": "2026-09-24T18:50:51Z",
- "rendered_at": "2026-09-24T18:50:51Z",
+ "generated_at": "2026-09-24T22:33:28Z",
+ "data_as_of": "2026-09-24T22:33:28Z",
+ "rendered_at": "2026-09-24T22:33:29Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -820,25 +820,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-18"
-   }
-  },
-  {
-   "company": "Brookfield",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/London-England/Summer-MBA-Associate--Investments--Infrastructure-AI_R2052880-1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-21"
    }
   },
   {
@@ -5570,6 +5551,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-15"
+   }
+  },
+  {
+   "company": "Brookfield",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-21"
    }
   }
  ],

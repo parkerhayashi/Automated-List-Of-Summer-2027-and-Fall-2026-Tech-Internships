@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-24T18:50:51Z</updated>
+  <updated>2026-09-24T22:33:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ferrovial:/job/Madrid/AI-Program-Internship_JR19467</id>
-    <title>Ferrovial: AI Program Internship</title>
-    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/AI-Program-Internship_JR19467"/>
-    <updated>2026-09-24T18:50:51Z</updated>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Cork-Ireland/Software-Engineering-Internship_R66949-1</id>
+    <title>Motorola: Software Engineering Internship</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Software-Engineering-Internship_R66949-1"/>
+    <updated>2026-09-24T22:33:28Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Madrid · LLMs, Azure</summary>
+    <summary>Not stated · Software · Cork, Ireland · C++, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Bertelsmann-Jobs:744000151659959</id>
@@ -30,6 +30,14 @@
     <updated>2026-09-24T18:50:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Braga, International (PT) · JavaScript, SQL, React, Vue, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ferrovial:/job/Madrid/AI-Program-Internship_JR19467</id>
+    <title>Ferrovial: AI Program Internship</title>
+    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/AI-Program-Internship_JR19467"/>
+    <updated>2026-09-24T18:50:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Madrid · LLMs, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jj:/job/Schaffhausen-Switzerland/Data-Science---Process-Modeling-Intern_R-101009</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · BURGESS HILL, WEST SUSSEX, United Kingdom · Python, Java, C#, JavaScript, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26014306</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate GMNS Digital Product Management - 2027 (UK)</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014306"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · LONDON, United Kingdom</summary>
   </entry>
 </feed>

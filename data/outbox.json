@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:abb:/job/Lodz-Lodz-Poland/Student-Internship---UX-Designer_JR00048119-1",
-      "workday:nxp:/job/Hamburg/Intern--f-m-d--AI-Driven-Data-Analysis-for-Non-Volatile-Memory-Design_R-10066893"
-    ],
-    "telegram": [
-      "workday:abb:/job/Lodz-Lodz-Poland/Student-Internship---UX-Designer_JR00048119-1",
-      "workday:nxp:/job/Hamburg/Intern--f-m-d--AI-Driven-Data-Analysis-for-Non-Volatile-Memory-Design_R-10066893"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

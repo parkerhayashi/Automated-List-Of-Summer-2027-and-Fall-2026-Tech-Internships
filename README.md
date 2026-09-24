@@ -8,7 +8,7 @@
 
 ### 255 open roles (198 listed below) · 195 new this week
 
-4,620 employers tracked · data as of Sep 23, 2026 at 21:44 UTC
+4,620 employers tracked · data as of Sep 24, 2026 at 00:13 UTC
 
 _109 have a cycle the employer stated · 146 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -130,7 +130,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | CIBC | Application/Software Developer Co-op 🆕 | Software | Toronto, ON | Python, Azure, Databricks | Sep 22, 2026 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op_2619454) |
 | Marvell | Firmware Engineer Intern 🆕 | Hardware | CA-ON - Toronto - TOR | Python, C++, LLMs | Sep 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751) |
 | Marvell | Software/Firmware Engineer Intern 🆕 | Hardware | CA-ON - Toronto - TOR | Python, C++, LLMs | Sep 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053) |
-| CIBC | Cloud Engineering Co-op 🆕 | Software | Toronto, ON | Python, AWS, GCP, Azure | Sep 21, 2026 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1) |
+| CIBC | Cloud Engineering Co-op | Software | Toronto, ON | Python, AWS, GCP, Azure | Sep 21, 2026 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1) |
 | Autodesk | Product Management Intern, Stagiaire Gestion de Produit | PM | Montreal, QC, CAN | LLMs | Sep 19, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1) |
 | Genesys | Software Developer, Intern (Genesys Cloud) | Software | Toronto (Flexible) | TypeScript, JavaScript, Vue, AWS | Sep 18, 2026 | [Apply](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Toronto-Flexible/Software-Developer--Intern--Genesys-Cloud-_JR112244-1) |
 | Genesys | Software Developer Full-Stack Intern, AI Scoring, Evaluations and Surveys | Data & ML/AI | Toronto (Flexible) | Python, Java, TypeScript, JavaScript | Sep 18, 2026 | [Apply](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Toronto-Flexible/Software-Developer-Full-Stack-Intern--AI-Scoring--Evaluations-and-Surveys_JR112168-1) |
@@ -390,7 +390,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,447 of 4,882 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1129.6s · 609 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,442 of 4,882 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1056.6s · 586 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

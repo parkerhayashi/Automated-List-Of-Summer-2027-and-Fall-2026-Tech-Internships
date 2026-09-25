@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:eofe.fa.us2.oraclecloud.com:82537",
-      "workday:exclusivenetworks:/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1",
-      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--C--_R68703"
-    ],
-    "telegram": [
-      "oracle:eofe.fa.us2.oraclecloud.com:82537",
-      "workday:exclusivenetworks:/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1",
-      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--C--_R68703"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

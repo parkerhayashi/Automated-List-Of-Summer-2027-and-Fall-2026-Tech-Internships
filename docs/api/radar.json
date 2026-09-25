@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-25T20:44:31Z",
- "data_as_of": "2026-09-25T20:44:31Z",
- "rendered_at": "2026-09-25T20:44:31Z",
+ "generated_at": "2026-09-25T23:45:29Z",
+ "data_as_of": "2026-09-25T23:45:29Z",
+ "rendered_at": "2026-09-25T23:45:30Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -497,6 +497,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-02"
+   }
+  },
+  {
+   "company": "Waymo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -22,
+   "status": "open",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729",
+   "note": "fall opening for next summer",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
    }
   },
   {
@@ -5490,25 +5509,6 @@
    "status": "dropped",
    "url": "",
    "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-03"
-   }
-  },
-  {
-   "company": "Waymo",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -22,
-   "status": "dropped",
-   "url": "",
-   "note": "fall opening for next summer",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",

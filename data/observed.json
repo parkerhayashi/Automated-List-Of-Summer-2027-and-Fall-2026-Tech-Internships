@@ -3436,9 +3436,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
-      "greenhouse:waymo:8174099"
+      "greenhouse:waymo:8174099",
+      "greenhouse:waymo:8214729"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3544,5 +3545,5 @@
    }
   }
  },
- "updated_at": "2026-09-25T20:44:31Z"
+ "updated_at": "2026-09-25T23:45:29Z"
 }

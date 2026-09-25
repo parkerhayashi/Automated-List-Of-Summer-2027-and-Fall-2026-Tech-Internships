@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-25T06:26:00Z</updated>
+  <updated>2026-09-25T12:03:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:82537</id>
+    <title>BNY: 2027 BNY Summer Internship Program - Product Management (Luxembourg)</title>
+    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82537"/>
+    <updated>2026-09-25T12:03:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · Luxembourg</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:exclusivenetworks:/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1</id>
+    <title>Exclusive Networks: Data Quality &amp; Business Data Analyst Intern 3 month FTC</title>
+    <link href="https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1"/>
+    <updated>2026-09-25T12:03:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · London</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Cork-Ireland/Software-Engineering-Internship_R66949-1</id>
     <title>Motorola: Software Engineering Internship</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · PM · LONDON, United Kingdom · LLMs, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013769</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate - Software Engineer - 2027 (UK - London)</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · LONDON, United Kingdom · Python, Java, C#, JavaScript, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013771</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate - Software Engineer - 2027 (UK - Burgess Hill)</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · BURGESS HILL, WEST SUSSEX, United Kingdom · Python, Java, C#, JavaScript, Kotlin</summary>
   </entry>
 </feed>

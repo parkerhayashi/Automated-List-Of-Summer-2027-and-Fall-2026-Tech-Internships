@@ -1,65 +1,66 @@
 {
- "generated_at": "2026-09-25T12:03:59Z",
- "fetched_at": "2026-09-25T12:03:59Z",
- "duration_seconds": 1155.1,
- "companies_total": 4891,
+ "generated_at": "2026-09-25T17:23:05Z",
+ "fetched_at": "2026-09-25T17:23:05Z",
+ "duration_seconds": 1143.2,
+ "companies_total": 4903,
  "companies_by_source": {
-  "greenhouse": 1087,
+  "greenhouse": 1090,
   "lever": 404,
-  "ashby": 753,
+  "ashby": 758,
   "recruitee": 3,
-  "workday": 1829,
-  "smartrecruiters": 302,
+  "workday": 1830,
+  "smartrecruiters": 303,
   "rippling": 162,
-  "workable": 178,
+  "workable": 180,
   "oracle": 158,
   "amazon": 1,
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 332,
- "fetched_ok": 4462,
- "fetch_errors": 97,
+ "quarantined": 360,
+ "fetched_ok": 4473,
+ "fetch_errors": 70,
  "errors_by_source": {
-  "workday": 93,
-  "workable": 4
+  "workday": 66,
+  "lever": 1,
+  "workable": 3
  },
- "fetch_success_rate": 0.979,
+ "fetch_success_rate": 0.985,
  "fetch_success_rate_registry": 0.912,
- "snapshots_complete": 3857,
- "snapshots_partial": 605,
+ "snapshots_complete": 3867,
+ "snapshots_partial": 606,
  "partial_by_reason": {
-  "result-cap": 573,
-  "malformed-response": 32
+  "result-cap": 546,
+  "malformed-response": 60
  },
- "degraded_fetches": 32,
- "roles_matched": 250,
- "dropped_no_year_in_title": 496,
- "dropped_offcycle_by_text": 292,
- "roles_cycle_inferred": 159,
+ "degraded_fetches": 60,
+ "roles_matched": 254,
+ "dropped_no_year_in_title": 480,
+ "dropped_offcycle_by_text": 283,
+ "roles_cycle_inferred": 162,
  "roles_by_source": {
   "amazon": 11,
-  "ashby": 15,
+  "ashby": 16,
   "breezy": 1,
-  "greenhouse": 51,
+  "greenhouse": 50,
   "oracle": 28,
-  "smartrecruiters": 31,
+  "smartrecruiters": 33,
   "workable": 4,
-  "workday": 127
+  "workday": 130
  },
  "roles_by_cycle": {
-  "Summer 2027": 109,
-  "Not stated": 159
+  "Summer 2027": 111,
+  "Not stated": 162
  },
  "roles_by_region": {
   "Ireland": 15,
   "Australia": 7,
   "Canada": 83,
-  "United Kingdom": 61,
+  "United Kingdom": 63,
   "Luxembourg": 4,
   "Spain": 6,
   "Italy": 9,
-  "Poland": 17,
+  "Poland": 21,
   "Germany": 10,
   "Austria": 2,
   "Portugal": 10,
@@ -67,36 +68,36 @@
   "France": 17,
   "Switzerland": 2,
   "US": 4,
-  "Norway": 2,
   "Czech Republic": 2,
   "Costa Rica": 2,
   "Japan": 1,
   "Slovenia": 1,
+  "Norway": 1,
   "Chile": 1,
   "Taiwan": 9
  },
  "sponsorship_counts": {
-  "unknown": 263,
+  "unknown": 268,
   "offers": 2,
   "citizens-only": 1,
   "no-sponsorship": 2
  },
  "posted_date_coverage": 1.0,
- "enriched_this_run": 29,
- "enrichment_detail_fetches": 4,
+ "enriched_this_run": 32,
+ "enrichment_detail_fetches": 5,
  "purged_this_run": 0,
- "new_this_run": 3,
- "open_total": 268,
+ "new_this_run": 6,
+ "open_total": 273,
  "detection_latency": {
-  "median_minutes": 236.0,
+  "median_minutes": 237.0,
   "p95_minutes": 438.9,
-  "sample_size": 11,
+  "sample_size": 13,
   "window_days": 7,
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 11.0,
-  "sample_size": 138
+  "median_days": 12,
+  "sample_size": 139
  },
- "rendered_at": "2026-09-25T12:03:59Z"
+ "rendered_at": "2026-09-25T17:23:06Z"
 }

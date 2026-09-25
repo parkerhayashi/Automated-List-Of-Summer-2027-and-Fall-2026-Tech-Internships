@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-25T12:03:59Z",
- "data_as_of": "2026-09-25T12:03:59Z",
- "rendered_at": "2026-09-25T12:03:59Z",
+ "generated_at": "2026-09-25T17:23:05Z",
+ "data_as_of": "2026-09-25T17:23:05Z",
+ "rendered_at": "2026-09-25T17:23:06Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -557,6 +557,25 @@
    }
   },
   {
+   "company": "Talos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -17,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/talos-trading/42cad756-c312-4142-a9b7-18ed76f61c5d",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "Garrett Motion",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -706,25 +725,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-14"
-   }
-  },
-  {
-   "company": "Talos",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -9,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/talos-trading/42cad756-c312-4142-a9b7-18ed76f61c5d",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-16"
    }
   },
   {
@@ -896,6 +896,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-24"
+   }
+  },
+  {
+   "company": "Barclays",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-25"
    }
   },
   {
@@ -5573,5 +5592,5 @@
    }
   }
  ],
- "count": 293
+ "count": 294
 }

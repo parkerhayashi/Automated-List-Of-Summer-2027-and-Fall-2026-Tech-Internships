@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:talos-trading:d6d0c99a-f281-4efe-89c4-026f7f5edc2b",
+      "workday:barclays:/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387",
+      "smartrecruiters:BoschGroup:744000151841950",
+      "smartrecruiters:BoschGroup:744000151841184",
+      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer---Java_R68799",
+      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--C-C---_R68901"
+    ],
+    "telegram": [
+      "ashby:talos-trading:d6d0c99a-f281-4efe-89c4-026f7f5edc2b",
+      "workday:barclays:/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387",
+      "smartrecruiters:BoschGroup:744000151841950",
+      "smartrecruiters:BoschGroup:744000151841184",
+      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer---Java_R68799",
+      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--C-C---_R68901"
+    ]
   }
 }

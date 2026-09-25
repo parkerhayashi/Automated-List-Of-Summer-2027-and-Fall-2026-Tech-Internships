@@ -466,6 +466,18 @@
     }
    }
   },
+  "barclays": {
+   "name": "Barclays",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "workday:barclays:/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387"
+     ],
+     "count": 1
+    }
+   }
+  },
   "beacon software": {
    "name": "Beacon Software",
    "cycles": {
@@ -3002,12 +3014,13 @@
    "name": "Talos",
    "cycles": {
     "Summer 2027": {
-     "first_posted": "2026-09-16",
+     "first_posted": "2026-09-08",
      "role_ids": [
       "ashby:talos-trading:42cad756-c312-4142-a9b7-18ed76f61c5d",
+      "ashby:talos-trading:d6d0c99a-f281-4efe-89c4-026f7f5edc2b",
       "ashby:talos-trading:f2a0aaa2-af88-4715-9f2d-8f61bd5e2935"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3531,5 +3544,5 @@
    }
   }
  },
- "updated_at": "2026-09-25T12:03:59Z"
+ "updated_at": "2026-09-25T17:23:05Z"
 }

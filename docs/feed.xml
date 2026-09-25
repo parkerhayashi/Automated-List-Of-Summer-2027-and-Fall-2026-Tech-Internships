@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-25T12:03:59Z</updated>
+  <updated>2026-09-25T17:23:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:talos-trading:d6d0c99a-f281-4efe-89c4-026f7f5edc2b</id>
+    <title>Talos: Quantitative Analyst Intern</title>
+    <link href="https://jobs.ashbyhq.com/talos-trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b"/>
+    <updated>2026-09-25T17:23:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · London, NYC · $50 per hour · Python, SQL, Pandas, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:barclays:/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387</id>
+    <title>Barclays: 2027 Technology Developer Summer Internship Programme Glasgow</title>
+    <link href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387"/>
+    <updated>2026-09-25T17:23:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Glasgow Campus · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--C-C---_R68901</id>
+    <title>Motorola: Intern Software Developer (C/C++)</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R68901"/>
+    <updated>2026-09-25T17:23:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Krakow, Poland · C++, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:82537</id>
     <title>BNY: 2027 BNY Summer Internship Program - Product Management (Luxembourg)</title>
@@ -739,9 +763,9 @@
     <id>urn:intern-engine:greenhouse:wppmedia:5413592008</id>
     <title>WPP Media: Intern AI, Data &amp; Tech</title>
     <link href="https://job-boards.greenhouse.io/wppmedia/jobs/5413592008"/>
-    <updated>2026-09-22T01:54:52Z</updated>
+    <updated>2026-09-25T17:23:05Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Oslo, Norway · SQL, GCP</summary>
+    <summary>Not stated · Data &amp; ML/AI · Oslo, Norway · SQL, GCP · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ebcs.fa.em2.oraclecloud.com:43788</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · LONDON, United Kingdom · Python, Java, JavaScript, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013761</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate - Information Security Engineer - 2027 (UK - Burgess Hill)</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013761"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · BURGESS HILL, WEST SUSSEX, United Kingdom · Python, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013764</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate - Product Manager - 2027 (UK - Burgess Hill)</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · BURGESS HILL, WEST SUSSEX, United Kingdom · LLMs, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013766</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate - Product Manager - 2027 (UK - London)</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · LONDON, United Kingdom · LLMs, Tableau</summary>
   </entry>
 </feed>

@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 274 open roles (208 listed below) · 191 new this week
+### 273 open roles (208 listed below) · 190 new this week
 
-4,641 employers tracked · data as of Sep 26, 2026 at 02:06 UTC
+4,641 employers tracked · data as of Sep 26, 2026 at 12:42 UTC
 
-_112 have a cycle the employer stated · 162 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_112 have a cycle the employer stated · 161 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -104,7 +104,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Royal Bank of Canada | 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op) | Data & ML/AI | TORONTO, Ontario, Canada | Python, PyTorch, scikit-learn, Pandas | Sep 14, 2026 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1) |
 | Royal Bank of Canada | 2027 Capital Markets, Global Equities, Algorithmic Trading Developer (16 Months, Co-op) | Quant | TORONTO, Ontario, Canada | Python, Java, C++, Linux | Sep 14, 2026 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792) |
 | Royal Bank of Canada | 2027 Capital Markets, Global Equities, Quantitative Trading Analyst (16 Months, Co-op) | Quant | TORONTO, Ontario, Canada | Python, SQL | Sep 14, 2026 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742) |
-| Bank of Montreal | Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months | Quant | Toronto, ON, CAN | Python, SQL, Pandas, AWS | Sep 14, 2026 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3) |
+| BMO | Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months | Quant | Toronto, ON, CAN | Python, SQL, Pandas, AWS | Sep 14, 2026 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2) |
 | Robinhood | Software Developer Intern, Backend (Summer 2027) | Software | Toronto, Canada | Python, Django, AWS, Kubernetes | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930) |
 | Robinhood | Software Developer Intern, iOS (Summer 2027) | Software | Toronto, Canada | Swift | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729) |
 | Robinhood | Software Developer Intern, Web (Summer 2027) | Software | Toronto, Canada | Python, TypeScript, JavaScript, React | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744) |
@@ -249,8 +249,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Logitech | Software Engineer Intern (3-month contract) 🆕 | Software | Krakow, Poland | Java, C++, Kotlin, Bash | Sep 24, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-Engineer-Intern--3-month-contract-_148290) |
 | Logitech | Software QA Intern, Engineering (3-month contract) 🆕 | Software | Krakow, Poland | Python, Bash, Linux | Sep 24, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-QA-Intern--Engineering--3-month-contract-_148297-1) |
 | PricewaterhouseCoopers (PwC) | Data Engineer Intern 🆕 | Data & ML/AI | Prague | Python, LLMs, AWS, GCP | Sep 24, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Datov-internship-v-Technology-Consultingu_742242WD-1) |
-| ABB | Student Internship - UX Designer 🆕 | Design | Lodz, Lodz, Poland | No skills listed | Sep 24, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Lodz-Lodz-Poland/Student-Internship---UX-Designer_JR00048119-1) |
-| NXP Semiconductors | Intern (f/m/d) AI-Driven Data Analysis for Non-Volatile Memory Design 🆕 | Data & ML/AI | Hamburg | Linux, Verilog | Sep 24, 2026 | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Hamburg/Intern--f-m-d--AI-Driven-Data-Analysis-for-Non-Volatile-Memory-Design_R-10066893) |
+| ABB | Student Internship - UX Designer | Design | Lodz, Lodz, Poland | No skills listed | Sep 24, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Lodz-Lodz-Poland/Student-Internship---UX-Designer_JR00048119-1) |
+| NXP Semiconductors | Intern (f/m/d) AI-Driven Data Analysis for Non-Volatile Memory Design | Data & ML/AI | Hamburg | Linux, Verilog | Sep 24, 2026 | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Hamburg/Intern--f-m-d--AI-Driven-Data-Analysis-for-Non-Volatile-Memory-Design_R-10066893) |
 | Coram AI | Software Engineer - Internship | Software | London | Python, Go, TypeScript, LLMs | Sep 23, 2026 | [Apply](https://jobs.ashbyhq.com/coram-ai/0c4bb1e4-0d05-40b5-a61c-6db475e21640) |
 | ABB | Student Internship - UX Designer | Design | Krakow, Lesser Poland, Poland | No skills listed | Sep 23, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Student-Internship---UX-Designer_JR00048119-1) |
 | Wavestone | Internship Wavestone Luxembourg - Cybersecurity & Artificial Intelligence Consulting | Data & ML/AI | Leideleng +2 more | Python, LLMs | Sep 23, 2026 | [Apply](https://jobs.smartrecruiters.com/Wavestone1/744000151373865) |
@@ -402,7 +402,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,544 of 4,903 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 727.8s · 625 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,455 of 4,903 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1088.3s · 588 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

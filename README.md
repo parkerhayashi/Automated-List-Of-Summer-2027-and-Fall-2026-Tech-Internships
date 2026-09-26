@@ -8,7 +8,7 @@
 
 ### 274 open roles (209 listed below) · 191 new this week
 
-4,648 employers tracked · data as of Sep 26, 2026 at 17:00 UTC
+4,648 employers tracked · data as of Sep 26, 2026 at 20:00 UTC
 
 _112 have a cycle the employer stated · 162 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -241,10 +241,10 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Motorola | Intern Software Developer (C/C++) 🆕 | Software | Krakow, Poland | C++, Linux | Sep 25, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R68901) |
 | Exclusive Networks | Data Quality & Business Data Analyst Intern 3 month FTC 🆕 | Data & ML/AI | London | No skills listed | Sep 25, 2026 | [Apply](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1) |
 | Motorola | Software Engineering Internship 🆕 | Software | Cork, Ireland | C++, Linux, Git | Sep 24, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Software-Engineering-Internship_R66949-1) |
-| Bertelsmann | Internship in Information Security Services 🆕 | Security | Luxembourg, International (LU) | No skills listed | Sep 24, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000151659959) |
-| Bosch | Extracurricular Internship in Computer Science / Information Systems (f/m/div.) 🆕 | Software | Braga, International (PT) | JavaScript, SQL, React, Vue | Sep 24, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151644699) |
-| Ferrovial | AI Program Internship 🆕 | Data & ML/AI | Madrid | LLMs, Azure | Sep 24, 2026 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/AI-Program-Internship_JR19467) |
-| Johnson & Johnson | Data Science & Process Modeling Intern 🆕 | Data & ML/AI | Schaffhausen, Switzerland | Python, MATLAB | Sep 24, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Schaffhausen-Switzerland/Data-Science---Process-Modeling-Intern_R-101009) |
+| Bertelsmann | Internship in Information Security Services | Security | Luxembourg, International (LU) | No skills listed | Sep 24, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000151659959) |
+| Bosch | Extracurricular Internship in Computer Science / Information Systems (f/m/div.) | Software | Braga, International (PT) | JavaScript, SQL, React, Vue | Sep 24, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151644699) |
+| Ferrovial | AI Program Internship | Data & ML/AI | Madrid | LLMs, Azure | Sep 24, 2026 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/AI-Program-Internship_JR19467) |
+| Johnson & Johnson | Data Science & Process Modeling Intern | Data & ML/AI | Schaffhausen, Switzerland | Python, MATLAB | Sep 24, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Schaffhausen-Switzerland/Data-Science---Process-Modeling-Intern_R-101009) |
 | Logitech | C++ Software Developer Intern (3-month contract) | Software | Krakow, Poland | C++, Bash, Linux | Sep 24, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/C---Software-Developer-Intern--3-month-contract-_148315) |
 | Logitech | Software Engineer Intern (3-month contract) | Software | Krakow, Poland | Java, C++, Kotlin, Bash | Sep 24, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-Engineer-Intern--3-month-contract-_148290) |
 | Logitech | Software QA Intern, Engineering (3-month contract) | Software | Krakow, Poland | Python, Bash, Linux | Sep 24, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-QA-Intern--Engineering--3-month-contract-_148297-1) |
@@ -403,7 +403,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,486 of 4,912 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1044.3s · 592 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,418 of 4,912 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 89% of the full registry) · completed in 993.2s · 569 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 273 open roles (208 listed below) · 190 new this week
+### 274 open roles (209 listed below) · 191 new this week
 
-4,641 employers tracked · data as of Sep 26, 2026 at 12:42 UTC
+4,648 employers tracked · data as of Sep 26, 2026 at 17:00 UTC
 
-_112 have a cycle the employer stated · 161 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_112 have a cycle the employer stated · 162 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -40,7 +40,7 @@ Every link comes straight from the source — so it's real and current, not a st
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/), and included in the CSV and API. |
 | 🔔 **Alerts your way** | [RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml) — point any reader, or a Slack/Discord RSS integration, at it. Plus a [live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/) with search, filters, and a saved-roles list that never leaves your browser. |
-| ⚙️ **An engine, not a spreadsheet** | 4,903 job-board endpoints (4,641 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 4,912 job-board endpoints (4,648 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
@@ -92,7 +92,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Semtech | Firmware Design Intern 🆕 | Hardware | CAN - Ottawa, ON | Python, C++ | Sep 24, 2026 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) |
+| Semtech | Firmware Design Intern | Hardware | CAN - Ottawa, ON | Python, C++ | Sep 24, 2026 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) |
 | Amazon | Software Development Engineer Intern - Summer 2027 (CAN) | Software | Vancouver, International | Python, Java, C++, C# | Sep 18, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) |
 | Tower Research Capital | Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027) | Software | Montreal | Python, Java, C++, Go | Sep 17, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8212179) |
 | Manulife Financial | Summer Intern 2027 - Software Engineering (12 Months) | Software | Waterloo, Ontario | Python, Java, JavaScript, HTML/CSS | Sep 17, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053) |
@@ -232,7 +232,7 @@ Located in Australia, Austria, Chile, Costa Rica, Croatia, Czech Republic, Eston
 | IMC Trading | Machine Learning Research Intern - Summer 2027 - Sydney | Data & ML/AI | Sydney,  Australia | Python, PyTorch, TensorFlow | Jul 01, 2026 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) |
 | Aquatic Capital Management | Quantitative Researcher, Intern (Summer 2027) | Quant | Chicago; London | Python | Apr 01, 2026 | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
 
-## Recently posted — cycle not stated — IEC countries  (89 roles)
+## Recently posted — cycle not stated — IEC countries  (90 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -245,10 +245,10 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Bosch | Extracurricular Internship in Computer Science / Information Systems (f/m/div.) 🆕 | Software | Braga, International (PT) | JavaScript, SQL, React, Vue | Sep 24, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151644699) |
 | Ferrovial | AI Program Internship 🆕 | Data & ML/AI | Madrid | LLMs, Azure | Sep 24, 2026 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/AI-Program-Internship_JR19467) |
 | Johnson & Johnson | Data Science & Process Modeling Intern 🆕 | Data & ML/AI | Schaffhausen, Switzerland | Python, MATLAB | Sep 24, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Schaffhausen-Switzerland/Data-Science---Process-Modeling-Intern_R-101009) |
-| Logitech | C++ Software Developer Intern (3-month contract) 🆕 | Software | Krakow, Poland | C++, Bash, Linux | Sep 24, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/C---Software-Developer-Intern--3-month-contract-_148315) |
-| Logitech | Software Engineer Intern (3-month contract) 🆕 | Software | Krakow, Poland | Java, C++, Kotlin, Bash | Sep 24, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-Engineer-Intern--3-month-contract-_148290) |
-| Logitech | Software QA Intern, Engineering (3-month contract) 🆕 | Software | Krakow, Poland | Python, Bash, Linux | Sep 24, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-QA-Intern--Engineering--3-month-contract-_148297-1) |
-| PricewaterhouseCoopers (PwC) | Data Engineer Intern 🆕 | Data & ML/AI | Prague | Python, LLMs, AWS, GCP | Sep 24, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Datov-internship-v-Technology-Consultingu_742242WD-1) |
+| Logitech | C++ Software Developer Intern (3-month contract) | Software | Krakow, Poland | C++, Bash, Linux | Sep 24, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/C---Software-Developer-Intern--3-month-contract-_148315) |
+| Logitech | Software Engineer Intern (3-month contract) | Software | Krakow, Poland | Java, C++, Kotlin, Bash | Sep 24, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-Engineer-Intern--3-month-contract-_148290) |
+| Logitech | Software QA Intern, Engineering (3-month contract) | Software | Krakow, Poland | Python, Bash, Linux | Sep 24, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-QA-Intern--Engineering--3-month-contract-_148297-1) |
+| PricewaterhouseCoopers (PwC) | Data Engineer Intern | Data & ML/AI | Prague | Python, LLMs, AWS, GCP | Sep 24, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Datov-internship-v-Technology-Consultingu_742242WD-1) |
 | ABB | Student Internship - UX Designer | Design | Lodz, Lodz, Poland | No skills listed | Sep 24, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Lodz-Lodz-Poland/Student-Internship---UX-Designer_JR00048119-1) |
 | NXP Semiconductors | Intern (f/m/d) AI-Driven Data Analysis for Non-Volatile Memory Design | Data & ML/AI | Hamburg | Linux, Verilog | Sep 24, 2026 | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Hamburg/Intern--f-m-d--AI-Driven-Data-Analysis-for-Non-Volatile-Memory-Design_R-10066893) |
 | Coram AI | Software Engineer - Internship | Software | London | Python, Go, TypeScript, LLMs | Sep 23, 2026 | [Apply](https://jobs.ashbyhq.com/coram-ai/0c4bb1e4-0d05-40b5-a61c-6db475e21640) |
@@ -258,7 +258,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Johnson Controls | Architecture & AI Intern | Data & ML/AI | Cork-County Cork-Ireland | LLMs, AWS, Azure | Sep 23, 2026 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Cork-County-Cork-Ireland/Architecture---AI-Intern_WD30279250) |
 | Marvell | Software Engineer Intern | Software | Madrid | Python, C++ | Sep 23, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Madrid/Software-Engineer-Intern_2604258) |
 | Motorola | Intern Software Developer (React/JS) | Software | Krakow, Poland | React, Python, JavaScript, Node.js | Sep 23, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879) |
-| Procter & Gamble (P&G) | Analysis & Insights Internship (Stagiaire Data Analyst) 🆕 | Data & ML/AI | PARIS GO-ASNIERES-SUR-SEINE | Python, SQL | Sep 22, 2026 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355) |
+| Procter & Gamble (P&G) | Analysis & Insights Internship (Stagiaire Data Analyst) | Data & ML/AI | PARIS GO-ASNIERES-SUR-SEINE | Python, SQL | Sep 22, 2026 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355) |
 | Airbus | Internship (d/f/m) within Airbus site Artificial Intelligence Centre (AIC) | Data & ML/AI | Bremen Area | Python, PyTorch, TensorFlow | Sep 22, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522) |
 | Procter & Gamble (P&G) | Analysis & Insights Internship (Stagiaire Data Analyst) | Data & ML/AI | PARIS GO: SAINT-OUEN GO | Python, SQL | Sep 22, 2026 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-SAINT-OUEN-GO/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355) |
 | SOTI | Software Development & QA Intern Opportunities 26/27 | Software | Galway, Ireland | C#, JavaScript, SQL, Node.js | Sep 22, 2026 | [Apply](https://soti.wd3.myworkdayjobs.com/Careers/job/Galway-Ireland/Software-Development---QA-Intern-Opportunities-26-27_R10547) |
@@ -270,6 +270,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | CWAN | Product Management Intern | PM | Office - London | Python, SQL | Sep 18, 2026 | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---London/Product-Management-Intern_R12199) |
 | Ferrovial | AI Engineer Internship | Data & ML/AI | Madrid | Python, PyTorch, TensorFlow, scikit-learn | Sep 18, 2026 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/AI-Engineer-Internship_JR19380) |
 | Sun Life | Jr. Analytics and Automation Developer Intern | Data & ML/AI | Waterford, Waterford, Ireland | Python, Java, C++ | Sep 18, 2026 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Jr-Analytics-and-Automation-Developer-Intern_JR00128023) |
+| Aviva | Investment Data Analyst Intern 🆕 | Data & ML/AI | Poland - Warsaw - ASEC | No skills listed | Sep 17, 2026 | [Apply](https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Investment-Data-Analyst-Intern_R-173119) |
 | Bosch | DATA ANALYST INTERN | Data & ML/AI | San Francisco +2 more | Python, SQL, Pandas, Git | Sep 17, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150216697) |
 | Bosch | WEB DEVELOPER INTERN (PYTHON & AUTOMATION) | Software | San Francisco +2 more | Python, JavaScript, Angular, HTML/CSS | Sep 16, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149963299) |
 | Javelin Global Commodities | Summer Intern: Software Engineering | Software | London, England, United Kingdom | No skills listed | Sep 16, 2026 | [Apply](https://apply.workable.com/javelin-global-commodities/j/C2B7BC10AD/) |
@@ -402,7 +403,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,455 of 4,903 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1088.3s · 588 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,486 of 4,912 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1044.3s · 592 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

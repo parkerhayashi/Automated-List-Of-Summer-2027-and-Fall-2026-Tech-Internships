@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-26T12:42:23Z</updated>
+  <updated>2026-09-26T17:00:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:aviva:/job/Poland---Warsaw---ASEC/Investment-Data-Analyst-Intern_R-173119</id>
+    <title>Aviva: Investment Data Analyst Intern</title>
+    <link href="https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Investment-Data-Analyst-Intern_R-173119"/>
+    <updated>2026-09-26T17:00:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Poland - Warsaw - ASEC</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:momentenergy:4421775009</id>
     <title>Moment Energy: Data Scientist Co-op</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · PM · Dublin, Dublin, Ireland; Cork, Munster, Ireland, International (IE)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebcs.fa.em2.oraclecloud.com:43791</id>
-    <title>Arcadis: Summer Intern - Instrumentation Engineer APM</title>
-    <link href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43791"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · Cork, Munster, Ireland</summary>
   </entry>
 </feed>

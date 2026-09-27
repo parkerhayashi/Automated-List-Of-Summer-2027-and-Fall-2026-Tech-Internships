@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 272 open roles (208 listed below) · 188 new this week
+### 273 open roles (209 listed below) · 189 new this week
 
-4,648 employers tracked · data as of Sep 27, 2026 at 07:18 UTC
+4,648 employers tracked · data as of Sep 27, 2026 at 13:15 UTC
 
-_112 have a cycle the employer stated · 160 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_112 have a cycle the employer stated · 161 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -174,7 +174,7 @@ Located in Australia, Austria, Chile, Costa Rica, Croatia, Czech Republic, Eston
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Barclays | 2027 Technology Developer Summer Internship Programme Glasgow 🆕 | Software | Glasgow Campus | Python, Java, C++, C# | Sep 25, 2026 | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) |
-| BNY | 2027 BNY Summer Internship Program - Product Management (Luxembourg) 🆕 | PM | Luxembourg | No skills listed | Sep 25, 2026 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82537) |
+| BNY | 2027 BNY Summer Internship Program - Product Management (Luxembourg) | PM | Luxembourg | No skills listed | Sep 25, 2026 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82537) |
 | Hewlett Packard Enterprise | Software Engineering Internship (Placement Year) | Software | Bristol, Avon, United Kingdom | Python, Java, C++, C# | Sep 23, 2026 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804) |
 | Hudson River Trading | Data Scientist Intern - 2027 | Data & ML/AI | London, United Kingdom | Python, Pandas | Sep 22, 2026 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413) |
 | Snowflake | Software Engineer Intern - Berlin (2027) | Software | DE-Berlin-Trion Building | Java, C++, SQL, AWS | Sep 22, 2026 | [Apply](https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8) |
@@ -232,14 +232,14 @@ Located in Australia, Austria, Chile, Costa Rica, Croatia, Czech Republic, Eston
 | IMC Trading | Machine Learning Research Intern - Summer 2027 - Sydney | Data & ML/AI | Sydney,  Australia | Python, PyTorch, TensorFlow | Jul 01, 2026 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) |
 | Aquatic Capital Management | Quantitative Researcher, Intern (Summer 2027) | Quant | Chicago; London | Python | Apr 01, 2026 | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
 
-## Recently posted — cycle not stated — IEC countries  (89 roles)
+## Recently posted — cycle not stated — IEC countries  (90 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Motorola | Intern Software Developer (C/C++) 🆕 | Software | Krakow, Poland | C++, Linux | Sep 25, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R68901) |
-| Exclusive Networks | Data Quality & Business Data Analyst Intern 3 month FTC 🆕 | Data & ML/AI | London | No skills listed | Sep 25, 2026 | [Apply](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1) |
+| Exclusive Networks | Data Quality & Business Data Analyst Intern 3 month FTC | Data & ML/AI | London | No skills listed | Sep 25, 2026 | [Apply](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1) |
 | Motorola | Software Engineering Internship | Software | Cork, Ireland | C++, Linux, Git | Sep 24, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Software-Engineering-Internship_R66949-1) |
 | Bertelsmann | Internship in Information Security Services | Security | Luxembourg, International (LU) | No skills listed | Sep 24, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000151659959) |
 | Bosch | Extracurricular Internship in Computer Science / Information Systems (f/m/div.) | Software | Braga, International (PT) | JavaScript, SQL, React, Vue | Sep 24, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151644699) |
@@ -309,6 +309,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Auctane | CyberSecurity - Interns | Security | Wrocław, PL | Python, Bash, Linux | Sep 07, 2026 | [Apply](https://job-boards.greenhouse.io/auctane/jobs/7977819003) |
 | Arcadis | Summer Intern - Process Engineer APM | PM | Dublin +6 more | No skills listed | Sep 07, 2026 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43788) |
 | Arcadis | Summer Intern - Instrumentation Engineer APM | PM | Cork, Munster, Ireland | No skills listed | Sep 07, 2026 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43791) |
+| Kobo | Software Developer Intern (Dublin) | Software | Dublin, Ireland | Java, C#, JavaScript, SQL | Sep 07, 2026 | [Apply](https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Dublin-Ireland/Software-Developer-Intern--Dublin-_1037090-1) |
 | Sereact | Product Manager Intern (m/f/d) | PM | Stuttgart Schockenriedstr. 17 | ROS | Sep 04, 2026 | [Apply](https://jobs.ashbyhq.com/sereact/7549093b-0918-4136-ac47-81063ded166d) |
 | Euronext | Quant Intern | Quant | Paris | Python, MATLAB, Tableau | Sep 04, 2026 | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Intern_R28576) |
 | JINGDONG | JD Young Product Management Internship | PM | GBR-London | SQL, Tableau | Sep 03, 2026 | [Apply](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Product-Management-Internship_JR103809) |
@@ -402,7 +403,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,578 of 4,912 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 915.2s · 638 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,491 of 4,912 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1140.1s · 592 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

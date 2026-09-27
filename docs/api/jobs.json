@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-27T07:18:09Z",
- "data_as_of": "2026-09-27T07:18:09Z",
- "rendered_at": "2026-09-27T07:18:10Z",
+ "generated_at": "2026-09-27T13:15:25Z",
+ "data_as_of": "2026-09-27T13:15:25Z",
+ "rendered_at": "2026-09-27T13:15:26Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 272,
+ "count": 273,
  "jobs": [
   {
    "id": "workday:cibc:/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748",
@@ -4719,6 +4719,35 @@
    ],
    "source": "oracle",
    "h1b_approvals": 4656,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:rakuten:/job/Dublin-Ireland/Software-Developer-Intern--Dublin-_1037090-1",
+   "company": "Kobo",
+   "title": "Software Developer Intern (Dublin)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Dublin, Ireland",
+   "url": "https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Dublin-Ireland/Software-Developer-Intern--Dublin-_1037090-1",
+   "posted_at": "2026-09-07T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-22T01:54:52Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Java",
+    "C#",
+    "JavaScript",
+    "SQL",
+    "React",
+    "HTML/CSS",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

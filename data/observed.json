@@ -85,6 +85,18 @@
     }
    }
   },
+  "airbus": {
+   "name": "Airbus",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "workday:ag:/job/Toulouse-Area/STAGE-2027---Change-Management---AI-Innovation-Intern_JR10440133"
+     ],
+     "count": 1
+    }
+   }
+  },
   "akuna capital": {
    "name": "Akuna Capital",
    "cycles": {
@@ -2067,6 +2079,18 @@
     }
    }
   },
+  "monzo": {
+   "name": "Monzo",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "greenhouse:monzo:8156261"
+     ],
+     "count": 1
+    }
+   }
+  },
   "moog": {
    "name": "Moog",
    "cycles": {
@@ -3547,5 +3571,5 @@
    }
   }
  },
- "updated_at": "2026-09-28T05:33:09Z"
+ "updated_at": "2026-09-28T12:17:29Z"
 }

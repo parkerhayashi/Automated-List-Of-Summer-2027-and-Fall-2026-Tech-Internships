@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 275 open roles (211 listed below) · 191 new this week
+### 274 open roles (211 listed below) · 190 new this week
 
-4,648 employers tracked · data as of Sep 28, 2026 at 00:13 UTC
+4,648 employers tracked · data as of Sep 28, 2026 at 05:33 UTC
 
-_114 have a cycle the employer stated · 161 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_114 have a cycle the employer stated · 160 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -240,6 +240,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Bosch | IT Internship (BackEnd, Java) (f/m) | Software | Warszawa +2 more | Java, Git | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151841184) |
 | Motorola | Intern Software Developer (C/C++) | Software | Krakow, Poland | C++, Linux | Sep 25, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R68901) |
 | Exclusive Networks | Data Quality & Business Data Analyst Intern 3 month FTC | Data & ML/AI | London | No skills listed | Sep 25, 2026 | [Apply](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1) |
 | Motorola | Software Engineering Internship | Software | Cork, Ireland | C++, Linux, Git | Sep 24, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Software-Engineering-Internship_R66949-1) |
@@ -274,7 +275,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Sun Life | Jr. Analytics and Automation Developer Intern | Data & ML/AI | Waterford, Waterford, Ireland | Python, Java, C++ | Sep 18, 2026 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Jr-Analytics-and-Automation-Developer-Intern_JR00128023) |
 | Aviva | Investment Data Analyst Intern 🆕 | Data & ML/AI | Poland - Warsaw - ASEC | No skills listed | Sep 17, 2026 | [Apply](https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Investment-Data-Analyst-Intern_R-173119) |
 | Bosch | DATA ANALYST INTERN | Data & ML/AI | San Francisco +2 more | Python, SQL, Pandas, Git | Sep 17, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150216697) |
-| Bosch | WEB DEVELOPER INTERN (PYTHON & AUTOMATION) | Software | San Francisco +2 more | Python, JavaScript, Angular, HTML/CSS | Sep 16, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149963299) |
 | Javelin Global Commodities | Summer Intern: Software Engineering | Software | London, England, United Kingdom | No skills listed | Sep 16, 2026 | [Apply](https://apply.workable.com/javelin-global-commodities/j/C2B7BC10AD/) |
 | F5 | Software Engineering Intern | Software | Cork | Python, Kubernetes | Sep 16, 2026 | [Apply](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Cork/Software-Engineering-Intern_RP1038785) |
 | NVIDIA | Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving | Software | Germany, Munich | Python, C++, Linux, Git | Sep 16, 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) |
@@ -405,7 +405,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,572 of 4,912 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 1047.3s · 632 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,483 of 4,912 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1189.0s · 602 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

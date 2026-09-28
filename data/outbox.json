@@ -1,28 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workable:twgai:1206BF981C",
-      "workday:ag:/job/Toulouse-Area/STAGE-2027---Change-Management---AI-Innovation-Intern_JR10440133",
-      "greenhouse:artefactlinkedin:8795538002",
-      "smartrecruiters:BoschGroup:744000152107800",
-      "workday:lonza:/job/CH---Visp/Internship-Global-Master-Data-Analyst-80-100-_R79749-1",
-      "greenhouse:monzo:8232726",
-      "greenhouse:monzo:8156261",
-      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--C---_R69046",
-      "workday:philips:/job/Taipei/Intern-Data-Scientist_592526",
-      "smartrecruiters:Sia:744000152115350"
-    ],
-    "telegram": [
-      "workable:twgai:1206BF981C",
-      "workday:ag:/job/Toulouse-Area/STAGE-2027---Change-Management---AI-Innovation-Intern_JR10440133",
-      "greenhouse:artefactlinkedin:8795538002",
-      "smartrecruiters:BoschGroup:744000152107800",
-      "workday:lonza:/job/CH---Visp/Internship-Global-Master-Data-Analyst-80-100-_R79749-1",
-      "greenhouse:monzo:8232726",
-      "greenhouse:monzo:8156261",
-      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--C---_R69046",
-      "workday:philips:/job/Taipei/Intern-Data-Scientist_592526",
-      "smartrecruiters:Sia:744000152115350"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

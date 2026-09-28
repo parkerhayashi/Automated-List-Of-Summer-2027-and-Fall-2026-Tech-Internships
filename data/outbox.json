@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:mastercard:/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709-1",
+      "workday:mastercard:/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1"
+    ],
+    "telegram": [
+      "workday:mastercard:/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709-1",
+      "workday:mastercard:/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1"
+    ]
   }
 }

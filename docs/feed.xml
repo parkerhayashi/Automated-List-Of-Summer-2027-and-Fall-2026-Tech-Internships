@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-27T21:33:57Z</updated>
+  <updated>2026-09-28T00:13:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:mastercard:/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709-1</id>
+    <title>Mastercard: Product Management Intern, Summer 2027 - Lisbon, Portugal</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709-1"/>
+    <updated>2026-09-28T00:13:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · Lisbon, Portugal</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mastercard:/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1</id>
+    <title>Mastercard: Product Management Intern, Summer 2027 - Rome, Italy</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1"/>
+    <updated>2026-09-28T00:13:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · Rome, Italy</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:aviva:/job/Poland---Warsaw---ASEC/Investment-Data-Analyst-Intern_R-173119</id>
     <title>Aviva: Investment Data Analyst Intern</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-24T18:38:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Quant · Paris · Python, C++, C#, Bash, MATLAB · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:wppmedia:5413592008</id>
-    <title>WPP Media: Intern AI, Data &amp; Tech</title>
-    <link href="https://job-boards.greenhouse.io/wppmedia/jobs/5413592008"/>
-    <updated>2026-09-25T17:23:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Oslo, Norway · SQL, GCP · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebcs.fa.em2.oraclecloud.com:43788</id>
-    <title>Arcadis: Summer Intern - Process Engineer APM</title>
-    <link href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43788"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · Dublin, Dublin, Ireland; Cork, Munster, Ireland, International (IE)</summary>
   </entry>
 </feed>

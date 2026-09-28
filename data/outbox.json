@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "smartrecruiters:AccorCorpo:744000152200369",
+      "greenhouse:celonis:7989895003",
+      "workday:fticonsulting:/job/Paris-France/Intern--Consultant-Cyber-Threat-Intelligence--CTI----Investigation-numrique--DFIR-_JR261446",
+      "workday:ing:/job/MILAN/Machine-Learning-Engineer-Intern_REQ-10122304"
+    ],
+    "telegram": [
+      "smartrecruiters:AccorCorpo:744000152200369",
+      "greenhouse:celonis:7989895003",
+      "workday:fticonsulting:/job/Paris-France/Intern--Consultant-Cyber-Threat-Intelligence--CTI----Investigation-numrique--DFIR-_JR261446",
+      "workday:ing:/job/MILAN/Machine-Learning-Engineer-Intern_REQ-10122304"
+    ]
   }
 }

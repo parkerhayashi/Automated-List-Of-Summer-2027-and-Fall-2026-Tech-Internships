@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-28T12:17:29Z",
- "data_as_of": "2026-09-28T12:17:29Z",
- "rendered_at": "2026-09-28T12:17:29Z",
+ "generated_at": "2026-09-28T19:55:15Z",
+ "data_as_of": "2026-09-28T19:55:15Z",
+ "rendered_at": "2026-09-28T19:55:16Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -440,25 +440,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-28"
-   }
-  },
-  {
-   "company": "FTI Consulting",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -28,
-   "status": "open",
-   "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Forensic---Litigation-Consulting--Cyber_JR260757",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-31"
    }
   },
   {
@@ -5004,6 +4985,25 @@
   },
   {
    "company": "Ercot",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -28,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "FTI Consulting",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
    "precision": "day",

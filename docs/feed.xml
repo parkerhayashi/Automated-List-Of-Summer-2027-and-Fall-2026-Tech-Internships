@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-29T17:19:37Z</updated>
+  <updated>2026-09-29T21:41:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000152519710</id>
+    <title>AECOM: Engineering Intern – Tunnelling &amp; Underground Infrastructure 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000152519710"/>
+    <updated>2026-09-29T21:41:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Markham, ON, Canada (Hybrid) · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415</id>
+    <title>Alexion: Co-Op, Development Operations AI &amp; Automation Enablement Intern</title>
+    <link href="https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415"/>
+    <updated>2026-09-29T21:41:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga · Python, C#, JavaScript, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252</id>
+    <title>Altera Corporation: Software Engineer -  Intern</title>
+    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252"/>
+    <updated>2026-09-29T21:41:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260027807</id>
     <title>BMO: Investment Intern - GAM, Summer 2027 (Co-op/Internship) - 4 months</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Paris, France · Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:datadog:8143729</id>
-    <title>Datadog: Product Management Intern</title>
-    <link href="https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · Paris, France</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dvtrading:4719125005</id>
-    <title>DV Trading: Software Engineer Intern - Summer 2027 (DV Commodities)</title>
-    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4719125005"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:epicgames:6163851004</id>
-    <title>Epic Games: Web Engineer Intern</title>
-    <link href="https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · London,England,United Kingdom · TypeScript, JavaScript, React, Next.js, Node.js</summary>
   </entry>
 </feed>

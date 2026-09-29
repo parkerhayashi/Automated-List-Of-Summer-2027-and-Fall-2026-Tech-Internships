@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "smartrecruiters:AECOM2:744000152519710",
-      "workday:astrazeneca:/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
-      "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252"
-    ],
-    "telegram": [
-      "smartrecruiters:AECOM2:744000152519710",
-      "workday:astrazeneca:/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
-      "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

@@ -1,35 +1,11 @@
 {
- "generated_at": "2026-09-28T19:55:15Z",
- "data_as_of": "2026-09-28T19:55:15Z",
- "rendered_at": "2026-09-28T19:55:16Z",
+ "generated_at": "2026-09-29T00:11:29Z",
+ "data_as_of": "2026-09-29T00:11:29Z",
+ "rendered_at": "2026-09-29T00:11:29Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 284,
+ "count": 283,
  "jobs": [
-  {
-   "id": "smartrecruiters:AccorCorpo:744000152200369",
-   "company": "Accor",
-   "title": "Data Analyst – Group Procurement — Internship F/M/X",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Issy-les-Moulineaux, IDF, International (FR) (Remote)",
-   "url": "https://jobs.smartrecruiters.com/AccorCorpo/744000152200369",
-   "posted_at": "2026-09-28T14:44:27.490Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-28T19:55:15Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SQL",
-    "Snowflake"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": true
-  },
   {
    "id": "greenhouse:celonis:7989895003",
    "company": "Celonis",
@@ -53,6 +29,30 @@
    "h1b_approvals": 14,
    "program": "Internship",
    "remote": false
+  },
+  {
+   "id": "smartrecruiters:AccorCorpo:744000152200369",
+   "company": "Accor",
+   "title": "Data Analyst – Group Procurement — Internship F/M/X",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Issy-les-Moulineaux, IDF, International (FR) (Remote)",
+   "url": "https://jobs.smartrecruiters.com/AccorCorpo/744000152200369",
+   "posted_at": "2026-09-28T14:44:27.490Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-28T19:55:15Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "SQL",
+    "Snowflake"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": true
   },
   {
    "id": "workday:fticonsulting:/job/Paris-France/Intern--Consultant-Cyber-Threat-Intelligence--CTI----Investigation-numrique--DFIR-_JR261446",
@@ -6718,32 +6718,6 @@
    "salary": null,
    "skills": [
     "C#"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 188,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:BoschGroup:744000143455469",
-   "company": "Bosch",
-   "title": "DevOps Engineer - Internship (f/m/div.)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Ovar, International (PT) (Hybrid)",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143455469",
-   "posted_at": "2026-08-14T07:36:06.912Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash",
-    "Linux",
-    "Git"
    ],
    "source": "smartrecruiters",
    "h1b_approvals": 188,

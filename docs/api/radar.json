@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-29T05:54:36Z",
- "data_as_of": "2026-09-29T05:54:36Z",
- "rendered_at": "2026-09-29T05:54:37Z",
+ "generated_at": "2026-09-29T11:52:20Z",
+ "data_as_of": "2026-09-29T11:52:20Z",
+ "rendered_at": "2026-09-29T11:52:21Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -854,6 +854,25 @@
    "status": "open",
    "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605",
    "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-22"
+   }
+  },
+  {
+   "company": "Snowflake",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-22",
+   "days_until": -7,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
+   "note": "opens ~Aug, rolling",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -5608,25 +5627,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-21"
-   }
-  },
-  {
-   "company": "Snowflake",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-22",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-22",
-   "days_until": -7,
-   "status": "dropped",
-   "url": "",
-   "note": "opens ~Aug, rolling",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-22"
    }
   }
  ],

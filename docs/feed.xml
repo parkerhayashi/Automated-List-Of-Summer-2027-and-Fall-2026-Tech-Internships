@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-29T05:54:36Z</updated>
+  <updated>2026-09-29T11:52:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298</id>
+    <title>NVIDIA: AI Computing Software Development Intern - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298"/>
+    <updated>2026-09-29T11:52:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Taiwan, Taipei · Python, C++, PyTorch, LLMs, CUDA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:stryker:/job/Belfast-United-Kingdom/Software-Engineering-Co-Op_R572094</id>
+    <title>Stryker: Software Engineering Co-Op</title>
+    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Belfast-United-Kingdom/Software-Engineering-Co-Op_R572094"/>
+    <updated>2026-09-29T11:52:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Belfast, United Kingdom · Java, C++, C#</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:celonis:7989895003</id>
     <title>Celonis: Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team)</title>
@@ -443,9 +459,9 @@
     <id>urn:intern-engine:ashby:snowflake:ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8</id>
     <title>Snowflake: Software Engineer Intern - Berlin (2027)</title>
     <link href="https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8"/>
-    <updated>2026-09-28T11:57:13Z</updated>
+    <updated>2026-09-22T20:45:48Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · DE-Berlin-Trion Building · Java, C++, SQL, AWS, GCP · status: closed</summary>
+    <summary>Summer 2027 · Software · DE-Berlin-Trion Building · Java, C++, SQL, AWS, GCP</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:artefactlinkedin:8785636002</id>
@@ -539,9 +555,9 @@
     <id>urn:intern-engine:amazon:amazon:10555867</id>
     <title>Amazon: 2027 Software Dev Engineer Intern - Italy</title>
     <link href="https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy"/>
-    <updated>2026-09-22T12:51:26Z</updated>
+    <updated>2026-09-29T11:34:09Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Turin, International · Python, Java, C++, C#, Rust</summary>
+    <summary>Summer 2027 · Software · Turin, International · Python, Java, C++, C#, Rust · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10555873</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Geneva, Geneva, Switzerland; Zug, Zug, Switzerland</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:mavensecuritiesholdingltd:7806987</id>
-    <title>Maven Securities: Software Developer Summer Internship London 2027</title>
-    <link href="https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London · Python, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:mavensecuritiesholdingltd:8043552</id>
-    <title>Maven Securities: Quant Trader Internship 2027 (6 months)</title>
-    <link href="https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · London · Python, C++, C# · sponsorship: offers</summary>
   </entry>
 </feed>

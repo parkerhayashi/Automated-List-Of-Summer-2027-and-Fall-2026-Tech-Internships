@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:nvidia:/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
+      "workday:stryker:/job/Belfast-United-Kingdom/Software-Engineering-Co-Op_R572094"
+    ],
+    "telegram": [
+      "workday:nvidia:/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
+      "workday:stryker:/job/Belfast-United-Kingdom/Software-Engineering-Co-Op_R572094"
+    ]
   }
 }

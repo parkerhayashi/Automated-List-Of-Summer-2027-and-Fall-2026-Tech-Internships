@@ -3087,6 +3087,14 @@
       "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Fall-Co-op---Global-Technology-Solutions---Data-Engineer_R_1495653",
       "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Fall-Co-op---Global-Technology-Solutions---Software-Engineer--SWE-_R_1495659"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "workday:td:/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---AI-Native-Data-Platform-Engineering---6-month-Internship--January---July-_R_1513790-1",
+      "workday:td:/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793"
+     ],
+     "count": 2
     }
    }
   },
@@ -3573,5 +3581,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T06:54:51Z"
+ "updated_at": "2026-09-30T13:19:19Z"
 }

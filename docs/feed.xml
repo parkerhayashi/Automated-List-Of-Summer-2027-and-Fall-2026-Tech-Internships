@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-30T06:54:51Z</updated>
+  <updated>2026-09-30T13:19:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:td:/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793</id>
+    <title>TD Bank: 2027 Technology Internship - Valuation Services Software Engineer - 6-month Internship (January – July)</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793"/>
+    <updated>2026-09-30T13:19:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Dublin, Ireland · Python, SQL, Pandas, HTML/CSS, Flask</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:td:/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---AI-Native-Data-Platform-Engineering---6-month-Internship--January---July-_R_1513790-1</id>
+    <title>TD Bank: 2027 Technology Internship - AI-Native Data Platform Engineering - 6-month Internship (January – July)</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---AI-Native-Data-Platform-Engineering---6-month-Internship--January---July-_R_1513790-1"/>
+    <updated>2026-09-30T13:19:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Dublin, Ireland · Python, Java, C#, JavaScript, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000152519710</id>
     <title>AECOM: Engineering Intern – Tunnelling &amp; Underground Infrastructure 🛂</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Quant · London, England, United Kingdom · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:datadog:8114161</id>
-    <title>Datadog: Software Engineering Intern</title>
-    <link href="https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Madrid, Spain · Kubernetes · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:datadog:8114186</id>
-    <title>Datadog: Software Engineering Intern</title>
-    <link href="https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Paris, France · Kubernetes</summary>
   </entry>
 </feed>

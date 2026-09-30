@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:td:/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793",
-      "workday:td:/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---AI-Native-Data-Platform-Engineering---6-month-Internship--January---July-_R_1513790-1",
-      "smartrecruiters:BoschGroup:744000152667529"
-    ],
-    "telegram": [
-      "workday:td:/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793",
-      "workday:td:/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---AI-Native-Data-Platform-Engineering---6-month-Internship--January---July-_R_1513790-1",
-      "smartrecruiters:BoschGroup:744000152667529"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

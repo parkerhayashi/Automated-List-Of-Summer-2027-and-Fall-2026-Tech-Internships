@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-30T18:43:56Z</updated>
+  <updated>2026-09-30T22:51:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:fticonsulting:/job/Madrid-Spain/Intern--Cybersecurity--Forensic---Litigation-Consulting_JR260732</id>
+    <title>FTI Consulting: Intern, Cybersecurity, Forensic &amp; Litigation Consulting</title>
+    <link href="https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Cybersecurity--Forensic---Litigation-Consulting_JR260732"/>
+    <updated>2026-09-30T22:51:37Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · Madrid, Spain · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26014784</id>
     <title>American Express: Campus - Internship Programme - Undergraduate - ECMX Product Analyst - 2027 (UK)</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Quant · Chicago; London · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:auctane:7977819003</id>
-    <title>Auctane: CyberSecurity - Interns</title>
-    <link href="https://job-boards.greenhouse.io/auctane/jobs/7977819003"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Wrocław, PL · Python, Bash, Linux</summary>
   </entry>
 </feed>

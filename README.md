@@ -8,7 +8,7 @@
 
 ### 286 open roles (229 listed below) · 53 new this week
 
-4,661 employers tracked · data as of Sep 30, 2026 at 18:43 UTC
+4,661 employers tracked · data as of Sep 30, 2026 at 22:51 UTC
 
 _117 have a cycle the employer stated · 169 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -250,10 +250,10 @@ These postings never name a cycle — not in the title, not in the posting text 
 |---|---|---|---|---|---|---|
 | PricewaterhouseCoopers (PwC) | Data Analyst Intern - Technology Consulting 🆕 | Data & ML/AI | Prague | Python, SQL, AWS, GCP | Sep 30, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Data-Analyst-Intern---Technology-Consulting_765323WD) |
 | Stryker | Software Engineering Co-Op 🆕 | Software | Belfast, United Kingdom | Java, C++, C# | Sep 29, 2026 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Belfast-United-Kingdom/Software-Engineering-Co-Op_R572094) |
-| Celonis | Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team) 🆕 | Data & ML/AI | Madrid, Spain | Python, LLMs | Sep 28, 2026 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003) |
-| Accor 🆁 | Data Analyst – Group Procurement — Internship F/M/X 🆕 | Data & ML/AI | Issy-les-Moulineaux +2 more | SQL, Snowflake | Sep 28, 2026 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000152200369) |
-| FTI Consulting | Intern, Consultant Cyber Threat Intelligence (CTI) & Investigation numérique (DFIR) 🆕 | Security | Paris, France | Python, Bash, LLMs, Docker | Sep 28, 2026 | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/Intern--Consultant-Cyber-Threat-Intelligence--CTI----Investigation-numrique--DFIR-_JR261446) |
-| ING | Machine Learning Engineer Intern 🆕 | Data & ML/AI | MILAN | Python, scikit-learn, Azure, Git | Sep 28, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Machine-Learning-Engineer-Intern_REQ-10122304) |
+| Celonis | Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team) | Data & ML/AI | Madrid, Spain | Python, LLMs | Sep 28, 2026 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003) |
+| Accor 🆁 | Data Analyst – Group Procurement — Internship F/M/X | Data & ML/AI | Issy-les-Moulineaux +2 more | SQL, Snowflake | Sep 28, 2026 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000152200369) |
+| FTI Consulting | Intern, Consultant Cyber Threat Intelligence (CTI) & Investigation numérique (DFIR) | Security | Paris, France | Python, Bash, LLMs, Docker | Sep 28, 2026 | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/Intern--Consultant-Cyber-Threat-Intelligence--CTI----Investigation-numrique--DFIR-_JR261446) |
+| ING | Machine Learning Engineer Intern | Data & ML/AI | MILAN | Python, scikit-learn, Azure, Git | Sep 28, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Machine-Learning-Engineer-Intern_REQ-10122304) |
 | Monzo | Associate Data Scientist - Intern | Data & ML/AI | London | Python, SQL | Sep 28, 2026 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8232726) |
 | Bosch | Extracurricular Internship: C# Developer (f/m/div.) | Software | Ovar, International (PT) (Hybrid) | C# | Sep 28, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000152107800) |
 | Lonza | Internship Global Master Data Analyst 80-100% | Data & ML/AI | CH - Visp | No skills listed | Sep 28, 2026 | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/CH---Visp/Internship-Global-Master-Data-Analyst-80-100-_R79749-1) |
@@ -392,7 +392,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _297 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **175** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 9 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 8 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -406,7 +406,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | WorldQuant | Quantitative Research Internship 2027 | Summer 2027 | 2026-09-24 | out of scope |
 | Schroders | 2027 Schroders Capital Infrastructure - Product Strategy Internship Programme | Summer 2027 | 2026-09-22 | out of scope |
 | Ontario Teachers' Pension Plan | Intern- Investments, Infrastructure & Natural Resources (May 2027- 4 Month Contract) | Summer 2027 | 2026-09-22 | out of scope |
-| Geotab | Hardware Developer Intern (Summer/May 2027, 12 Months) | Summer 2027 | 2026-09-16 | gone from feed |
 
 </details>
 
@@ -425,7 +424,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,540 of 4,929 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1172.7s · 615 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,482 of 4,929 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1118.6s · 595 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

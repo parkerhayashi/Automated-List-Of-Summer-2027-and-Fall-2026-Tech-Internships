@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-30T00:59:19Z",
- "data_as_of": "2026-09-30T00:59:19Z",
- "rendered_at": "2026-09-30T00:59:20Z",
+ "generated_at": "2026-09-30T06:54:51Z",
+ "data_as_of": "2026-09-30T06:54:51Z",
+ "rendered_at": "2026-09-30T06:54:52Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 288,
+ "count": 287,
  "jobs": [
   {
    "id": "smartrecruiters:AECOM2:744000152519710",
@@ -6230,33 +6230,6 @@
     "Docker",
     "Terraform",
     "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:intelcomgroup:/job/Canada-Quebec-Montreal/Full-Stack-Developer-Intern---Route-Optimization_JR111570-1",
-   "company": "Intelcom | Dragonfly",
-   "title": "Full-Stack Developer Intern - Route Optimization",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Canada, Quebec, Montreal",
-   "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Full-Stack-Developer-Intern---Route-Optimization_JR111570-1",
-   "posted_at": "2026-08-31T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-03T19:49:36Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "AWS",
-    "Azure"
    ],
    "source": "workday",
    "h1b_approvals": null,

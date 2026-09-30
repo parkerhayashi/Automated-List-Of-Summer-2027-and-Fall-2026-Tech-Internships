@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-29T21:41:30Z",
- "data_as_of": "2026-09-29T21:41:30Z",
- "rendered_at": "2026-09-29T21:41:31Z",
+ "generated_at": "2026-09-30T00:59:19Z",
+ "data_as_of": "2026-09-30T00:59:19Z",
+ "rendered_at": "2026-09-30T00:59:20Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 288,
@@ -23,6 +23,30 @@
    "salary": null,
    "skills": [],
    "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252",
+   "company": "Altera Corporation",
+   "title": "Software Engineer -  Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252",
+   "posted_at": "2026-09-29T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-29T21:41:30Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++"
+   ],
+   "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
@@ -55,30 +79,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship / Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252",
-   "company": "Altera Corporation",
-   "title": "Software Engineer -  Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252",
-   "posted_at": "2026-09-29T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-29T21:41:30Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
    "remote": false
   },
   {

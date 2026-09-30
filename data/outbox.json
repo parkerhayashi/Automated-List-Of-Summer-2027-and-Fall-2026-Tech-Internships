@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:egug.fa.us2.oraclecloud.com:26014784",
-      "workday:foresters:/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332",
-      "workday:pwc:/job/Prague/Data-Analyst-Intern---Technology-Consulting_765323WD"
-    ],
-    "telegram": [
-      "oracle:egug.fa.us2.oraclecloud.com:26014784",
-      "workday:foresters:/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332",
-      "workday:pwc:/job/Prague/Data-Analyst-Intern---Technology-Consulting_765323WD"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

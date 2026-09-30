@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-30T13:19:19Z</updated>
+  <updated>2026-09-30T18:43:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:td:/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793</id>
-    <title>TD Bank: 2027 Technology Internship - Valuation Services Software Engineer - 6-month Internship (January – July)</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793"/>
-    <updated>2026-09-30T13:19:19Z</updated>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26014784</id>
+    <title>American Express: Campus - Internship Programme - Undergraduate - ECMX Product Analyst - 2027 (UK)</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014784"/>
+    <updated>2026-09-30T18:43:56Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Dublin, Ireland · Python, SQL, Pandas, HTML/CSS, Flask</summary>
+    <summary>Summer 2027 · PM · LONDON, United Kingdom · HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:foresters:/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332</id>
+    <title>Foresters Financial: Software Engineer Co-op Student (AI) (4-month contract)</title>
+    <link href="https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332"/>
+    <updated>2026-09-30T18:43:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toronto, Ontario · Python, Java, C#, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:pwc:/job/Prague/Data-Analyst-Intern---Technology-Consulting_765323WD</id>
+    <title>PricewaterhouseCoopers (PwC): Data Analyst Intern - Technology Consulting</title>
+    <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Data-Analyst-Intern---Technology-Consulting_765323WD"/>
+    <updated>2026-09-30T18:43:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Prague · Python, SQL, AWS, GCP, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:td:/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---AI-Native-Data-Platform-Engineering---6-month-Internship--January---July-_R_1513790-1</id>
@@ -22,6 +38,14 @@
     <updated>2026-09-30T13:19:19Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Dublin, Ireland · Python, Java, C#, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:td:/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793</id>
+    <title>TD Bank: 2027 Technology Internship - Valuation Services Software Engineer - 6-month Internship (January – July)</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793"/>
+    <updated>2026-09-30T13:19:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Dublin, Ireland · Python, SQL, Pandas, HTML/CSS, Flask</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000152519710</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Wrocław, PL · Python, Bash, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:celonis:7986192003</id>
-    <title>Celonis: AI &amp; Management Consulting Intern (Value Engineering - UKI Market)</title>
-    <link href="https://job-boards.greenhouse.io/celonis/jobs/7986192003?gh_jid=7986192003"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · London, United Kingdom · Python, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:celonis:7990983003</id>
-    <title>Celonis: Intern Deployment Engineer - Data &amp; AI</title>
-    <link href="https://job-boards.greenhouse.io/celonis/jobs/7990983003?gh_jid=7990983003"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Munich, Germany · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:ctccampusboard:4709545005</id>
-    <title>Chicago Trading Company: Quant Trading Internship - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · London, England, United Kingdom · Python</summary>
   </entry>
 </feed>

@@ -1,28 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:exegy:1dfd3209-2714-4ccd-8fb9-779765151897",
-      "workday:autodesk:/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061",
-      "workday:autodesk:/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436",
-      "greenhouse:capstoneinvestmentadvisors:8828058002",
-      "greenhouse:capstoneinvestmentadvisors:8859054002",
-      "greenhouse:pinterest:8138080",
-      "greenhouse:pinterest:8214757",
-      "greenhouse:pinterest:8138034",
-      "greenhouse:pinterest:8138039",
-      "greenhouse:pinterest:8214745"
-    ],
-    "telegram": [
-      "ashby:exegy:1dfd3209-2714-4ccd-8fb9-779765151897",
-      "workday:autodesk:/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061",
-      "workday:autodesk:/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436",
-      "greenhouse:capstoneinvestmentadvisors:8828058002",
-      "greenhouse:capstoneinvestmentadvisors:8859054002",
-      "greenhouse:pinterest:8138080",
-      "greenhouse:pinterest:8214757",
-      "greenhouse:pinterest:8138034",
-      "greenhouse:pinterest:8138039",
-      "greenhouse:pinterest:8214745"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

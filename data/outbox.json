@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:airliquidehr:/job/Spain-MADRID/Data-Analyst-Internship--M-F-_R10101926",
+      "workday:hpe:/job/Heredia-Heredia-Costa-Rica/Embedded-Software-Engineer-Internship_1214117",
+      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--C---_R69047",
+      "workday:novanta:/job/Barcelona-Spain---Keonn/Hardware-Developer-Internship_R009498",
+      "smartrecruiters:Sia:744000152894409",
+      "greenhouse:stripe:8194287"
+    ],
+    "telegram": [
+      "workday:airliquidehr:/job/Spain-MADRID/Data-Analyst-Internship--M-F-_R10101926",
+      "workday:hpe:/job/Heredia-Heredia-Costa-Rica/Embedded-Software-Engineer-Internship_1214117",
+      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--C---_R69047",
+      "workday:novanta:/job/Barcelona-Spain---Keonn/Hardware-Developer-Internship_R009498",
+      "smartrecruiters:Sia:744000152894409",
+      "greenhouse:stripe:8194287"
+    ]
   }
 }

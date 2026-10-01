@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-01T07:57:02Z</updated>
+  <updated>2026-10-01T15:42:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39487</id>
+    <title>Nokia: IT Network Software/AI Development - Co-op/Intern</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39487"/>
+    <updated>2026-10-01T15:42:50Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Canada · Python, SQL, LLMs, Git, Databricks · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000152931867</id>
+    <title>Bosch: Internship - Global Product Management REF297536H</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000152931867"/>
+    <updated>2026-10-01T15:42:50Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · PM · Solothurn/Zuchwil, International (CH) · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:airliquidehr:/job/Spain-MADRID/Data-Analyst-Internship--M-F-_R10101926</id>
+    <title>Air Liquide: Data Analyst Internship (M/F)</title>
+    <link href="https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Spain-MADRID/Data-Analyst-Internship--M-F-_R10101926"/>
+    <updated>2026-10-01T15:42:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Spain, MADRID</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Heredia-Heredia-Costa-Rica/Embedded-Software-Engineer-Internship_1214117</id>
+    <title>Hewlett Packard Enterprise: Embedded Software Engineer Internship</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Embedded-Software-Engineer-Internship_1214117"/>
+    <updated>2026-10-01T15:42:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Heredia, Heredia, Costa Rica · Python, C++, LLMs, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:novanta:/job/Barcelona-Spain---Keonn/Hardware-Developer-Internship_R009498</id>
+    <title>Novanta: Hardware Developer Internship</title>
+    <link href="https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Barcelona-Spain---Keonn/Hardware-Developer-Internship_R009498"/>
+    <updated>2026-10-01T15:42:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Barcelona, Spain - Keonn</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stripe:8194287</id>
+    <title>Stripe: Data Analyst, Intern</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8194287"/>
+    <updated>2026-10-01T15:42:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toronto · SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583</id>
     <title>Intel: AI Software Engineering Undergraduate Intern</title>
@@ -758,53 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · PL-Warsaw-Lixa C · Python, SQL, LLMs, AWS, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:spaice-tech:16468d27-11e9-498c-87b6-3469f5f4ee12</id>
-    <title>SPAICE Technology: Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/spaice-tech/16468d27-11e9-498c-87b6-3469f5f4ee12"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · London · Python, C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:talos-trading:42cad756-c312-4142-a9b7-18ed76f61c5d</id>
-    <title>Talos: Software Engineer Intern, Trading</title>
-    <link href="https://jobs.ashbyhq.com/talos-trading/42cad756-c312-4142-a9b7-18ed76f61c5d"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · London · Java, C++, Git, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:talos-trading:f2a0aaa2-af88-4715-9f2d-8f61bd5e2935</id>
-    <title>Talos: Software Engineer Intern, Infrastructure</title>
-    <link href="https://jobs.ashbyhq.com/talos-trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London · Python, Java, Bash, AWS, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:telus-digital:89730055-fa03-444d-aa05-0058946fa436</id>
-    <title>TELUS Digital: Data &amp; AI Intern (Brazil) - Year Round 2027</title>
-    <link href="https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Porto Alegre, Brazil · Python, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:telus-digital:98495440-1a32-4c7e-8183-f38beebfd1d0</id>
-    <title>TELUS Digital: Software Engineering Intern (Brazil) - Year Round 2027</title>
-    <link href="https://jobs.ashbyhq.com/telus-digital/98495440-1a32-4c7e-8183-f38beebfd1d0"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Porto Alegre, Brazil</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:breezy:census:f8f39bc1b11f01</id>
-    <title>Census: Internship: IT Systems &amp; AI Ops</title>
-    <link href="https://census.breezy.hr/p/f8f39bc1b11f01-internship-it-systems-ai-ops"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Athens, GR</summary>
   </entry>
 </feed>

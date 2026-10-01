@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-30T22:51:37Z</updated>
+  <updated>2026-10-01T01:43:35Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583</id>
+    <title>Intel: AI Software Engineering Undergraduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583"/>
+    <updated>2026-10-01T01:43:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Costa Rica, San Jose · Python, SQL, Bash, LLMs, Azure</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:fticonsulting:/job/Madrid-Spain/Intern--Cybersecurity--Forensic---Litigation-Consulting_JR260732</id>
     <title>FTI Consulting: Intern, Cybersecurity, Forensic &amp; Litigation Consulting</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-22T01:54:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Athens, GR</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:aquaticcapitalmanagement:8489186002</id>
-    <title>Aquatic Capital Management: Quantitative Researcher, Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Chicago; London · Python</summary>
   </entry>
 </feed>

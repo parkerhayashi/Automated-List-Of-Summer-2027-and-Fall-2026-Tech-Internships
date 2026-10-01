@@ -5,8 +5,120 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-01T15:42:50Z</updated>
+  <updated>2026-10-01T20:46:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082</id>
+    <title>Autodesk: Intern, AI Data Developer (Winter)</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Toronto, ON, CAN · Python, SQL, scikit-learn, Pandas, LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:homedepot:/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012</id>
+    <title>The Home Depot: Intern, Full Stack Software Developer</title>
+    <link href="https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · CANADA STORE SUPPORT CENTER - 7000 · Java, TypeScript, SQL, Angular, HTML/CSS · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:homedepot:/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010</id>
+    <title>The Home Depot: Intern, AI Machine Learning Developer</title>
+    <link href="https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · CANADA STORE SUPPORT CENTER - 7000 · Python, Java, PyTorch, TensorFlow, AWS · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:exegy:1dfd3209-2714-4ccd-8fb9-779765151897</id>
+    <title>Exegy: Software Automation Developer Intern</title>
+    <link href="https://jobs.ashbyhq.com/exegy/1dfd3209-2714-4ccd-8fb9-779765151897"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Montreal · Python, C++, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061</id>
+    <title>Autodesk: Intern, AI/ML Platform (Winter)</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toronto, ON, CAN · Python, PyTorch, TensorFlow, LLMs, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436</id>
+    <title>Autodesk: Software Development Internship (Summer 2027)</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, ON, CAN · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:capstoneinvestmentadvisors:8828058002</id>
+    <title>Capstone Investment Advisors: Summer 2027 - Investment Internship LDN</title>
+    <link href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8828058002"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · London · Python, Java</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:capstoneinvestmentadvisors:8859054002</id>
+    <title>Capstone Investment Advisors: Summer 2027 - Quant Internship</title>
+    <link href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · London</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:8138080</id>
+    <title>Pinterest: Machine Learning Intern 2027 (Toronto)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138080"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, ON, CA · Python, Java, C++, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:8214757</id>
+    <title>Pinterest: Machine Learning Intern 2027 (Zurich)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8214757"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Zurich, CH · Python, Java, C++, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:8138034</id>
+    <title>Pinterest: Software Engineering Intern 2027 (Dublin)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138034"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Dublin, IE · Python, Java, C++, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:8138039</id>
+    <title>Pinterest: Software Engineering Intern 2027 (Toronto)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138039"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, ON, CA · Python, Java, C++, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:8214745</id>
+    <title>Pinterest: Software Engineering Intern 2027 (Zurich)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8214745"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Zurich, CH · Python, Java, C++, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stripe:8194287</id>
+    <title>Stripe: Data Analyst, Intern</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8194287"/>
+    <updated>2026-10-01T15:42:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toronto · SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39487</id>
     <title>Nokia: IT Network Software/AI Development - Co-op/Intern</title>
@@ -46,14 +158,6 @@
     <updated>2026-10-01T15:42:50Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Barcelona, Spain - Keonn</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stripe:8194287</id>
-    <title>Stripe: Data Analyst, Intern</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8194287"/>
-    <updated>2026-10-01T15:42:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto · SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583</id>
@@ -315,9 +419,9 @@
     <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748</id>
     <title>CIBC: AI &amp; Data Analytics and Reporting Analyst Co-op</title>
     <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748"/>
-    <updated>2026-09-25T20:44:31Z</updated>
+    <updated>2026-10-01T20:46:12Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto, ON · Python, SQL, HTML/CSS</summary>
+    <summary>Not stated · Data &amp; ML/AI · Toronto, ON · Python, SQL, HTML/CSS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:talos-trading:d6d0c99a-f281-4efe-89c4-026f7f5edc2b</id>
@@ -702,109 +806,5 @@
     <updated>2026-09-29T11:34:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Turin, International · Python, Java, C++, C#, Rust · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10555873</id>
-    <title>Amazon: 2027 Software Dev Engineer Intern - Poland</title>
-    <link href="https://www.amazon.jobs/en/jobs/10555873/2027-software-dev-engineer-intern-poland"/>
-    <updated>2026-09-22T12:51:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Gdansk, International · Python, Java, C++, C#, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210792010</id>
-    <title>JPMorganChase: 2027 Quantitative Research – Asset Management - Summer Analyst Internship - London</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210792010"/>
-    <updated>2026-09-22T12:51:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · LONDON, LONDON, United Kingdom · Python, Java, C++, SQL, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:brevanhoward:/job/London/AI---Quantitative-Analyst--London_JR101605</id>
-    <title>Brevan Howard: 2027 Summer Internship Program - AI &amp; Quantitative Analyst, London</title>
-    <link href="https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605"/>
-    <updated>2026-09-22T12:51:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · London · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:soti:/job/Galway-Ireland/Software-Development---QA-Intern-Opportunities-26-27_R10547</id>
-    <title>SOTI: Software Development &amp; QA Intern Opportunities 26/27</title>
-    <link href="https://soti.wd3.myworkdayjobs.com/Careers/job/Galway-Ireland/Software-Development---QA-Intern-Opportunities-26-27_R10547"/>
-    <updated>2026-09-22T12:51:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Galway, Ireland · C#, JavaScript, SQL, Node.js, Angular</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Melbourne-Victoria-Australia/Intern-Software-Developer_R-00190834</id>
-    <title>Leidos: Intern Software Developer</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/Intern-Software-Developer_R-00190834"/>
-    <updated>2026-09-22T07:03:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Melbourne, Victoria, Australia</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1</id>
-    <title>NVIDIA: System Software Engineer - USB (RDSS Intern)</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1"/>
-    <updated>2026-09-22T07:03:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Taiwan, Taipei · C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10554586</id>
-    <title>Amazon: 2027 Software Dev Engineer Intern - United Kingdom</title>
-    <link href="https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, International · Python, Java, C++, C#, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:perplexity:b9e1ff15-d52a-46d5-abf0-26460f2a116c</id>
-    <title>Perplexity AI: Internship - Machine Learning Research Engineer</title>
-    <link href="https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Berlin · PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:phlair:8021960b-1e19-406b-99c2-bac26fbe2c86</id>
-    <title>Phlair: Working Student / Intern – Control Team (Systems &amp; Data Infrastructure) (f/m/d)</title>
-    <link href="https://jobs.ashbyhq.com/phlair/8021960b-1e19-406b-99c2-bac26fbe2c86"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · München · Python, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:pluralis-research:8860e7ec-90f0-4fc8-bd83-90063137ec45</id>
-    <title>Pluralis Research: Research Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/pluralis-research/8860e7ec-90f0-4fc8-bd83-90063137ec45"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Australia · Python, PyTorch, AWS, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:sentry:fa522ac5-fc9f-4ce1-a191-842496a235a2</id>
-    <title>Sentry: Software Engineer, Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Vienna, Austria · €2,800 – €3,285 per month · Python, JavaScript, AWS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:sereact:7549093b-0918-4136-ac47-81063ded166d</id>
-    <title>Sereact: Product Manager Intern (m/f/d)</title>
-    <link href="https://jobs.ashbyhq.com/sereact/7549093b-0918-4136-ac47-81063ded166d"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · Stuttgart Schockenriedstr. 17 · ROS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:snowflake:90190b16-fd27-4366-8c10-9c4896157681</id>
-    <title>Snowflake: Applied AI Intern - Warsaw</title>
-    <link href="https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681"/>
-    <updated>2026-09-22T01:54:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · PL-Warsaw-Lixa C · Python, SQL, LLMs, AWS, GCP</summary>
   </entry>
 </feed>

@@ -424,9 +424,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-05",
      "role_ids": [
-      "workday:autodesk:/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3"
+      "workday:autodesk:/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3",
+      "workday:autodesk:/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -750,6 +751,19 @@
      "role_ids": [
       "workday:cae:/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
       "workday:cae:/job/Montreal-St-Laurent/C-IT-200-Product-Cybersecurity-Specialist-Intern_123542"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "capstone investment advisors": {
+   "name": "Capstone Investment Advisors",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "greenhouse:capstoneinvestmentadvisors:8828058002",
+      "greenhouse:capstoneinvestmentadvisors:8859054002"
      ],
      "count": 2
     }
@@ -2481,6 +2495,22 @@
     }
    }
   },
+  "pinterest": {
+   "name": "Pinterest",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "greenhouse:pinterest:8138034",
+      "greenhouse:pinterest:8138039",
+      "greenhouse:pinterest:8138080",
+      "greenhouse:pinterest:8214745",
+      "greenhouse:pinterest:8214757"
+     ],
+     "count": 5
+    }
+   }
+  },
   "point72": {
    "name": "Point72",
    "cycles": {
@@ -3582,5 +3612,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T15:42:50Z"
+ "updated_at": "2026-10-01T20:46:12Z"
 }

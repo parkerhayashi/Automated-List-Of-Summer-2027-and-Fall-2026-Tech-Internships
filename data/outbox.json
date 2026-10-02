@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "smartrecruiters:PAConsulting:744000153140420",
-      "workday:pwc:/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD",
-      "workday:roche:/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516",
-      "smartrecruiters:TTP1:744000153148930"
-    ],
-    "telegram": [
-      "smartrecruiters:PAConsulting:744000153140420",
-      "workday:pwc:/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD",
-      "workday:roche:/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516",
-      "smartrecruiters:TTP1:744000153148930"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

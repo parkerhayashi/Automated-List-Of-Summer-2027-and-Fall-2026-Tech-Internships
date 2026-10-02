@@ -5,15 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-02T12:41:50Z</updated>
+  <updated>2026-10-02T18:20:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:roche:/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819</id>
-    <title>Roche: Internship – Agentic AI for Environmental Regulatory Compliance</title>
-    <link href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819"/>
-    <updated>2026-10-02T12:41:50Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Data &amp; ML/AI · Basel · status: closed</summary>
+    <id>urn:intern-engine:lever:shopback-2:345e1f49-ca8c-432f-b402-a91452f78116</id>
+    <title>ShopBack: Software Engineer Intern - QA</title>
+    <link href="https://jobs.lever.co/shopback-2/345e1f49-ca8c-432f-b402-a91452f78116"/>
+    <updated>2026-10-02T18:20:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Taipei, Taiwan · Python, Java, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193</id>
+    <title>Altera Corporation: Software Engineer - Intern</title>
+    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193"/>
+    <updated>2026-10-02T18:20:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++, Verilog</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/Krakow-Poland/Intern-Interior-Sensing-AI-ML_J000704695</id>
+    <title>Aptiv: Intern Interior Sensing AI/ML</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Intern-Interior-Sensing-AI-ML_J000704695"/>
+    <updated>2026-10-02T18:20:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Krakow, Poland · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cmegroup:/job/Belfast---Millennium-House/AI-Analyst---Placement-year-internship_34865</id>
+    <title>CME Group: AI Analyst - Placement year internship 🛂</title>
+    <link href="https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Belfast---Millennium-House/AI-Analyst---Placement-year-internship_34865"/>
+    <updated>2026-10-02T18:20:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Belfast - Millennium House · Python, SQL, LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:databricks:6866531002</id>
+    <title>Databricks: Software Engineering Intern (2027 Start) - Berlin</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002"/>
+    <updated>2026-10-02T18:20:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Berlin, Germany · Python, Java, C++, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:databricks:8847738002</id>
+    <title>Databricks: Software Engineering Intern (2027 Start) - London</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"/>
+    <updated>2026-10-02T18:20:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London, United Kingdom · Python, Java, C++, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959</id>
+    <title>Marvell: Firmware Engineer Intern - BS/MS - 2027 Co-Op</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959"/>
+    <updated>2026-10-02T18:20:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Toronto, Canada · Python, C++, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:PAConsulting:744000153140420</id>
@@ -22,6 +70,14 @@
     <updated>2026-10-02T12:41:50Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Utrecht, International (NL)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:TTP1:744000153148930</id>
+    <title>TTP: Summer Internship - Cyber / AI Consultant - 2027</title>
+    <link href="https://jobs.smartrecruiters.com/TTP1/744000153148930"/>
+    <updated>2026-10-02T12:41:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Melbourn, England, United Kingdom</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:pwc:/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD</id>
@@ -40,12 +96,12 @@
     <summary>Not stated · Data &amp; ML/AI · Basel · Python, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:TTP1:744000153148930</id>
-    <title>TTP: Summer Internship - Cyber / AI Consultant - 2027</title>
-    <link href="https://jobs.smartrecruiters.com/TTP1/744000153148930"/>
+    <id>urn:intern-engine:workday:roche:/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819</id>
+    <title>Roche: Internship – Agentic AI for Environmental Regulatory Compliance</title>
+    <link href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819"/>
     <updated>2026-10-02T12:41:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Melbourn, England, United Kingdom</summary>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Data &amp; ML/AI · Basel · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:exegy:1dfd3209-2714-4ccd-8fb9-779765151897</id>
@@ -750,61 +806,5 @@
     <updated>2026-09-22T20:45:48Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · DE-Berlin-Trion Building · Java, C++, SQL, AWS, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:artefactlinkedin:8785636002</id>
-    <title>Artefact: Data Scientist Intern - Paris</title>
-    <link href="https://job-boards.greenhouse.io/artefactlinkedin/jobs/8785636002"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · 9th arrondissement of Paris, 75009, Paris, France · AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dvtrading:4736603005</id>
-    <title>DV Trading: Security Engineer Intern - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4736603005"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · London · Python, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5425</id>
-    <title>SCOR: Sustainable Investment Intern</title>
-    <link href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5425"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · VC · Paris, Ile-de-France, France · Python · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522</id>
-    <title>Airbus: Internship (d/f/m) within Airbus site Artificial Intelligence Centre (AIC)</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bremen Area · Python, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Application-Software-Developer-Co-op_2619454</id>
-    <title>CIBC: Application/Software Developer Co-op</title>
-    <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op_2619454"/>
-    <updated>2026-10-02T00:21:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, ON · Python, Azure, Databricks · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Software-Application-Developer-Co-op_2619461</id>
-    <title>CIBC: Software/Application Developer Co-op</title>
-    <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto, ON · Python, Java, JavaScript, SQL, Spring · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751</id>
-    <title>Marvell: Firmware Engineer Intern</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · CA-ON - Toronto - TOR · Python, C++, LLMs</summary>
   </entry>
 </feed>

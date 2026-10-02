@@ -953,6 +953,19 @@
     }
    }
   },
+  "databricks": {
+   "name": "Databricks",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2023-09-01",
+     "role_ids": [
+      "greenhouse:databricks:6866531002",
+      "greenhouse:databricks:8847738002"
+     ],
+     "count": 2
+    }
+   }
+  },
   "datadog": {
    "name": "Datadog",
    "cycles": {
@@ -1986,6 +1999,18 @@
      "first_posted": "2026-09-02",
      "role_ids": [
       "greenhouse:mwinternshipprogram:8772688002"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "marvell": {
+   "name": "Marvell",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "workday:marvell:/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959"
      ],
      "count": 1
     }
@@ -3613,5 +3638,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T12:41:50Z"
+ "updated_at": "2026-10-02T18:20:52Z"
 }

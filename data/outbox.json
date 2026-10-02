@@ -1,6 +1,22 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:shopback-2:345e1f49-ca8c-432f-b402-a91452f78116",
+      "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193",
+      "workday:aptiv:/job/Krakow-Poland/Intern-Interior-Sensing-AI-ML_J000704695",
+      "workday:cmegroup:/job/Belfast---Millennium-House/AI-Analyst---Placement-year-internship_34865",
+      "greenhouse:databricks:6866531002",
+      "greenhouse:databricks:8847738002",
+      "workday:marvell:/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959"
+    ],
+    "telegram": [
+      "lever:shopback-2:345e1f49-ca8c-432f-b402-a91452f78116",
+      "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193",
+      "workday:aptiv:/job/Krakow-Poland/Intern-Interior-Sensing-AI-ML_J000704695",
+      "workday:cmegroup:/job/Belfast---Millennium-House/AI-Analyst---Placement-year-internship_34865",
+      "greenhouse:databricks:6866531002",
+      "greenhouse:databricks:8847738002",
+      "workday:marvell:/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959"
+    ]
   }
 }

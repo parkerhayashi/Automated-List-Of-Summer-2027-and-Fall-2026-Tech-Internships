@@ -5,32 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-01T20:46:12Z</updated>
+  <updated>2026-10-02T00:21:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082</id>
-    <title>Autodesk: Intern, AI Data Developer (Winter)</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Toronto, ON, CAN · Python, SQL, scikit-learn, Pandas, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:homedepot:/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012</id>
-    <title>The Home Depot: Intern, Full Stack Software Developer</title>
-    <link href="https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · CANADA STORE SUPPORT CENTER - 7000 · Java, TypeScript, SQL, Angular, HTML/CSS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:homedepot:/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010</id>
-    <title>The Home Depot: Intern, AI Machine Learning Developer</title>
-    <link href="https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · CANADA STORE SUPPORT CENTER - 7000 · Python, Java, PyTorch, TensorFlow, AWS · status: closed</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:ashby:exegy:1dfd3209-2714-4ccd-8fb9-779765151897</id>
     <title>Exegy: Software Automation Developer Intern</title>
@@ -38,22 +14,6 @@
     <updated>2026-10-01T20:46:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Montreal · Python, C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061</id>
-    <title>Autodesk: Intern, AI/ML Platform (Winter)</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto, ON, CAN · Python, PyTorch, TensorFlow, LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436</id>
-    <title>Autodesk: Software Development Internship (Summer 2027)</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Toronto, ON, CAN · Python, Java, C++, C#, TypeScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:capstoneinvestmentadvisors:8828058002</id>
@@ -72,22 +32,6 @@
     <summary>Summer 2027 · Quant · London</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:8138080</id>
-    <title>Pinterest: Machine Learning Intern 2027 (Toronto)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138080"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, ON, CA · Python, Java, C++, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:8214757</id>
-    <title>Pinterest: Machine Learning Intern 2027 (Zurich)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8214757"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Zurich, CH · Python, Java, C++, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:pinterest:8138034</id>
     <title>Pinterest: Software Engineering Intern 2027 (Dublin)</title>
     <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138034"/>
@@ -104,12 +48,68 @@
     <summary>Summer 2027 · Software · Toronto, ON, CA · Python, Java, C++, TypeScript, JavaScript</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:8138080</id>
+    <title>Pinterest: Machine Learning Intern 2027 (Toronto)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138080"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, ON, CA · Python, Java, C++, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:pinterest:8214745</id>
     <title>Pinterest: Software Engineering Intern 2027 (Zurich)</title>
     <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8214745"/>
     <updated>2026-10-01T20:46:12Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Zurich, CH · Python, Java, C++, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:8214757</id>
+    <title>Pinterest: Machine Learning Intern 2027 (Zurich)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8214757"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Zurich, CH · Python, Java, C++, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082</id>
+    <title>Autodesk: Intern, AI Data Developer (Winter)</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Toronto, ON, CAN · Python, SQL, scikit-learn, Pandas, LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061</id>
+    <title>Autodesk: Intern, AI/ML Platform (Winter)</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toronto, ON, CAN · Python, PyTorch, TensorFlow, LLMs, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436</id>
+    <title>Autodesk: Software Development Internship (Summer 2027)</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, ON, CAN · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:homedepot:/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010</id>
+    <title>The Home Depot: Intern, AI Machine Learning Developer</title>
+    <link href="https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · CANADA STORE SUPPORT CENTER - 7000 · Python, Java, PyTorch, TensorFlow, AWS · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:homedepot:/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012</id>
+    <title>The Home Depot: Intern, Full Stack Software Developer</title>
+    <link href="https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012"/>
+    <updated>2026-10-01T20:46:12Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · CANADA STORE SUPPORT CENTER - 7000 · Java, TypeScript, SQL, Angular, HTML/CSS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stripe:8194287</id>
@@ -155,9 +155,9 @@
     <id>urn:intern-engine:workday:novanta:/job/Barcelona-Spain---Keonn/Hardware-Developer-Internship_R009498</id>
     <title>Novanta: Hardware Developer Internship</title>
     <link href="https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Barcelona-Spain---Keonn/Hardware-Developer-Internship_R009498"/>
-    <updated>2026-10-01T15:42:50Z</updated>
+    <updated>2026-10-02T00:21:38Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Barcelona, Spain - Keonn</summary>
+    <summary>Not stated · Hardware · Barcelona, Spain - Keonn · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583</id>
@@ -227,9 +227,9 @@
     <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252</id>
     <title>Altera Corporation: Software Engineer -  Intern</title>
     <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252"/>
-    <updated>2026-09-29T21:41:30Z</updated>
+    <updated>2026-10-02T00:21:38Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++</summary>
+    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++ · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415</id>
@@ -747,9 +747,9 @@
     <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Application-Software-Developer-Co-op_2619454</id>
     <title>CIBC: Application/Software Developer Co-op</title>
     <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op_2619454"/>
-    <updated>2026-09-22T20:45:48Z</updated>
+    <updated>2026-10-02T00:21:38Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, ON · Python, Azure, Databricks</summary>
+    <summary>Not stated · Software · Toronto, ON · Python, Azure, Databricks · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Software-Application-Developer-Co-op_2619461</id>

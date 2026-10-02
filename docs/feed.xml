@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-02T18:20:52Z</updated>
+  <updated>2026-10-02T22:21:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:mila-2:1E81635604</id>
+    <title>Montreal Institute for Learning Algorithms: Stagiaire de recherche - Sécurité de l'IA / Research Intern - AI Safety</title>
+    <link href="https://apply.workable.com/mila-2/j/1E81635604/"/>
+    <updated>2026-10-02T22:21:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Montreal, Quebec, Canada (Hybrid) · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e</id>
+    <title>Solink: Software Engineer Co-op, Agents</title>
+    <link href="https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e"/>
+    <updated>2026-10-02T22:21:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada · CA$55K – CA$68K · TypeScript, React, Node.js, AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:databricks:6866531002</id>
+    <title>Databricks: Software Engineering Intern (2027 Start) - Berlin</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002"/>
+    <updated>2026-10-02T18:20:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Berlin, Germany · Python, Java, C++, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:databricks:8847738002</id>
+    <title>Databricks: Software Engineering Intern (2027 Start) - London</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"/>
+    <updated>2026-10-02T18:20:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London, United Kingdom · Python, Java, C++, Databricks</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:shopback-2:345e1f49-ca8c-432f-b402-a91452f78116</id>
     <title>ShopBack: Software Engineer Intern - QA</title>
@@ -38,22 +70,6 @@
     <updated>2026-10-02T18:20:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Belfast - Millennium House · Python, SQL, LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:databricks:6866531002</id>
-    <title>Databricks: Software Engineering Intern (2027 Start) - Berlin</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002"/>
-    <updated>2026-10-02T18:20:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Berlin, Germany · Python, Java, C++, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:databricks:8847738002</id>
-    <title>Databricks: Software Engineering Intern (2027 Start) - London</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"/>
-    <updated>2026-10-02T18:20:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, United Kingdom · Python, Java, C++, Databricks</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-23T02:02:37Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Norway - Oslo</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:wehrtyou:8222413</id>
-    <title>Hudson River Trading: Data Scientist Intern - 2027</title>
-    <link href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413"/>
-    <updated>2026-09-22T23:32:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · London, United Kingdom · Python, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:snowflake:ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8</id>
-    <title>Snowflake: Software Engineer Intern - Berlin (2027)</title>
-    <link href="https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · DE-Berlin-Trion Building · Java, C++, SQL, AWS, GCP</summary>
   </entry>
 </feed>

@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workable:mila-2:1E81635604",
+      "ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e"
+    ],
+    "telegram": [
+      "workable:mila-2:1E81635604",
+      "ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e"
+    ]
   }
 }

@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-02T06:24:22Z</updated>
+  <updated>2026-10-02T12:41:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:roche:/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819</id>
+    <title>Roche: Internship – Agentic AI for Environmental Regulatory Compliance</title>
+    <link href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819"/>
+    <updated>2026-10-02T12:41:50Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Data &amp; ML/AI · Basel · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PAConsulting:744000153140420</id>
+    <title>PA Consulting: AI to accelerate realisation of the intelligent enterprise - internship</title>
+    <link href="https://jobs.smartrecruiters.com/PAConsulting/744000153140420"/>
+    <updated>2026-10-02T12:41:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Utrecht, International (NL)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:pwc:/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD</id>
+    <title>PricewaterhouseCoopers (PwC): Software Engineer Intern - Milano [DIG]</title>
+    <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD"/>
+    <updated>2026-10-02T12:41:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Milan · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:roche:/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516</id>
+    <title>Roche: Data Science Intern / Master Thesis Student (Basel, 6 Monate)</title>
+    <link href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516"/>
+    <updated>2026-10-02T12:41:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Basel · Python, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:TTP1:744000153148930</id>
+    <title>TTP: Summer Internship - Cyber / AI Consultant - 2027</title>
+    <link href="https://jobs.smartrecruiters.com/TTP1/744000153148930"/>
+    <updated>2026-10-02T12:41:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Melbourn, England, United Kingdom</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:exegy:1dfd3209-2714-4ccd-8fb9-779765151897</id>
     <title>Exegy: Software Automation Developer Intern</title>
@@ -177,7 +217,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26014784</id>
-    <title>American Express: Campus - Internship Programme - Undergraduate - ECMX Product Analyst - 2027 (UK)</title>
+    <title>American Express: Campus - Internship Programme - Undergraduate - ECMX Product Analyst - 2027 (UK - London)</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014784"/>
     <updated>2026-09-30T18:43:56Z</updated>
     <category term="Summer 2027"/>
@@ -766,45 +806,5 @@
     <updated>2026-09-22T20:45:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · CA-ON - Toronto - TOR · Python, C++, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053</id>
-    <title>Marvell: Software/Firmware Engineer Intern</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · CA-ON - Toronto - TOR · Python, C++, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pg:/job/PARIS-GO-SAINT-OUEN-GO/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355</id>
-    <title>Procter &amp; Gamble (P&amp;G): Analysis &amp; Insights Internship (Stagiaire Data Analyst)</title>
-    <link href="https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-SAINT-OUEN-GO/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355"/>
-    <updated>2026-09-22T20:45:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · PARIS GO: SAINT-OUEN GO · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10554706</id>
-    <title>Amazon: 2027 Software Dev Engineer Intern - Luxembourg</title>
-    <link href="https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg"/>
-    <updated>2026-09-22T12:51:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Luxembourg, International · Python, Java, C++, C#, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10555855</id>
-    <title>Amazon: 2027 Software Dev Engineer Intern - Spain</title>
-    <link href="https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain"/>
-    <updated>2026-09-22T12:51:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Madrid, International · Python, Java, C++, C#, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10555867</id>
-    <title>Amazon: 2027 Software Dev Engineer Intern - Italy</title>
-    <link href="https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy"/>
-    <updated>2026-09-29T11:34:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Turin, International · Python, Java, C++, C#, Rust · status: closed</summary>
   </entry>
 </feed>

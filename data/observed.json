@@ -3277,9 +3277,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-11",
      "role_ids": [
-      "smartrecruiters:TTP1:744000149038758"
+      "smartrecruiters:TTP1:744000149038758",
+      "smartrecruiters:TTP1:744000153148930"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3612,5 +3613,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T06:24:22Z"
+ "updated_at": "2026-10-02T12:41:50Z"
 }

@@ -1,34 +1,11 @@
 {
- "generated_at": "2026-10-02T22:21:12Z",
- "data_as_of": "2026-10-02T22:21:12Z",
- "rendered_at": "2026-10-02T22:21:12Z",
+ "generated_at": "2026-10-03T01:27:32Z",
+ "data_as_of": "2026-10-03T01:27:32Z",
+ "rendered_at": "2026-10-03T01:27:33Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 293,
+ "count": 291,
  "jobs": [
-  {
-   "id": "workable:mila-2:1E81635604",
-   "company": "Montreal Institute for Learning Algorithms",
-   "title": "Stagiaire de recherche - Sécurité de l'IA / Research Intern - AI Safety",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Montreal, Quebec, Canada (Hybrid)",
-   "url": "https://apply.workable.com/mila-2/j/1E81635604/",
-   "posted_at": "2026-10-02T00:00:00.000Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-02T22:21:11Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "workable",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
   {
    "id": "ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e",
    "company": "Solink",
@@ -55,6 +32,29 @@
    "source": "ashby",
    "h1b_approvals": null,
    "program": "Co-op",
+   "remote": false
+  },
+  {
+   "id": "workable:mila-2:1E81635604",
+   "company": "Montreal Institute for Learning Algorithms",
+   "title": "Stagiaire de recherche - Sécurité de l'IA / Research Intern - AI Safety",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Montreal, Quebec, Canada (Hybrid)",
+   "url": "https://apply.workable.com/mila-2/j/1E81635604/",
+   "posted_at": "2026-10-02T00:00:00.000Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-02T22:21:11Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python"
+   ],
+   "source": "workable",
+   "h1b_approvals": null,
+   "program": "Internship",
    "remote": false
   },
   {
@@ -3376,29 +3376,6 @@
    "source": "workday",
    "h1b_approvals": 90,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:autodesk:/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
-   "company": "Autodesk",
-   "title": "Intern, Software Developer/ Stagiaire en Développement Logiciel",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Montreal, QC, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114",
-   "posted_at": "2026-09-17T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-17T15:32:04Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Java"
-   ],
-   "source": "workday",
-   "h1b_approvals": 343,
-   "program": "Internship",
    "remote": false
   },
   {
@@ -6929,27 +6906,6 @@
    ],
    "source": "workday",
    "h1b_approvals": 1526,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:gardacp:6146408004",
-   "company": "Garda Capital Partners",
-   "title": "Software Engineer Intern (AI Internal Tools)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Geneva, Geneva, Switzerland; Zug, Zug, Switzerland",
-   "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146408004",
-   "posted_at": "2026-08-18T16:02:15-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "greenhouse",
-   "h1b_approvals": 6,
    "program": "Internship",
    "remote": false
   },

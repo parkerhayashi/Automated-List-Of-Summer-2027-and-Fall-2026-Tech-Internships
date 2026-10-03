@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-02T22:21:12Z</updated>
+  <updated>2026-10-03T01:27:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workable:mila-2:1E81635604</id>
-    <title>Montreal Institute for Learning Algorithms: Stagiaire de recherche - Sécurité de l'IA / Research Intern - AI Safety</title>
-    <link href="https://apply.workable.com/mila-2/j/1E81635604/"/>
-    <updated>2026-10-02T22:21:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Montreal, Quebec, Canada (Hybrid) · Python</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e</id>
     <title>Solink: Software Engineer Co-op, Agents</title>
@@ -22,6 +14,14 @@
     <updated>2026-10-02T22:21:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada · CA$55K – CA$68K · TypeScript, React, Node.js, AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:mila-2:1E81635604</id>
+    <title>Montreal Institute for Learning Algorithms: Stagiaire de recherche - Sécurité de l'IA / Research Intern - AI Safety</title>
+    <link href="https://apply.workable.com/mila-2/j/1E81635604/"/>
+    <updated>2026-10-02T22:21:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Montreal, Quebec, Canada (Hybrid) · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:databricks:6866531002</id>

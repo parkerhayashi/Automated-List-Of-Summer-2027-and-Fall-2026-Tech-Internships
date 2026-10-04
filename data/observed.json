@@ -2191,6 +2191,19 @@
     }
    }
   },
+  "nbcuniversal": {
+   "name": "NBCUniversal",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-04",
+     "role_ids": [
+      "smartrecruiters:NBCUniversal3:744000153372229",
+      "smartrecruiters:NBCUniversal3:744000153373389"
+     ],
+     "count": 2
+    }
+   }
+  },
   "netsmart": {
    "name": "Netsmart",
    "cycles": {
@@ -3638,5 +3651,5 @@
    }
   }
  },
- "updated_at": "2026-10-04T08:55:46Z"
+ "updated_at": "2026-10-04T15:02:44Z"
 }

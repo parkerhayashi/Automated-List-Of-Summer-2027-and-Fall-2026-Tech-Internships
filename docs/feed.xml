@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-04T08:55:46Z</updated>
+  <updated>2026-10-04T15:02:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153373389</id>
+    <title>NBCUniversal: Media Product Intern</title>
+    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389"/>
+    <updated>2026-10-04T15:02:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153372229</id>
+    <title>NBCUniversal: Product Intern (Hayu)</title>
+    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229"/>
+    <updated>2026-10-04T15:02:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e</id>
     <title>Solink: Software Engineer Co-op, Agents</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-23T13:54:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Krakow, Poland · React, Python, JavaScript, Node.js, HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sanofi:/job/Paris/internship-6-months-data-science_R2872264</id>
-    <title>Sanofi: internship 6 months data science</title>
-    <link href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/internship-6-months-data-science_R2872264"/>
-    <updated>2026-09-23T13:54:25Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Paris · Python, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3</id>
-    <title>Autodesk: Software Engineering Intern Summer 2027</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3"/>
-    <updated>2026-09-23T02:02:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Norway - Oslo</summary>
   </entry>
 </feed>

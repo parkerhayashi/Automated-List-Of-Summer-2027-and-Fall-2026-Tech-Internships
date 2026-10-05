@@ -338,6 +338,18 @@
     }
    }
   },
+  "arondite": {
+   "name": "Arondite",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workable:arondite:D3211449EF"
+     ],
+     "count": 1
+    }
+   }
+  },
   "assured guaranty": {
    "name": "Assured Guaranty",
    "cycles": {
@@ -753,6 +765,18 @@
       "workday:cae:/job/Montreal-St-Laurent/C-IT-200-Product-Cybersecurity-Specialist-Intern_123542"
      ],
      "count": 2
+    }
+   }
+  },
+  "capital one": {
+   "name": "Capital One",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:capitalone:/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -2198,9 +2222,11 @@
      "first_posted": "2026-10-04",
      "role_ids": [
       "smartrecruiters:NBCUniversal3:744000153372229",
-      "smartrecruiters:NBCUniversal3:744000153373389"
+      "smartrecruiters:NBCUniversal3:744000153373389",
+      "smartrecruiters:NBCUniversal3:744000153464839",
+      "smartrecruiters:NBCUniversal3:744000153466369"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -3651,5 +3677,5 @@
    }
   }
  },
- "updated_at": "2026-10-05T07:12:01Z"
+ "updated_at": "2026-10-05T16:13:23Z"
 }

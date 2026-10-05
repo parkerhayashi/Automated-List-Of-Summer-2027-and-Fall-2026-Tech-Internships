@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "greenhouse:wehrtyou:8257369",
-      "greenhouse:pinterest:8244922",
-      "workday:semtech:/job/CAN---Richmond-BC/AI-Workflow---Operations-Intern_REQ3640",
-      "workday:semtech:/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644"
-    ],
-    "telegram": [
-      "greenhouse:wehrtyou:8257369",
-      "greenhouse:pinterest:8244922",
-      "workday:semtech:/job/CAN---Richmond-BC/AI-Workflow---Operations-Intern_REQ3640",
-      "workday:semtech:/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

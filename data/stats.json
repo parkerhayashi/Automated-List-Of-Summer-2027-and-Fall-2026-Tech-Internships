@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T01:04:23Z",
-  "fetched_at": "2026-10-05T01:04:23Z",
-  "duration_seconds": 1001.3,
+  "generated_at": "2026-10-05T07:12:01Z",
+  "fetched_at": "2026-10-05T07:12:01Z",
+  "duration_seconds": 1096.9,
   "companies_total": 4971,
   "companies_by_source": {
     "greenhouse": 1102,
@@ -17,26 +17,30 @@
     "breezy": 13,
     "eightfold": 1
   },
-  "quarantined": 347,
-  "fetched_ok": 4617,
-  "fetch_errors": 7,
+  "quarantined": 252,
+  "fetched_ok": 4525,
+  "fetch_errors": 194,
   "errors_by_source": {
-    "workday": 1,
-    "rippling": 1,
-    "workable": 5
+    "recruitee": 1,
+    "workday": 118,
+    "lever": 1,
+    "greenhouse": 3,
+    "rippling": 3,
+    "ashby": 3,
+    "workable": 65
   },
-  "fetch_success_rate": 0.998,
-  "fetch_success_rate_registry": 0.929,
-  "snapshots_complete": 3991,
-  "snapshots_partial": 626,
+  "fetch_success_rate": 0.959,
+  "fetch_success_rate_registry": 0.91,
+  "snapshots_complete": 3944,
+  "snapshots_partial": 581,
   "partial_by_reason": {
-    "result-cap": 621,
-    "malformed-response": 5
+    "result-cap": 564,
+    "malformed-response": 17
   },
-  "degraded_fetches": 5,
-  "roles_matched": 262,
-  "dropped_no_year_in_title": 550,
-  "dropped_offcycle_by_text": 271,
+  "degraded_fetches": 17,
+  "roles_matched": 247,
+  "dropped_no_year_in_title": 535,
+  "dropped_offcycle_by_text": 258,
   "roles_cycle_inferred": 163,
   "roles_by_source": {
     "amazon": 10,
@@ -46,16 +50,16 @@
     "oracle": 29,
     "smartrecruiters": 39,
     "workable": 6,
-    "workday": 128
+    "workday": 125
   },
   "roles_by_cycle": {
-    "Summer 2027": 126,
+    "Summer 2027": 123,
     "Not stated": 163
   },
   "roles_by_region": {
     "Ireland": 16,
     "Australia": 7,
-    "Canada": 76,
+    "Canada": 73,
     "United Kingdom": 71,
     "Luxembourg": 4,
     "Spain": 7,
@@ -77,7 +81,7 @@
     "Greece": 2
   },
   "sponsorship_counts": {
-    "unknown": 282,
+    "unknown": 279,
     "offers": 2,
     "no-sponsorship": 4,
     "citizens-only": 1
@@ -87,7 +91,7 @@
   "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
   "new_this_run": 0,
-  "open_total": 289,
+  "open_total": 286,
   "detection_latency": {
     "median_minutes": 211.4,
     "p95_minutes": 334.2,
@@ -99,5 +103,5 @@
     "median_days": 12.0,
     "sample_size": 158
   },
-  "rendered_at": "2026-10-05T01:04:24Z"
+  "rendered_at": "2026-10-05T07:12:02Z"
 }

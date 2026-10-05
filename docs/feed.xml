@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-05T16:13:23Z</updated>
+  <updated>2026-10-05T22:47:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320</id>
+    <title>Lumentum: Embedded Software Developer Co-op (Optical Circuit Switch)</title>
+    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320"/>
+    <updated>2026-10-05T22:47:59Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Hardware · Canada - Ottawa (Bill Leathem) · $24–$35/hr · C++, Linux, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:wehrtyou:8257369</id>
+    <title>Hudson River Trading: Data Scientist Intern - 2027</title>
+    <link href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369"/>
+    <updated>2026-10-05T22:47:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · London, United Kingdom; New York, NY, United States · Python, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:8244922</id>
+    <title>Pinterest: Machine Learning Intern 2027 (Dublin)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8244922"/>
+    <updated>2026-10-05T22:47:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Dublin, IE · Python, Java, C++, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:semtech:/job/CAN---Richmond-BC/AI-Workflow---Operations-Intern_REQ3640</id>
+    <title>Semtech: AI Workflow &amp; Operations Intern</title>
+    <link href="https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/AI-Workflow---Operations-Intern_REQ3640"/>
+    <updated>2026-10-05T22:47:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · CAN - Richmond, BC · Python, SQL, LLMs, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:semtech:/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644</id>
+    <title>Semtech: Software Developer – Web/Cloud Application, Co-op</title>
+    <link href="https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644"/>
+    <updated>2026-10-05T22:47:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · CAN - Richmond, BC · Java, JavaScript, AWS, Docker, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:solink:c973029a-83fa-449e-b4a9-0a1514165430</id>
     <title>Solink: Software Engineer Co-op, Apps</title>
@@ -14,6 +54,38 @@
     <updated>2026-10-05T16:13:23Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Software · Ottawa Office · CA$55K – CA$68K · TypeScript, React, Node.js, AWS, GCP · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153500999</id>
+    <title>Bosch: Internship Agentic AI for Automated Code Generation in Safety-Critical Embedded Software</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153500999"/>
+    <updated>2026-10-05T16:13:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Schwieberdingen, BW, Germany · Python, C++, LLMs, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153516331</id>
+    <title>Bosch: Mandatory Internship Automotive Networking Innovation and Software-Defined Vehicle Technologies</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153516331"/>
+    <updated>2026-10-05T16:13:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Stuttgart, BW, Germany (Hybrid) · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153464839</id>
+    <title>NBCUniversal: Media Product Intern</title>
+    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153464839"/>
+    <updated>2026-10-05T16:13:23Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153466369</id>
+    <title>NBCUniversal: Product Intern (Hayu)</title>
+    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153466369"/>
+    <updated>2026-10-05T16:13:23Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workable:arondite:D3211449EF</id>
@@ -32,22 +104,6 @@
     <summary>Not stated · Software · Madrid Area · Python, Git, Verilog</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153516331</id>
-    <title>Bosch: Mandatory Internship Automotive Networking Innovation and Software-Defined Vehicle Technologies</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153516331"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Stuttgart, BW, Germany (Hybrid) · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153500999</id>
-    <title>Bosch: Internship Agentic AI for Automated Code Generation in Safety-Critical Embedded Software</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153500999"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Schwieberdingen, BW, Germany · Python, C++, LLMs, Linux, Git</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:capitalone:/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1</id>
     <title>Capital One: Intern, Data Scientist - Summer 2027</title>
     <link href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1"/>
@@ -64,20 +120,12 @@
     <summary>Not stated · Software · Sweden - Skolgatan - Umeå</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153466369</id>
-    <title>NBCUniversal: Product Intern (Hayu)</title>
-    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153466369"/>
+    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1</id>
+    <title>NVIDIA: Software Engineer – DFT CAD Tools (RDSS Intern)</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1"/>
     <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153464839</id>
-    <title>NBCUniversal: Media Product Intern</title>
-    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153464839"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Taiwan, Taipei · Python, C++, Verilog</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965</id>
@@ -88,28 +136,20 @@
     <summary>Not stated · Software · Taiwan, Taipei · LLMs, Computer Vision, CUDA, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1</id>
-    <title>NVIDIA: Software Engineer – DFT CAD Tools (RDSS Intern)</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Taiwan, Taipei · Python, C++, Verilog</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153372229</id>
     <title>NBCUniversal: Product Intern (Hayu)</title>
     <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229"/>
-    <updated>2026-10-04T15:02:44Z</updated>
+    <updated>2026-10-05T22:47:59Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid) · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153373389</id>
     <title>NBCUniversal: Media Product Intern</title>
     <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389"/>
-    <updated>2026-10-04T15:02:44Z</updated>
+    <updated>2026-10-05T22:47:59Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid) · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e</id>
@@ -298,7 +338,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061</id>
     <title>Autodesk: Intern, AI/ML Platform (Winter)</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1"/>
     <updated>2026-10-01T20:46:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Toronto, ON, CAN · Python, PyTorch, TensorFlow, LLMs, AWS</summary>
@@ -306,7 +346,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436</id>
     <title>Autodesk: Software Development Internship (Summer 2027)</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1"/>
     <updated>2026-10-01T20:46:12Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Toronto, ON, CAN · Python, Java, C++, C#, TypeScript</summary>
@@ -766,45 +806,5 @@
     <updated>2026-09-24T14:43:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Krakow, Poland · Python, Bash, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pg:/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355</id>
-    <title>Procter &amp; Gamble (P&amp;G): Analysis &amp; Insights Internship (Stagiaire Data Analyst)</title>
-    <link href="https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355"/>
-    <updated>2026-09-24T14:43:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · PARIS GO-ASNIERES-SUR-SEINE · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pwc:/job/Prague/Datov-internship-v-Technology-Consultingu_742242WD-1</id>
-    <title>PricewaterhouseCoopers (PwC): Data Engineer Intern</title>
-    <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Datov-internship-v-Technology-Consultingu_742242WD-1"/>
-    <updated>2026-09-24T14:43:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Prague · Python, LLMs, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:semtech:/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617</id>
-    <title>Semtech: Firmware Design Intern</title>
-    <link href="https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617"/>
-    <updated>2026-09-24T14:43:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · CAN - Ottawa, ON · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abb:/job/Lodz-Lodz-Poland/Student-Internship---UX-Designer_JR00048119-1</id>
-    <title>ABB: Student Internship - UX Designer</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Lodz-Lodz-Poland/Student-Internship---UX-Designer_JR00048119-1"/>
-    <updated>2026-09-24T09:48:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Design · Lodz, Lodz, Poland</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nxp:/job/Hamburg/Intern--f-m-d--AI-Driven-Data-Analysis-for-Non-Volatile-Memory-Design_R-10066893</id>
-    <title>NXP Semiconductors: Intern (f/m/d) AI-Driven Data Analysis for Non-Volatile Memory Design</title>
-    <link href="https://nxp.wd3.myworkdayjobs.com/careers/job/Hamburg/Intern--f-m-d--AI-Driven-Data-Analysis-for-Non-Volatile-Memory-Design_R-10066893"/>
-    <updated>2026-09-24T09:48:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hamburg · Linux, Verilog</summary>
   </entry>
 </feed>

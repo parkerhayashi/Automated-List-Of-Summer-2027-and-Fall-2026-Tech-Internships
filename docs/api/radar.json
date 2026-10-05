@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-05T16:13:23Z",
- "data_as_of": "2026-10-05T16:13:23Z",
- "rendered_at": "2026-10-05T16:13:24Z",
+ "generated_at": "2026-10-05T22:47:59Z",
+ "data_as_of": "2026-10-05T22:47:59Z",
+ "rendered_at": "2026-10-05T22:48:00Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1023,7 +1023,7 @@
    "expected": "2026-10-04",
    "days_until": -1,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229",
+   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153464839",
    "note": "",
    "provenance": {
     "type": "engine-observed",

@@ -1,40 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:10554717",
-      "workday:mmc:/job/Milan---Viale-Bodio/IT-Implentation---Ditigal-Transformation-Consulting_R_339872",
-      "workday:resmed:/job/Dublin-Ireland/Intern--Software-Engineering--Devices_JR_054513",
-      "greenhouse:artefactlinkedin:8870459002",
-      "greenhouse:asteraearlycareer2027:4731406005",
-      "greenhouse:asteraearlycareer2027:4733856005",
-      "greenhouse:asteraearlycareer2027:4732319005",
-      "smartrecruiters:BoschGroup:744000153799209",
-      "smartrecruiters:BoschGroup:744000153769414",
-      "workday:cae:/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
-      "workday:gresearch:/job/London-UK/Machine-Learning-Engineer-Intern_R3773",
-      "workday:gsknch:/job/Switzerland---Nyon/Data-Engineer-Intern_548707",
-      "greenhouse:khanacademy:8250259",
-      "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
-      "workday:morningstar:/job/Madrid/Multilingual-Data-Analyst-Intern_REQ-049644-1",
-      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--Java-_R69454"
-    ],
-    "telegram": [
-      "amazon:amazon:10554717",
-      "workday:mmc:/job/Milan---Viale-Bodio/IT-Implentation---Ditigal-Transformation-Consulting_R_339872",
-      "workday:resmed:/job/Dublin-Ireland/Intern--Software-Engineering--Devices_JR_054513",
-      "greenhouse:artefactlinkedin:8870459002",
-      "greenhouse:asteraearlycareer2027:4731406005",
-      "greenhouse:asteraearlycareer2027:4733856005",
-      "greenhouse:asteraearlycareer2027:4732319005",
-      "smartrecruiters:BoschGroup:744000153799209",
-      "smartrecruiters:BoschGroup:744000153769414",
-      "workday:cae:/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
-      "workday:gresearch:/job/London-UK/Machine-Learning-Engineer-Intern_R3773",
-      "workday:gsknch:/job/Switzerland---Nyon/Data-Engineer-Intern_548707",
-      "greenhouse:khanacademy:8250259",
-      "workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
-      "workday:morningstar:/job/Madrid/Multilingual-Data-Analyst-Intern_REQ-049644-1",
-      "workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--Java-_R69454"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

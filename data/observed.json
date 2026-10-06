@@ -173,7 +173,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 13,
+     "count": 14,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -183,6 +183,7 @@
       "amazon:amazon:10538066",
       "amazon:amazon:10553947",
       "amazon:amazon:10554586",
+      "amazon:amazon:10554701",
       "amazon:amazon:10554706",
       "amazon:amazon:10554717",
       "amazon:amazon:10555855",
@@ -787,9 +788,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-05",
      "role_ids": [
-      "workday:capitalone:/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1"
+      "workday:capitalone:/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1",
+      "workday:capitalone:/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3704,5 +3706,5 @@
    }
   }
  },
- "updated_at": "2026-10-06T16:27:31Z"
+ "updated_at": "2026-10-06T21:32:31Z"
 }

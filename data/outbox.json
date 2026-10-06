@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:10554701",
-      "smartrecruiters:BoschGroup:744000153820750",
-      "workday:capitalone:/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143"
-    ],
-    "telegram": [
-      "amazon:amazon:10554701",
-      "smartrecruiters:BoschGroup:744000153820750",
-      "workday:capitalone:/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

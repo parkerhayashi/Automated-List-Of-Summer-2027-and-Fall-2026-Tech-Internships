@@ -5,8 +5,144 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-06T09:38:07Z</updated>
+  <updated>2026-10-06T16:27:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:sanofi:/job/Paris/internship-6-months---digital-product-management_R2873992</id>
+    <title>Sanofi: internship 6 months digital product management</title>
+    <link href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/internship-6-months---digital-product-management_R2873992"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · PM · Paris · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10554717</id>
+    <title>Amazon: 2027 Software Dev Engineer Intern - Germany</title>
+    <link href="https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Berlin, International · Python, Java, C++, C#, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mmc:/job/Milan---Viale-Bodio/IT-Implentation---Ditigal-Transformation-Consulting_R_339872</id>
+    <title>Marsh: Ditigal Transformation &amp; Software Implementation Consultant Internship</title>
+    <link href="https://mmc.wd1.myworkdayjobs.com/mmc/job/Milan---Viale-Bodio/IT-Implentation---Ditigal-Transformation-Consulting_R_339872"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Milan - Viale Bodio</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:resmed:/job/Dublin-Ireland/Intern--Software-Engineering--Devices_JR_054513</id>
+    <title>Resmed: Intern, Software Engineering, Devices</title>
+    <link href="https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Dublin-Ireland/Intern--Software-Engineering--Devices_JR_054513"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dublin, Ireland · Python, Java, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:artefactlinkedin:8870459002</id>
+    <title>Artefact: R&amp;D Intern - Fairness in Deep Learning - Paris</title>
+    <link href="https://job-boards.greenhouse.io/artefactlinkedin/jobs/8870459002"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 9th arrondissement of Paris, 75009, Paris, France · PyTorch, scikit-learn, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731406005</id>
+    <title>Astera Labs: Firmware Engineer Intern (Ottawa)</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731406005"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Ottawa, Canada · $45–$55/hr · Python, C++, Bash, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4733856005</id>
+    <title>Astera Labs: Platform Applications Engineer Intern/Co-op (Tools Development Engineer – COSMOS Platform Software)</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Vancouver, British Columbia, Canada · $35–$55/hr · C++, C#, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4732319005</id>
+    <title>Astera Labs: Platform Applications Engineer Intern/Co-op (Tools &amp; Validation Infrastructure)</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732319005"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Vancouver, British Columbia, Canada · $35–$55/hr · Python, React, AWS, Docker, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153799209</id>
+    <title>Bosch: ETAS - Thesis Project Internship – Generative AI for Automotive Safety</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153799209"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Torino, Piemonte, International (IT) (Remote) · LLMs, Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153769414</id>
+    <title>Bosch: Mandatory Internship Full-Stack Development for Release Automation of Automotive Embedded Middleware Software</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153769414"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Abstatt, BW, Germany · Python, Node.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cae:/job/Montreal-St-Laurent/Software-Developer-Coop_123904</id>
+    <title>CAE: Software Developer Coop</title>
+    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Montreal (St. Laurent) · Python, Java, C#, TypeScript, Bash</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gresearch:/job/London-UK/Machine-Learning-Engineer-Intern_R3773</id>
+    <title>G-Research: Machine Learning Engineer Intern</title>
+    <link href="https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · London, UK · Python, PyTorch</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gsknch:/job/Switzerland---Nyon/Data-Engineer-Intern_548707</id>
+    <title>Haleon: Data Engineer Intern</title>
+    <link href="https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Switzerland---Nyon/Data-Engineer-Intern_548707"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Switzerland - Nyon · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:khanacademy:8250259</id>
+    <title>Khan Academy: Software Engineer Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/khanacademy/jobs/8250259"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Remote (US + Canada Only) · JavaScript, React, GraphQL, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370</id>
+    <title>Lumentum: Embedded Software Engineer Co-op/Intern</title>
+    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada - Ottawa (Bill Leathem) · $24–$35/hr · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:morningstar:/job/Madrid/Multilingual-Data-Analyst-Intern_REQ-049644-1</id>
+    <title>Morningstar: Multilingual Data Analyst Intern</title>
+    <link href="https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Madrid/Multilingual-Data-Analyst-Intern_REQ-049644-1"/>
+    <updated>2026-10-06T16:27:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Madrid</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256579007</id>
+    <title>Tenstorrent: AI SW Intern, Infrastructure &amp; Data Centre Deployment</title>
+    <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007"/>
+    <updated>2026-10-06T09:38:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toronto, Ontario, Canada · Python, Bash, Kubernetes, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Keenfinity:744000153689374</id>
     <title>Keenfinity: Software Engineering Intern – Device Simulation &amp; Digital Twin</title>
@@ -22,14 +158,6 @@
     <updated>2026-10-06T09:38:07Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Taiwan, Taipei · Python, C++, Bash, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256579007</id>
-    <title>Tenstorrent: AI SW Intern, Infrastructure &amp; Data Centre Deployment</title>
-    <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007"/>
-    <updated>2026-10-06T09:38:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto, Ontario, Canada · Python, Bash, Kubernetes, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:momentenergy:4434575009</id>
@@ -531,9 +659,9 @@
     <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415</id>
     <title>Alexion: Co-Op, Development Operations AI &amp; Automation Enablement Intern</title>
     <link href="https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415"/>
-    <updated>2026-09-29T21:41:30Z</updated>
+    <updated>2026-10-06T16:27:31Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga · Python, C#, JavaScript, SQL, LLMs</summary>
+    <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga · Python, C#, JavaScript, SQL, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260027807</id>
@@ -678,133 +806,5 @@
     <updated>2026-09-28T00:13:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · PM · Lisbon, Portugal</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mastercard:/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1</id>
-    <title>Mastercard: Product Management Intern, Summer 2027 - Rome, Italy</title>
-    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722"/>
-    <updated>2026-09-28T00:13:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · Rome, Italy</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aviva:/job/Poland---Warsaw---ASEC/Investment-Data-Analyst-Intern_R-173119</id>
-    <title>Aviva: Investment Data Analyst Intern</title>
-    <link href="https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Investment-Data-Analyst-Intern_R-173119"/>
-    <updated>2026-10-06T02:42:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Poland - Warsaw - ASEC · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:momentenergy:4421775009</id>
-    <title>Moment Energy: Data Scientist Co-op</title>
-    <link href="https://job-boards.greenhouse.io/momentenergy/jobs/4421775009"/>
-    <updated>2026-09-25T23:45:29Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Surrey, BC · Python, Pandas · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8214729</id>
-    <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8214729"/>
-    <updated>2026-09-25T23:45:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Warsaw, Poland · Python, Java, C++, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748</id>
-    <title>CIBC: AI &amp; Data Analytics and Reporting Analyst Co-op</title>
-    <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto, ON · Python, SQL, HTML/CSS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:talos-trading:d6d0c99a-f281-4efe-89c4-026f7f5edc2b</id>
-    <title>Talos: Quantitative Analyst Intern</title>
-    <link href="https://jobs.ashbyhq.com/talos-trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b"/>
-    <updated>2026-09-25T17:23:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · London, NYC · $50 per hour · Python, SQL, Pandas, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000151841184</id>
-    <title>Bosch: IT Internship (BackEnd, Java) (f/m)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000151841184"/>
-    <updated>2026-09-25T17:23:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Warszawa, Województwo mazowieckie, International (PL) (Hybrid) · Java, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:barclays:/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387</id>
-    <title>Barclays: 2027 Technology Developer Summer Internship Programme Glasgow</title>
-    <link href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387"/>
-    <updated>2026-09-25T17:23:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Glasgow Campus · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Krakow-Poland/Intern-Software-Developer--C-C---_R68901</id>
-    <title>Motorola: Intern Software Developer (C/C++)</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R68901"/>
-    <updated>2026-09-25T17:23:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Krakow, Poland · C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:82537</id>
-    <title>BNY: 2027 BNY Summer Internship Program - Product Management (Luxembourg)</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82537"/>
-    <updated>2026-09-25T12:03:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · Luxembourg</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:exclusivenetworks:/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1</id>
-    <title>Exclusive Networks: Data Quality &amp; Business Data Analyst Intern 3 month FTC</title>
-    <link href="https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Quality---Business-Data-Analyst-Intern-6-month-FTC_JR2560-1"/>
-    <updated>2026-09-28T19:55:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · London · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Cork-Ireland/Software-Engineering-Internship_R66949-1</id>
-    <title>Motorola: Software Engineering Internship</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Software-Engineering-Internship_R66949-1"/>
-    <updated>2026-09-24T22:33:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cork, Ireland · C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Bertelsmann-Jobs:744000151659959</id>
-    <title>Bertelsmann: Internship in Information Security Services</title>
-    <link href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000151659959"/>
-    <updated>2026-09-24T18:50:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Luxembourg, International (LU)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000151644699</id>
-    <title>Bosch: Extracurricular Internship in Computer Science / Information Systems (f/m/div.)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000151644699"/>
-    <updated>2026-09-24T18:50:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Braga, International (PT) · JavaScript, SQL, React, Vue, HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ferrovial:/job/Madrid/AI-Program-Internship_JR19467</id>
-    <title>Ferrovial: AI Program Internship</title>
-    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/AI-Program-Internship_JR19467"/>
-    <updated>2026-09-24T18:50:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Madrid · LLMs, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Schaffhausen-Switzerland/Data-Science---Process-Modeling-Intern_R-101009</id>
-    <title>Johnson &amp; Johnson: Data Science &amp; Process Modeling Intern</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Schaffhausen-Switzerland/Data-Science---Process-Modeling-Intern_R-101009"/>
-    <updated>2026-09-24T18:50:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Schaffhausen, Switzerland · Python, MATLAB</summary>
   </entry>
 </feed>

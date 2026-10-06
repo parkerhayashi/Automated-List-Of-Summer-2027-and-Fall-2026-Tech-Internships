@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-06T09:38:07Z",
- "data_as_of": "2026-10-06T09:38:07Z",
- "rendered_at": "2026-10-06T09:38:08Z",
+ "generated_at": "2026-10-06T16:27:31Z",
+ "data_as_of": "2026-10-06T16:27:31Z",
+ "rendered_at": "2026-10-06T16:27:32Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -73,7 +73,7 @@
    "expected": "2026-05-07",
    "days_until": -152,
    "status": "open",
-   "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
+   "url": "https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124",
    "note": "quant cycle opens very early",
    "provenance": {
     "type": "engine-observed",
@@ -1082,6 +1082,25 @@
    "status": "open",
    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1",
    "note": "tech internship opens early summer",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-05"
+   }
+  },
+  {
+   "company": "Khan Academy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
+   "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -5744,5 +5763,5 @@
    }
   }
  ],
- "count": 302
+ "count": 303
 }

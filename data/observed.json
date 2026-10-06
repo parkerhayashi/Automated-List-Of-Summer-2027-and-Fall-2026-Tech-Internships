@@ -173,7 +173,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 12,
+     "count": 13,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -184,6 +184,7 @@
       "amazon:amazon:10553947",
       "amazon:amazon:10554586",
       "amazon:amazon:10554706",
+      "amazon:amazon:10554717",
       "amazon:amazon:10555855",
       "amazon:amazon:10555867",
       "amazon:amazon:10555873"
@@ -1886,6 +1887,18 @@
      "first_posted": "2026-08-17",
      "role_ids": [
       "workday:keybank:/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "khan academy": {
+   "name": "Khan Academy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "greenhouse:khanacademy:8250259"
      ],
      "count": 1
     }
@@ -3691,5 +3704,5 @@
    }
   }
  },
- "updated_at": "2026-10-06T09:38:07Z"
+ "updated_at": "2026-10-06T16:27:31Z"
 }

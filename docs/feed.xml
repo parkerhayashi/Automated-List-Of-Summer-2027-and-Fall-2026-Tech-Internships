@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-05T22:47:59Z</updated>
+  <updated>2026-10-06T02:42:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320</id>
-    <title>Lumentum: Embedded Software Developer Co-op (Optical Circuit Switch)</title>
-    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320"/>
-    <updated>2026-10-05T22:47:59Z</updated>
+    <id>urn:intern-engine:greenhouse:momentenergy:4434575009</id>
+    <title>Moment Energy: Firmware Engineering Co-op</title>
+    <link href="https://job-boards.greenhouse.io/momentenergy/jobs/4434575009"/>
+    <updated>2026-10-06T02:42:42Z</updated>
     <category term="Winter 2027"/>
-    <summary>Winter 2027 · Hardware · Canada - Ottawa (Bill Leathem) · $24–$35/hr · C++, Linux, Git · status: closed</summary>
+    <summary>Winter 2027 · Hardware · Surrey, BC · C++, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:momentenergy:4434577009</id>
+    <title>Moment Energy: Software Engineering Co-op</title>
+    <link href="https://job-boards.greenhouse.io/momentenergy/jobs/4434577009"/>
+    <updated>2026-10-06T02:42:42Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Surrey, BC · Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wgl:/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312</id>
+    <title>AltaGas: AltaGas - 2027 Digital (NextGen AI &amp; Data) Intern</title>
+    <link href="https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312"/>
+    <updated>2026-10-06T02:42:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Calgary, AB · Python, SQL, Azure, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:8244922</id>
+    <title>Pinterest: Machine Learning Intern 2027 (Dublin)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8244922"/>
+    <updated>2026-10-05T22:47:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Dublin, IE · Python, Java, C++, PyTorch, TensorFlow</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:wehrtyou:8257369</id>
@@ -24,12 +48,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · London, United Kingdom; New York, NY, United States · Python, Pandas</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:8244922</id>
-    <title>Pinterest: Machine Learning Intern 2027 (Dublin)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8244922"/>
+    <id>urn:intern-engine:workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320</id>
+    <title>Lumentum: Embedded Software Developer Co-op (Optical Circuit Switch)</title>
+    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320"/>
     <updated>2026-10-05T22:47:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Dublin, IE · Python, Java, C++, PyTorch, TensorFlow</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Hardware · Canada - Ottawa (Bill Leathem) · $24–$35/hr · C++, Linux, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:semtech:/job/CAN---Richmond-BC/AI-Workflow---Operations-Intern_REQ3640</id>
@@ -187,9 +211,9 @@
     <id>urn:intern-engine:lever:shopback-2:345e1f49-ca8c-432f-b402-a91452f78116</id>
     <title>ShopBack: Software Engineer Intern - QA</title>
     <link href="https://jobs.lever.co/shopback-2/345e1f49-ca8c-432f-b402-a91452f78116"/>
-    <updated>2026-10-02T18:20:52Z</updated>
+    <updated>2026-10-06T02:28:27Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Taipei, Taiwan · Python, Java, JavaScript</summary>
+    <summary>Not stated · Software · Taipei, Taiwan · Python, Java, JavaScript · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193</id>
@@ -651,9 +675,9 @@
     <id>urn:intern-engine:workday:aviva:/job/Poland---Warsaw---ASEC/Investment-Data-Analyst-Intern_R-173119</id>
     <title>Aviva: Investment Data Analyst Intern</title>
     <link href="https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Investment-Data-Analyst-Intern_R-173119"/>
-    <updated>2026-09-26T17:00:42Z</updated>
+    <updated>2026-10-06T02:42:42Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Poland - Warsaw - ASEC</summary>
+    <summary>Not stated · Data &amp; ML/AI · Poland - Warsaw - ASEC · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:momentenergy:4421775009</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-24T14:43:11Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Data &amp; ML/AI · Paris · Python, SQL, Pandas · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:logitech:/job/Krakow-Poland/C---Software-Developer-Intern--3-month-contract-_148315</id>
-    <title>Logitech: C++ Software Developer Intern (3-month contract)</title>
-    <link href="https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/C---Software-Developer-Intern--3-month-contract-_148315"/>
-    <updated>2026-09-24T14:43:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Krakow, Poland · C++, Bash, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:logitech:/job/Krakow-Poland/Software-Engineer-Intern--3-month-contract-_148290</id>
-    <title>Logitech: Software Engineer Intern (3-month contract)</title>
-    <link href="https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-Engineer-Intern--3-month-contract-_148290"/>
-    <updated>2026-09-24T14:43:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Krakow, Poland · Java, C++, Kotlin, Bash, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:logitech:/job/Krakow-Poland/Software-QA-Intern--Engineering--3-month-contract-_148297-1</id>
-    <title>Logitech: Software QA Intern, Engineering (3-month contract)</title>
-    <link href="https://logitech.wd5.myworkdayjobs.com/Logitech/job/Krakow-Poland/Software-QA-Intern--Engineering--3-month-contract-_148297-1"/>
-    <updated>2026-09-24T14:43:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Krakow, Poland · Python, Bash, Linux</summary>
   </entry>
 </feed>

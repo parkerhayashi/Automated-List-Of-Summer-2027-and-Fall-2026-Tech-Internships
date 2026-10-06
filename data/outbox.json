@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "smartrecruiters:Keenfinity:744000153689374",
+      "workday:nvidia:/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645",
+      "greenhouse:tenstorrentuniversity:5256579007"
+    ],
+    "telegram": [
+      "smartrecruiters:Keenfinity:744000153689374",
+      "workday:nvidia:/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645",
+      "greenhouse:tenstorrentuniversity:5256579007"
+    ]
   }
 }

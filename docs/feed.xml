@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-06T02:42:42Z</updated>
+  <updated>2026-10-06T09:38:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Keenfinity:744000153689374</id>
+    <title>Keenfinity: Software Engineering Intern – Device Simulation &amp; Digital Twin</title>
+    <link href="https://jobs.smartrecruiters.com/Keenfinity/744000153689374"/>
+    <updated>2026-10-06T09:38:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Eindhoven, NB, International (NL) (Hybrid) · C++, C#, .NET, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645</id>
+    <title>NVIDIA: Software Engineer, Data Center Compute Software Tools (RDSS Intern)</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645"/>
+    <updated>2026-10-06T09:38:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Taiwan, Taipei · Python, C++, Bash, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256579007</id>
+    <title>Tenstorrent: AI SW Intern, Infrastructure &amp; Data Centre Deployment</title>
+    <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007"/>
+    <updated>2026-10-06T09:38:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toronto, Ontario, Canada · Python, Bash, Kubernetes, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:momentenergy:4434575009</id>
     <title>Moment Energy: Firmware Engineering Co-op</title>
@@ -214,14 +238,6 @@
     <updated>2026-10-06T02:28:27Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Taipei, Taiwan · Python, Java, JavaScript · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193</id>
-    <title>Altera Corporation: Software Engineer - Intern</title>
-    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193"/>
-    <updated>2026-10-02T18:20:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++, Verilog</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aptiv:/job/Krakow-Poland/Intern-Interior-Sensing-AI-ML_J000704695</id>
@@ -509,7 +525,7 @@
     <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252"/>
     <updated>2026-10-02T00:21:38Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++ · status: closed</summary>
+    <summary>2 openings · Not stated · Software · Toronto, Ontario, Canada · Python, C++ · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-24T18:50:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Schaffhausen, Switzerland · Python, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cc:/job/Geneve/Cyber-Security-Intern_JOBREQ00117316</id>
-    <title>Chanel: Cyber Security Intern</title>
-    <link href="https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Geneve/Cyber-Security-Intern_JOBREQ00117316"/>
-    <updated>2026-09-24T18:50:50Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Security · Geneve · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hrhub:/job/Paris/Commodities-Data-Analyst-Intern_R28885-1</id>
-    <title>Euronext: Commodities Data Analyst Intern</title>
-    <link href="https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Commodities-Data-Analyst-Intern_R28885-1"/>
-    <updated>2026-09-24T14:43:11Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Paris · Python, SQL, Pandas · status: closed</summary>
   </entry>
 </feed>

@@ -173,7 +173,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 14,
+     "count": 15,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -188,7 +188,8 @@
       "amazon:amazon:10554717",
       "amazon:amazon:10555855",
       "amazon:amazon:10555867",
-      "amazon:amazon:10555873"
+      "amazon:amazon:10555873",
+      "amazon:amazon:10571575"
      ]
     }
    }
@@ -293,9 +294,10 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-10",
-     "count": 1,
+     "count": 2,
      "role_ids": [
-      "greenhouse:andurilindustries:5148079007"
+      "greenhouse:andurilindustries:5148079007",
+      "greenhouse:andurilindustries:5255902007"
      ]
     }
    }
@@ -3706,5 +3708,5 @@
    }
   }
  },
- "updated_at": "2026-10-07T07:26:19Z"
+ "updated_at": "2026-10-07T15:01:19Z"
 }

@@ -302,6 +302,18 @@
     }
    }
   },
+  "ankura consulting group": {
+   "name": "Ankura Consulting Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-07",
+     "role_ids": [
+      "workday:ankura:/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080"
+     ],
+     "count": 1
+    }
+   }
+  },
   "anthelion capital": {
    "name": "Anthelion Capital",
    "cycles": {
@@ -2897,6 +2909,18 @@
     }
    }
   },
+  "sailpoint": {
+   "name": "SailPoint",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-07",
+     "role_ids": [
+      "workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164"
+     ],
+     "count": 1
+    }
+   }
+  },
   "salesforce": {
    "name": "Salesforce",
    "cycles": {
@@ -3708,5 +3732,5 @@
    }
   }
  },
- "updated_at": "2026-10-07T15:01:19Z"
+ "updated_at": "2026-10-07T20:50:04Z"
 }

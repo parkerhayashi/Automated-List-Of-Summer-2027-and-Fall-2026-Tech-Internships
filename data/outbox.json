@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:ankura:/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080",
+      "smartrecruiters:BoschGroup:744000154135589",
+      "workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
+      "workday:flir:/job/Canada---Montreal-QC-TDY/Intern---3D-Validation-Station-Software-Designer_REQ36804"
+    ],
+    "telegram": [
+      "workday:ankura:/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080",
+      "smartrecruiters:BoschGroup:744000154135589",
+      "workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
+      "workday:flir:/job/Canada---Montreal-QC-TDY/Intern---3D-Validation-Station-Software-Designer_REQ36804"
+    ]
   }
 }

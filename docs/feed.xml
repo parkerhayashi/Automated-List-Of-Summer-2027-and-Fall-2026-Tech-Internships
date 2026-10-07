@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-07T15:01:19Z</updated>
+  <updated>2026-10-07T20:50:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ankura:/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080</id>
+    <title>Ankura Consulting Group: Summer Internship 2027 Digital AI Advisory (Graduate programme conversion 2028)</title>
+    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080"/>
+    <updated>2026-10-07T20:50:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · UK London · Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154135589</id>
+    <title>Bosch: Product Management Internship (1 Year)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154135589"/>
+    <updated>2026-10-07T20:50:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · Breda, NB, International (NL) (Hybrid)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164</id>
+    <title>SailPoint: Software Engineer Intern - Platform Engines 🛂</title>
+    <link href="https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164"/>
+    <updated>2026-10-07T20:50:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Remote (United Kingdom) · Go, TypeScript, SQL, Angular, AWS · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:flir:/job/Canada---Montreal-QC-TDY/Intern---3D-Validation-Station-Software-Designer_REQ36804</id>
+    <title>Teledyne: Stagiaire en conception de logiciels pour stations de validation 3D /Intern - 3D Validation Station Software Designer</title>
+    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Intern---3D-Validation-Station-Software-Designer_REQ36804"/>
+    <updated>2026-10-07T20:50:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada - Montreal, QC (TDY) · Python, C++, C#, Ruby, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10571575</id>
     <title>Amazon: Data Center Infrastructure Engineer Internship 2027</title>
@@ -16,20 +48,36 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Dublin, International · AWS</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:abb:/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311</id>
-    <title>ABB: Internship - Full Stack Software Developer</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311"/>
-    <updated>2026-10-07T15:01:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Genova, Genova, Italy · C#, TypeScript, JavaScript, LLMs, React</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:andurilindustries:5255902007</id>
     <title>Anduril: 2027 Software Engineer Intern</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007"/>
     <updated>2026-10-07T15:01:19Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · London, England, United Kingdom · Python, Java, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:shifttechnology:8014397003</id>
+    <title>Shift: Data &amp; AI Engineer Intern (6 months)</title>
+    <link href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014397003"/>
+    <updated>2026-10-07T15:01:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · France - Paris · Python, Java, C++, C#, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:shifttechnology:8014470003</id>
+    <title>Shift: Full stack Engineer Intern (6 months)</title>
+    <link href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014470003"/>
+    <updated>2026-10-07T15:01:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · France - Paris · Java, C#, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311</id>
+    <title>ABB: Internship - Full Stack Software Developer</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311"/>
+    <updated>2026-10-07T15:01:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Genova, Genova, Italy · C#, TypeScript, JavaScript, LLMs, React</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884</id>
@@ -49,27 +97,11 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:morningstar:/job/Madrid/Data-Analyst-Intern_REQ-058468</id>
-    <title>Morningstar: Data Analyst Intern</title>
+    <title>Morningstar: Data Analyst Intern (Italian Speaker)</title>
     <link href="https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Madrid/Data-Analyst-Intern_REQ-058468"/>
     <updated>2026-10-07T15:01:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Madrid</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:shifttechnology:8014397003</id>
-    <title>Shift: Data &amp; AI Engineer Intern (6 months)</title>
-    <link href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014397003"/>
-    <updated>2026-10-07T15:01:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · France - Paris · Python, Java, C++, C#, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:shifttechnology:8014470003</id>
-    <title>Shift: Full stack Engineer Intern (6 months)</title>
-    <link href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014470003"/>
-    <updated>2026-10-07T15:01:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · France - Paris · Java, C#, React</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256666007</id>
@@ -185,7 +217,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gresearch:/job/London-UK/Machine-Learning-Engineer-Intern_R3773</id>
-    <title>G-Research: Machine Learning Engineer Intern</title>
+    <title>G-Research: Machine Learning Engineer Internship</title>
     <link href="https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773"/>
     <updated>2026-10-06T16:27:31Z</updated>
     <category term="Not stated"/>
@@ -774,37 +806,5 @@
     <updated>2026-10-05T16:13:23Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · VC · Toronto, ON, CAN · Python · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:foresters:/job/Toronto/Software-Engineer-Co-op-Student--4-months-contract-_R-2329</id>
-    <title>Foresters Financial: Software Engineer Co-op Student (4-months contract)</title>
-    <link href="https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto/Software-Engineer-Co-op-Student--4-months-contract-_R-2329"/>
-    <updated>2026-09-29T17:19:37Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto · $21–$30/hr · Python, Java, PyTorch, TensorFlow, scikit-learn</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298</id>
-    <title>NVIDIA: AI Computing Software Development Intern - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298"/>
-    <updated>2026-09-29T11:52:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Taiwan, Taipei · Python, C++, PyTorch, LLMs, CUDA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Belfast-United-Kingdom/Software-Engineering-Co-Op_R572094</id>
-    <title>Stryker: Software Engineering Co-Op</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Belfast-United-Kingdom/Software-Engineering-Co-Op_R572094"/>
-    <updated>2026-09-29T11:52:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Belfast, United Kingdom · Java, C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:celonis:7989895003</id>
-    <title>Celonis: Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team)</title>
-    <link href="https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003"/>
-    <updated>2026-09-28T19:55:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Madrid, Spain · Python, LLMs</summary>
   </entry>
 </feed>

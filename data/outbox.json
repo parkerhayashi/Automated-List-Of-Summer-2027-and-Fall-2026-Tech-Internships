@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:10571575",
-      "workday:abb:/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311",
-      "greenhouse:andurilindustries:5255902007",
-      "workday:intel:/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884",
-      "workday:intel:/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886",
-      "workday:morningstar:/job/Madrid/Data-Analyst-Intern_REQ-058468",
-      "greenhouse:shifttechnology:8014397003",
-      "greenhouse:shifttechnology:8014470003"
-    ],
-    "telegram": [
-      "amazon:amazon:10571575",
-      "workday:abb:/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311",
-      "greenhouse:andurilindustries:5255902007",
-      "workday:intel:/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884",
-      "workday:intel:/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886",
-      "workday:morningstar:/job/Madrid/Data-Analyst-Intern_REQ-058468",
-      "greenhouse:shifttechnology:8014397003",
-      "greenhouse:shifttechnology:8014470003"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

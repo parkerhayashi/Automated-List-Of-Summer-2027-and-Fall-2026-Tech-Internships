@@ -673,9 +673,10 @@
       "smartrecruiters:BoschGroup:744000146546699",
       "smartrecruiters:BoschGroup:744000146546849",
       "smartrecruiters:BoschGroup:744000146547599",
-      "smartrecruiters:BoschGroup:744000154385425"
+      "smartrecruiters:BoschGroup:744000154385425",
+      "smartrecruiters:BoschGroup:744000154478885"
      ],
-     "count": 4
+     "count": 5
     },
     "Winter 2027": {
      "first_posted": "2026-08-31",
@@ -3747,5 +3748,5 @@
    }
   }
  },
- "updated_at": "2026-10-08T14:18:33Z"
+ "updated_at": "2026-10-08T20:05:57Z"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-08T06:52:44Z",
- "data_as_of": "2026-10-08T06:52:44Z",
- "rendered_at": "2026-10-08T06:52:44Z",
+ "generated_at": "2026-10-08T14:18:33Z",
+ "data_as_of": "2026-10-08T14:18:33Z",
+ "rendered_at": "2026-10-08T14:18:33Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -478,6 +478,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-28"
+   }
+  },
+  {
+   "company": "Bosch",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -38,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154385425",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
    }
   },
   {
@@ -1157,6 +1176,25 @@
    "days_until": -1,
    "status": "open",
    "url": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-07"
+   }
+  },
+  {
+   "company": "Tenstorrent",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -5060,25 +5098,6 @@
    }
   },
   {
-   "company": "Bosch",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -38,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-31"
-   }
-  },
-  {
    "company": "CACI",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -5801,5 +5820,5 @@
    }
   }
  ],
- "count": 305
+ "count": 306
 }

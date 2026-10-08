@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-07T20:50:04Z</updated>
+  <updated>2026-10-08T00:39:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ankura:/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080</id>
-    <title>Ankura Consulting Group: Summer Internship 2027 Digital AI Advisory (Graduate programme conversion 2028)</title>
-    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080"/>
-    <updated>2026-10-07T20:50:04Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · UK London · Git</summary>
+    <id>urn:intern-engine:workable:semios:4B5D1FB613</id>
+    <title>The Semios Group: Software Developer Co-op</title>
+    <link href="https://apply.workable.com/semios/j/4B5D1FB613/"/>
+    <updated>2026-10-08T00:39:44Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Vancouver, British Columbia, Canada (Hybrid) · $20–$24/hr · TypeScript, SQL, React, Node.js, GraphQL · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:borgwarner:/job/Viana-do-Castelo-II---Portugal/NVH-Testing-Engineering-Intern_R2026-3130</id>
+    <title>BorgWarner: Software Integration Intern (M/F/D)</title>
+    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-II---Portugal/NVH-Testing-Engineering-Intern_R2026-3130"/>
+    <updated>2026-10-08T00:39:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Viana do Castelo II - Portugal · Python, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Vancouver-Canada/Software-Developer--Embedded-Appliances-Co-Op_R69581</id>
+    <title>Motorola: Software Developer, Embedded Appliances Co-Op</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--Embedded-Appliances-Co-Op_R69581"/>
+    <updated>2026-10-08T00:39:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Vancouver, Canada · Python, C++, Go, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154135589</id>
@@ -24,12 +40,12 @@
     <summary>Not stated · PM · Breda, NB, International (NL) (Hybrid)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164</id>
-    <title>SailPoint: Software Engineer Intern - Platform Engines 🛂</title>
-    <link href="https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164"/>
+    <id>urn:intern-engine:workday:ankura:/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080</id>
+    <title>Ankura Consulting Group: Summer Internship 2027 Digital AI Advisory (Graduate programme conversion 2028)</title>
+    <link href="https://ankura.wd5.myworkdayjobs.com/ankura/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080"/>
     <updated>2026-10-07T20:50:04Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Remote (United Kingdom) · Go, TypeScript, SQL, Angular, AWS · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · UK London · Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:flir:/job/Canada---Montreal-QC-TDY/Intern---3D-Validation-Station-Software-Designer_REQ36804</id>
@@ -38,6 +54,14 @@
     <updated>2026-10-07T20:50:04Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada - Montreal, QC (TDY) · Python, C++, C#, Ruby, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164</id>
+    <title>SailPoint: Software Engineer Intern - Platform Engines 🛂</title>
+    <link href="https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164"/>
+    <updated>2026-10-07T20:50:04Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Remote (United Kingdom) · Go, TypeScript, SQL, Angular, AWS · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10571575</id>
@@ -467,9 +491,9 @@
     <id>urn:intern-engine:ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e</id>
     <title>Solink: Software Engineer Co-op, Agents</title>
     <link href="https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e"/>
-    <updated>2026-10-02T22:21:11Z</updated>
+    <updated>2026-10-08T00:39:44Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Canada · CA$55K – CA$68K · TypeScript, React, Node.js, AWS, GCP</summary>
+    <summary>Not stated · Software · Canada · CA$55K – CA$68K · TypeScript, React, Node.js, AWS, GCP · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workable:mila-2:1E81635604</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-29T21:41:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Markham, ON, Canada (Hybrid) · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252</id>
-    <title>Altera Corporation: Software Engineer -  Intern</title>
-    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252"/>
-    <updated>2026-10-02T00:21:38Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Toronto, Ontario, Canada · Python, C++ · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415</id>
-    <title>Alexion: Co-Op, Development Operations AI &amp; Automation Enablement Intern</title>
-    <link href="https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga · Python, C#, JavaScript, SQL, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260027807</id>
-    <title>BMO: Investment Intern - GAM, Summer 2027 (Co-op/Internship) - 4 months</title>
-    <link href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260027807"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · VC · Toronto, ON, CAN · Python · status: closed</summary>
   </entry>
 </feed>

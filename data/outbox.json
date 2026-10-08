@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:borgwarner:/job/Viana-do-Castelo-II---Portugal/NVH-Testing-Engineering-Intern_R2026-3130",
-      "workday:motorolasolutions:/job/Vancouver-Canada/Software-Developer--Embedded-Appliances-Co-Op_R69581"
-    ],
-    "telegram": [
-      "workday:borgwarner:/job/Viana-do-Castelo-II---Portugal/NVH-Testing-Engineering-Intern_R2026-3130",
-      "workday:motorolasolutions:/job/Vancouver-Canada/Software-Developer--Embedded-Appliances-Co-Op_R69581"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

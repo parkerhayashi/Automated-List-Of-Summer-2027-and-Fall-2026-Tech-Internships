@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:intel:/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923",
-      "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875"
-    ],
-    "telegram": [
-      "workday:intel:/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923",
-      "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-09T06:56:16Z</updated>
+  <updated>2026-10-09T14:37:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:eedu.fa.em3.oraclecloud.com:202605435</id>
+    <title>WTW: 2027 Software Developer Internship – Reigate</title>
+    <link href="https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435"/>
+    <updated>2026-10-09T14:37:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Reigate, Surrey, United Kingdom · Python, Java, C++, C#, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:mongodb:8258279</id>
+    <title>MongoDB: 2027 - Software Engineer Intern, Dublin - 6 Month Internship</title>
+    <link href="https://www.mongodb.com/careers/job/?gh_jid=8258279"/>
+    <updated>2026-10-09T14:37:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Dublin · Python, Java, C++, JavaScript, Node.js · sponsorship: offers</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251</id>
+    <title>NVIDIA: CPU Compiler Intern - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"/>
+    <updated>2026-10-09T14:37:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · UK, Cambridge · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wfscorp:/job/SAN-JOSE-COSTA-RICA/AI-Finance-Internship-Program_R23062</id>
+    <title>World Kinect: AI Finance Internship Program</title>
+    <link href="https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/SAN-JOSE-COSTA-RICA/AI-Finance-Internship-Program_R23062"/>
+    <updated>2026-10-09T14:37:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · SAN JOSE, COSTA RICA · Python, SQL, Azure, Tableau</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:larian:76a2c124-2b6a-4dc3-a586-fe497dba8e7c</id>
     <title>Larian Studios: Engine Programming Internship</title>
@@ -233,19 +265,19 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256666007</id>
-    <title>Tenstorrent: Software Engineering Intern: Training, Models, Kernel/Ops (Summer 2027)</title>
+    <title>Tenstorrent: AI Software Intern - Training, Models, Kernel/Ops (Poland - Summer 2027)</title>
     <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007"/>
     <updated>2026-10-07T07:26:19Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland · Python, C++, PyTorch, TensorFlow, LLMs</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland · Python, C++, PyTorch, TensorFlow, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256680007</id>
-    <title>Tenstorrent: Software Engineering Intern: DC Deployment and Infrastructure (Summer 2027)</title>
+    <title>Tenstorrent: AI Software Intern - DC Deployment and Infrastructure (Poland - Summer 2027)</title>
     <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007"/>
     <updated>2026-10-07T07:26:19Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland · Python, Bash, Kubernetes, Linux</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland · Python, Bash, Kubernetes, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:PAConsulting:744000154016350</id>
@@ -401,7 +433,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256579007</id>
-    <title>Tenstorrent: AI SW Intern, Infrastructure &amp; Data Centre Deployment</title>
+    <title>Tenstorrent: AI Software Intern - Cloud, Infrastructure &amp; Data Centre Deployment (Canada)</title>
     <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007"/>
     <updated>2026-10-06T09:38:07Z</updated>
     <category term="Not stated"/>
@@ -774,37 +806,5 @@
     <updated>2026-10-01T20:46:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Toronto, ON, CAN · Python, PyTorch, TensorFlow, LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436</id>
-    <title>Autodesk: Software Development Internship (Summer 2027)</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Toronto, ON, CAN · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:homedepot:/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010</id>
-    <title>The Home Depot: Intern, AI Machine Learning Developer</title>
-    <link href="https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · CANADA STORE SUPPORT CENTER - 7000 · Python, Java, PyTorch, TensorFlow, AWS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:homedepot:/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012</id>
-    <title>The Home Depot: Intern, Full Stack Software Developer</title>
-    <link href="https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · CANADA STORE SUPPORT CENTER - 7000 · Java, TypeScript, SQL, Angular, HTML/CSS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stripe:8194287</id>
-    <title>Stripe: Data Analyst, Intern</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8194287"/>
-    <updated>2026-10-01T15:42:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto · SQL</summary>
   </entry>
 </feed>

@@ -2178,6 +2178,18 @@
     }
    }
   },
+  "mongodb": {
+   "name": "MongoDB",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-09",
+     "role_ids": [
+      "greenhouse:mongodb:8258279"
+     ],
+     "count": 1
+    }
+   }
+  },
   "montenson": {
    "name": "Montenson",
    "cycles": {
@@ -2435,9 +2447,10 @@
      "role_ids": [
       "workday:nvidia:/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
       "workday:nvidia:/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
-      "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628"
+      "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628",
+      "workday:nvidia:/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3705,9 +3718,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-18",
      "role_ids": [
+      "oracle:eedu.fa.em3.oraclecloud.com:202605435",
       "oracle:eedu.fa.em3.oraclecloud.com:202605997"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3749,5 +3763,5 @@
    }
   }
  },
- "updated_at": "2026-10-09T06:56:16Z"
+ "updated_at": "2026-10-09T14:37:14Z"
 }

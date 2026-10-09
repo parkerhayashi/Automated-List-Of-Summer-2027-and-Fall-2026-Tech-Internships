@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-09T14:37:14Z",
- "data_as_of": "2026-10-09T14:37:14Z",
- "rendered_at": "2026-10-09T14:37:15Z",
+ "generated_at": "2026-10-09T19:59:11Z",
+ "data_as_of": "2026-10-09T19:59:11Z",
+ "rendered_at": "2026-10-09T19:59:12Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -852,7 +852,7 @@
    "expected": "2026-09-18",
    "days_until": -21,
    "status": "open",
-   "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997",
+   "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435",
    "note": "",
    "provenance": {
     "type": "engine-observed",

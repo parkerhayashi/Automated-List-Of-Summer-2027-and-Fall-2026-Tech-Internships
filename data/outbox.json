@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:autodesk:/job/Krakw-POL/Intern--Software-Engineer_26WD101095",
+      "greenhouse:databricks:8145776002"
+    ],
+    "telegram": [
+      "workday:autodesk:/job/Krakw-POL/Intern--Software-Engineer_26WD101095",
+      "greenhouse:databricks:8145776002"
+    ]
   }
 }

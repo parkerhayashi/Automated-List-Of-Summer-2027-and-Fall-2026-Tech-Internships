@@ -1016,9 +1016,10 @@
      "first_posted": "2023-09-01",
      "role_ids": [
       "greenhouse:databricks:6866531002",
+      "greenhouse:databricks:8145776002",
       "greenhouse:databricks:8847738002"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3763,5 +3764,5 @@
    }
   }
  },
- "updated_at": "2026-10-09T14:37:14Z"
+ "updated_at": "2026-10-09T19:59:11Z"
 }

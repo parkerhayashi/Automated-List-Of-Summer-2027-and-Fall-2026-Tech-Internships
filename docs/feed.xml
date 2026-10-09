@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-08T20:05:57Z</updated>
+  <updated>2026-10-09T00:33:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923</id>
+    <title>Intel: Software Engineering Undergraduate Intern (f/m/d)</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923"/>
+    <updated>2026-10-09T00:33:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Germany, Munich · C++, CUDA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875</id>
+    <title>Manulife Financial: Summer Intern 2027 - Product Management &amp; Risk Technology</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875"/>
+    <updated>2026-10-09T00:33:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · Toronto, Ontario · HTML/CSS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154478885</id>
     <title>Bosch: Business Digitalisation &amp; AI Automation Intern</title>
@@ -203,9 +219,9 @@
     <id>urn:intern-engine:workday:morningstar:/job/Madrid/Data-Analyst-Intern_REQ-058468</id>
     <title>Morningstar: Data Analyst Intern (Italian Speaker)</title>
     <link href="https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Madrid/Data-Analyst-Intern_REQ-058468"/>
-    <updated>2026-10-07T15:01:19Z</updated>
+    <updated>2026-10-09T00:33:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Madrid</summary>
+    <summary>Not stated · Data &amp; ML/AI · Madrid · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256666007</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-01T15:42:50Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Data &amp; ML/AI · Canada · Python, SQL, LLMs, Git, Databricks · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000152931867</id>
-    <title>Bosch: Internship - Global Product Management REF297536H</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000152931867"/>
-    <updated>2026-10-01T15:42:50Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · PM · Solothurn/Zuchwil, International (CH) · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:airliquidehr:/job/Spain-MADRID/Data-Analyst-Internship--M-F-_R10101926</id>
-    <title>Air Liquide: Data Analyst Internship (M/F)</title>
-    <link href="https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Spain-MADRID/Data-Analyst-Internship--M-F-_R10101926"/>
-    <updated>2026-10-01T15:42:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Spain, MADRID</summary>
   </entry>
 </feed>

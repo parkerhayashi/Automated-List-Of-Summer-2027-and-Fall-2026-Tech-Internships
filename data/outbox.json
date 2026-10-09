@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:eedu.fa.em3.oraclecloud.com:202605435",
-      "greenhouse:mongodb:8258279",
-      "workday:nvidia:/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251",
-      "workday:wfscorp:/job/SAN-JOSE-COSTA-RICA/AI-Finance-Internship-Program_R23062"
-    ],
-    "telegram": [
-      "oracle:eedu.fa.em3.oraclecloud.com:202605435",
-      "greenhouse:mongodb:8258279",
-      "workday:nvidia:/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251",
-      "workday:wfscorp:/job/SAN-JOSE-COSTA-RICA/AI-Finance-Internship-Program_R23062"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

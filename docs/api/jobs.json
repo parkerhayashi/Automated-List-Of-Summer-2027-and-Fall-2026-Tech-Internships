@@ -1,11 +1,37 @@
 {
- "generated_at": "2026-10-09T00:33:48Z",
- "data_as_of": "2026-10-09T00:33:48Z",
- "rendered_at": "2026-10-09T00:33:49Z",
+ "generated_at": "2026-10-09T06:56:16Z",
+ "data_as_of": "2026-10-09T06:56:16Z",
+ "rendered_at": "2026-10-09T06:56:17Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 327,
+ "count": 328,
  "jobs": [
+  {
+   "id": "smartrecruiters:Solidigm:744000154595052",
+   "company": "Solidigm",
+   "title": "Undergrad Engineering Internship in Firmware Team",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "Gdańsk, International (PL)",
+   "url": "https://jobs.smartrecruiters.com/Solidigm/744000154595052",
+   "posted_at": "2026-10-09T06:38:25.696Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-09T06:56:16Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "Linux",
+    "Git"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 60,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:intel:/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923",
    "company": "Intel",
@@ -175,29 +201,6 @@
    "source": "smartrecruiters",
    "h1b_approvals": 188,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:bmo:/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260028549",
-   "company": "BMO",
-   "title": "Investment Intern - GAM, Summer 2027 (Co-op/Internship) - 4 months",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "VC",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260028549",
-   "posted_at": "2026-10-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-08T14:18:32Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship / Co-op",
    "remote": false
   },
   {
@@ -1886,7 +1889,7 @@
    "season_inferred": true,
    "category": "Data & ML/AI",
    "location": "Toronto, ON, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061",
    "posted_at": "2026-10-01T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-10-01T20:46:12Z",
@@ -1916,7 +1919,7 @@
    "season_inferred": false,
    "category": "Software",
    "location": "Toronto, ON, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436",
    "posted_at": "2026-10-01T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-10-01T20:46:12Z",
@@ -4108,7 +4111,7 @@
    "season_inferred": true,
    "category": "PM",
    "location": "Montreal, QC, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1",
    "posted_at": "2026-09-19T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-09-20T00:39:11Z",
@@ -6802,6 +6805,29 @@
     "Git"
    ],
    "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "lever:larian:76a2c124-2b6a-4dc3-a586-fe497dba8e7c",
+   "company": "Larian Studios",
+   "title": "Engine Programming Internship",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Barcelona",
+   "url": "https://jobs.lever.co/larian/76a2c124-2b6a-4dc3-a586-fe497dba8e7c",
+   "posted_at": "2026-09-04T14:29:35Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-09T06:56:16Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C++"
+   ],
+   "source": "lever",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false

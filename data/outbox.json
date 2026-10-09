@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:larian:76a2c124-2b6a-4dc3-a586-fe497dba8e7c",
+      "smartrecruiters:Solidigm:744000154595052"
+    ],
+    "telegram": [
+      "lever:larian:76a2c124-2b6a-4dc3-a586-fe497dba8e7c",
+      "smartrecruiters:Solidigm:744000154595052"
+    ]
   }
 }

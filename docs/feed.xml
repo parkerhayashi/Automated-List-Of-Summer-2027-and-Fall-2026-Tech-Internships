@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-09T00:33:48Z</updated>
+  <updated>2026-10-09T06:56:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:larian:76a2c124-2b6a-4dc3-a586-fe497dba8e7c</id>
+    <title>Larian Studios: Engine Programming Internship</title>
+    <link href="https://jobs.lever.co/larian/76a2c124-2b6a-4dc3-a586-fe497dba8e7c"/>
+    <updated>2026-10-09T06:56:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Barcelona · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Solidigm:744000154595052</id>
+    <title>Solidigm: Undergrad Engineering Internship in Firmware Team</title>
+    <link href="https://jobs.smartrecruiters.com/Solidigm/744000154595052"/>
+    <updated>2026-10-09T06:56:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Gdańsk, International (PL) · Python, C++, Linux, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923</id>
     <title>Intel: Software Engineering Undergraduate Intern (f/m/d)</title>
@@ -62,14 +78,6 @@
     <updated>2026-10-08T14:18:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Warszawa, Województwo mazowieckie, International (PL) (Hybrid)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260028549</id>
-    <title>BMO: Investment Intern - GAM, Summer 2027 (Co-op/Internship) - 4 months</title>
-    <link href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260028549"/>
-    <updated>2026-10-08T14:18:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · VC · Toronto, ON, CAN · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:huntsman:/job/Switzerland---Basel/Intern---Data-Science_J-020004</id>
@@ -762,7 +770,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061</id>
     <title>Autodesk: Intern, AI/ML Platform (Winter)</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061"/>
     <updated>2026-10-01T20:46:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Toronto, ON, CAN · Python, PyTorch, TensorFlow, LLMs, AWS</summary>
@@ -770,7 +778,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436</id>
     <title>Autodesk: Software Development Internship (Summer 2027)</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436"/>
     <updated>2026-10-01T20:46:12Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Toronto, ON, CAN · Python, Java, C++, C#, TypeScript</summary>
@@ -798,13 +806,5 @@
     <updated>2026-10-01T15:42:50Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Toronto · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39487</id>
-    <title>Nokia: IT Network Software/AI Development - Co-op/Intern</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39487"/>
-    <updated>2026-10-01T15:42:50Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Canada · Python, SQL, LLMs, Git, Databricks · status: closed</summary>
   </entry>
 </feed>

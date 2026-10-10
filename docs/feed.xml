@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-09T19:59:11Z</updated>
+  <updated>2026-10-10T00:16:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Krakw-POL/Intern--Software-Engineer_26WD101095</id>
-    <title>Autodesk: Intern, Software Engineer</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Krakw-POL/Intern--Software-Engineer_26WD101095"/>
-    <updated>2026-10-09T19:59:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Kraków, POL · Python, C++, Go, Docker, Git</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:databricks:8145776002</id>
     <title>Databricks: Product Management Intern (2027) - Berlin</title>
@@ -22,6 +14,14 @@
     <updated>2026-10-09T19:59:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · PM · Berlin, Germany · Python, SQL, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Krakw-POL/Intern--Software-Engineer_26WD101095</id>
+    <title>Autodesk: Intern, Software Engineer</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Krakw-POL/Intern--Software-Engineer_26WD101095"/>
+    <updated>2026-10-09T19:59:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Kraków, POL · Python, C++, Go, Docker, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:mongodb:8258279</id>

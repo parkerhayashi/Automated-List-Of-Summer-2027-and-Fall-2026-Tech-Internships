@@ -3690,6 +3690,19 @@
     }
    }
   },
+  "workday": {
+   "name": "Workday",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-09",
+     "role_ids": [
+      "workday:workday:/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
+      "workday:workday:/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807"
+     ],
+     "count": 2
+    }
+   }
+  },
   "workiva": {
    "name": "Workiva",
    "cycles": {
@@ -3766,5 +3779,5 @@
    }
   }
  },
- "updated_at": "2026-10-10T12:37:34Z"
+ "updated_at": "2026-10-10T17:43:50Z"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-10T12:37:34Z",
- "data_as_of": "2026-10-10T12:37:34Z",
- "rendered_at": "2026-10-10T12:37:34Z",
+ "generated_at": "2026-10-10T17:43:50Z",
+ "data_as_of": "2026-10-10T17:43:50Z",
+ "rendered_at": "2026-10-10T17:43:51Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -3255,25 +3255,6 @@
    }
   },
   {
-   "company": "Workday",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -39,
-   "status": "waiting",
-   "url": "",
-   "note": "fall early-career opening",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://www.workday.com/en-us/company/careers.html",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Zoom",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -5817,6 +5798,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-28"
+   }
+  },
+  {
+   "company": "Workday",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-09",
+   "days_until": -1,
+   "status": "dropped",
+   "url": "",
+   "note": "fall early-career opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-09"
    }
   }
  ],

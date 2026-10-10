@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-10T00:16:36Z",
- "data_as_of": "2026-10-10T00:16:36Z",
- "rendered_at": "2026-10-10T00:16:37Z",
+ "generated_at": "2026-10-10T05:54:22Z",
+ "data_as_of": "2026-10-10T05:54:22Z",
+ "rendered_at": "2026-10-10T05:54:22Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -269,6 +269,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-03"
+   }
+  },
+  {
+   "company": "RTX",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-04",
+   "days_until": -67,
+   "status": "open",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918",
+   "note": "fall opening, many roles need clearance",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-04"
    }
   },
   {
@@ -4008,25 +4027,6 @@
    "status": "dropped",
    "url": "",
    "note": "trading cycle opens very early",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-04"
-   }
-  },
-  {
-   "company": "RTX",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-04",
-   "days_until": -67,
-   "status": "dropped",
-   "url": "",
-   "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",

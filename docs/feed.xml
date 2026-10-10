@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-10T00:16:36Z</updated>
+  <updated>2026-10-10T05:54:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467</id>
+    <title>RTX: Software Engineering Intern (Summer 2027)</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467"/>
+    <updated>2026-10-10T05:54:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>2 openings · Summer 2027 · Software · US-FL-MELBOURNE-312 ~ 795 W Nasa Blvd ~ BLDG 312 · Python, C++, MATLAB, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:databricks:8145776002</id>
     <title>Databricks: Product Management Intern (2027) - Berlin</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-01T20:46:12Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Zurich, CH · Python, Java, C++, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:8214757</id>
-    <title>Pinterest: Machine Learning Intern 2027 (Zurich)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8214757"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Zurich, CH · Python, Java, C++, PyTorch, TensorFlow</summary>
   </entry>
 </feed>

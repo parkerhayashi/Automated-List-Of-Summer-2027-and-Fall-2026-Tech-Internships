@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-11T13:43:46Z",
- "data_as_of": "2026-10-11T13:43:46Z",
- "rendered_at": "2026-10-11T13:43:46Z",
+ "generated_at": "2026-10-11T18:42:40Z",
+ "data_as_of": "2026-10-11T18:42:40Z",
+ "rendered_at": "2026-10-11T18:42:41Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -301,7 +301,7 @@
    "expected": "2026-08-05",
    "days_until": -67,
    "status": "open",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436",
    "note": "",
    "provenance": {
     "type": "engine-observed",

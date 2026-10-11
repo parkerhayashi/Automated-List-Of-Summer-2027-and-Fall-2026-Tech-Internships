@@ -8,7 +8,7 @@
 
 ### 332 open roles (265 listed below) · 74 new this week
 
-4,739 employers tracked · data as of Oct 11, 2026 at 06:37 UTC
+4,739 employers tracked · data as of Oct 11, 2026 at 13:43 UTC
 
 _145 have a cycle the employer stated · 187 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -274,7 +274,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 |---|---|---|---|---|---|---|
 | Autodesk | Intern, Software Engineer 🆕 | Software | Kraków, POL | Python, C++, Go, Docker | Oct 09, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Intern--Software-Engineer_26WD101095-1) |
 | World Kinect | AI Finance Internship Program 🆕 | Data & ML/AI | SAN JOSE, COSTA RICA | Python, SQL, Azure, Tableau | Oct 09, 2026 | [Apply](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/SAN-JOSE-COSTA-RICA/AI-Finance-Internship-Program_R23062) |
-| Solidigm | Undergrad Engineering Internship in Firmware Team 🆕 | Hardware | Gdańsk, International (PL) | Python, C++, Linux, Git | Oct 09, 2026 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000154595052) |
+| Solidigm | Undergrad Engineering Internship in Firmware Team | Hardware | Gdańsk, International (PL) | Python, C++, Linux, Git | Oct 09, 2026 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000154595052) |
 | Intel | Software Engineering Undergraduate Intern (f/m/d) | Software | Germany, Munich | C++, CUDA | Oct 08, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923) |
 | WPP Media | Intern, Data Science & Architecture | Data & ML/AI | Milan, Italy | Python, SQL, Tableau | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5447462008) |
 | Bosch | IT Intern - Cybersecurity & AI (f/m) | Data & ML/AI | Warszawa +2 more | No skills listed | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154435119) |
@@ -371,7 +371,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Arcadis | Summer Intern - Process Engineer APM | PM | Dublin +6 more | No skills listed | Sep 07, 2026 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43788) |
 | Arcadis | Summer Intern - Instrumentation Engineer APM | PM | Cork, Munster, Ireland | No skills listed | Sep 07, 2026 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43791) |
 | Kobo | Software Developer Intern (Dublin) | Software | Dublin, Ireland | Java, C#, JavaScript, SQL | Sep 07, 2026 | [Apply](https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Dublin-Ireland/Software-Developer-Intern--Dublin-_1037090-1) |
-| Larian Studios | Engine Programming Internship 🆕 | Software | Barcelona | C++ | Sep 04, 2026 | [Apply](https://jobs.lever.co/larian/76a2c124-2b6a-4dc3-a586-fe497dba8e7c) |
+| Larian Studios | Engine Programming Internship | Software | Barcelona | C++ | Sep 04, 2026 | [Apply](https://jobs.lever.co/larian/76a2c124-2b6a-4dc3-a586-fe497dba8e7c) |
 | Sereact | Product Manager Intern (m/f/d) | PM | Stuttgart Schockenriedstr. 17 | ROS | Sep 04, 2026 | [Apply](https://jobs.ashbyhq.com/sereact/7549093b-0918-4136-ac47-81063ded166d) |
 | Perplexity AI | Internship - Machine Learning Research Engineer | Data & ML/AI | Berlin | PyTorch | Sep 02, 2026 | [Apply](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) |
 | Thales | Software Engineering Intern | Software | Madrid | Java, C#, TypeScript, JavaScript | Sep 02, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Madrid/Software-Engineering-Intern_R0336381-1) |
@@ -466,7 +466,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,652 of 5,022 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1001.3s · 637 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,543 of 5,022 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 90% of the full registry) · completed in 1057.1s · 587 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

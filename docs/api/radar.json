@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-10-12T09:21:51Z",
- "data_as_of": "2026-10-12T09:21:51Z",
- "rendered_at": "2026-10-12T09:21:52Z",
+ "generated_at": "2026-10-12T19:14:07Z",
+ "data_as_of": "2026-10-12T19:14:07Z",
+ "rendered_at": "2026-10-12T19:14:07Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
   {
    "company": "Databricks",
    "last_cycle_posted": "",
-   "posted_on": "2023-09-01",
+   "posted_on": "2023-08-04",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2023-09-01",
-   "days_until": -1137,
+   "expected": "2023-08-04",
+   "days_until": -1165,
    "status": "open",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
    "note": "rolling from Aug",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
-    "observed_on": "2023-09-01"
+    "observed_on": "2023-08-04"
    }
   },
   {

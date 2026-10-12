@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-12T09:21:51Z</updated>
+  <updated>2026-10-12T19:14:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:zeissgroup:/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916</id>
-    <title>Zeiss: Internship in Computer Vision / Calibration Pipelines (f/m/x)</title>
-    <link href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916"/>
-    <updated>2026-10-12T09:21:51Z</updated>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154992819</id>
+    <title>Bosch: Undergraduate Placement Year 2027 - AI Business Solutions Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154992819"/>
+    <updated>2026-10-12T19:14:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Coventry, England, United Kingdom</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:databricks:6865687002</id>
+    <title>Databricks: Software Engineering Intern (2027)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"/>
+    <updated>2026-10-12T19:14:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada · Python, Java, C++, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nxp:/job/Munich/Intern--f-m-d--AI-Automation-for-Safety-Engineering_R-10066700</id>
+    <title>NXP Semiconductors: Intern (f/m/d) AI Automation for Safety Engineering</title>
+    <link href="https://nxp.wd3.myworkdayjobs.com/careers/job/Munich/Intern--f-m-d--AI-Automation-for-Safety-Engineering_R-10066700"/>
+    <updated>2026-10-12T19:14:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Karlsruhe · Computer Vision, Python, C++, PyTorch</summary>
+    <summary>Not stated · Data &amp; ML/AI · Munich · Python, Pandas, LLMs, Azure, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:abbott:/job/Switzerland---Basel/Intern-Data-Science---Future-Talent-Program_31164223</id>
@@ -30,6 +46,14 @@
     <updated>2026-10-12T09:21:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Taiwan, Taipei · C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zeissgroup:/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916</id>
+    <title>Zeiss: Internship in Computer Vision / Calibration Pipelines (f/m/x)</title>
+    <link href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916"/>
+    <updated>2026-10-12T09:21:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Karlsruhe · Computer Vision, Python, C++, PyTorch</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:workday:/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808</id>
@@ -352,6 +376,14 @@
     <summary>Not stated · Data &amp; ML/AI · Utrecht, International (NL)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:amazon:amazon:10554701</id>
+    <title>Amazon: 2027 Software Dev Engineer Intern - Germany</title>
+    <link href="https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany"/>
+    <updated>2026-10-06T21:32:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Berlin, International · Python, Java, C++, C#, Rust</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153820750</id>
     <title>Bosch: Extracurricular Internship: AI Implementation in Corporate Quality (f/m/div.)</title>
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153820750"/>
@@ -371,9 +403,9 @@
     <id>urn:intern-engine:amazon:amazon:10554717</id>
     <title>Amazon: 2027 Software Dev Engineer Intern - Germany</title>
     <link href="https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany"/>
-    <updated>2026-10-06T16:27:31Z</updated>
+    <updated>2026-10-12T18:56:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Software · Berlin, International · Python, Java, C++, C#, Rust</summary>
+    <summary>Summer 2027 · Software · Berlin, International · Python, Java, C++, C#, Rust · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:artefactlinkedin:8870459002</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-02T12:41:50Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Milan · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:roche:/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516</id>
-    <title>Roche: Data Science Intern / Master Thesis Student (Basel, 6 Monate)</title>
-    <link href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516"/>
-    <updated>2026-10-02T12:41:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Basel · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:roche:/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819</id>
-    <title>Roche: Internship – Agentic AI for Environmental Regulatory Compliance</title>
-    <link href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819"/>
-    <updated>2026-10-02T12:41:50Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Data &amp; ML/AI · Basel · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:exegy:1dfd3209-2714-4ccd-8fb9-779765151897</id>
-    <title>Exegy: Software Automation Developer Intern</title>
-    <link href="https://jobs.ashbyhq.com/exegy/1dfd3209-2714-4ccd-8fb9-779765151897"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Montreal · Python, C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:capstoneinvestmentadvisors:8828058002</id>
-    <title>Capstone Investment Advisors: Summer 2027 - Investment Internship LDN</title>
-    <link href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8828058002"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · London · Python, Java</summary>
   </entry>
 </feed>

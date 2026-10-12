@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "smartrecruiters:BoschGroup:744000154992819",
+      "greenhouse:databricks:6865687002",
+      "workday:nxp:/job/Munich/Intern--f-m-d--AI-Automation-for-Safety-Engineering_R-10066700",
+      "smartrecruiters:RedBull:744000155050519",
+      "smartrecruiters:Sia:744000155061916"
+    ],
+    "telegram": [
+      "smartrecruiters:BoschGroup:744000154992819",
+      "greenhouse:databricks:6865687002",
+      "workday:nxp:/job/Munich/Intern--f-m-d--AI-Automation-for-Safety-Engineering_R-10066700",
+      "smartrecruiters:RedBull:744000155050519",
+      "smartrecruiters:Sia:744000155061916"
+    ]
   }
 }

@@ -674,9 +674,10 @@
       "smartrecruiters:BoschGroup:744000146546849",
       "smartrecruiters:BoschGroup:744000146547599",
       "smartrecruiters:BoschGroup:744000154385425",
-      "smartrecruiters:BoschGroup:744000154478885"
+      "smartrecruiters:BoschGroup:744000154478885",
+      "smartrecruiters:BoschGroup:744000154992819"
      ],
-     "count": 5
+     "count": 6
     },
     "Winter 2027": {
      "first_posted": "2026-08-31",
@@ -1013,13 +1014,14 @@
    "name": "Databricks",
    "cycles": {
     "Summer 2027": {
-     "first_posted": "2023-09-01",
+     "first_posted": "2023-08-04",
      "role_ids": [
+      "greenhouse:databricks:6865687002",
       "greenhouse:databricks:6866531002",
       "greenhouse:databricks:8145776002",
       "greenhouse:databricks:8847738002"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3780,5 +3782,5 @@
    }
   }
  },
- "updated_at": "2026-10-12T09:21:51Z"
+ "updated_at": "2026-10-12T19:14:07Z"
 }

@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:zeissgroup:/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916",
+      "workday:abbott:/job/Switzerland---Basel/Intern-Data-Science---Future-Talent-Program_31164223",
+      "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406"
+    ],
+    "telegram": [
+      "workday:zeissgroup:/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916",
+      "workday:abbott:/job/Switzerland---Basel/Intern-Data-Science---Future-Talent-Program_31164223",
+      "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406"
+    ]
   }
 }

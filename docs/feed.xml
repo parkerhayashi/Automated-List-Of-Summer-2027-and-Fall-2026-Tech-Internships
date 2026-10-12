@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-12T01:59:21Z</updated>
+  <updated>2026-10-12T09:21:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:zeissgroup:/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916</id>
+    <title>Zeiss: Internship in Computer Vision / Calibration Pipelines (f/m/x)</title>
+    <link href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916"/>
+    <updated>2026-10-12T09:21:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Karlsruhe · Computer Vision, Python, C++, PyTorch</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abbott:/job/Switzerland---Basel/Intern-Data-Science---Future-Talent-Program_31164223</id>
+    <title>Abbott: Intern Data Science - Future Talent Program</title>
+    <link href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Intern-Data-Science---Future-Talent-Program_31164223"/>
+    <updated>2026-10-12T09:21:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Switzerland - Basel · Python, Java, C++, LLMs, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406</id>
+    <title>NVIDIA: System Software Engineering Intern, GPU and SOC - Summer 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406"/>
+    <updated>2026-10-12T09:21:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Taiwan, Taipei · C++, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:workday:/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808</id>
     <title>Workday: Product Manager Intern 🛂</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-01T20:46:12Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Other · London · Python, Java</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:capstoneinvestmentadvisors:8859054002</id>
-    <title>Capstone Investment Advisors: Summer 2027 - Quant Internship</title>
-    <link href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · London</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:8138034</id>
-    <title>Pinterest: Software Engineering Intern 2027 (Dublin)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138034"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Dublin, IE · Python, Java, C++, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:8138039</id>
-    <title>Pinterest: Software Engineering Intern 2027 (Toronto)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138039"/>
-    <updated>2026-10-01T20:46:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Toronto, ON, CA · Python, Java, C++, TypeScript, JavaScript</summary>
   </entry>
 </feed>

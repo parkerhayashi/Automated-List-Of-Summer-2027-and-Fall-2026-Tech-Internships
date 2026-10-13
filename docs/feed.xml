@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-12T19:14:07Z</updated>
+  <updated>2026-10-13T01:33:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154992819</id>
-    <title>Bosch: Undergraduate Placement Year 2027 - AI Business Solutions Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154992819"/>
-    <updated>2026-10-12T19:14:06Z</updated>
+    <id>urn:intern-engine:workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383</id>
+    <title>Aptiv: Cloud Engineering Intern</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383"/>
+    <updated>2026-10-13T01:33:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · CAN Kanata (2), ON - WR · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376</id>
+    <title>Aptiv: Cloud Engineer Intern</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376"/>
+    <updated>2026-10-13T01:33:38Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · CAN Kanata (2), ON - WR · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375</id>
+    <title>Aptiv: Cloud Software Engineer Intern</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375"/>
+    <updated>2026-10-13T01:33:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · CAN Kanata (2), ON - WR · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waymo:8268204</id>
+    <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Commercialization</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8268204"/>
+    <updated>2026-10-13T01:33:38Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Coventry, England, United Kingdom</summary>
+    <summary>Summer 2027 · Software · Warsaw, Poland · C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:databricks:6865687002</id>
@@ -22,6 +46,14 @@
     <updated>2026-10-12T19:14:06Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada · Python, Java, C++, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154992819</id>
+    <title>Bosch: Undergraduate Placement Year 2027 - AI Business Solutions Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154992819"/>
+    <updated>2026-10-12T19:14:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Coventry, England, United Kingdom</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nxp:/job/Munich/Intern--f-m-d--AI-Automation-for-Safety-Engineering_R-10066700</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-02T18:20:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Belfast - Millennium House · Python, SQL, LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959</id>
-    <title>Marvell: Firmware Engineer Intern - BS/MS - 2027 Co-Op</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959"/>
-    <updated>2026-10-02T18:20:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Toronto, Canada · Python, C++, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PAConsulting:744000153140420</id>
-    <title>PA Consulting: AI to accelerate realisation of the intelligent enterprise - internship</title>
-    <link href="https://jobs.smartrecruiters.com/PAConsulting/744000153140420"/>
-    <updated>2026-10-07T15:01:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Utrecht, International (NL) · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:TTP1:744000153148930</id>
-    <title>TTP: Summer Internship - Cyber / AI Consultant - 2027</title>
-    <link href="https://jobs.smartrecruiters.com/TTP1/744000153148930"/>
-    <updated>2026-10-02T12:41:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Melbourn, England, United Kingdom</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pwc:/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD</id>
-    <title>PricewaterhouseCoopers (PwC): Software Engineer Intern - Milano [DIG]</title>
-    <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD"/>
-    <updated>2026-10-02T12:41:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Milan · Python, Java, C++, C#, TypeScript</summary>
   </entry>
 </feed>

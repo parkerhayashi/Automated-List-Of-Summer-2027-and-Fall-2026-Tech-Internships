@@ -3660,9 +3660,10 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "greenhouse:waymo:8174099",
-      "greenhouse:waymo:8214729"
+      "greenhouse:waymo:8214729",
+      "greenhouse:waymo:8268204"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3782,5 +3783,5 @@
    }
   }
  },
- "updated_at": "2026-10-12T19:14:07Z"
+ "updated_at": "2026-10-13T01:33:38Z"
 }

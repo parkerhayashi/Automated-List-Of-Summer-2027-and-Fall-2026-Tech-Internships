@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
+      "workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380",
+      "workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376",
+      "workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
+      "greenhouse:waymo:8268204"
+    ],
+    "telegram": [
+      "workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
+      "workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380",
+      "workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376",
+      "workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
+      "greenhouse:waymo:8268204"
+    ]
   }
 }

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-13T16:42:49Z</updated>
+  <updated>2026-10-13T21:48:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:jainglobal:/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2</id>
+    <title>Jain Global: Quant Research Intern (Summer 2027 – London)</title>
+    <link href="https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2"/>
+    <updated>2026-10-13T21:48:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · London, United Kingdom · Python</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40494</id>
     <title>Nokia: Internship Software Engineer</title>
@@ -14,6 +22,14 @@
     <updated>2026-10-13T16:42:49Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Slovakia · Python, C++, Kubernetes, Docker, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000155271954</id>
+    <title>NBCUniversal: Media Product Management Intern</title>
+    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000155271954"/>
+    <updated>2026-10-13T16:42:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aptiv:/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1</id>
@@ -46,14 +62,6 @@
     <updated>2026-10-13T16:42:49Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Software · Poland, Gdansk · Python, C++, CUDA, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000155271954</id>
-    <title>NBCUniversal: Media Product Management Intern</title>
-    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000155271954"/>
-    <updated>2026-10-13T16:42:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:waymo:8268204</id>
@@ -278,6 +286,14 @@
     <updated>2026-10-08T14:18:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Warszawa, Województwo mazowieckie, International (PL) (Hybrid)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260028549</id>
+    <title>BMO: Investment Intern - GAM, Summer 2027 (Co-op/Internship) - 4 months</title>
+    <link href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260028549"/>
+    <updated>2026-10-09T06:56:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · VC · Toronto, ON, CAN · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:huntsman:/job/Switzerland---Basel/Intern---Data-Science_J-020004</id>
@@ -720,14 +736,6 @@
     <summary>Not stated · Software · Stuttgart, BW, Germany (Hybrid) · Python, C++, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153464839</id>
-    <title>NBCUniversal: Media Product Intern</title>
-    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153464839"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153466369</id>
     <title>NBCUniversal: Product Intern (Hayu)</title>
     <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153466369"/>
@@ -797,14 +805,6 @@
     <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389"/>
     <updated>2026-10-05T22:47:59Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid) · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e</id>
-    <title>Solink: Software Engineer Co-op, Agents</title>
-    <link href="https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e"/>
-    <updated>2026-10-08T00:39:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada · CA$55K – CA$68K · TypeScript, React, Node.js, AWS, GCP · status: closed</summary>
+    <summary>2 openings · Summer 2027 · PM · London, , United Kingdom (Hybrid) · status: closed</summary>
   </entry>
 </feed>

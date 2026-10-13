@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-13T16:42:49Z",
- "data_as_of": "2026-10-13T16:42:49Z",
- "rendered_at": "2026-10-13T16:42:50Z",
+ "generated_at": "2026-10-13T21:48:10Z",
+ "data_as_of": "2026-10-13T21:48:10Z",
+ "rendered_at": "2026-10-13T21:48:11Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1080,7 +1080,7 @@
    "expected": "2026-10-04",
    "days_until": -9,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153464839",
+   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153466369",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1238,6 +1238,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-09"
+   }
+  },
+  {
+   "company": "Jain Global",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-13",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-13"
    }
   },
   {
@@ -5820,5 +5839,5 @@
    }
   }
  ],
- "count": 306
+ "count": 307
 }

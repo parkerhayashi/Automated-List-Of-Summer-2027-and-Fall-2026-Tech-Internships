@@ -1833,6 +1833,18 @@
     }
    }
   },
+  "jain global": {
+   "name": "Jain Global",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-13",
+     "role_ids": [
+      "workday:jainglobal:/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2"
+     ],
+     "count": 1
+    }
+   }
+  },
   "johnson johnson": {
    "name": "Johnson & Johnson",
    "cycles": {
@@ -3784,5 +3796,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T16:42:49Z"
+ "updated_at": "2026-10-13T21:48:10Z"
 }

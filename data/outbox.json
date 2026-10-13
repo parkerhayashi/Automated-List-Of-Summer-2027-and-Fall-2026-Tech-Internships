@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40494",
+      "workday:aptiv:/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
+      "smartrecruiters:BoschGroup:744000155271339",
+      "workday:fmr:/job/Dublin-Ireland/Cybersecurity-Internship_2136904",
+      "workday:hpe:/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210981",
+      "workday:intel:/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894",
+      "workday:intel:/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893",
+      "smartrecruiters:NBCUniversal3:744000155271954",
+      "smartrecruiters:Sia:744000155313424"
+    ],
+    "telegram": [
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40494",
+      "workday:aptiv:/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
+      "smartrecruiters:BoschGroup:744000155271339",
+      "workday:fmr:/job/Dublin-Ireland/Cybersecurity-Internship_2136904",
+      "workday:hpe:/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210981",
+      "workday:intel:/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894",
+      "workday:intel:/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893",
+      "smartrecruiters:NBCUniversal3:744000155271954",
+      "smartrecruiters:Sia:744000155313424"
+    ]
   }
 }

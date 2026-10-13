@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-13T08:41:35Z</updated>
+  <updated>2026-10-13T16:42:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40494</id>
+    <title>Nokia: Internship Software Engineer</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40494"/>
+    <updated>2026-10-13T16:42:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Slovakia · Python, C++, Kubernetes, Docker, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1</id>
+    <title>Aptiv: Software Engineering Intern</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1"/>
+    <updated>2026-10-13T16:42:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · CAN Kanata (2), ON - WR · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:fmr:/job/Dublin-Ireland/Cybersecurity-Internship_2136904</id>
+    <title>Fidelity Investments: Cybersecurity Internship</title>
+    <link href="https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Cybersecurity-Internship_2136904"/>
+    <updated>2026-10-13T16:42:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Dublin, Ireland</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210981</id>
+    <title>Hewlett Packard Enterprise: Software Engineering(Systems) Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210981"/>
+    <updated>2026-10-13T16:42:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Heredia, Heredia, Costa Rica · Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893</id>
+    <title>Intel: GPU Software Engineering Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893"/>
+    <updated>2026-10-13T16:42:49Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Poland, Gdansk · Python, C++, CUDA, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000155271954</id>
+    <title>NBCUniversal: Media Product Management Intern</title>
+    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000155271954"/>
+    <updated>2026-10-13T16:42:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:waymo:8268204</id>
     <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Commercialization</title>
@@ -147,9 +195,9 @@
     <id>urn:intern-engine:workday:nvidia:/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251</id>
     <title>NVIDIA: CPU Compiler Intern - 2027</title>
     <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"/>
-    <updated>2026-10-09T14:37:14Z</updated>
+    <updated>2026-10-13T16:22:28Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · UK, Cambridge · C++</summary>
+    <summary>Summer 2027 · Software · UK, Cambridge · C++ · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:wfscorp:/job/SAN-JOSE-COSTA-RICA/AI-Finance-Internship-Program_R23062</id>
@@ -758,53 +806,5 @@
     <updated>2026-10-08T00:39:44Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada · CA$55K – CA$68K · TypeScript, React, Node.js, AWS, GCP · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:mila-2:1E81635604</id>
-    <title>Montreal Institute for Learning Algorithms: Stagiaire de recherche - Sécurité de l'IA / Research Intern - AI Safety</title>
-    <link href="https://apply.workable.com/mila-2/j/1E81635604/"/>
-    <updated>2026-10-02T22:21:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Montreal, Quebec, Canada (Hybrid) · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:databricks:6866531002</id>
-    <title>Databricks: Software Engineering Intern (2027 Start) - Berlin</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002"/>
-    <updated>2026-10-02T18:20:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Berlin, Germany · Python, Java, C++, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:databricks:8847738002</id>
-    <title>Databricks: Software Engineering Intern (2027 Start) - London</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"/>
-    <updated>2026-10-02T18:20:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, United Kingdom · Python, Java, C++, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:shopback-2:345e1f49-ca8c-432f-b402-a91452f78116</id>
-    <title>ShopBack: Software Engineer Intern - QA</title>
-    <link href="https://jobs.lever.co/shopback-2/345e1f49-ca8c-432f-b402-a91452f78116"/>
-    <updated>2026-10-06T02:28:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Taipei, Taiwan · Python, Java, JavaScript · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aptiv:/job/Krakow-Poland/Intern-Interior-Sensing-AI-ML_J000704695</id>
-    <title>Aptiv: Intern Interior Sensing AI/ML</title>
-    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Intern-Interior-Sensing-AI-ML_J000704695"/>
-    <updated>2026-10-02T18:20:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Krakow, Poland · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmegroup:/job/Belfast---Millennium-House/AI-Analyst---Placement-year-internship_34865</id>
-    <title>CME Group: AI Analyst - Placement year internship 🛂</title>
-    <link href="https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Belfast---Millennium-House/AI-Analyst---Placement-year-internship_34865"/>
-    <updated>2026-10-02T18:20:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Belfast - Millennium House · Python, SQL, LLMs · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

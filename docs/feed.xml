@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-14T20:00:47Z</updated>
+  <updated>2026-10-14T23:27:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:later:8889650002</id>
+    <title>Later: Data Science Co-op</title>
+    <link href="https://job-boards.greenhouse.io/later/jobs/8889650002"/>
+    <updated>2026-10-14T23:27:13Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Vancouver, British Columbia, Canada · Python, SQL, Flask, AWS, Docker · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739956005</id>
+    <title>Astera Labs: Firmware Engineer Intern Fall Co-op</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005"/>
+    <updated>2026-10-14T23:27:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Vancouver. BC, Canada · $45/hr · Python, C++, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739957005</id>
+    <title>Astera Labs: Firmware Engineer Intern Summer Co-op</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739957005"/>
+    <updated>2026-10-14T23:27:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Vancouver, BC, Canada · $45/hr · Python, C++, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:blacklinesafety:4A56A8BBE3</id>
     <title>Blackline Safety: Firmware Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-06T02:42:42Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Software · Surrey, BC · Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wgl:/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312</id>
-    <title>AltaGas: AltaGas - 2027 Digital (NextGen AI &amp; Data) Intern</title>
-    <link href="https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312"/>
-    <updated>2026-10-06T02:42:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Calgary, AB · Python, SQL, Azure, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:8244922</id>
-    <title>Pinterest: Machine Learning Intern 2027 (Dublin)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8244922"/>
-    <updated>2026-10-05T22:47:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Dublin, IE · Python, Java, C++, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:wehrtyou:8257369</id>
-    <title>Hudson River Trading: Data Scientist Intern - 2027</title>
-    <link href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369"/>
-    <updated>2026-10-05T22:47:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · London, United Kingdom; New York, NY, United States · Python, Pandas</summary>
   </entry>
 </feed>

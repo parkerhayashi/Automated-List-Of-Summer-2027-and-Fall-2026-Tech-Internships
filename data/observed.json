@@ -626,9 +626,10 @@
       "oracle:eofe.fa.us2.oraclecloud.com:81318",
       "oracle:eofe.fa.us2.oraclecloud.com:81322",
       "oracle:eofe.fa.us2.oraclecloud.com:81922",
-      "oracle:eofe.fa.us2.oraclecloud.com:82537"
+      "oracle:eofe.fa.us2.oraclecloud.com:82537",
+      "oracle:eofe.fa.us2.oraclecloud.com:83098"
      ],
-     "count": 12
+     "count": 13
     }
    }
   },
@@ -3433,6 +3434,18 @@
     }
    }
   },
+  "tranetechnologies": {
+   "name": "Tranetechnologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:tranetechnologies:/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "trumpf": {
    "name": "TRUMPF",
    "cycles": {
@@ -3809,5 +3822,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T10:51:09Z"
+ "updated_at": "2026-10-14T15:45:13Z"
 }

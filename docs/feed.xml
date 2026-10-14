@@ -5,15 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-14T10:51:09Z</updated>
+  <updated>2026-10-14T15:45:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182</id>
-    <title>BP: Summer Internship - Digital - Data, AI &amp; Engineering - UK</title>
-    <link href="https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182"/>
-    <updated>2026-10-14T10:51:09Z</updated>
+    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:83098</id>
+    <title>BNY: 2027 BNY Summer Internship Program - Product Management (Manchester)</title>
+    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098"/>
+    <updated>2026-10-14T15:45:13Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · GB: London - 25 North Colonnade · AWS, Azure</summary>
+    <summary>Summer 2027 · PM · Greater Manchester, United Kingdom</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:eurostar:D69651A000</id>
+    <title>Eurostar International: Intern Software Developer - 12-month fixed-term contract</title>
+    <link href="https://apply.workable.com/eurostar/j/D69651A000/"/>
+    <updated>2026-10-14T15:45:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · London, England, United Kingdom (Hybrid) · TypeScript, JavaScript, React, Next.js, Node.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897</id>
+    <title>Intel: Compiler Engineering Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897"/>
+    <updated>2026-10-14T15:45:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Poland, Gdansk · C++, PyTorch, CUDA, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942</id>
+    <title>Intel: MLIR Compiler Engineering Undergraduate Intern (f/m/d)</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942"/>
+    <updated>2026-10-14T15:45:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Germany, Munich · C++, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943</id>
+    <title>Intel: MLIR Compiler Engineering Graduate Intern (f/m/d)</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943"/>
+    <updated>2026-10-14T15:45:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Germany, Munich · Python, C++, PyTorch, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tranetechnologies:/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1</id>
+    <title>Tranetechnologies: 2027 BrainBox AI Intern</title>
+    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1"/>
+    <updated>2026-10-14T15:45:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Montreal, Quebec · Python, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5264407007</id>
@@ -22,6 +62,14 @@
     <updated>2026-10-14T10:51:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Toronto, Ontario, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada · Python, C++, Verilog</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182</id>
+    <title>BP: Summer Internship - Digital - Data, AI &amp; Engineering - UK</title>
+    <link href="https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182"/>
+    <updated>2026-10-14T10:51:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · GB: London - 25 North Colonnade · AWS, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948</id>
@@ -51,9 +99,9 @@
     <id>urn:intern-engine:workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081</id>
     <title>BP: Summer Internship - Digital - Data, AI &amp; Engineering - UK</title>
     <link href="https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081"/>
-    <updated>2026-10-14T00:53:12Z</updated>
+    <updated>2026-10-14T15:45:13Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · GB: London - 25 North Colonnade · AWS, Azure</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · GB: London - 25 North Colonnade · AWS, Azure · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jainglobal:/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2</id>
@@ -758,53 +806,5 @@
     <updated>2026-10-05T22:47:59Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · CAN - Richmond, BC · Java, JavaScript, AWS, Docker, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:solink:c973029a-83fa-449e-b4a9-0a1514165430</id>
-    <title>Solink: Software Engineer Co-op, Apps</title>
-    <link href="https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Ottawa Office · CA$55K – CA$68K · TypeScript, React, Node.js, AWS, GCP · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153500999</id>
-    <title>Bosch: Internship Agentic AI for Automated Code Generation in Safety-Critical Embedded Software</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153500999"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Schwieberdingen, BW, Germany · Python, C++, LLMs, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153516331</id>
-    <title>Bosch: Mandatory Internship Automotive Networking Innovation and Software-Defined Vehicle Technologies</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153516331"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Stuttgart, BW, Germany (Hybrid) · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153466369</id>
-    <title>NBCUniversal: Product Intern (Hayu)</title>
-    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153466369"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:arondite:D3211449EF</id>
-    <title>Arondite: Software Engineer - Summer 2027 Intern</title>
-    <link href="https://apply.workable.com/arondite/j/D3211449EF/"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, England, United Kingdom (Hybrid) · Python, Java, C++, Rust, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Madrid-Area/Flight-Software-Engineer-Intern--Space-Systems-Airbus-Crisa_JR10446862</id>
-    <title>Airbus: Flight Software Engineer Intern, Space Systems Airbus Crisa</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Madrid-Area/Flight-Software-Engineer-Intern--Space-Systems-Airbus-Crisa_JR10446862"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Madrid Area · Python, Git, Verilog</summary>
   </entry>
 </feed>

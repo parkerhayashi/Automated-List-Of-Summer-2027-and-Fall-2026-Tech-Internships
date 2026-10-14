@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-14T10:51:09Z",
- "data_as_of": "2026-10-14T10:51:09Z",
- "rendered_at": "2026-10-14T10:51:10Z",
+ "generated_at": "2026-10-14T15:45:13Z",
+ "data_as_of": "2026-10-14T15:45:13Z",
+ "rendered_at": "2026-10-14T15:45:13Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -538,6 +538,25 @@
    }
   },
   {
+   "company": "Tranetechnologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -44,
+   "status": "open",
+   "url": "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
    "company": "Marshall Wace",
    "last_cycle_posted": "",
    "posted_on": "2026-09-02",
@@ -759,25 +778,6 @@
    "status": "open",
    "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004",
    "note": "opens late summer, small cohort",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-14"
-   }
-  },
-  {
-   "company": "Robinhood",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
-   "note": "opens fall",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -1270,7 +1270,7 @@
    "expected": "2026-10-14",
    "days_until": 0,
    "status": "open",
-   "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081",
+   "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -5763,6 +5763,25 @@
    }
   },
   {
+   "company": "Robinhood",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": "opens fall",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
    "company": "Apera AI",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -5858,5 +5877,5 @@
    }
   }
  ],
- "count": 308
+ "count": 309
 }

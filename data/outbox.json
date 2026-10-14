@@ -1,22 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:eofe.fa.us2.oraclecloud.com:83098",
-      "workable:eurostar:D69651A000",
-      "workday:intel:/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897",
-      "workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942",
-      "workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943",
-      "workday:pwc:/job/Milan/Cloud-Infrastructure-Intern---Milano_767954WD",
-      "workday:tranetechnologies:/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1"
-    ],
-    "telegram": [
-      "oracle:eofe.fa.us2.oraclecloud.com:83098",
-      "workable:eurostar:D69651A000",
-      "workday:intel:/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897",
-      "workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942",
-      "workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943",
-      "workday:pwc:/job/Milan/Cloud-Infrastructure-Intern---Milano_767954WD",
-      "workday:tranetechnologies:/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

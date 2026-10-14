@@ -2016,6 +2016,18 @@
     }
    }
   },
+  "lseg": {
+   "name": "LSEG",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "workday:lseg:/job/London-United-Kingdom/Intern---Software-Engineer_R0124267"
+     ],
+     "count": 1
+    }
+   }
+  },
   "lumentum": {
    "name": "Lumentum",
    "cycles": {
@@ -3822,5 +3834,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T15:45:13Z"
+ "updated_at": "2026-10-14T20:00:47Z"
 }

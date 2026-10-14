@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:altera:/job/Marlow-Buckinghamshire-United-Kingdom/High-Level-Synthesis--HLS--Compiler-Engineer--Intern--_R03313",
+      "workday:lseg:/job/London-United-Kingdom/Intern---Software-Engineer_R0124267"
+    ],
+    "telegram": [
+      "workday:altera:/job/Marlow-Buckinghamshire-United-Kingdom/High-Level-Synthesis--HLS--Compiler-Engineer--Intern--_R03313",
+      "workday:lseg:/job/London-United-Kingdom/Intern---Software-Engineer_R0124267"
+    ]
   }
 }

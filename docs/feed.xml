@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-14T15:45:13Z</updated>
+  <updated>2026-10-14T20:00:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:blacklinesafety:4A56A8BBE3</id>
+    <title>Blackline Safety: Firmware Intern</title>
+    <link href="https://apply.workable.com/blacklinesafety/j/4A56A8BBE3/"/>
+    <updated>2026-10-14T20:00:47Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Hardware · Waterloo, Ontario, Canada · C++ · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:altera:/job/Marlow-Buckinghamshire-United-Kingdom/High-Level-Synthesis--HLS--Compiler-Engineer--Intern--_R03313</id>
+    <title>Altera Corporation: High Level Synthesis (HLS) Compiler Engineer (Intern))</title>
+    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/High-Level-Synthesis--HLS--Compiler-Engineer--Intern--_R03313"/>
+    <updated>2026-10-14T20:00:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Marlow, Buckinghamshire, United Kingdom · C++, Git, Verilog</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:lseg:/job/London-United-Kingdom/Intern---Software-Engineer_R0124267</id>
+    <title>LSEG: Intern - Software Engineer</title>
+    <link href="https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Software-Engineer_R0124267"/>
+    <updated>2026-10-14T20:00:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London, United Kingdom · Python, AWS, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:83098</id>
     <title>BNY: 2027 BNY Summer Internship Program - Product Management (Manchester)</title>
@@ -24,12 +48,12 @@
     <summary>Not stated · Software · London, England, United Kingdom (Hybrid) · TypeScript, JavaScript, React, Next.js, Node.js</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:intel:/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897</id>
-    <title>Intel: Compiler Engineering Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897"/>
+    <id>urn:intern-engine:workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943</id>
+    <title>Intel: MLIR Compiler Engineering Graduate Intern (f/m/d)</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943"/>
     <updated>2026-10-14T15:45:13Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Poland, Gdansk · C++, PyTorch, CUDA, Linux, Git</summary>
+    <summary>Not stated · Software · Germany, Munich · Python, C++, PyTorch, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942</id>
@@ -40,12 +64,12 @@
     <summary>Not stated · Software · Germany, Munich · C++, Linux, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943</id>
-    <title>Intel: MLIR Compiler Engineering Graduate Intern (f/m/d)</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943"/>
+    <id>urn:intern-engine:workday:intel:/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897</id>
+    <title>Intel: Compiler Engineering Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897"/>
     <updated>2026-10-14T15:45:13Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Germany, Munich · Python, C++, PyTorch, Linux, Git</summary>
+    <summary>Not stated · Software · Poland, Gdansk · C++, PyTorch, CUDA, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tranetechnologies:/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-05T22:47:59Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · London, United Kingdom; New York, NY, United States · Python, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320</id>
-    <title>Lumentum: Embedded Software Developer Co-op (Optical Circuit Switch)</title>
-    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320"/>
-    <updated>2026-10-05T22:47:59Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Hardware · Canada - Ottawa (Bill Leathem) · $24–$35/hr · C++, Linux, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:semtech:/job/CAN---Richmond-BC/AI-Workflow---Operations-Intern_REQ3640</id>
-    <title>Semtech: AI Workflow &amp; Operations Intern</title>
-    <link href="https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/AI-Workflow---Operations-Intern_REQ3640"/>
-    <updated>2026-10-05T22:47:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · CAN - Richmond, BC · Python, SQL, LLMs, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:semtech:/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644</id>
-    <title>Semtech: Software Developer – Web/Cloud Application, Co-op</title>
-    <link href="https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644"/>
-    <updated>2026-10-05T22:47:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · CAN - Richmond, BC · Java, JavaScript, AWS, Docker, Linux</summary>
   </entry>
 </feed>

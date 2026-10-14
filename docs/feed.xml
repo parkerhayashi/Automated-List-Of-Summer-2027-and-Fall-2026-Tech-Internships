@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-14T00:53:12Z</updated>
+  <updated>2026-10-14T05:36:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948</id>
+    <title>NVIDIA: System Software Engineer - Base OS (RDSS Intern)</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948"/>
+    <updated>2026-10-14T05:36:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Taiwan, Taipei · Python, Linux, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:pebl:49d8b355-620b-4dde-be4b-5489abf4c9cf</id>
     <title>Pebl: Software Engineering, Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-05T16:13:23Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Sweden - Skolgatan - Umeå</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1</id>
-    <title>NVIDIA: Software Engineer – DFT CAD Tools (RDSS Intern)</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Taiwan, Taipei · Python, C++, Verilog</summary>
   </entry>
 </feed>

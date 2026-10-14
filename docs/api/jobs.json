@@ -1,20 +1,42 @@
 {
- "generated_at": "2026-10-14T00:53:12Z",
- "data_as_of": "2026-10-14T00:53:12Z",
- "rendered_at": "2026-10-14T00:53:13Z",
+ "generated_at": "2026-10-14T05:36:47Z",
+ "data_as_of": "2026-10-14T05:36:47Z",
+ "rendered_at": "2026-10-14T05:36:48Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 352,
+ "count": 351,
  "jobs": [
+  {
+   "id": "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948",
+   "company": "NVIDIA",
+   "title": "System Software Engineer - Base OS (RDSS Intern)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Taiwan, Taipei",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948",
+   "posted_at": "2026-10-14T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-14T05:36:47Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Linux",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": 1526,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081",
    "company": "BP",
    "title": "Summer Internship - Digital - Data, AI & Engineering - UK",
    "season": "Summer 2027",
-   "seasons": [
-    "Summer 2027",
-    "Fall 2027"
-   ],
+   "seasons": null,
    "season_inferred": false,
    "category": "Data & ML/AI",
    "location": "GB: London - 25 North Colonnade",
@@ -2477,32 +2499,6 @@
    "remote": false
   },
   {
-   "id": "ashby:exegy:1dfd3209-2714-4ccd-8fb9-779765151897",
-   "company": "Exegy",
-   "title": "Software Automation Developer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Montreal",
-   "url": "https://jobs.ashbyhq.com/exegy/1dfd3209-2714-4ccd-8fb9-779765151897",
-   "posted_at": "2026-10-01T18:09:43.196+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-01T20:46:12Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "Linux",
-    "Git"
-   ],
-   "source": "ashby",
-   "h1b_approvals": 2,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "greenhouse:pinterest:8138034",
    "company": "Pinterest",
    "title": "Software Engineering Intern 2027 (Dublin)",
@@ -4597,34 +4593,6 @@
    ],
    "source": "workday",
    "h1b_approvals": 1526,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:wexinc:/job/Melbourne-Australia/Software-Development-Intern_R22903",
-   "company": "Wex",
-   "title": "Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Melbourne, Australia",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Melbourne-Australia/Software-Development-Intern_R22903",
-   "posted_at": "2026-09-22T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "TypeScript",
-    "JavaScript",
-    "LLMs"
-   ],
-   "source": "workday",
-   "h1b_approvals": 22,
    "program": "Internship",
    "remote": false
   },

@@ -696,9 +696,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-14",
      "role_ids": [
-      "workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081"
+      "workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081",
+      "workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3808,5 +3809,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T05:36:47Z"
+ "updated_at": "2026-10-14T10:51:09Z"
 }

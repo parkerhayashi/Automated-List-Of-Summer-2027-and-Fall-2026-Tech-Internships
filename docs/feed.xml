@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-14T05:36:47Z</updated>
+  <updated>2026-10-14T10:51:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182</id>
+    <title>BP: Summer Internship - Digital - Data, AI &amp; Engineering - UK</title>
+    <link href="https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182"/>
+    <updated>2026-10-14T10:51:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · GB: London - 25 North Colonnade · AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5264407007</id>
+    <title>Tenstorrent: Systems Intern - Validation, Software, Design, Architecture &amp; Packaging (Canada)</title>
+    <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007"/>
+    <updated>2026-10-14T10:51:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toronto, Ontario, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada · Python, C++, Verilog</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948</id>
     <title>NVIDIA: System Software Engineer - Base OS (RDSS Intern)</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-05T16:13:23Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Madrid Area · Python, Git, Verilog</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:capitalone:/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1</id>
-    <title>Capital One: Intern, Data Scientist - Summer 2027</title>
-    <link href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, ON · $33.33/hr · Python, SQL, AWS, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nasdaq:/job/Sweden---Skolgatan---Ume/Co-op-Student-Worker_R0027078</id>
-    <title>Nasdaq: Computer Science Co-Op Student Worker</title>
-    <link href="https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Sweden---Skolgatan---Ume/Co-op-Student-Worker_R0027078"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sweden - Skolgatan - Umeå</summary>
   </entry>
 </feed>

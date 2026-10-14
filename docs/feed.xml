@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-13T21:48:10Z</updated>
+  <updated>2026-10-14T00:53:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:pebl:49d8b355-620b-4dde-be4b-5489abf4c9cf</id>
+    <title>Pebl: Software Engineering, Intern</title>
+    <link href="https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf"/>
+    <updated>2026-10-14T00:53:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toronto, Ontario · CA$35 per hour · TypeScript, JavaScript, SQL, AWS, PostgreSQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739544005</id>
+    <title>Astera Labs: Firmware Engineer Intern Spring Co-Op</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005"/>
+    <updated>2026-10-14T00:53:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Vancouver, BC, Canada · $45/hr · Python, C++, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081</id>
+    <title>BP: Summer Internship - Digital - Data, AI &amp; Engineering - UK</title>
+    <link href="https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081"/>
+    <updated>2026-10-14T00:53:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · GB: London - 25 North Colonnade · AWS, Azure</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:jainglobal:/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2</id>
     <title>Jain Global: Quant Research Intern (Summer 2027 – London)</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-05T16:13:23Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Taiwan, Taipei · Python, C++, Verilog</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965</id>
-    <title>NVIDIA: System Software Engineer - Embedded and Automotive (RDSS Intern)</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965"/>
-    <updated>2026-10-05T16:13:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Taiwan, Taipei · LLMs, Computer Vision, CUDA, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153372229</id>
-    <title>NBCUniversal: Product Intern (Hayu)</title>
-    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229"/>
-    <updated>2026-10-05T22:47:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid) · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000153373389</id>
-    <title>NBCUniversal: Media Product Intern</title>
-    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389"/>
-    <updated>2026-10-05T22:47:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · PM · London, , United Kingdom (Hybrid) · status: closed</summary>
   </entry>
 </feed>

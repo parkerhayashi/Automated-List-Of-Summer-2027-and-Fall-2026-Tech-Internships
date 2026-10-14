@@ -690,6 +690,18 @@
     }
    }
   },
+  "bp": {
+   "name": "BP",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081"
+     ],
+     "count": 1
+    }
+   }
+  },
   "brevan howard": {
    "name": "Brevan Howard",
    "cycles": {
@@ -3796,5 +3808,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T21:48:10Z"
+ "updated_at": "2026-10-14T00:53:12Z"
 }

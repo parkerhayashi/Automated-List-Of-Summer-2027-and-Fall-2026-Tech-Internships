@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:accenture:/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529",
+      "workday:accenture:/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280",
+      "workday:accenture:/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110",
+      "workday:accenture:/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212",
+      "workday:accenture:/job/Amsterdam/Graduation-Internship-Netherland---AI-Security_R00360724",
+      "greenhouse:towerresearchcapital:7077280"
+    ],
+    "telegram": [
+      "workday:accenture:/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529",
+      "workday:accenture:/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280",
+      "workday:accenture:/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110",
+      "workday:accenture:/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212",
+      "workday:accenture:/job/Amsterdam/Graduation-Internship-Netherland---AI-Security_R00360724",
+      "greenhouse:towerresearchcapital:7077280"
+    ]
   }
 }

@@ -5,95 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-15T18:01:24Z</updated>
+  <updated>2026-10-15T21:35:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:fa-exby-saasfaprod1.fa.ocs.oraclecloud.com:226</id>
-    <title>BC Pensions: Junior Infrastructure Specialist Co-op</title>
-    <link href="https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/226"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Victoria, BC, Canada · Azure, Linux · status: closed</summary>
+    <id>urn:intern-engine:workday:accenture:/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529</id>
+    <title>Avanade: Internship: Software Engineer Avanade Agentic Engineering Factory</title>
+    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529"/>
+    <updated>2026-10-15T21:35:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Brussels · Python, Java, C++, C#, SQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41311</id>
-    <title>Nokia: Embedded C/C++ SW Developer Co-op/Intern</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Canada · C++, Python, Linux, Git · status: closed</summary>
+    <id>urn:intern-engine:workday:accenture:/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280</id>
+    <title>Avanade: Internship: Azure Platform Engineer Avanade Agentic Engineering Factory</title>
+    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280"/>
+    <updated>2026-10-15T21:35:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Brussels · Azure, Python, Bash, AWS, GCP</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Eindhoven-Netherlands/Computer-Science---Data-Science-internship--Quality-dashboard-development_J-00354624</id>
-    <title>ASML: Computer Science | Data Science internship: Quality dashboard development</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Computer-Science---Data-Science-internship--Quality-dashboard-development_J-00354624"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Eindhoven, Netherlands · Python, SQL, Git, Databricks · status: closed</summary>
+    <id>urn:intern-engine:workday:accenture:/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110</id>
+    <title>Avanade: Graduation Internship in ERP Functional  Consulting: AI Powered Dynamics 365 ERP 🛂</title>
+    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110"/>
+    <updated>2026-10-15T21:35:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Brussels · Azure · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--Wafer-map-verification_J-00353359</id>
-    <title>ASML: Computer Science | Software Engineering internship: Wafer map verification</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--Wafer-map-verification_J-00353359"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Veldhoven, Netherlands · Python, C++ · status: closed</summary>
+    <id>urn:intern-engine:workday:accenture:/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212</id>
+    <title>Avanade: Graduation Internship in Customer  Engagement: AI Powered Power Platform  Solution Governance 🛂</title>
+    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212"/>
+    <updated>2026-10-15T21:35:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Brussels · C#, TypeScript, JavaScript, Azure, Git · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:philips:/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556</id>
-    <title>Philips: Internship: Full Stack Developer in Finance Domain</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Software · Eindhoven · Java, JavaScript, SQL · status: closed</summary>
+    <id>urn:intern-engine:workday:accenture:/job/Amsterdam/Graduation-Internship-Netherland---AI-Security_R00360724</id>
+    <title>Avanade: Graduation Internship Netherland - AI Security</title>
+    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Amsterdam/Graduation-Internship-Netherland---AI-Security_R00360724"/>
+    <updated>2026-10-15T21:35:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Amsterdam</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--IT-Infrastructure---systems_JR38223</id>
-    <title>Vanderlande Industries: Internship: IT Infrastructure &amp; systems</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--IT-Infrastructure---systems_JR38223"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Veghel, Netherlands · Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--Finance-process-automation---AI_JR38233</id>
-    <title>Vanderlande Industries: Internship: Finance process automation &amp; AI</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--Finance-process-automation---AI_JR38233"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veghel, Netherlands · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--AI--driven-HR-innovation_JR38406</id>
-    <title>Vanderlande Industries: Internship: AI- driven HR innovation</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--AI--driven-HR-innovation_JR38406"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veghel, Netherlands · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--HMI---UX-Design-for-Smart-Automation_JR38392</id>
-    <title>Vanderlande Industries: Internship: HMI &amp; UX Design for Smart Automation</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--HMI---UX-Design-for-Smart-Automation_JR38392"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Design · Veghel, Netherlands · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--AI-powered-assistant-within-warehouse-execution-systems_JR38256</id>
-    <title>Vanderlande Industries: Internship: AI-powered assistant within warehouse execution systems</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--AI-powered-assistant-within-warehouse-execution-systems_JR38256"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veghel, Netherlands · Python, Java, TypeScript, JavaScript, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Build-the-future-of-work--Create-reusable-AI-skills-for-Vanderlande_JR38184</id>
-    <title>Vanderlande Industries: Internship: Building the Future of Work with Low-Code AI Skills for Vanderlande</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Build-the-future-of-work--Create-reusable-AI-skills-for-Vanderlande_JR38184"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Data &amp; ML/AI · Veghel, Netherlands · status: closed</summary>
+    <id>urn:intern-engine:greenhouse:towerresearchcapital:7077280</id>
+    <title>Tower Research Capital: Machine Learning Intern</title>
+    <link href="https://www.tower-research.com/open-positions/?gh_jid=7077280"/>
+    <updated>2026-10-15T21:35:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Montreal · Python, SQL, Bash, PyTorch, TensorFlow</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10568017</id>
@@ -104,70 +64,6 @@
     <summary>Summer 2027 · Software · Amsterdam, International · Python, Java, C++, C#, Rust</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ebcs.fa.em2.oraclecloud.com:40481</id>
-    <title>Arcadis: Internship – Machine learning in flood modelling</title>
-    <link href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40481"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Amersfoort, Utrecht, Netherlands · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784369</id>
-    <title>JPMorganChase: 2027 Markets Quantitative Trading &amp; Research Associate Program – Off-Cycle Internship - Hong Kong</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784369"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong · Python, Java, C++, C#, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784371</id>
-    <title>JPMorganChase: 2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Hong Kong</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784371"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong · Python, Java, C++, C#, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5504</id>
-    <title>SCOR: Quantitative Finance &amp; Data Analyst Intern</title>
-    <link href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5504"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Paris, Ile-de-France, France · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-Driven-Cloud-Cost-Intelligence_J-00352655</id>
-    <title>ASML: Artificial Intelligence | Computer Science internship: AI-Driven Cloud Cost Intelligence</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-Driven-Cloud-Cost-Intelligence_J-00352655"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Veldhoven, Netherlands · Python, Java, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--ai-driven-software-quality_J-00352656</id>
-    <title>ASML: Artificial Intelligence | Computer Science internship: ai-driven software quality</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--ai-driven-software-quality_J-00352656"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Veldhoven, Netherlands · Python, Java, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Information-Technology---Cyber-Security-internship--IT-controls-transformation_J-00353784</id>
-    <title>ASML: Information Technology | Cyber Security internship: IT controls transformation</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Information-Technology---Cyber-Security-internship--IT-controls-transformation_J-00353784"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Veldhoven, Netherlands</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:databricks:8133710002</id>
-    <title>Databricks: Software Engineering Intern (2027 Start) - Aarhus</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Aarhus, Denmark · Python, Java, C++, Databricks</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:databricks:6866534002</id>
     <title>Databricks: Software Engineering Intern (2027 Start) - Amsterdam</title>
     <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002"/>
@@ -176,12 +72,12 @@
     <summary>Summer 2027 · Software · Amsterdam, Netherlands · Python, Java, C++, Databricks</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:dentsuaegis:/job/Aarhus/Developer-Intern_R1130839</id>
-    <title>Dentsu: Developer Intern</title>
-    <link href="https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Aarhus/Developer-Intern_R1130839"/>
+    <id>urn:intern-engine:greenhouse:databricks:8133710002</id>
+    <title>Databricks: Software Engineering Intern (2027 Start) - Aarhus</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002"/>
     <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Aarhus · Java, Spring, Azure, Docker, Git</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Aarhus, Denmark · Python, Java, C++, Databricks</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dvtrading:4733877005</id>
@@ -200,14 +96,6 @@
     <summary>Summer 2027 · Software · Hong Kong · Python, C++, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:imc:4941208101</id>
-    <title>IMC Trading: Quantitative Research Intern 2027</title>
-    <link href="https://job-boards.eu.greenhouse.io/imc/jobs/4941208101"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong · Python, Java, C++, MATLAB</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:imc:4941205101</id>
     <title>IMC Trading: Quantitative Trader Intern 2027</title>
     <link href="https://job-boards.eu.greenhouse.io/imc/jobs/4941205101"/>
@@ -224,12 +112,12 @@
     <summary>Summer 2027 · Software · Hong Kong, Hong Kong · Python, Java, C++</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:intel:/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934</id>
-    <title>Intel: Compiler Engineering Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934"/>
+    <id>urn:intern-engine:greenhouse:imc:4941208101</id>
+    <title>IMC Trading: Quantitative Research Intern 2027</title>
+    <link href="https://job-boards.eu.greenhouse.io/imc/jobs/4941208101"/>
     <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Toronto · C++, PyTorch, CUDA, Linux, Git</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong · Python, Java, C++, MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:jumptrading:8027860</id>
@@ -248,22 +136,6 @@
     <summary>Not stated · Software · Hong Kong; Shanghai · Python, C++, Rust, Linux, Kafka</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:myview:/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1</id>
-    <title>Loblaw Companies: Associate Product Manager - Co-op Student</title>
-    <link href="https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · 500 Lake Shore Blvd W, Toronto, ON</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:mwinternshipprogram:8857614002</id>
-    <title>Marshall Wace: Quant Developer Intern - Hong Kong 2027</title>
-    <link href="https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8857614002"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong · Python, Java, C++, MATLAB</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:moloco:8007407003</id>
     <title>Moloco: Software Engineer Intern (3 months)</title>
     <link href="https://job-boards.greenhouse.io/moloco/jobs/8007407003"/>
@@ -272,12 +144,12 @@
     <summary>Not stated · Software · Seoul, Korea</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:nex:5420203008</id>
-    <title>Nex: Summer 2027 | Software Engineer Intern (Developer Experience)</title>
-    <link href="https://job-boards.greenhouse.io/nex/jobs/5420203008"/>
+    <id>urn:intern-engine:greenhouse:mwinternshipprogram:8857614002</id>
+    <title>Marshall Wace: Quant Developer Intern - Hong Kong 2027</title>
+    <link href="https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8857614002"/>
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hong Kong · Python, Node.js, GCP</summary>
+    <summary>Summer 2027 · Quant · Hong Kong · Python, Java, C++, MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:nex:5419756008</id>
@@ -296,12 +168,12 @@
     <summary>Summer 2027 · Software · Hong Kong</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:nex:5420802008</id>
-    <title>Nex: Summer 2027 | Software Engineer Intern - Game Development (Sports &amp; Active Play)</title>
-    <link href="https://job-boards.greenhouse.io/nex/jobs/5420802008"/>
+    <id>urn:intern-engine:greenhouse:nex:5420203008</id>
+    <title>Nex: Summer 2027 | Software Engineer Intern (Developer Experience)</title>
+    <link href="https://job-boards.greenhouse.io/nex/jobs/5420203008"/>
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hong Kong</summary>
+    <summary>Summer 2027 · Software · Hong Kong · Python, Node.js, GCP</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:nex:5420649008</id>
@@ -312,12 +184,188 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Hong Kong · Python, PyTorch, TensorFlow, Computer Vision</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:nex:5420802008</id>
+    <title>Nex: Summer 2027 | Software Engineer Intern - Game Development (Sports &amp; Active Play)</title>
+    <link href="https://job-boards.greenhouse.io/nex/jobs/5420802008"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Hong Kong</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:nex:5422027008</id>
     <title>Nex: Summer 2027 | Software Engineer Intern (Platform)</title>
     <link href="https://job-boards.greenhouse.io/nex/jobs/5422027008"/>
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Hong Kong · Python, Java, C++, TypeScript, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8238448</id>
+    <title>Schonfeld: 2027 Quantitative Research Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8238448"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8238451</id>
+    <title>Schonfeld: 2027 Quantitative C++ Developer Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8238451"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong · C++, Python, LLMs, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebcs.fa.em2.oraclecloud.com:40481</id>
+    <title>Arcadis: Internship – Machine learning in flood modelling</title>
+    <link href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40481"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Amersfoort, Utrecht, Netherlands · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5504</id>
+    <title>SCOR: Quantitative Finance &amp; Data Analyst Intern</title>
+    <link href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5504"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · Paris, Ile-de-France, France · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41311</id>
+    <title>Nokia: Embedded C/C++ SW Developer Co-op/Intern</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Canada · C++, Python, Linux, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-exby-saasfaprod1.fa.ocs.oraclecloud.com:226</id>
+    <title>BC Pensions: Junior Infrastructure Specialist Co-op</title>
+    <link href="https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/226"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Victoria, BC, Canada · Azure, Linux · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784369</id>
+    <title>JPMorganChase: 2027 Markets Quantitative Trading &amp; Research Associate Program – Off-Cycle Internship - Hong Kong</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784369"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Hong Kong · Python, Java, C++, C#, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784371</id>
+    <title>JPMorganChase: 2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Hong Kong</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784371"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Hong Kong · Python, Java, C++, C#, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:SopraSteria1:744000155419129</id>
+    <title>Sopra Steria: Internship AI &amp; Software Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/SopraSteria1/744000155419129"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Machelen, Flanders, International (BE) · Java</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000146648344</id>
+    <title>Wavestone: Cybersecurity Management Consultant - Internship (5-6 months)</title>
+    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000146648344"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Hong Kong, International (HK)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000146648426</id>
+    <title>Wavestone: Cybersecurity Management Consultant - Internship (Co-op, 6-8 months)</title>
+    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000146648426"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Hong Kong, International (HK)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000150085279</id>
+    <title>Wavestone: Cybersecurity - Consultant Internship from 3 to 6 months</title>
+    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000150085279"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Brussels, Brussels Hoofdstedelijk Gewest, International (BE)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Eindhoven-Netherlands/Computer-Science---Data-Science-internship--Quality-dashboard-development_J-00354624</id>
+    <title>ASML: Computer Science | Data Science internship: Quality dashboard development</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Computer-Science---Data-Science-internship--Quality-dashboard-development_J-00354624"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Eindhoven, Netherlands · Python, SQL, Git, Databricks · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-Driven-Cloud-Cost-Intelligence_J-00352655</id>
+    <title>ASML: Artificial Intelligence | Computer Science internship: AI-Driven Cloud Cost Intelligence</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-Driven-Cloud-Cost-Intelligence_J-00352655"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Veldhoven, Netherlands · Python, Java, JavaScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--ai-driven-software-quality_J-00352656</id>
+    <title>ASML: Artificial Intelligence | Computer Science internship: ai-driven software quality</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--ai-driven-software-quality_J-00352656"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Veldhoven, Netherlands · Python, Java, JavaScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--Wafer-map-verification_J-00353359</id>
+    <title>ASML: Computer Science | Software Engineering internship: Wafer map verification</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--Wafer-map-verification_J-00353359"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Veldhoven, Netherlands · Python, C++ · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Information-Technology---Cyber-Security-internship--IT-controls-transformation_J-00353784</id>
+    <title>ASML: Information Technology | Cyber Security internship: IT controls transformation</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Information-Technology---Cyber-Security-internship--IT-controls-transformation_J-00353784"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Veldhoven, Netherlands</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dentsuaegis:/job/Aarhus/Developer-Intern_R1130839</id>
+    <title>Dentsu: Developer Intern</title>
+    <link href="https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Aarhus/Developer-Intern_R1130839"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Aarhus · Java, Spring, Azure, Docker, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934</id>
+    <title>Intel: Compiler Engineering Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Toronto · C++, PyTorch, CUDA, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:lighting:/job/Eindhoven/Data-Analyst-Intern_366375</id>
+    <title>Signify: Data Analyst Intern</title>
+    <link href="https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Data-Analyst-Intern_366375"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Eindhoven · Python, SQL, Snowflake</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:myview:/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1</id>
+    <title>Loblaw Companies: Associate Product Manager - Co-op Student</title>
+    <link href="https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · 500 Lake Shore Blvd W, Toronto, ON</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nxp:/job/Eindhoven/AI---Future-of-HR-Research-Intern_R-10067318</id>
@@ -344,44 +392,12 @@
     <summary>Not stated · Data &amp; ML/AI · Eindhoven · Python, Java, C#, SQL, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8238451</id>
-    <title>Schonfeld: 2027 Quantitative C++ Developer Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8238451"/>
+    <id>urn:intern-engine:workday:philips:/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556</id>
+    <title>Philips: Internship: Full Stack Developer in Finance Domain</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556"/>
     <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong · C++, Python, LLMs, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8238448</id>
-    <title>Schonfeld: 2027 Quantitative Research Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8238448"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lighting:/job/Eindhoven/Data-Analyst-Intern_366375</id>
-    <title>Signify: Data Analyst Intern</title>
-    <link href="https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Data-Analyst-Intern_366375"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Eindhoven · Python, SQL, Snowflake</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:SopraSteria1:744000155419129</id>
-    <title>Sopra Steria: Internship AI &amp; Software Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/SopraSteria1/744000155419129"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Machelen, Flanders, International (BE) · Java</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/Netherlands-Amsterdam/Product-Manager-Intern_R108260</id>
-    <title>Tencent: Product Manager Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern_R108260"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · Netherlands-Amsterdam</summary>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Software · Eindhoven · Java, JavaScript, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/Netherlands-Amsterdam/AI-Product-Manager-Intern--Game-Development_R108258</id>
@@ -400,28 +416,60 @@
     <summary>Not stated · PM · Netherlands-Amsterdam</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000150085279</id>
-    <title>Wavestone: Cybersecurity - Consultant Internship from 3 to 6 months</title>
-    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000150085279"/>
+    <id>urn:intern-engine:workday:tencent:/job/Netherlands-Amsterdam/Product-Manager-Intern_R108260</id>
+    <title>Tencent: Product Manager Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern_R108260"/>
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Brussels, Brussels Hoofdstedelijk Gewest, International (BE)</summary>
+    <summary>Not stated · PM · Netherlands-Amsterdam</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000146648426</id>
-    <title>Wavestone: Cybersecurity Management Consultant - Internship (Co-op, 6-8 months)</title>
-    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000146648426"/>
+    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Build-the-future-of-work--Create-reusable-AI-skills-for-Vanderlande_JR38184</id>
+    <title>Vanderlande Industries: Internship: Building the Future of Work with Low-Code AI Skills for Vanderlande</title>
+    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Build-the-future-of-work--Create-reusable-AI-skills-for-Vanderlande_JR38184"/>
     <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Hong Kong, International (HK)</summary>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Data &amp; ML/AI · Veghel, Netherlands · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000146648344</id>
-    <title>Wavestone: Cybersecurity Management Consultant - Internship (5-6 months)</title>
-    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000146648344"/>
+    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--AI--driven-HR-innovation_JR38406</id>
+    <title>Vanderlande Industries: Internship: AI- driven HR innovation</title>
+    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--AI--driven-HR-innovation_JR38406"/>
     <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Hong Kong, International (HK)</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veghel, Netherlands · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--AI-powered-assistant-within-warehouse-execution-systems_JR38256</id>
+    <title>Vanderlande Industries: Internship: AI-powered assistant within warehouse execution systems</title>
+    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--AI-powered-assistant-within-warehouse-execution-systems_JR38256"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veghel, Netherlands · Python, Java, TypeScript, JavaScript, LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--Finance-process-automation---AI_JR38233</id>
+    <title>Vanderlande Industries: Internship: Finance process automation &amp; AI</title>
+    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--Finance-process-automation---AI_JR38233"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veghel, Netherlands · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--HMI---UX-Design-for-Smart-Automation_JR38392</id>
+    <title>Vanderlande Industries: Internship: HMI &amp; UX Design for Smart Automation</title>
+    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--HMI---UX-Design-for-Smart-Automation_JR38392"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Design · Veghel, Netherlands · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--IT-Infrastructure---systems_JR38223</id>
+    <title>Vanderlande Industries: Internship: IT Infrastructure &amp; systems</title>
+    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--IT-Infrastructure---systems_JR38223"/>
+    <updated>2026-10-15T18:01:24Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Veghel, Netherlands · Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10544726</id>
@@ -758,53 +806,5 @@
     <updated>2026-10-15T17:43:28Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Software · Poland, Gdansk · Python, C++, CUDA, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8268204</id>
-    <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Commercialization</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8268204"/>
-    <updated>2026-10-15T17:43:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Warsaw, Poland · C++ · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376</id>
-    <title>Aptiv: Cloud Engineer Intern</title>
-    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376"/>
-    <updated>2026-10-13T01:33:38Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · CAN Kanata (2), ON - WR · Python, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383</id>
-    <title>Aptiv: Cloud Engineering Intern</title>
-    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383"/>
-    <updated>2026-10-13T01:33:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · CAN Kanata (2), ON - WR · Python, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aptiv:/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375</id>
-    <title>Aptiv: Cloud Software Engineer Intern</title>
-    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375"/>
-    <updated>2026-10-13T01:33:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · CAN Kanata (2), ON - WR · Python, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:databricks:6865687002</id>
-    <title>Databricks: Software Engineering Intern (2027)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"/>
-    <updated>2026-10-12T19:14:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada · Python, Java, C++, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154992819</id>
-    <title>Bosch: Undergraduate Placement Year 2027 - AI Business Solutions Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154992819"/>
-    <updated>2026-10-12T19:14:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Coventry, England, United Kingdom</summary>
   </entry>
 </feed>

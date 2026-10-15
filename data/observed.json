@@ -173,7 +173,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 15,
+     "count": 16,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -181,6 +181,7 @@
       "amazon:amazon:10517567",
       "amazon:amazon:10535280",
       "amazon:amazon:10538066",
+      "amazon:amazon:10544726",
       "amazon:amazon:10553947",
       "amazon:amazon:10554586",
       "amazon:amazon:10554701",
@@ -1246,6 +1247,19 @@
     }
    }
   },
+  "expedia group": {
+   "name": "Expedia Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-15",
+     "role_ids": [
+      "workday:expedia:/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545",
+      "workday:expedia:/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551"
+     ],
+     "count": 2
+    }
+   }
+  },
   "fannie mae": {
    "name": "Fannie Mae",
    "cycles": {
@@ -1898,9 +1912,10 @@
       "oracle:jpmc.fa.oraclecloud.com:210775780",
       "oracle:jpmc.fa.oraclecloud.com:210776172",
       "oracle:jpmc.fa.oraclecloud.com:210788659",
-      "oracle:jpmc.fa.oraclecloud.com:210792010"
+      "oracle:jpmc.fa.oraclecloud.com:210792010",
+      "oracle:jpmc.fa.oraclecloud.com:210800615"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -2586,6 +2601,14 @@
       "smartrecruiters:PAConsulting:744000142851499"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-10-15",
+     "role_ids": [
+      "smartrecruiters:PAConsulting:744000155679795",
+      "smartrecruiters:PAConsulting:744000155685700"
+     ],
+     "count": 2
     }
    }
   },
@@ -3834,5 +3857,5 @@
    }
   }
  },
- "updated_at": "2026-10-15T07:37:58Z"
+ "updated_at": "2026-10-15T13:08:17Z"
 }

@@ -5,39 +5,87 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-15T07:37:58Z</updated>
+  <updated>2026-10-15T13:08:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:interac:/job/Toronto/Payments-Product-intern_REQ-2389</id>
-    <title>Interac: Payments Product intern</title>
-    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Payments-Product-intern_REQ-2389"/>
-    <updated>2026-10-15T07:37:58Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · PM · Toronto · SQL, Tableau · status: closed</summary>
+    <id>urn:intern-engine:amazon:amazon:10544726</id>
+    <title>Amazon: Business Developer Intern - 2027 - 6 months</title>
+    <link href="https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months"/>
+    <updated>2026-10-15T13:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Munich, International</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:interac:/job/Toronto/Information-Security-Intern_REQ-2385</id>
-    <title>Interac: Information Security Intern</title>
-    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Information-Security-Intern_REQ-2385"/>
-    <updated>2026-10-15T07:37:58Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Security · Toronto · status: closed</summary>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210800615</id>
+    <title>JPMorganChase: 2027 AI Research Associate Program - Internship</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210800615"/>
+    <updated>2026-10-15T13:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · LONDON, United Kingdom · Python, PyTorch, TensorFlow, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:interac:/job/Toronto/Product-Design-Intern_REQ-2388</id>
-    <title>Interac: Product Design Intern</title>
-    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Design-Intern_REQ-2388"/>
-    <updated>2026-10-15T07:37:58Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Design · Toronto · status: closed</summary>
+    <id>urn:intern-engine:workday:ag:/job/Gdansk/Intern-System-Integration-Developer_JR10451063</id>
+    <title>Airbus: Intern System Integration Developer</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-System-Integration-Developer_JR10451063"/>
+    <updated>2026-10-15T13:08:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Gdansk · Python, C#, JavaScript, Bash, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:interac:/job/Toronto/Software-Tester-Intern_REQ-2398</id>
-    <title>Interac: Software Tester Intern</title>
-    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Tester-Intern_REQ-2398"/>
-    <updated>2026-10-15T07:37:58Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto · status: closed</summary>
+    <id>urn:intern-engine:workday:ag:/job/Gdansk/Intern-Frontend-Developer_JR10451058</id>
+    <title>Airbus: Intern Frontend Developer</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Frontend-Developer_JR10451058"/>
+    <updated>2026-10-15T13:08:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Gdansk · TypeScript, JavaScript, React, Angular, Vue</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:expedia:/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551</id>
+    <title>Expedia Group: Software Development Engineering Intern - 2027 - London</title>
+    <link href="https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551"/>
+    <updated>2026-10-15T13:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · UK - London · Python, Java, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:expedia:/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545</id>
+    <title>Expedia Group: Mobile Engineering Intern - 2027 - London</title>
+    <link href="https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545"/>
+    <updated>2026-10-15T13:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · UK - London</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nxp:/job/Brno/AI-Software-developer---Intern_R-10064017-1</id>
+    <title>NXP Semiconductors: AI Software developer - Intern</title>
+    <link href="https://nxp.wd3.myworkdayjobs.com/careers/job/Brno/AI-Software-developer---Intern_R-10064017-1"/>
+    <updated>2026-10-15T13:08:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Brno · Python, C++, PyTorch, TensorFlow, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PAConsulting:744000155685700</id>
+    <title>PA Consulting: 2027 Summer Internship - Software &amp; AI Systems – Cambridge</title>
+    <link href="https://jobs.smartrecruiters.com/PAConsulting/744000155685700"/>
+    <updated>2026-10-15T13:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Melbourn, , United Kingdom · Python, C++, C#, Rust, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PAConsulting:744000155679795</id>
+    <title>PA Consulting: 2027 Summer Internship - Applied Scientist - Cambridge</title>
+    <link href="https://jobs.smartrecruiters.com/PAConsulting/744000155679795"/>
+    <updated>2026-10-15T13:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Melbourn, , United Kingdom</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/United-Kingdom-London/Game-Development-Tools-Intern--AI-Focus-_R108251</id>
+    <title>Tencent: Game Development Tools Intern (AI Focus)</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Game-Development-Tools-Intern--AI-Focus-_R108251"/>
+    <updated>2026-10-15T13:08:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United Kingdom-London · Python, C++, C#, TypeScript, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:interac:/job/Toronto/Business-Systems---AI-Intern_REQ-2393</id>
@@ -48,12 +96,44 @@
     <summary>Winter 2027 · Data &amp; ML/AI · Toronto · Python, SQL, LLMs · status: closed</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:interac:/job/Toronto/Information-Security-Intern_REQ-2385</id>
+    <title>Interac: Information Security Intern</title>
+    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Information-Security-Intern_REQ-2385"/>
+    <updated>2026-10-15T07:37:58Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Security · Toronto · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:interac:/job/Toronto/Payments-Product-intern_REQ-2389</id>
+    <title>Interac: Payments Product intern</title>
+    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Payments-Product-intern_REQ-2389"/>
+    <updated>2026-10-15T07:37:58Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · PM · Toronto · SQL, Tableau · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:interac:/job/Toronto/Product-Design-Intern_REQ-2388</id>
+    <title>Interac: Product Design Intern</title>
+    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Design-Intern_REQ-2388"/>
+    <updated>2026-10-15T07:37:58Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Design · Toronto · status: closed</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:interac:/job/Toronto/Product-Intern--Money-Movement_REQ-2386</id>
     <title>Interac: Product Intern, Money Movement</title>
     <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2386"/>
     <updated>2026-10-15T07:37:58Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · PM · Toronto · Python, SQL, Tableau · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:interac:/job/Toronto/Software-Tester-Intern_REQ-2398</id>
+    <title>Interac: Software Tester Intern</title>
+    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Tester-Intern_REQ-2398"/>
+    <updated>2026-10-15T07:37:58Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Toronto · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739956005</id>
@@ -635,9 +715,9 @@
     <id>urn:intern-engine:workday:morningstar:/job/Madrid/Data-Analyst-Intern_REQ-058468</id>
     <title>Morningstar: Data Analyst Intern (Italian Speaker)</title>
     <link href="https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Madrid/Data-Analyst-Intern_REQ-058468"/>
-    <updated>2026-10-09T00:33:48Z</updated>
+    <updated>2026-10-07T15:01:19Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Madrid · status: closed</summary>
+    <summary>Not stated · Data &amp; ML/AI · Madrid</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256666007</id>
@@ -726,85 +806,5 @@
     <updated>2026-10-06T16:27:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Vancouver, British Columbia, Canada · $35–$55/hr · C++, C#, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:khanacademy:8250259</id>
-    <title>Khan Academy: Software Engineer Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/khanacademy/jobs/8250259"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Remote (US + Canada Only) · JavaScript, React, GraphQL, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153769414</id>
-    <title>Bosch: Mandatory Internship Full-Stack Development for Release Automation of Automotive Embedded Middleware Software</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153769414"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Abstatt, BW, Germany · Python, Node.js</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153799209</id>
-    <title>Bosch: ETAS - Thesis Project Internship – Generative AI for Automotive Safety</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153799209"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Torino, Piemonte, International (IT) (Remote) · LLMs, Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cae:/job/Montreal-St-Laurent/Software-Developer-Coop_123904</id>
-    <title>CAE: Software Developer Coop</title>
-    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Montreal (St. Laurent) · Python, Java, C#, TypeScript, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gresearch:/job/London-UK/Machine-Learning-Engineer-Intern_R3773</id>
-    <title>G-Research: Machine Learning Engineer Internship</title>
-    <link href="https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · London, UK · Python, PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gsknch:/job/Switzerland---Nyon/Data-Engineer-Intern_548707</id>
-    <title>Haleon: Data Engineer Intern</title>
-    <link href="https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Switzerland---Nyon/Data-Engineer-Intern_548707"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Switzerland - Nyon · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lumentum:/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370</id>
-    <title>Lumentum: Embedded Software Engineer Co-op/Intern</title>
-    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada - Ottawa (Bill Leathem) · $24–$35/hr · C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mmc:/job/Milan---Viale-Bodio/IT-Implentation---Ditigal-Transformation-Consulting_R_339872</id>
-    <title>Marsh: Ditigal Transformation &amp; Software Implementation Consultant Internship</title>
-    <link href="https://mmc.wd1.myworkdayjobs.com/mmc/job/Milan---Viale-Bodio/IT-Implentation---Ditigal-Transformation-Consulting_R_339872"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Milan - Viale Bodio</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:morningstar:/job/Madrid/Multilingual-Data-Analyst-Intern_REQ-049644-1</id>
-    <title>Morningstar: Multilingual Data Analyst Intern</title>
-    <link href="https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Madrid/Multilingual-Data-Analyst-Intern_REQ-049644-1"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Madrid</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:resmed:/job/Dublin-Ireland/Intern--Software-Engineering--Devices_JR_054513</id>
-    <title>Resmed: Intern, Software Engineering, Devices</title>
-    <link href="https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Dublin-Ireland/Intern--Software-Engineering--Devices_JR_054513"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dublin, Ireland · Python, Java, C++</summary>
   </entry>
 </feed>

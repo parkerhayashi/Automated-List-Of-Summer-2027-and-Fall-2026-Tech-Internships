@@ -1,6 +1,34 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10544726",
+      "oracle:jpmc.fa.oraclecloud.com:210800615",
+      "workday:ag:/job/Gdansk/Intern-System-Integration-Developer_JR10451063",
+      "workday:ag:/job/Gdansk/Intern-Frontend-Developer_JR10451058",
+      "smartrecruiters:BoschGroup:744000155702622",
+      "workday:expedia:/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551",
+      "workday:expedia:/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545",
+      "workday:morningstar:/job/Madrid/Data-Analyst-Intern_REQ-058468",
+      "workday:nxp:/job/Brno/AI-Software-developer---Intern_R-10064017-1",
+      "smartrecruiters:PAConsulting:744000155685700",
+      "smartrecruiters:PAConsulting:744000155679795",
+      "smartrecruiters:Sia:744000155735429",
+      "workday:tencent:/job/United-Kingdom-London/Game-Development-Tools-Intern--AI-Focus-_R108251"
+    ],
+    "telegram": [
+      "amazon:amazon:10544726",
+      "oracle:jpmc.fa.oraclecloud.com:210800615",
+      "workday:ag:/job/Gdansk/Intern-System-Integration-Developer_JR10451063",
+      "workday:ag:/job/Gdansk/Intern-Frontend-Developer_JR10451058",
+      "smartrecruiters:BoschGroup:744000155702622",
+      "workday:expedia:/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551",
+      "workday:expedia:/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545",
+      "workday:morningstar:/job/Madrid/Data-Analyst-Intern_REQ-058468",
+      "workday:nxp:/job/Brno/AI-Software-developer---Intern_R-10064017-1",
+      "smartrecruiters:PAConsulting:744000155685700",
+      "smartrecruiters:PAConsulting:744000155679795",
+      "smartrecruiters:Sia:744000155735429",
+      "workday:tencent:/job/United-Kingdom-London/Game-Development-Tools-Intern--AI-Focus-_R108251"
+    ]
   }
 }

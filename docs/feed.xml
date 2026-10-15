@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-15T02:03:26Z</updated>
+  <updated>2026-10-15T07:37:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:interac:/job/Toronto/Payments-Product-intern_REQ-2389</id>
+    <title>Interac: Payments Product intern</title>
+    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Payments-Product-intern_REQ-2389"/>
+    <updated>2026-10-15T07:37:58Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · PM · Toronto · SQL, Tableau · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:interac:/job/Toronto/Information-Security-Intern_REQ-2385</id>
+    <title>Interac: Information Security Intern</title>
+    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Information-Security-Intern_REQ-2385"/>
+    <updated>2026-10-15T07:37:58Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Security · Toronto · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:interac:/job/Toronto/Product-Design-Intern_REQ-2388</id>
+    <title>Interac: Product Design Intern</title>
+    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Design-Intern_REQ-2388"/>
+    <updated>2026-10-15T07:37:58Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Design · Toronto · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:interac:/job/Toronto/Software-Tester-Intern_REQ-2398</id>
+    <title>Interac: Software Tester Intern</title>
+    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Tester-Intern_REQ-2398"/>
+    <updated>2026-10-15T07:37:58Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Toronto · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:interac:/job/Toronto/Business-Systems---AI-Intern_REQ-2393</id>
+    <title>Interac: Business Systems &amp; AI Intern</title>
+    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393"/>
+    <updated>2026-10-15T07:37:58Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Toronto · Python, SQL, LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:interac:/job/Toronto/Product-Intern--Money-Movement_REQ-2386</id>
+    <title>Interac: Product Intern, Money Movement</title>
+    <link href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2386"/>
+    <updated>2026-10-15T07:37:58Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · PM · Toronto · Python, SQL, Tableau · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739956005</id>
     <title>Astera Labs: Firmware Engineer Intern Fall Co-op</title>
@@ -758,53 +806,5 @@
     <updated>2026-10-06T16:27:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Dublin, Ireland · Python, Java, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sanofi:/job/Paris/internship-6-months---digital-product-management_R2873992</id>
-    <title>Sanofi: internship 6 months digital product management</title>
-    <link href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/internship-6-months---digital-product-management_R2873992"/>
-    <updated>2026-10-06T16:27:31Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · PM · Paris · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256579007</id>
-    <title>Tenstorrent: AI Software Intern - Cloud, Infrastructure &amp; Data Centre Deployment (Canada)</title>
-    <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007"/>
-    <updated>2026-10-06T09:38:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto, Ontario, Canada · Python, Bash, Kubernetes, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Keenfinity:744000153689374</id>
-    <title>Keenfinity: Software Engineering Intern – Device Simulation &amp; Digital Twin</title>
-    <link href="https://jobs.smartrecruiters.com/Keenfinity/744000153689374"/>
-    <updated>2026-10-06T21:32:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Eindhoven, NB, International (NL) (Hybrid) · C++, C#, .NET, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645</id>
-    <title>NVIDIA: Software Engineer, Data Center Compute Software Tools (RDSS Intern)</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645"/>
-    <updated>2026-10-06T09:38:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Taiwan, Taipei · Python, C++, Bash, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:momentenergy:4434575009</id>
-    <title>Moment Energy: Firmware Engineering Co-op</title>
-    <link href="https://job-boards.greenhouse.io/momentenergy/jobs/4434575009"/>
-    <updated>2026-10-06T02:42:42Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Hardware · Surrey, BC · C++, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:momentenergy:4434577009</id>
-    <title>Moment Energy: Software Engineering Co-op</title>
-    <link href="https://job-boards.greenhouse.io/momentenergy/jobs/4434577009"/>
-    <updated>2026-10-06T02:42:42Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Surrey, BC · Git · status: closed</summary>
   </entry>
 </feed>

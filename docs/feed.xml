@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-14T23:27:13Z</updated>
+  <updated>2026-10-15T02:03:26Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:greenhouse:later:8889650002</id>
-    <title>Later: Data Science Co-op</title>
-    <link href="https://job-boards.greenhouse.io/later/jobs/8889650002"/>
-    <updated>2026-10-14T23:27:13Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Vancouver, British Columbia, Canada · Python, SQL, Flask, AWS, Docker · status: closed</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739956005</id>
     <title>Astera Labs: Firmware Engineer Intern Fall Co-op</title>
@@ -30,6 +22,14 @@
     <updated>2026-10-14T23:27:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Vancouver, BC, Canada · $45/hr · Python, C++, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:later:8889650002</id>
+    <title>Later: Data Science Co-op</title>
+    <link href="https://job-boards.greenhouse.io/later/jobs/8889650002"/>
+    <updated>2026-10-14T23:27:13Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Vancouver, British Columbia, Canada · Python, SQL, Flask, AWS, Docker · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workable:blacklinesafety:4A56A8BBE3</id>

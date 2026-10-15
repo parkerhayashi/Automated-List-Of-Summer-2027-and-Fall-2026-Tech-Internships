@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-15T13:08:17Z",
- "data_as_of": "2026-10-15T13:08:17Z",
- "rendered_at": "2026-10-15T13:08:18Z",
+ "generated_at": "2026-10-15T18:01:24Z",
+ "data_as_of": "2026-10-15T18:01:24Z",
+ "rendered_at": "2026-10-15T18:01:25Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -73,7 +73,7 @@
    "expected": "2026-05-07",
    "days_until": -161,
    "status": "open",
-   "url": "https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124",
+   "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
    "note": "quant cycle opens very early",
    "provenance": {
     "type": "engine-observed",
@@ -576,25 +576,6 @@
    }
   },
   {
-   "company": "Waymo",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -42,
-   "status": "open",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729",
-   "note": "fall opening for next summer",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-03"
-   }
-  },
-  {
    "company": "PricewaterhouseCoopers (PwC)",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -701,6 +682,25 @@
    "days_until": -34,
    "status": "open",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-11"
+   }
+  },
+  {
+   "company": "Nex",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -34,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/nex/jobs/5420203008",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1203,25 +1203,6 @@
    }
   },
   {
-   "company": "Tenstorrent",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-07"
-   }
-  },
-  {
    "company": "MongoDB",
    "last_cycle_posted": "",
    "posted_on": "2026-10-09",
@@ -1308,7 +1289,7 @@
    "expected": "2026-10-15",
    "days_until": 0,
    "status": "open",
-   "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551",
+   "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1327,7 +1308,7 @@
    "expected": "2026-10-15",
    "days_until": 0,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/PAConsulting/744000155685700",
+   "url": "https://jobs.smartrecruiters.com/PAConsulting/744000155679795",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -5782,6 +5763,25 @@
    }
   },
   {
+   "company": "Waymo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -42,
+   "status": "dropped",
+   "url": "",
+   "note": "fall opening for next summer",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
    "company": "Intact",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -5915,6 +5915,25 @@
    }
   },
   {
+   "company": "Tenstorrent",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-07"
+   }
+  },
+  {
    "company": "Workday",
    "last_cycle_posted": "",
    "posted_on": "2026-10-09",
@@ -5934,5 +5953,5 @@
    }
   }
  ],
- "count": 312
+ "count": 313
 }

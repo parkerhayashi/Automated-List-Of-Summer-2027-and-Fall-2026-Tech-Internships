@@ -173,7 +173,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 16,
+     "count": 17,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -190,6 +190,7 @@
       "amazon:amazon:10555855",
       "amazon:amazon:10555867",
       "amazon:amazon:10555873",
+      "amazon:amazon:10568017",
       "amazon:amazon:10571575"
      ]
     }
@@ -1033,10 +1034,12 @@
      "role_ids": [
       "greenhouse:databricks:6865687002",
       "greenhouse:databricks:6866531002",
+      "greenhouse:databricks:6866534002",
+      "greenhouse:databricks:8133710002",
       "greenhouse:databricks:8145776002",
       "greenhouse:databricks:8847738002"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -1193,9 +1196,11 @@
      "role_ids": [
       "greenhouse:dvtrading:4719119005",
       "greenhouse:dvtrading:4719125005",
+      "greenhouse:dvtrading:4733877005",
+      "greenhouse:dvtrading:4733880005",
       "greenhouse:dvtrading:4736603005"
      ],
-     "count": 3
+     "count": 5
     }
    }
   },
@@ -1790,12 +1795,15 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-01",
-     "count": 4,
+     "count": 7,
      "role_ids": [
       "greenhouse:imc:4823923101",
       "greenhouse:imc:4823924101",
       "greenhouse:imc:4907399101",
-      "greenhouse:imc:4907430101"
+      "greenhouse:imc:4907430101",
+      "greenhouse:imc:4941205101",
+      "greenhouse:imc:4941206101",
+      "greenhouse:imc:4941208101"
      ]
     }
    }
@@ -1911,11 +1919,13 @@
       "oracle:jpmc.fa.oraclecloud.com:210775223",
       "oracle:jpmc.fa.oraclecloud.com:210775780",
       "oracle:jpmc.fa.oraclecloud.com:210776172",
+      "oracle:jpmc.fa.oraclecloud.com:210784369",
+      "oracle:jpmc.fa.oraclecloud.com:210784371",
       "oracle:jpmc.fa.oraclecloud.com:210788659",
       "oracle:jpmc.fa.oraclecloud.com:210792010",
       "oracle:jpmc.fa.oraclecloud.com:210800615"
      ],
-     "count": 15
+     "count": 17
     }
    }
   },
@@ -2124,9 +2134,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-02",
      "role_ids": [
-      "greenhouse:mwinternshipprogram:8772688002"
+      "greenhouse:mwinternshipprogram:8772688002",
+      "greenhouse:mwinternshipprogram:8857614002"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2367,6 +2378,23 @@
       "workday:newrez:/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
      ],
      "count": 1
+    }
+   }
+  },
+  "nex": {
+   "name": "Nex",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "greenhouse:nex:5419756008",
+      "greenhouse:nex:5420003008",
+      "greenhouse:nex:5420203008",
+      "greenhouse:nex:5420649008",
+      "greenhouse:nex:5420802008",
+      "greenhouse:nex:5422027008"
+     ],
+     "count": 6
     }
    }
   },
@@ -3063,9 +3091,11 @@
      "first_posted": "2026-09-08",
      "role_ids": [
       "greenhouse:schonfeld:8187178",
-      "greenhouse:schonfeld:8207942"
+      "greenhouse:schonfeld:8207942",
+      "greenhouse:schonfeld:8238448",
+      "greenhouse:schonfeld:8238451"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -3857,5 +3887,5 @@
    }
   }
  },
- "updated_at": "2026-10-15T13:08:17Z"
+ "updated_at": "2026-10-15T18:01:24Z"
 }

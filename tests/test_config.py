@@ -64,7 +64,7 @@ def test_partner_countries_are_supported_regions():
     })
     assert config.want_countries(cfg) == frozenset({"France", "United Kingdom"})
     assert config.region_names(cfg) == [
-        "Canada", "Japan", "France", "United Kingdom",
+        "Canada", "Japan", "United Kingdom", "France",
     ]
     assert config.region_phrase(cfg) == "Canada, Japan, and 2 other countries"
     assert "France" in config.region_scope_phrase(cfg)
@@ -77,8 +77,9 @@ def test_full_partner_list_validates():
         "cycles": ["Summer 2027"],
     })
     assert len(config.want_countries(cfg)) == len(config.PARTNER_REGION_NAMES)
-    assert config.region_phrase(cfg) == "Canada, Japan, and 25 other countries"
-    assert config.display_region_keys(cfg) == ["Canada", "Japan", "IEC"]
+    assert config.region_phrase(cfg) == "Canada, Japan, and 20 other countries"
+    assert config.display_region_keys(cfg) == ["Canada", "IEC"]
+    assert config.iec_country_phrase(cfg).startswith("Japan, United Kingdom")
     assert "France" in config.iec_country_phrase(cfg)
     assert "United Kingdom" in config.iec_country_phrase(cfg)
 

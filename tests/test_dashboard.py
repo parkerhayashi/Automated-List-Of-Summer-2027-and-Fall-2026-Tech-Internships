@@ -98,5 +98,5 @@ def test_canada_and_iec_are_separate_dashboard_sections():
     assert 'data-region-head="Canada"' in html
     assert 'data-region-head="IEC"' in html
     assert 'id="region"' in html
-    assert ">IEC countries<" in html
+    assert ">Japan &amp; IEC countries<" in html
     assert "tr.dataset.region === rg" in html

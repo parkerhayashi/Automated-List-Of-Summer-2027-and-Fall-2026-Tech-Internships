@@ -242,7 +242,7 @@ class TestIdenticalOpenings:
 
 
 class TestGeoSections:
-    """Canadian jobs and IEC-country jobs are separate README sections."""
+    """Canada is its own README section; Japan and IEC countries share one."""
 
     def test_canada_and_iec_are_not_mixed(self, outputs):
         store = {
@@ -253,19 +253,17 @@ class TestGeoSections:
         readme.generate(store)
         text = (outputs / "README.md").read_text(encoding="utf-8")
         assert "## Summer 2027 — Canada  (1 employer-stated)" in text
-        assert "## Summer 2027 — Japan  (1 employer-stated)" in text
-        assert "## Summer 2027 — IEC countries  (1 employer-stated)" in text
+        assert "## Summer 2027 — Japan & IEC countries  (2 employer-stated)" in text
         canada = text.index("Summer 2027 — Canada")
-        japan = text.index("Summer 2027 — Japan")
-        iec = text.index("Summer 2027 — IEC countries")
-        assert canada < japan < iec
-        assert "Toronto" in text[canada:japan]
+        iec = text.index("Summer 2027 — Japan & IEC countries")
+        assert canada < iec
+        assert "Toronto" in text[canada:iec]
         assert "Paris" in text[iec:]
-        assert "Tokyo" in text[japan:iec]
+        assert "Tokyo" in text[iec:]
         assert "**Jump to:**" in text
         assert "[Canada](#canada)" in text
-        assert "[IEC countries](#iec)" in text
-        assert "Located in Australia" in text
+        assert "[Japan & IEC countries](#iec)" in text
+        assert "Located in Japan, United Kingdom" in text
 
     def test_inferred_iec_does_not_land_in_canada(self, outputs):
         store = {
@@ -277,9 +275,9 @@ class TestGeoSections:
         readme.generate(store)
         text = (outputs / "README.md").read_text(encoding="utf-8")
         assert "Recently posted — cycle not stated — Canada" in text
-        assert "Recently posted — cycle not stated — IEC countries" in text
+        assert "Recently posted — cycle not stated — Japan & IEC countries" in text
         canada = text.index("cycle not stated — Canada")
-        iec = text.index("cycle not stated — IEC countries")
+        iec = text.index("cycle not stated — Japan & IEC countries")
         assert "Montreal" in text[canada:iec]
         assert "Berlin" in text[iec:]
 

@@ -358,11 +358,20 @@ class TestPartnerCountries:
             ("Sydney, Australia", "Australia"),
             ("Melbourne, VIC, AU", "Australia"),
             ("Vienna, Austria", "Austria"),
-            ("Santiago, Chile", "Chile"),
-            ("San José, Costa Rica", "Costa Rica"),
-            ("Zagreb, Croatia", "Croatia"),
-            ("Prague, Czechia", "Czech Republic"),
-            ("Tallinn, Estonia", "Estonia"),
+            ("Prague, Czechia", "Czechia"),
+            ("Brno, Czech Republic", "Czechia"),
+            ("Amsterdam, Netherlands", "Netherlands"),
+            ("Eindhoven, NLD", "Netherlands"),
+            ("Hong Kong", "Hong Kong"),
+            ("Kowloon, HK", "Hong Kong"),
+            ("Seoul, South Korea", "South Korea"),
+            ("Seongnam, Korea, Republic of", "South Korea"),
+            ("Auckland, New Zealand", "New Zealand"),
+            ("Wellington, NZ", "New Zealand"),
+            ("Copenhagen, Denmark", "Denmark"),
+            ("Aarhus, DK", "Denmark"),
+            ("Brussels, Belgium", "Belgium"),
+            ("Antwerp, BE", "Belgium"),
             ("Paris, France", "France"),
             ("Lyon, FR", "France"),
             ("Berlin, Germany", "Germany"),
@@ -373,14 +382,7 @@ class TestPartnerCountries:
             ("Dublin, Ireland", "Ireland"),
             ("Cork, IE", "Ireland"),
             ("Milan, Italy", "Italy"),
-            ("Riga, Latvia", "Latvia"),
-            ("Vilnius, Lithuania", "Lithuania"),
-            ("Luxembourg", "Luxembourg"),
-            ("Oslo, Norway", "Norway"),
-            ("Warsaw, Poland", "Poland"),
             ("Lisbon, Portugal", "Portugal"),
-            ("Bratislava, Slovakia", "Slovakia"),
-            ("Ljubljana, Slovenia", "Slovenia"),
             ("Madrid, Spain", "Spain"),
             ("Barcelona, ES", "Spain"),
             ("Stockholm, Sweden", "Sweden"),
@@ -414,6 +416,10 @@ class TestPartnerCountries:
             "Warsaw, IN",
             "Geneva, NY",
             "Vienna, VA",
+            "Amsterdam, NY",
+            "Holland, MI",
+            "Wellington, FL",
+            "Auckland, CA",
         )
         for loc in collisions:
             assert filters.partner_country(loc) is None, loc
@@ -433,11 +439,13 @@ class TestPartnerCountries:
         )
 
     def test_unlisted_country_is_out(self):
-        assert filters.partner_country("Amsterdam, Netherlands") is None
-        assert not filters.region_ok(
-            "Amsterdam, Netherlands", want_us=False, want_canada=False,
-            want_countries=self.COUNTRIES,
-        )
+        for loc in ("Warsaw, Poland", "Oslo, Norway", "Santiago, Chile",
+                    "Pyongyang, North Korea"):
+            assert filters.partner_country(loc) is None, loc
+            assert not filters.region_ok(
+                loc, want_us=False, want_canada=False,
+                want_countries=self.COUNTRIES,
+            ), loc
 
     def test_iec_title_does_not_admit_a_foreign_office(self):
         assert not filters.region_ok(
@@ -450,10 +458,10 @@ class TestPartnerCountries:
             want_countries={"France"},
         )
 
-    def test_display_region_splits_canada_from_iec(self):
+    def test_display_region_splits_canada_from_japan_and_iec(self):
         assert filters.display_region("Toronto, Ontario, Canada") == "Canada"
         assert filters.display_region("Paris, France") == "IEC"
-        assert filters.display_region("Tokyo, Japan") == "Japan"
+        assert filters.display_region("Tokyo, Japan") == "IEC"
         assert filters.display_region("London, UK; Toronto, Canada") == "Canada"
 
 

@@ -35,7 +35,7 @@ A posting must pass all of:
    any.
 3. **It's in the configured region** — Canada, Japan, and the IEC countries
    listed in `data/config.json` (this fork). The README splits them: Canadian
-   jobs are one section, IEC-country jobs are another, Japan is a third.
+   jobs are the main section; Japan and the IEC countries share a second one.
    Location matching is precision-first: US and Canadian homonyms (Paris TX,
    London Ontario, Melbourne FL, Athens GA) stay out. A title that names a
    visa program does not pull a foreign office in.

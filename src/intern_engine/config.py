@@ -64,42 +64,38 @@ _JP_TOKENS = {"japan", "jp", "jpn"}
 # Canonical names, in the order they appear on the public list. Tokens below
 # also accept a few aliases ("UK", "Czechia") so config stays readable.
 PARTNER_REGION_NAMES = (
-    "Australia", "Austria", "Chile", "Costa Rica", "Croatia",
-    "Czech Republic", "Estonia", "France", "Germany", "Greece",
-    "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg",
-    "Norway", "Poland", "Portugal", "Slovakia", "Slovenia",
-    "Spain", "Sweden", "Switzerland", "Taiwan", "United Kingdom",
+    "United Kingdom", "Ireland", "Netherlands", "Germany", "Switzerland",
+    "Hong Kong", "Sweden", "Australia", "South Korea", "Taiwan",
+    "New Zealand", "France", "Spain", "Italy", "Denmark",
+    "Belgium", "Austria", "Portugal", "Greece", "Czechia",
 )
 _PARTNER_TOKENS = {
-    "australia": "Australia",
-    "austria": "Austria",
-    "chile": "Chile",
-    "costa rica": "Costa Rica",
-    "croatia": "Croatia",
-    "czech republic": "Czech Republic",
-    "czechia": "Czech Republic",
-    "estonia": "Estonia",
-    "france": "France",
-    "germany": "Germany",
-    "greece": "Greece",
-    "ireland": "Ireland",
-    "italy": "Italy",
-    "latvia": "Latvia",
-    "lithuania": "Lithuania",
-    "luxembourg": "Luxembourg",
-    "norway": "Norway",
-    "poland": "Poland",
-    "portugal": "Portugal",
-    "slovakia": "Slovakia",
-    "slovenia": "Slovenia",
-    "spain": "Spain",
-    "sweden": "Sweden",
-    "switzerland": "Switzerland",
-    "taiwan": "Taiwan",
     "united kingdom": "United Kingdom",
     "uk": "United Kingdom",
     "great britain": "United Kingdom",
     "gb": "United Kingdom",
+    "ireland": "Ireland",
+    "netherlands": "Netherlands",
+    "the netherlands": "Netherlands",
+    "germany": "Germany",
+    "switzerland": "Switzerland",
+    "hong kong": "Hong Kong",
+    "sweden": "Sweden",
+    "australia": "Australia",
+    "south korea": "South Korea",
+    "korea": "South Korea",
+    "taiwan": "Taiwan",
+    "new zealand": "New Zealand",
+    "france": "France",
+    "spain": "Spain",
+    "italy": "Italy",
+    "denmark": "Denmark",
+    "belgium": "Belgium",
+    "austria": "Austria",
+    "portugal": "Portugal",
+    "greece": "Greece",
+    "czechia": "Czechia",
+    "czech republic": "Czechia",
 }
 
 
@@ -274,9 +270,8 @@ def display_region_keys(cfg: dict) -> list[str]:
     keys = []
     if want_canada(cfg):
         keys.append("Canada")
-    if want_japan(cfg):
-        keys.append("Japan")
-    if want_countries(cfg):
+    # Japan shares the secondary section with the IEC partner countries.
+    if want_japan(cfg) or want_countries(cfg):
         keys.append("IEC")
     if want_us(cfg):
         keys.append("United States")
@@ -286,7 +281,9 @@ def display_region_keys(cfg: dict) -> list[str]:
 
 
 def iec_country_phrase(cfg: dict) -> str:
-    names = [name for name in PARTNER_REGION_NAMES if name in want_countries(cfg)]
+    """Countries in the secondary section: Japan first, then partner countries."""
+    names = ["Japan"] if want_japan(cfg) else []
+    names += [name for name in PARTNER_REGION_NAMES if name in want_countries(cfg)]
     if not names:
         return ""
     if len(names) == 1:

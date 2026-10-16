@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:astrazeneca:/job/Spain---Barcelona/AI---Data-Science-Internship-Program---AstraZeneca-Barcelona_R-261531",
-      "workday:astrazeneca:/job/Canada---Mississauga/AI-Business-Support-Specialist-Intern_R-261993",
-      "workday:ing:/job/ACT-Amsterdam---Acanthus/INTERNSHIP-SOFTWARE-ENGINEER_REQ-10119555"
-    ],
-    "telegram": [
-      "workday:astrazeneca:/job/Spain---Barcelona/AI---Data-Science-Internship-Program---AstraZeneca-Barcelona_R-261531",
-      "workday:astrazeneca:/job/Canada---Mississauga/AI-Business-Support-Specialist-Intern_R-261993",
-      "workday:ing:/job/ACT-Amsterdam---Acanthus/INTERNSHIP-SOFTWARE-ENGINEER_REQ-10119555"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

@@ -91,9 +91,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-28",
      "role_ids": [
+      "workday:ag:/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775",
+      "workday:ag:/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326",
       "workday:ag:/job/Toulouse-Area/STAGE-2027---Change-Management---AI-Innovation-Intern_JR10440133"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -3887,5 +3889,5 @@
    }
   }
  },
- "updated_at": "2026-10-16T04:40:20Z"
+ "updated_at": "2026-10-16T09:32:35Z"
 }

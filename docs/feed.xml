@@ -5,23 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-16T14:30:06Z</updated>
+  <updated>2026-10-16T18:37:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:philips:/job/Eindhoven/Internship--Synthetic-Data-Generation-for-Dental-AI--Master-_593359</id>
-    <title>Philips: Internship: Synthetic Data Generation for Dental AI (Master)</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Synthetic-Data-Generation-for-Dental-AI--Master-_593359"/>
-    <updated>2026-10-16T14:30:06Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Eindhoven · Python, PyTorch, LLMs, Computer Vision · status: closed</summary>
+    <id>urn:intern-engine:oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:19073</id>
+    <title>Citco: Product Intern</title>
+    <link href="https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19073"/>
+    <updated>2026-10-16T18:37:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · London, United Kingdom</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:astrazeneca:/job/Spain---Barcelona/AI---Data-Science-Internship-Program---AstraZeneca-Barcelona_R-261531</id>
-    <title>AstraZeneca: AI &amp; Data Science Internship Program – AstraZeneca Barcelona</title>
-    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/AI---Data-Science-Internship-Program---AstraZeneca-Barcelona_R-261531"/>
-    <updated>2026-10-16T14:30:06Z</updated>
+    <id>urn:intern-engine:ashby:sereact:baae4b51-6e24-4044-93aa-9d7f1b7671dd</id>
+    <title>Sereact: Cybersecurity Intern</title>
+    <link href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd"/>
+    <updated>2026-10-16T18:37:55Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Spain - Barcelona</summary>
+    <summary>Not stated · Security · Stuttgart Schockenriedstr. 17 · Python, TypeScript, JavaScript, GCP, Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/Regulatory-Innovation---AI-Transformation-Intern_R-262017</id>
+    <title>Alexion: Regulatory Innovation &amp; AI Transformation Intern</title>
+    <link href="https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Regulatory-Innovation---AI-Transformation-Intern_R-262017"/>
+    <updated>2026-10-16T18:37:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:fmr:/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044</id>
+    <title>Fidelity Investments: Enterprise Infrastructure &amp; Operations Internship</title>
+    <link href="https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044"/>
+    <updated>2026-10-16T18:37:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Galway, Ireland</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:pg:/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204</id>
+    <title>Procter &amp; Gamble (P&amp;G): Data Engineer Internship (m/f/x)</title>
+    <link href="https://pg.wd5.myworkdayjobs.com/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204"/>
+    <updated>2026-10-16T18:37:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · LISBON GENERAL OFFICE · Python, SQL, Git, Databricks</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/AI-Business-Support-Specialist-Intern_R-261993</id>
@@ -32,12 +56,28 @@
     <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:astrazeneca:/job/Spain---Barcelona/AI---Data-Science-Internship-Program---AstraZeneca-Barcelona_R-261531</id>
+    <title>AstraZeneca: AI &amp; Data Science Internship Program – AstraZeneca Barcelona</title>
+    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/AI---Data-Science-Internship-Program---AstraZeneca-Barcelona_R-261531"/>
+    <updated>2026-10-16T14:30:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Spain - Barcelona</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:ing:/job/ACT-Amsterdam---Acanthus/INTERNSHIP-SOFTWARE-ENGINEER_REQ-10119555</id>
     <title>ING: INTERNSHIP SOFTWARE ENGINEER</title>
     <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/INTERNSHIP-SOFTWARE-ENGINEER_REQ-10119555"/>
     <updated>2026-10-16T14:30:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · ACT (Amsterdam - Acanthus) · Python, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Eindhoven/Internship--Synthetic-Data-Generation-for-Dental-AI--Master-_593359</id>
+    <title>Philips: Internship: Synthetic Data Generation for Dental AI (Master)</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Synthetic-Data-Generation-for-Dental-AI--Master-_593359"/>
+    <updated>2026-10-16T14:30:06Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Eindhoven · Python, PyTorch, LLMs, Computer Vision · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-14T10:51:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Toronto, Ontario, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada · Python, C++, Verilog</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182</id>
-    <title>BP: Summer Internship - Digital - Data, AI &amp; Engineering - UK</title>
-    <link href="https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182"/>
-    <updated>2026-10-14T10:51:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · GB: London - 25 North Colonnade · AWS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948</id>
-    <title>NVIDIA: System Software Engineer - Base OS (RDSS Intern)</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948"/>
-    <updated>2026-10-14T05:36:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Taiwan, Taipei · Python, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:pebl:49d8b355-620b-4dde-be4b-5489abf4c9cf</id>
-    <title>Pebl: Software Engineering, Intern</title>
-    <link href="https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf"/>
-    <updated>2026-10-14T00:53:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, Ontario · CA$35 per hour · TypeScript, JavaScript, SQL, AWS, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739544005</id>
-    <title>Astera Labs: Firmware Engineer Intern Spring Co-Op</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005"/>
-    <updated>2026-10-14T00:53:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Vancouver, BC, Canada · $45/hr · Python, C++, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bpinternational:/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081</id>
-    <title>BP: Summer Internship - Digital - Data, AI &amp; Engineering - UK</title>
-    <link href="https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081"/>
-    <updated>2026-10-14T15:45:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · GB: London - 25 North Colonnade · AWS, Azure · status: closed</summary>
   </entry>
 </feed>

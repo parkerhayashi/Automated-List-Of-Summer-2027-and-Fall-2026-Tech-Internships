@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10581332",
+      "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:19073",
+      "ashby:sereact:baae4b51-6e24-4044-93aa-9d7f1b7671dd",
+      "workday:astrazeneca:/job/Canada---Mississauga/Regulatory-Innovation---AI-Transformation-Intern_R-262017",
+      "workday:fmr:/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044",
+      "workday:pg:/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204"
+    ],
+    "telegram": [
+      "amazon:amazon:10581332",
+      "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:19073",
+      "ashby:sereact:baae4b51-6e24-4044-93aa-9d7f1b7671dd",
+      "workday:astrazeneca:/job/Canada---Mississauga/Regulatory-Innovation---AI-Transformation-Intern_R-262017",
+      "workday:fmr:/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044",
+      "workday:pg:/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204"
+    ]
   }
 }

@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:ag:/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326",
-      "workday:ag:/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775",
-      "workday:ag:/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360"
-    ],
-    "telegram": [
-      "workday:ag:/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326",
-      "workday:ag:/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775",
-      "workday:ag:/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

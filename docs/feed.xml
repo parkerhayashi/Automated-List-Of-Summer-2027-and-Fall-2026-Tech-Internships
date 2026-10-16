@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-16T18:37:55Z</updated>
+  <updated>2026-10-16T21:55:24Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:19073</id>
-    <title>Citco: Product Intern</title>
-    <link href="https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19073"/>
-    <updated>2026-10-16T18:37:55Z</updated>
+    <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320</id>
+    <title>Altera Corporation: Software Engineer -  Intern</title>
+    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320"/>
+    <updated>2026-10-16T21:55:24Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · PM · London, United Kingdom</summary>
+    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++, Verilog</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:sereact:baae4b51-6e24-4044-93aa-9d7f1b7671dd</id>
@@ -22,6 +22,14 @@
     <updated>2026-10-16T18:37:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Stuttgart Schockenriedstr. 17 · Python, TypeScript, JavaScript, GCP, Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:19073</id>
+    <title>Citco: Product Intern</title>
+    <link href="https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19073"/>
+    <updated>2026-10-16T18:37:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · London, United Kingdom</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/Regulatory-Innovation---AI-Transformation-Intern_R-262017</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-14T15:45:13Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Montreal, Quebec · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5264407007</id>
-    <title>Tenstorrent: Systems Intern - Validation, Software, Design, Architecture &amp; Packaging (Canada)</title>
-    <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007"/>
-    <updated>2026-10-14T10:51:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, Ontario, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada · Python, C++, Verilog</summary>
   </entry>
 </feed>

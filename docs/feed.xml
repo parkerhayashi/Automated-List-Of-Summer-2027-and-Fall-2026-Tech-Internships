@@ -5,39 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-15T21:35:04Z</updated>
+  <updated>2026-10-16T00:05:34Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:accenture:/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529</id>
-    <title>Avanade: Internship: Software Engineer Avanade Agentic Engineering Factory</title>
-    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529"/>
-    <updated>2026-10-15T21:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Brussels · Python, Java, C++, C#, SQL</summary>
+    <id>urn:intern-engine:oracle:fa-exby-saasfaprod1.fa.ocs.oraclecloud.com:227</id>
+    <title>BC Pensions: Application Developer Co-op</title>
+    <link href="https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227"/>
+    <updated>2026-10-16T00:05:34Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Victoria, BC, Canada · Java, C#, SQL, Linux · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:accenture:/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280</id>
-    <title>Avanade: Internship: Azure Platform Engineer Avanade Agentic Engineering Factory</title>
-    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280"/>
+    <id>urn:intern-engine:greenhouse:towerresearchcapital:7077280</id>
+    <title>Tower Research Capital: Machine Learning Intern</title>
+    <link href="https://www.tower-research.com/open-positions/?gh_jid=7077280"/>
     <updated>2026-10-15T21:35:04Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Brussels · Azure, Python, Bash, AWS, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:accenture:/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110</id>
-    <title>Avanade: Graduation Internship in ERP Functional  Consulting: AI Powered Dynamics 365 ERP 🛂</title>
-    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110"/>
-    <updated>2026-10-15T21:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Brussels · Azure · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:accenture:/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212</id>
-    <title>Avanade: Graduation Internship in Customer  Engagement: AI Powered Power Platform  Solution Governance 🛂</title>
-    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212"/>
-    <updated>2026-10-15T21:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Brussels · C#, TypeScript, JavaScript, Azure, Git · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Data &amp; ML/AI · Montreal · Python, SQL, Bash, PyTorch, TensorFlow</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:accenture:/job/Amsterdam/Graduation-Internship-Netherland---AI-Security_R00360724</id>
@@ -48,12 +32,36 @@
     <summary>Not stated · Data &amp; ML/AI · Amsterdam</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:towerresearchcapital:7077280</id>
-    <title>Tower Research Capital: Machine Learning Intern</title>
-    <link href="https://www.tower-research.com/open-positions/?gh_jid=7077280"/>
+    <id>urn:intern-engine:workday:accenture:/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212</id>
+    <title>Avanade: Graduation Internship in Customer  Engagement: AI Powered Power Platform  Solution Governance 🛂</title>
+    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212"/>
     <updated>2026-10-15T21:35:04Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Montreal · Python, SQL, Bash, PyTorch, TensorFlow</summary>
+    <summary>Not stated · Data &amp; ML/AI · Brussels · C#, TypeScript, JavaScript, Azure, Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:accenture:/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110</id>
+    <title>Avanade: Graduation Internship in ERP Functional  Consulting: AI Powered Dynamics 365 ERP 🛂</title>
+    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110"/>
+    <updated>2026-10-15T21:35:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Brussels · Azure · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:accenture:/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280</id>
+    <title>Avanade: Internship: Azure Platform Engineer Avanade Agentic Engineering Factory</title>
+    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280"/>
+    <updated>2026-10-15T21:35:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Brussels · Azure, Python, Bash, AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:accenture:/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529</id>
+    <title>Avanade: Internship: Software Engineer Avanade Agentic Engineering Factory</title>
+    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529"/>
+    <updated>2026-10-15T21:35:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Brussels · Python, Java, C++, C#, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10568017</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-15T17:43:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Heredia, Heredia, Costa Rica · Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893</id>
-    <title>Intel: GPU Software Engineering Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893"/>
-    <updated>2026-10-15T17:43:28Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Poland, Gdansk · Python, C++, CUDA, Linux · status: closed</summary>
   </entry>
 </feed>

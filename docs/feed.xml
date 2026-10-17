@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-17T00:37:45Z</updated>
+  <updated>2026-10-17T05:10:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320</id>
@@ -635,17 +635,17 @@
     <id>urn:intern-engine:workday:expedia:/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545</id>
     <title>Expedia Group: Mobile Engineering Intern - 2027 - London</title>
     <link href="https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545"/>
-    <updated>2026-10-15T13:08:17Z</updated>
+    <updated>2026-10-17T04:55:34Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · UK - London</summary>
+    <summary>Summer 2027 · Software · UK - London · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:expedia:/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551</id>
     <title>Expedia Group: Software Development Engineering Intern - 2027 - London</title>
     <link href="https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551"/>
-    <updated>2026-10-15T13:08:17Z</updated>
+    <updated>2026-10-17T04:55:34Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · UK - London · Python, Java, Kotlin</summary>
+    <summary>Summer 2027 · Software · UK - London · Python, Java, Kotlin · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nxp:/job/Brno/AI-Software-developer---Intern_R-10064017-1</id>
@@ -803,8 +803,8 @@
     <id>urn:intern-engine:workday:tranetechnologies:/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1</id>
     <title>Tranetechnologies: 2027 BrainBox AI Intern</title>
     <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1"/>
-    <updated>2026-10-14T15:45:13Z</updated>
+    <updated>2026-10-17T04:55:34Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Montreal, Quebec · Python, SQL</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Montreal, Quebec · Python, SQL · status: closed</summary>
   </entry>
 </feed>

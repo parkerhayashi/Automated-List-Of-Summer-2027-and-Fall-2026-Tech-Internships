@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-17T09:29:07Z",
- "data_as_of": "2026-10-17T09:29:07Z",
- "rendered_at": "2026-10-17T09:29:07Z",
+ "generated_at": "2026-10-17T13:25:54Z",
+ "data_as_of": "2026-10-17T13:25:54Z",
+ "rendered_at": "2026-10-17T13:25:55Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 353,
+ "count": 359,
  "jobs": [
   {
    "id": "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320",
@@ -2712,6 +2712,32 @@
    "remote": false
   },
   {
+   "id": "workday:wgl:/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312",
+   "company": "AltaGas",
+   "title": "AltaGas - 2027 Digital (NextGen AI & Data) Intern",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Calgary, AB",
+   "url": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312",
+   "posted_at": "2026-10-05T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-06T02:42:42Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Azure",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "greenhouse:pinterest:8244922",
    "company": "Pinterest",
    "title": "Machine Learning Intern 2027 (Dublin)",
@@ -3145,6 +3171,31 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:marvell:/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959",
+   "company": "Marvell",
+   "title": "Firmware Engineer Intern - BS/MS - 2027 Co-Op",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "Toronto, Canada",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959",
+   "posted_at": "2026-10-02T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-02T18:20:52Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "LLMs"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship / Co-op",
    "remote": false
   },
   {
@@ -3741,6 +3792,33 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Co-op",
+   "remote": false
+  },
+  {
+   "id": "workday:nvidia:/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
+   "company": "NVIDIA",
+   "title": "AI Computing Software Development Intern - 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Taiwan, Taipei",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
+   "posted_at": "2026-09-29T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-29T11:52:20Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "PyTorch",
+    "LLMs",
+    "CUDA"
+   ],
+   "source": "workday",
+   "h1b_approvals": 1526,
+   "program": "Internship",
    "remote": false
   },
   {
@@ -7763,6 +7841,30 @@
    "remote": false
   },
   {
+   "id": "workday:nvidia:/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
+   "company": "NVIDIA",
+   "title": "Developer Technology Engineering Intern, HPC and AI - 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Taiwan, Taipei",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
+   "posted_at": "2026-09-01T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-22T01:54:52Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C++",
+    "CUDA"
+   ],
+   "source": "workday",
+   "h1b_approvals": 1526,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:pimco:/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804",
    "company": "PIMCO",
    "title": "2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (MFE), London",
@@ -7783,6 +7885,30 @@
    ],
    "source": "workday",
    "h1b_approvals": 42,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:tranetechnologies:/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1",
+   "company": "Tranetechnologies",
+   "title": "2027 BrainBox AI Intern",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Montreal, Quebec",
+   "url": "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1",
+   "posted_at": "2026-08-31T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-14T15:45:13Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
@@ -8254,6 +8380,30 @@
    ],
    "source": "oracle",
    "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628",
+   "company": "NVIDIA",
+   "title": "System Software Engineer – GPU and SOC (2027 RDSS Intern)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Taiwan, Taipei",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628",
+   "posted_at": "2026-08-19T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-22T01:54:52Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C++",
+    "Linux"
+   ],
+   "source": "workday",
+   "h1b_approvals": 1526,
    "program": "Internship",
    "remote": false
   },

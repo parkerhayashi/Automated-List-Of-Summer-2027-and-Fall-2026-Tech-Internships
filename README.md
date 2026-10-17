@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 365 open roles (293 listed below) · 104 new this week
+### 361 open roles (289 listed below) · 102 new this week
 
-4,775 employers tracked · data as of Oct 16, 2026 at 21:55 UTC
+4,775 employers tracked · data as of Oct 17, 2026 at 00:37 UTC
 
-_168 have a cycle the employer stated · 197 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_168 have a cycle the employer stated · 193 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -133,8 +133,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Intel | Compiler Engineering Intern 🆕 | Software | Canada, Toronto | C++, PyTorch, CUDA, Linux | Oct 15, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) |
 | Loblaw Companies | Associate Product Manager - Co-op Student 🆕 | PM | 500 Lake Shore Blvd W, Toronto, ON | No skills listed | Oct 15, 2026 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1) |
 | Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada) | Software | Toronto +8 more | Python, C++, Verilog | Oct 14, 2026 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) |
-| Astera Labs | Firmware Engineer Intern Fall Co-op 🆕 | Hardware | Vancouver. BC, Canada | Python, C++, Git | Oct 13, 2026 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005) |
-| Astera Labs | Firmware Engineer Intern Summer Co-op 🆕 | Hardware | Vancouver, BC, Canada | Python, C++, Git | Oct 13, 2026 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739957005) |
+| Astera Labs | Firmware Engineer Intern Fall Co-op | Hardware | Vancouver. BC, Canada | Python, C++, Git | Oct 13, 2026 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005) |
+| Astera Labs | Firmware Engineer Intern Summer Co-op | Hardware | Vancouver, BC, Canada | Python, C++, Git | Oct 13, 2026 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739957005) |
 | Pebl | Software Engineering, Intern | Software | Toronto, Ontario | TypeScript, JavaScript, SQL, AWS | Oct 13, 2026 | [Apply](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf) |
 | Astera Labs | Firmware Engineer Intern Spring Co-Op | Hardware | Vancouver, BC, Canada | Python, C++, Git | Oct 13, 2026 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) |
 | Aptiv | Software Engineering Intern | Software | CAN Kanata (2), ON - WR | C++ | Oct 12, 2026 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1) |
@@ -275,7 +275,7 @@ Located in Japan, United Kingdom, Ireland, Netherlands, Germany, Switzerland, Ho
 | Databricks | Software Engineering Intern (2027 Start) - Aarhus 🆕 | Software | Aarhus, Denmark | Python, Java, C++, Databricks | Aug 29, 2025 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) |
 | Databricks | Product Management Intern (2027) - Berlin | PM | Berlin, Germany | Python, SQL, Databricks | Aug 29, 2025 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002) |
 
-## Recently posted — cycle not stated — Japan & IEC countries  (116 roles)
+## Recently posted — cycle not stated — Japan & IEC countries  (112 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -393,10 +393,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Perplexity AI | Internship - Machine Learning Research Engineer | Data & ML/AI | Berlin | PyTorch | Sep 02, 2026 | [Apply](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) |
 | ABB | Internship - OT Cybersecurity | Security | Genova, Genova, Italy | Linux | Sep 02, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Internship---Cybersecurity-for-OT-Systems_JR00042894) |
 | Thales | Software Engineering Intern | Software | Madrid | Java, C#, TypeScript, JavaScript | Sep 02, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Madrid/Software-Engineering-Intern_R0336381-1) |
-| Wavestone | Cybersecurity Management Consultant - Internship (5-6 months) 🆕 | Security | Hong Kong, International (HK) | No skills listed | Sep 01, 2026 | [Apply](https://jobs.smartrecruiters.com/Wavestone1/744000146648344) |
-| Wavestone | Cybersecurity Management Consultant - Internship (Co-op, 6-8 months) 🆕 | Security | Hong Kong, International (HK) | No skills listed | Sep 01, 2026 | [Apply](https://jobs.smartrecruiters.com/Wavestone1/744000146648426) |
-| TWG Global 🆁 | AI Data Science Intern (UK) | Data & ML/AI | London, England, United Kingdom (Remote) | Python, PyTorch, TensorFlow, scikit-learn | Sep 01, 2026 | [Apply](https://apply.workable.com/twgai/j/1206BF981C/) |
-| Tower Research Capital | Quantitative Researcher Intern, Bachelor's or Master's | Quant | Singapore, Hong Kong, Shanghai, Sydney | Python, C++, Linux | Sep 01, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8168750) |
 
 <a id="drop-radar"></a>
 
@@ -408,36 +404,28 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 
 | Company | Typical opening | Expected this cycle | Status |
 |---|---|---|---|
-| 3M | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Adobe | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Airbnb | ~Sep | ~Sep · any day now | ⏳ waiting |
-| AMD | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Anduril Industries | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Applied Intuition | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Asana | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Aurora | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Bloomberg | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Blue Origin | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Boeing | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Booz Allen Hamilton | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Boston Scientific | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Carvana | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Caterpillar | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Chewy | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Cloudflare | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Comcast | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Confluent | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Coupang | ~Sep | ~Sep · any day now | ⏳ waiting |
-| CrowdStrike | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Dell Technologies | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Discord | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Dropbox | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Elastic | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Electronic Arts | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Epic Games | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Fastly | ~Sep | ~Sep · any day now | ⏳ waiting |
-| Ford | ~Sep | ~Sep · any day now | ⏳ waiting |
-| General Motors | ~Sep | ~Sep · any day now | ⏳ waiting |
+| D.E. Shaw | ~Oct | ~Oct · any day now | ⏳ waiting |
+| Rocket Lab | ~Oct | ~Oct · any day now | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec · in ~45d | ⏳ waiting |
+| Ramp | ~Dec | ~Dec · in ~45d | ⏳ waiting |
+| Two Sigma | ~Dec | ~Dec · in ~45d | ⏳ waiting |
+| Apple | rolling | year-round | ⏳ waiting |
+| Jump Trading | rolling | year-round | ⏳ waiting |
+| Microsoft | rolling | year-round | ⏳ waiting |
+| Millennium | rolling | year-round | ⏳ waiting |
+| Palantir | rolling | year-round | ⏳ waiting |
+| 🎯 Databricks | Aug 04 | dropped Aug 04 | ✅ [open now](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
+| 🎯 Virtu Financial | Sep 12 | dropped Sep 12 | ✅ [open now](https://job-boards.greenhouse.io/virtu/jobs/8547254002) |
+| 🎯 Aquatic Capital Management | Apr 01 | dropped Apr 01 | ✅ [open now](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
+| 🎯 Squarepoint Capital | May 07 | dropped May 07 | ✅ [open now](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) |
+| 🎯 Amazon | May 13 | dropped May 13 | ✅ [open now](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) |
+| 🎯 Anduril | Jun 10 | dropped Jun 10 | ✅ [open now](https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007) |
+| 🎯 IMC Trading | Jul 01 | dropped Jul 01 | ✅ [open now](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) |
+| 🎯 Tower Research Capital | Jul 05 | dropped Jul 05 | ✅ [open now](https://www.tower-research.com/open-positions/?gh_jid=8037860) |
+| 🎯 Point72 | Aug 15 | dropped Aug 15 · closed | 🗓️ dropped |
+| 🎯 WorldQuant | Sep 04 | dropped Sep 04 · closed | 🗓️ dropped |
+| 🎯 Ellipsis Labs | Mar 26 | dropped Mar 26 · closed | 🗓️ dropped |
+| 🎯 InfiniteQuant | May 29 | dropped May 29 · closed | 🗓️ dropped |
 
 _313 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **196** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
@@ -491,7 +479,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,613 of 5,063 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1033.2s · 618 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,546 of 5,063 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 1022.4s · 578 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

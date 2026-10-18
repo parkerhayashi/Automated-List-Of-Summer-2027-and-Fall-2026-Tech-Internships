@@ -8,7 +8,7 @@
 
 ### 352 open roles (281 listed below) · 99 new this week
 
-4,788 employers tracked · data as of Oct 18, 2026 at 09:21 UTC
+4,788 employers tracked · data as of Oct 18, 2026 at 13:30 UTC
 
 _166 have a cycle the employer stated · 186 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -174,8 +174,8 @@ Located in Japan, United Kingdom, Ireland, Netherlands, Germany, Switzerland, Ho
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Airbus | ATR – Internship 2027  -  Cybersecurity CTI 🆕 | Security | Toulouse Area | No skills listed | Oct 16, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775) |
-| Airbus | ATR – Internship 2027  - AI & Data Engineering - Automated Technical Knowledge Extraction 🆕 | Data & ML/AI | Toulouse Area | Python, SQL, Pandas | Oct 16, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326) |
+| Airbus | ATR – Internship 2027  -  Cybersecurity CTI | Security | Toulouse Area | No skills listed | Oct 16, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775) |
+| Airbus | ATR – Internship 2027  - AI & Data Engineering - Automated Technical Knowledge Extraction | Data & ML/AI | Toulouse Area | Python, SQL, Pandas | Oct 16, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326) |
 | JPMorganChase | 2027 AI Research Associate Program - Internship | Data & ML/AI | LONDON, United Kingdom | Python, PyTorch, TensorFlow, LLMs | Oct 15, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210800615) |
 | PA Consulting | 2027 Summer Internship - Applied Scientist - Cambridge | Data & ML/AI | Melbourn, , United Kingdom | No skills listed | Oct 15, 2026 | [Apply](https://jobs.smartrecruiters.com/PAConsulting/744000155679795) |
 | PA Consulting | 2027 Summer Internship - Software & AI Systems – Cambridge | Data & ML/AI | Melbourn, , United Kingdom | Python, C++, C#, Rust | Oct 15, 2026 | [Apply](https://jobs.smartrecruiters.com/PAConsulting/744000155685700) |
@@ -284,7 +284,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Procter & Gamble (P&G) | Data Engineer Internship (m/f/x) 🆕 | Data & ML/AI | LISBON GENERAL OFFICE | Python, SQL, Git, Databricks | Oct 16, 2026 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204) |
 | AstraZeneca | AI & Data Science Internship Program – AstraZeneca Barcelona 🆕 | Data & ML/AI | Spain - Barcelona | No skills listed | Oct 16, 2026 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/AI---Data-Science-Internship-Program---AstraZeneca-Barcelona_R-261531) |
 | ING | INTERNSHIP SOFTWARE ENGINEER 🆕 | Software | ACT (Amsterdam - Acanthus) | Python, GCP, Azure | Oct 16, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/INTERNSHIP-SOFTWARE-ENGINEER_REQ-10119555) |
-| Airbus | ATR - Internship- Geospatial Data Science (F/M) 🆕 | Data & ML/AI | Toulouse Area | Python, Azure, Spark, Databricks | Oct 16, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360) |
+| Airbus | ATR - Internship- Geospatial Data Science (F/M) | Data & ML/AI | Toulouse Area | Python, Azure, Spark, Databricks | Oct 16, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360) |
 | Fidelity Investments | Enterprise Infrastructure & Operations Internship 🆕 | Software | Galway, Ireland | No skills listed | Oct 15, 2026 | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044) |
 | SCOR | Quantitative Finance & Data Analyst Intern | Quant | Paris, Ile-de-France, France | Python, SQL | Oct 15, 2026 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5504) |
 | NXP Semiconductors | AI & Future of HR Research Intern | Data & ML/AI | Eindhoven | No skills listed | Oct 15, 2026 | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/AI---Future-of-HR-Research-Intern_R-10067318) |
@@ -473,7 +473,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,625 of 5,077 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1192.8s · 618 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,583 of 5,077 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1201.7s · 602 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

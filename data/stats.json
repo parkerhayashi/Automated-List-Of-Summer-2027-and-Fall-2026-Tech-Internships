@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T00:13:35Z",
-  "fetched_at": "2026-10-18T00:13:35Z",
-  "duration_seconds": 959.9,
+  "generated_at": "2026-10-18T04:37:10Z",
+  "fetched_at": "2026-10-18T04:37:10Z",
+  "duration_seconds": 1088.4,
   "companies_total": 5077,
   "companies_by_source": {
     "greenhouse": 1126,
@@ -17,39 +17,41 @@
     "breezy": 16,
     "eightfold": 1
   },
-  "quarantined": 375,
-  "fetched_ok": 4692,
-  "fetch_errors": 10,
+  "quarantined": 360,
+  "fetched_ok": 4603,
+  "fetch_errors": 114,
   "errors_by_source": {
-    "workday": 5,
-    "workable": 5
+    "workday": 106,
+    "workable": 6,
+    "greenhouse": 1,
+    "ashby": 1
   },
-  "fetch_success_rate": 0.998,
-  "fetch_success_rate_registry": 0.924,
-  "snapshots_complete": 4049,
-  "snapshots_partial": 643,
+  "fetch_success_rate": 0.976,
+  "fetch_success_rate_registry": 0.907,
+  "snapshots_complete": 3984,
+  "snapshots_partial": 619,
   "partial_by_reason": {
-    "result-cap": 642,
-    "malformed-response": 1
+    "result-cap": 617,
+    "malformed-response": 2
   },
-  "degraded_fetches": 1,
-  "roles_matched": 312,
-  "dropped_no_year_in_title": 694,
-  "dropped_offcycle_by_text": 283,
-  "roles_cycle_inferred": 192,
+  "degraded_fetches": 2,
+  "roles_matched": 303,
+  "dropped_no_year_in_title": 683,
+  "dropped_offcycle_by_text": 271,
+  "roles_cycle_inferred": 190,
   "roles_by_source": {
     "amazon": 13,
     "ashby": 12,
     "greenhouse": 87,
     "lever": 1,
     "oracle": 36,
-    "smartrecruiters": 45,
+    "smartrecruiters": 44,
     "workable": 7,
-    "workday": 157
+    "workday": 156
   },
   "roles_by_cycle": {
     "Summer 2027": 166,
-    "Not stated": 192
+    "Not stated": 190
   },
   "roles_by_region": {
     "Ireland": 22,
@@ -57,11 +59,11 @@
     "Canada": 82,
     "Germany": 20,
     "United Kingdom": 86,
-    "Spain": 11,
+    "Spain": 10,
     "Netherlands": 15,
     "Austria": 3,
     "Portugal": 13,
-    "France": 31,
+    "France": 30,
     "US": 6,
     "Denmark": 2,
     "Hong Kong": 18,
@@ -75,7 +77,7 @@
     "Taiwan": 10
   },
   "sponsorship_counts": {
-    "unknown": 347,
+    "unknown": 345,
     "offers": 1,
     "no-sponsorship": 8,
     "citizens-only": 2
@@ -85,7 +87,7 @@
   "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
   "new_this_run": 0,
-  "open_total": 358,
+  "open_total": 356,
   "detection_latency": {
     "median_minutes": 172.9,
     "p95_minutes": 2141.0,
@@ -97,5 +99,5 @@
     "median_days": 13,
     "sample_size": 193
   },
-  "rendered_at": "2026-10-18T00:13:35Z"
+  "rendered_at": "2026-10-18T04:37:11Z"
 }

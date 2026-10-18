@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-18T04:37:10Z",
- "data_as_of": "2026-10-18T04:37:10Z",
- "rendered_at": "2026-10-18T04:37:11Z",
+ "generated_at": "2026-10-18T09:21:29Z",
+ "data_as_of": "2026-10-18T09:21:29Z",
+ "rendered_at": "2026-10-18T09:21:30Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 356,
+ "count": 352,
  "jobs": [
   {
    "id": "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320",
@@ -5107,54 +5107,6 @@
    "remote": false
   },
   {
-   "id": "workday:dentsuaegis:/job/Aarhus/Developer-Intern_R1130839",
-   "company": "Dentsu",
-   "title": "Developer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Aarhus",
-   "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Aarhus/Developer-Intern_R1130839",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-15T18:01:24Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Java",
-    "Spring",
-    "Azure",
-    "Docker",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:morningstar:/job/Madrid/Multilingual-Data-Analyst-Intern_REQ-049644-1",
-   "company": "Morningstar",
-   "title": "Multilingual Data Analyst Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Madrid",
-   "url": "https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Madrid/Multilingual-Data-Analyst-Intern_REQ-049644-1",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-06T16:27:31Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 64,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "oracle:eedu.fa.em3.oraclecloud.com:202605997",
    "company": "WTW",
    "title": "2027 Data Scientist Internship Programme - P&C Insurance - London/Reigate",
@@ -5231,30 +5183,6 @@
    "remote": false
   },
   {
-   "id": "workday:clearwateranalytics:/job/Office---London/Product-Management-Intern_R12199",
-   "company": "CWAN",
-   "title": "Product Management Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "PM",
-   "location": "Office - London",
-   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---London/Product-Management-Intern_R12199",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:ferrovial:/job/Madrid/AI-Engineer-Internship_JR19380",
    "company": "Ferrovial",
    "title": "AI Engineer Internship",
@@ -5278,31 +5206,6 @@
     "Computer Vision",
     "Azure",
     "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:sunlife:/job/Waterford-Waterford-Ireland/Jr-Analytics-and-Automation-Developer-Intern_JR00128023",
-   "company": "Sun Life",
-   "title": "Jr. Analytics and Automation Developer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Waterford, Waterford, Ireland",
-   "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Jr-Analytics-and-Automation-Developer-Intern_JR00128023",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
    ],
    "source": "workday",
    "h1b_approvals": null,

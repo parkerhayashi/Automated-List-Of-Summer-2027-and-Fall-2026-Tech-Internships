@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-17T21:58:11Z",
- "data_as_of": "2026-10-17T21:58:11Z",
- "rendered_at": "2026-10-17T21:58:12Z",
+ "generated_at": "2026-10-18T00:13:35Z",
+ "data_as_of": "2026-10-18T00:13:35Z",
+ "rendered_at": "2026-10-18T00:13:35Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 359,
+ "count": 358,
  "jobs": [
   {
    "id": "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320",
@@ -7670,29 +7670,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": 57,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:perplexity:b9e1ff15-d52a-46d5-abf0-26460f2a116c",
-   "company": "Perplexity AI",
-   "title": "Internship - Machine Learning Research Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Berlin",
-   "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
-   "posted_at": "2026-09-02T10:35:02.552+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "PyTorch"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

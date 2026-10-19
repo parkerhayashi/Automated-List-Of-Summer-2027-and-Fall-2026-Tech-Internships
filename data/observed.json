@@ -1872,6 +1872,18 @@
     }
    }
   },
+  "investment management corporation of ontario": {
+   "name": "Investment Management Corporation of Ontario",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "workday:imcoinvest:/job/Toronto---16-York-St/Intern--Infrastructure--Summer-2027-_R26-154"
+     ],
+     "count": 1
+    }
+   }
+  },
   "jain global": {
    "name": "Jain Global",
    "cycles": {
@@ -3890,5 +3902,5 @@
    }
   }
  },
- "updated_at": "2026-10-19T00:23:46Z"
+ "updated_at": "2026-10-19T05:30:43Z"
 }

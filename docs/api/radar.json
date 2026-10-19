@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-19T00:23:46Z",
- "data_as_of": "2026-10-19T00:23:46Z",
- "rendered_at": "2026-10-19T00:23:47Z",
+ "generated_at": "2026-10-19T05:30:43Z",
+ "data_as_of": "2026-10-19T05:30:43Z",
+ "rendered_at": "2026-10-19T05:30:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1146,25 +1146,6 @@
    }
   },
   {
-   "company": "Ankura Consulting Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -12,
-   "status": "open",
-   "url": "https://ankura.wd5.myworkdayjobs.com/ankura/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-07"
-   }
-  },
-  {
    "company": "SailPoint",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -1295,6 +1276,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-15"
+   }
+  },
+  {
+   "company": "Investment Management Corporation of Ontario",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Infrastructure--Summer-2027-_R26-154",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-19"
    }
   },
   {
@@ -5915,6 +5915,25 @@
    }
   },
   {
+   "company": "Ankura Consulting Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -12,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-07"
+   }
+  },
+  {
    "company": "Tenstorrent",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -5953,5 +5972,5 @@
    }
   }
  ],
- "count": 313
+ "count": 314
 }

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-19T00:23:46Z</updated>
+  <updated>2026-10-19T05:30:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:imcoinvest:/job/Toronto---16-York-St/Intern--Infrastructure--Summer-2027-_R26-154</id>
+    <title>Investment Management Corporation of Ontario: Intern, Infrastructure (Summer 2027)</title>
+    <link href="https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Infrastructure--Summer-2027-_R26-154"/>
+    <updated>2026-10-19T05:30:43Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto - 16 York St</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320</id>
     <title>Altera Corporation: Software Engineer -  Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-15T17:43:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Poland, Gdansk · C++, PyTorch, CUDA, Linux, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tranetechnologies:/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1</id>
-    <title>Tranetechnologies: 2027 BrainBox AI Intern</title>
-    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1"/>
-    <updated>2026-10-14T15:45:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Montreal, Quebec · Python, SQL</summary>
   </entry>
 </feed>

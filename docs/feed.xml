@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-18T22:04:17Z</updated>
+  <updated>2026-10-19T00:23:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320</id>
@@ -235,17 +235,17 @@
     <id>urn:intern-engine:greenhouse:jumptrading:8027860</id>
     <title>Jump Trading: Campus C++ Software Engineer (Intern)</title>
     <link href="https://www.jumptrading.com/hr/job?gh_jid=8027860"/>
-    <updated>2026-10-15T18:01:24Z</updated>
+    <updated>2026-10-19T00:23:46Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Hong Kong; Shanghai · C++, Python, Linux</summary>
+    <summary>Not stated · Software · Hong Kong; Shanghai · C++, Python, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:jumptrading:8027923</id>
     <title>Jump Trading: Campus Python Software Engineer (Intern)</title>
     <link href="https://www.jumptrading.com/hr/job?gh_jid=8027923"/>
-    <updated>2026-10-15T18:01:24Z</updated>
+    <updated>2026-10-19T00:23:46Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Hong Kong; Shanghai · Python, C++, Rust, Linux, Kafka</summary>
+    <summary>Not stated · Software · Hong Kong; Shanghai · Python, C++, Rust, Linux, Kafka · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:moloco:8007407003</id>

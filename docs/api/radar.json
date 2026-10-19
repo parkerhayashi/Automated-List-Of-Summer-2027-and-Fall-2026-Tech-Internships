@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-19T11:29:18Z",
- "data_as_of": "2026-10-19T11:29:18Z",
- "rendered_at": "2026-10-19T11:29:19Z",
+ "generated_at": "2026-10-19T18:03:03Z",
+ "data_as_of": "2026-10-19T18:03:03Z",
+ "rendered_at": "2026-10-19T18:03:04Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -434,7 +434,7 @@
    "expected": "2026-08-27",
    "days_until": -53,
    "status": "open",
-   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688",
+   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -975,25 +975,6 @@
    }
   },
   {
-   "company": "Airbus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-28",
-   "days_until": -21,
-   "status": "open",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-28"
-   }
-  },
-  {
    "company": "Monzo",
    "last_cycle_posted": "",
    "posted_on": "2026-09-28",
@@ -1276,6 +1257,44 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-15"
+   }
+  },
+  {
+   "company": "Adobe",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015",
+   "note": "Sep-Oct main window",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-19"
+   }
+  },
+  {
+   "company": "Graviton",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-19"
    }
   },
   {
@@ -2054,25 +2073,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.3m.com/3M/en_US/careers-us/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Adobe",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -48,
-   "status": "waiting",
-   "url": "",
-   "note": "Sep-Oct main window",
-   "provenance": {
-    "type": "verified-window",
-    "url": "adobe.com/careers",
     "verified_at": "2026-07-21"
    }
   },
@@ -5915,6 +5915,25 @@
    }
   },
   {
+   "company": "Airbus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": -21,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-28"
+   }
+  },
+  {
    "company": "Khan Academy",
    "last_cycle_posted": "",
    "posted_on": "2026-10-05",
@@ -5991,5 +6010,5 @@
    }
   }
  ],
- "count": 315
+ "count": 316
 }

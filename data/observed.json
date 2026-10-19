@@ -59,6 +59,18 @@
     }
    }
   },
+  "adobe": {
+   "name": "Adobe",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "workday:adobe:/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015"
+     ],
+     "count": 1
+    }
+   }
+  },
   "advanced space": {
    "name": "Advanced Space",
    "cycles": {
@@ -469,10 +481,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-05",
      "role_ids": [
+      "workday:autodesk:/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472",
       "workday:autodesk:/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3",
       "workday:autodesk:/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1577,6 +1590,18 @@
       "oracle:ehzq.fa.us2.oraclecloud.com:115752"
      ],
      "count": 10
+    }
+   }
+  },
+  "graviton": {
+   "name": "Graviton",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "greenhouse:gravitonresearchcapital:8899673002"
+     ],
+     "count": 1
     }
    }
   },
@@ -2940,9 +2965,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-17",
      "role_ids": [
-      "greenhouse:rothesaygraduates:8811533002"
+      "greenhouse:rothesaygraduates:8811533002",
+      "greenhouse:rothesaygraduates:8811551002"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3915,5 +3941,5 @@
    }
   }
  },
- "updated_at": "2026-10-19T11:29:18Z"
+ "updated_at": "2026-10-19T18:03:03Z"
 }

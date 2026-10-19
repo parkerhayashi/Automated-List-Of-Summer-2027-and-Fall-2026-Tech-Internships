@@ -1,6 +1,32 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:18964",
+      "ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e",
+      "workday:adobe:/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015",
+      "workday:autodesk:/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472",
+      "workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
+      "greenhouse:celonis:8014366003",
+      "workday:cibc:/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440-1",
+      "greenhouse:gravitonresearchcapital:8899673002",
+      "workday:intel:/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205",
+      "workday:pwc:/job/Prague/Data-Analyst---Intern---Financial-Crime-team_768785WD",
+      "greenhouse:rothesaygraduates:8811551002",
+      "workday:flir:/job/France---Grenoble/Stage-Qualit---Gestion-de-Produit---Dispositifs-Mdicaux----Internship---Product-Management-Dental-scope_REQ37355"
+    ],
+    "telegram": [
+      "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:18964",
+      "ashby:solink:8493613d-ea47-4182-ac0b-f5f24d11f49e",
+      "workday:adobe:/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015",
+      "workday:autodesk:/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472",
+      "workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
+      "greenhouse:celonis:8014366003",
+      "workday:cibc:/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440-1",
+      "greenhouse:gravitonresearchcapital:8899673002",
+      "workday:intel:/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205",
+      "workday:pwc:/job/Prague/Data-Analyst---Intern---Financial-Crime-team_768785WD",
+      "greenhouse:rothesaygraduates:8811551002",
+      "workday:flir:/job/France---Grenoble/Stage-Qualit---Gestion-de-Produit---Dispositifs-Mdicaux----Internship---Product-Management-Dental-scope_REQ37355"
+    ]
   }
 }

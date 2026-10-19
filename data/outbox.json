@@ -1,6 +1,24 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---3_REQ-10123437",
+      "workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---2_REQ-10123439",
+      "workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Contingent-Worker_REQ-10123442",
+      "smartrecruiters:PAConsulting:744000156271319",
+      "smartrecruiters:Sia:744000156257339",
+      "workday:visa:/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1",
+      "smartrecruiters:Wise:744000156266767",
+      "smartrecruiters:Wise:744000156265544"
+    ],
+    "telegram": [
+      "workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---3_REQ-10123437",
+      "workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---2_REQ-10123439",
+      "workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Contingent-Worker_REQ-10123442",
+      "smartrecruiters:PAConsulting:744000156271319",
+      "smartrecruiters:Sia:744000156257339",
+      "workday:visa:/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1",
+      "smartrecruiters:Wise:744000156266767",
+      "smartrecruiters:Wise:744000156265544"
+    ]
   }
 }

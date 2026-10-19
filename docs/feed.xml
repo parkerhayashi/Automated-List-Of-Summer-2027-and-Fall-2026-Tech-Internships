@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-19T05:30:43Z</updated>
+  <updated>2026-10-19T11:29:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:vfc:/job/EMEA--CHE--Stabio--VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021</id>
+    <title>VF: Graphic Product Design Intern</title>
+    <link href="https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/EMEA--CHE--Stabio--VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021"/>
+    <updated>2026-10-19T11:29:18Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Design · EMEA &gt; CHE &gt; Stabio &gt; VF Campus VF1 · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---3_REQ-10123437</id>
+    <title>ING: Cybersecurity Intern - 3</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---3_REQ-10123437"/>
+    <updated>2026-10-19T11:29:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Bruxelles Avenue Marnix (ING)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---2_REQ-10123439</id>
+    <title>ING: Cybersecurity Intern - 2</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---2_REQ-10123439"/>
+    <updated>2026-10-19T11:29:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Bruxelles Avenue Marnix (ING)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Contingent-Worker_REQ-10123442</id>
+    <title>ING: Cybersecurity Intern - 1</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Contingent-Worker_REQ-10123442"/>
+    <updated>2026-10-19T11:29:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Bruxelles Avenue Marnix (ING)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PAConsulting:744000156271319</id>
+    <title>PA Consulting: 2027 Summer Internship - Digital (Digital Trust &amp; Cyber Security) - London</title>
+    <link href="https://jobs.smartrecruiters.com/PAConsulting/744000156271319"/>
+    <updated>2026-10-19T11:29:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · London, , United Kingdom · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1</id>
+    <title>Visa: Data Science Intern</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1"/>
+    <updated>2026-10-19T11:29:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · GB - London, United Kingdom · Python, SQL, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wise:744000156266767</id>
+    <title>Wise: Software Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Wise/744000156266767"/>
+    <updated>2026-10-19T11:29:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London, , United Kingdom (Hybrid) · Python, Java, JavaScript, Swift, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wise:744000156265544</id>
+    <title>Wise: Data Science Intern 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/Wise/744000156265544"/>
+    <updated>2026-10-19T11:29:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · London, , United Kingdom · Python, SQL, LLMs, Spark · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:imcoinvest:/job/Toronto---16-York-St/Intern--Infrastructure--Summer-2027-_R26-154</id>
     <title>Investment Management Corporation of Ontario: Intern, Infrastructure (Summer 2027)</title>
@@ -22,6 +86,14 @@
     <updated>2026-10-16T21:55:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++, Verilog</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10581332</id>
+    <title>Amazon: 2027 Software Dev Engineer Intern - United Kingdom</title>
+    <link href="https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom"/>
+    <updated>2026-10-19T11:10:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London, International · Python, Java, C++, C#, Rust · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:sereact:baae4b51-6e24-4044-93aa-9d7f1b7671dd</id>
@@ -107,9 +179,9 @@
     <id>urn:intern-engine:workday:ag:/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775</id>
     <title>Airbus: ATR – Internship 2027  -  Cybersecurity CTI</title>
     <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775"/>
-    <updated>2026-10-16T09:32:35Z</updated>
+    <updated>2026-10-19T11:10:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Toulouse Area</summary>
+    <summary>Summer 2027 · Security · Toulouse Area · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326</id>
@@ -734,77 +806,5 @@
     <updated>2026-10-14T23:27:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Vancouver, BC, Canada · $45/hr · Python, C++, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:later:8889650002</id>
-    <title>Later: Data Science Co-op</title>
-    <link href="https://job-boards.greenhouse.io/later/jobs/8889650002"/>
-    <updated>2026-10-14T23:27:13Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Vancouver, British Columbia, Canada · Python, SQL, Flask, AWS, Docker · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:blacklinesafety:4A56A8BBE3</id>
-    <title>Blackline Safety: Firmware Intern</title>
-    <link href="https://apply.workable.com/blacklinesafety/j/4A56A8BBE3/"/>
-    <updated>2026-10-14T20:00:47Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Hardware · Waterloo, Ontario, Canada · C++ · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:altera:/job/Marlow-Buckinghamshire-United-Kingdom/High-Level-Synthesis--HLS--Compiler-Engineer--Intern--_R03313</id>
-    <title>Altera Corporation: High Level Synthesis (HLS) Compiler Engineer (Intern))</title>
-    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/High-Level-Synthesis--HLS--Compiler-Engineer--Intern--_R03313"/>
-    <updated>2026-10-14T20:00:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Marlow, Buckinghamshire, United Kingdom · C++, Git, Verilog</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lseg:/job/London-United-Kingdom/Intern---Software-Engineer_R0124267</id>
-    <title>LSEG: Intern - Software Engineer</title>
-    <link href="https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Software-Engineer_R0124267"/>
-    <updated>2026-10-14T20:00:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, United Kingdom · Python, AWS, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:83098</id>
-    <title>BNY: 2027 BNY Summer Internship Program - Product Management (Manchester)</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098"/>
-    <updated>2026-10-14T15:45:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · Greater Manchester, United Kingdom</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:eurostar:D69651A000</id>
-    <title>Eurostar International: Intern Software Developer - 12-month fixed-term contract</title>
-    <link href="https://apply.workable.com/eurostar/j/D69651A000/"/>
-    <updated>2026-10-14T15:45:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · London, England, United Kingdom (Hybrid) · TypeScript, JavaScript, React, Next.js, Node.js</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943</id>
-    <title>Intel: MLIR Compiler Engineering Graduate Intern (f/m/d)</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943"/>
-    <updated>2026-10-14T15:45:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Germany, Munich · Python, C++, PyTorch, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942</id>
-    <title>Intel: MLIR Compiler Engineering Undergraduate Intern (f/m/d)</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942"/>
-    <updated>2026-10-14T15:45:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Germany, Munich · C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897</id>
-    <title>Intel: Compiler Engineering Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897"/>
-    <updated>2026-10-15T17:43:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Poland, Gdansk · C++, PyTorch, CUDA, Linux, Git · status: closed</summary>
   </entry>
 </feed>

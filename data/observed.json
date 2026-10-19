@@ -2649,9 +2649,10 @@
      "first_posted": "2026-10-15",
      "role_ids": [
       "smartrecruiters:PAConsulting:744000155679795",
-      "smartrecruiters:PAConsulting:744000155685700"
+      "smartrecruiters:PAConsulting:744000155685700",
+      "smartrecruiters:PAConsulting:744000156271319"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3813,6 +3814,18 @@
     }
    }
   },
+  "wise": {
+   "name": "Wise",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "smartrecruiters:Wise:744000156266767"
+     ],
+     "count": 1
+    }
+   }
+  },
   "workday": {
    "name": "Workday",
    "cycles": {
@@ -3902,5 +3915,5 @@
    }
   }
  },
- "updated_at": "2026-10-19T05:30:43Z"
+ "updated_at": "2026-10-19T11:29:18Z"
 }

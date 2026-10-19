@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-19T18:03:03Z</updated>
+  <updated>2026-10-19T22:33:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2</id>
+    <title>BMO: Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months</title>
+    <link href="https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2"/>
+    <updated>2026-10-19T22:33:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, ON, CAN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1</id>
+    <title>Hewlett Packard (HP): Machine Learning Development Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1"/>
+    <updated>2026-10-19T22:33:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Porto Alegre, Rio Grande do Sul, Brazil · Python, PyTorch, TensorFlow, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cgg:/job/Massy-France/Software-Web-Developer-Intern_JR101543-2</id>
+    <title>Viridien: Software Web Developer Intern</title>
+    <link href="https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Massy-France/Software-Web-Developer-Intern_JR101543-2"/>
+    <updated>2026-10-19T22:33:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Massy, France · TypeScript, JavaScript, React, Docker, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:celonis:8014366003</id>
+    <title>Celonis: Intern Applied AI Solution Consulting (Italy)</title>
+    <link href="https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003"/>
+    <updated>2026-10-19T18:03:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Milan, Italy · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:gravitonresearchcapital:8899673002</id>
+    <title>Graviton: Quantitative Researcher - 2027 Summer Internship</title>
+    <link href="https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002"/>
+    <updated>2026-10-19T18:03:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rothesaygraduates:8811551002</id>
+    <title>Rothesay: 2027 Summer Internship Programme - Software Engineering</title>
+    <link href="https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002"/>
+    <updated>2026-10-19T18:03:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:18964</id>
     <title>Citco: Software Engineering Intern</title>
@@ -40,14 +88,6 @@
     <summary>Not stated · Data &amp; ML/AI · United Kingdom - Remote</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:celonis:8014366003</id>
-    <title>Celonis: Intern Applied AI Solution Consulting (Italy)</title>
-    <link href="https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Milan, Italy · Python, SQL, LLMs</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440-1</id>
     <title>CIBC: Advanced Analytics and AI Co-op</title>
     <link href="https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440-1"/>
@@ -56,12 +96,12 @@
     <summary>Not stated · Data &amp; ML/AI · Toronto, ON</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:gravitonresearchcapital:8899673002</id>
-    <title>Graviton: Quantitative Researcher - 2027 Summer Internship</title>
-    <link href="https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002"/>
+    <id>urn:intern-engine:workday:flir:/job/France---Grenoble/Stage-Qualit---Gestion-de-Produit---Dispositifs-Mdicaux----Internship---Product-Management-Dental-scope_REQ37355</id>
+    <title>Teledyne: Stage Qualité &amp; Gestion de Produit – Dispositifs Médicaux /  Internship - Product Management Dental scope</title>
+    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/France---Grenoble/Stage-Qualit---Gestion-de-Produit---Dispositifs-Mdicaux----Internship---Product-Management-Dental-scope_REQ37355"/>
     <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore · Python, C++</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · France - Grenoble</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205</id>
@@ -78,22 +118,6 @@
     <updated>2026-10-19T18:03:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Prague · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rothesaygraduates:8811551002</id>
-    <title>Rothesay: 2027 Summer Internship Programme - Software Engineering</title>
-    <link href="https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flir:/job/France---Grenoble/Stage-Qualit---Gestion-de-Produit---Dispositifs-Mdicaux----Internship---Product-Management-Dental-scope_REQ37355</id>
-    <title>Teledyne: Stage Qualité &amp; Gestion de Produit – Dispositifs Médicaux /  Internship - Product Management Dental scope</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/France---Grenoble/Stage-Qualit---Gestion-de-Produit---Dispositifs-Mdicaux----Internship---Product-Management-Dental-scope_REQ37355"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · France - Grenoble</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:PAConsulting:744000156271319</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-15T13:08:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Melbourn, , United Kingdom · Python, C++, C#, Rust, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Gdansk/Intern-Frontend-Developer_JR10451058</id>
-    <title>Airbus: Intern Frontend Developer</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Frontend-Developer_JR10451058"/>
-    <updated>2026-10-15T17:43:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Gdansk · TypeScript, JavaScript, React, Angular, Vue · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Gdansk/Intern-System-Integration-Developer_JR10451063</id>
-    <title>Airbus: Intern System Integration Developer</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-System-Integration-Developer_JR10451063"/>
-    <updated>2026-10-15T17:43:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Gdansk · Python, C#, JavaScript, Bash, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:expedia:/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545</id>
-    <title>Expedia Group: Mobile Engineering Intern - 2027 - London</title>
-    <link href="https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545"/>
-    <updated>2026-10-15T13:08:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · UK - London</summary>
   </entry>
 </feed>

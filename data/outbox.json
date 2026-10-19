@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:bmo:/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2",
+      "workday:hp:/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1",
+      "workday:cgg:/job/Massy-France/Software-Web-Developer-Intern_JR101543-2"
+    ],
+    "telegram": [
+      "workday:bmo:/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2",
+      "workday:hp:/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1",
+      "workday:cgg:/job/Massy-France/Software-Web-Developer-Intern_JR101543-2"
+    ]
   }
 }

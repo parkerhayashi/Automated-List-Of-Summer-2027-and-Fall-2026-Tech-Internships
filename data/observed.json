@@ -1600,9 +1600,12 @@
     "Summer 2027": {
      "first_posted": "2026-10-20",
      "role_ids": [
-      "greenhouse:graphcore:8894376002"
+      "greenhouse:graphcore:8894376002",
+      "greenhouse:graphcore:8894770002",
+      "greenhouse:graphcore:8894797002",
+      "greenhouse:graphcore:8894868002"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -3217,6 +3220,18 @@
     }
    }
   },
+  "sierra": {
+   "name": "Sierra",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "ashby:sierra:7af8aa4e-ba84-49ba-bc53-19358f4564ff"
+     ],
+     "count": 1
+    }
+   }
+  },
   "skydio": {
    "name": "Skydio",
    "cycles": {
@@ -3283,6 +3298,18 @@
      "first_posted": "2026-07-29",
      "role_ids": [
       "workday:spe:/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Fall-2026_JR113893"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "soti": {
+   "name": "SOTI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"
      ],
      "count": 1
     }
@@ -3954,5 +3981,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T12:21:30Z"
+ "updated_at": "2026-10-20T17:09:51Z"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-20T12:21:30Z",
- "data_as_of": "2026-10-20T12:21:30Z",
- "rendered_at": "2026-10-20T12:21:31Z",
+ "generated_at": "2026-10-20T17:09:51Z",
+ "data_as_of": "2026-10-20T17:09:51Z",
+ "rendered_at": "2026-10-20T17:09:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1146,6 +1146,25 @@
    }
   },
   {
+   "company": "Ankura Consulting Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -13,
+   "status": "open",
+   "url": "https://ankura.wd5.myworkdayjobs.com/ankura/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-07"
+   }
+  },
+  {
    "company": "SailPoint",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -1366,6 +1385,44 @@
    "days_until": 0,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894376002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-20"
+   }
+  },
+  {
+   "company": "Sierra",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-20"
+   }
+  },
+  {
+   "company": "SOTI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -5972,25 +6029,6 @@
    }
   },
   {
-   "company": "Ankura Consulting Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -13,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-07"
-   }
-  },
-  {
    "company": "Tenstorrent",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -6029,5 +6067,5 @@
    }
   }
  ],
- "count": 317
+ "count": 319
 }

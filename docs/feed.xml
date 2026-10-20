@@ -5,31 +5,87 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-20T12:21:30Z</updated>
+  <updated>2026-10-20T17:09:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering-internship--dynamic-test-selection_J-00354538</id>
-    <title>ASML: Computer Science | Software Engineering internship: dynamic test selection</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering-internship--dynamic-test-selection_J-00354538"/>
-    <updated>2026-10-20T12:21:30Z</updated>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Data-Science---Engineering-internship--optimizing-business-processes_J-00354527-1</id>
+    <title>ASML: Data Science | Engineering internship: optimizing business processes</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Data-Science---Engineering-internship--optimizing-business-processes_J-00354527-1"/>
+    <updated>2026-10-20T17:09:51Z</updated>
     <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Eindhoven, Netherlands · Python · status: closed</summary>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, SQL, Azure, Databricks · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering--thesis--internship--observability-driven-synthetic-contract-testing_J-00354536</id>
-    <title>ASML: Computer Science | Software Engineering (thesis) internship: observability-driven synthetic contract testing</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering--thesis--internship--observability-driven-synthetic-contract-testing_J-00354536"/>
-    <updated>2026-10-20T12:21:30Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Eindhoven, Netherlands · Python, Git · status: closed</summary>
+    <id>urn:intern-engine:workday:relx:/job/Paris/Junior-Quant-Analyst-Intern---EU-Carbon-Markets_R119865-2</id>
+    <title>RELX: Junior Quant Analyst Intern - EU Carbon Markets</title>
+    <link href="https://relx.wd3.myworkdayjobs.com/relx/job/Paris/Junior-Quant-Analyst-Intern---EU-Carbon-Markets_R119865-2"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Quant · Paris · Python, SQL · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:vfc:/job/EMEA--CHE--Stabio--Stabio---VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021</id>
-    <title>VF: Graphic Product Design Intern</title>
-    <link href="https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/EMEA--CHE--Stabio--Stabio---VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021"/>
+    <id>urn:intern-engine:greenhouse:shifttechnology:8014553003</id>
+    <title>Shift: Data scientist Internship (6 months)</title>
+    <link href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · France - Paris · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:sierra:7af8aa4e-ba84-49ba-bc53-19358f4564ff</id>
+    <title>Sierra: Software Engineer Intern, Agent (London 2027)</title>
+    <link href="https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London · TypeScript, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8894770002</id>
+    <title>Graphcore: Firmware Summer Intern 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894770002"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Bristol, UK · Python · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8894868002</id>
+    <title>Graphcore: Software Engineer Summer Intern, AI Compute Libraries &amp; Performance 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894868002"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Bristol, UK · Python, C++ · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8894797002</id>
+    <title>Graphcore: UX Design Summer Intern 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894797002"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Design · Bristol, UK · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025</id>
+    <title>NVIDIA: AI Compiler Formal Verification Intern</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Switzerland, Zurich · Python, C++, PyTorch</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604</id>
+    <title>SOTI: Software Developer Intern (May 2027)</title>
+    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, C#, Rust, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8894376002</id>
+    <title>Graphcore: Software Engineering Summer Intern, Drivers and Utilities 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894376002"/>
     <updated>2026-10-20T12:21:30Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Design · EMEA &gt; CHE &gt; Stabio &gt; Stabio - VF Campus VF1 · status: closed</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Bristol, UK · Python, C++, Git · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1033</id>
@@ -40,12 +96,20 @@
     <summary>Not stated · Security · Erba, Lombardia, Italy</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:graphcore:8894376002</id>
-    <title>Graphcore: Software Engineering Summer Intern, Drivers and Utilities 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894376002"/>
+    <id>urn:intern-engine:workday:asml:/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering--thesis--internship--observability-driven-synthetic-contract-testing_J-00354536</id>
+    <title>ASML: Computer Science | Software Engineering (thesis) internship: observability-driven synthetic contract testing</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering--thesis--internship--observability-driven-synthetic-contract-testing_J-00354536"/>
     <updated>2026-10-20T12:21:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bristol, UK · Python, C++, Git · sponsorship: no-sponsorship</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Eindhoven, Netherlands · Python, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering-internship--dynamic-test-selection_J-00354538</id>
+    <title>ASML: Computer Science | Software Engineering internship: dynamic test selection</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering-internship--dynamic-test-selection_J-00354538"/>
+    <updated>2026-10-20T12:21:30Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Eindhoven, Netherlands · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1</id>
@@ -62,6 +126,14 @@
     <updated>2026-10-20T12:21:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Veghel, Netherlands · Python, Java, C#, LLMs, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vfc:/job/EMEA--CHE--Stabio--Stabio---VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021</id>
+    <title>VF: Graphic Product Design Intern</title>
+    <link href="https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/EMEA--CHE--Stabio--Stabio---VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021"/>
+    <updated>2026-10-20T12:21:30Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Design · EMEA &gt; CHE &gt; Stabio &gt; Stabio - VF Campus VF1 · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Hsinchu-Taiwan/CS-HMI--NPI-Data-Analyst-Internship---Hsinchu_J-00349763</id>
@@ -203,9 +275,9 @@
     <id>urn:intern-engine:smartrecruiters:PAConsulting:744000156271319</id>
     <title>PA Consulting: 2027 Summer Internship - Digital (Digital Trust &amp; Cyber Security) - London</title>
     <link href="https://jobs.smartrecruiters.com/PAConsulting/744000156271319"/>
-    <updated>2026-10-19T11:29:18Z</updated>
+    <updated>2026-10-20T17:09:51Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · London, , United Kingdom · Python, SQL</summary>
+    <summary>Summer 2027 · Security · London, , United Kingdom · Python, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Wise:744000156265544</id>
@@ -734,77 +806,5 @@
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada, Toronto · C++, PyTorch, CUDA, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lighting:/job/Eindhoven/Data-Analyst-Intern_366375</id>
-    <title>Signify: Data Analyst Intern</title>
-    <link href="https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Data-Analyst-Intern_366375"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Eindhoven · Python, SQL, Snowflake</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:myview:/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1</id>
-    <title>Loblaw Companies: Associate Product Manager - Co-op Student</title>
-    <link href="https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · 500 Lake Shore Blvd W, Toronto, ON</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nxp:/job/Eindhoven/AI---Future-of-HR-Research-Intern_R-10067318</id>
-    <title>NXP Semiconductors: AI &amp; Future of HR Research Intern</title>
-    <link href="https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/AI---Future-of-HR-Research-Intern_R-10067318"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Eindhoven</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nxp:/job/Eindhoven/Master-Thesis-Internship---AI-Driven-Transistor-Design-Exploration_R-10067224</id>
-    <title>NXP Semiconductors: Master Thesis Internship - AI-Driven Transistor Design Exploration</title>
-    <link href="https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Master-Thesis-Internship---AI-Driven-Transistor-Design-Exploration_R-10067224"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Eindhoven · Python, Pandas, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Eindhoven/Intern-Consultancy-data-modelling_581630</id>
-    <title>Philips: Intern AI Application Developer</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Intern-Consultancy-data-modelling_581630"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Eindhoven · Python, Java, C#, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556</id>
-    <title>Philips: Internship: Full Stack Developer in Finance Domain</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Software · Eindhoven · Java, JavaScript, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/Netherlands-Amsterdam/AI-Product-Manager-Intern--Game-Development_R108258</id>
-    <title>Tencent: AI Product Manager Intern, Game Development</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/AI-Product-Manager-Intern--Game-Development_R108258"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · Netherlands-Amsterdam</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/Netherlands-Amsterdam/Product-Manager-Intern--User-Acqusition_R108259</id>
-    <title>Tencent: Product Manager Intern, User Acqusition</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern--User-Acqusition_R108259"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · Netherlands-Amsterdam</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/Netherlands-Amsterdam/Product-Manager-Intern_R108260</id>
-    <title>Tencent: Product Manager Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern_R108260"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · Netherlands-Amsterdam</summary>
   </entry>
 </feed>

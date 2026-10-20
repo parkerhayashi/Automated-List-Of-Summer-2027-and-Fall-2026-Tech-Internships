@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-20T20:48:11Z",
- "data_as_of": "2026-10-20T20:48:11Z",
- "rendered_at": "2026-10-20T20:48:12Z",
+ "generated_at": "2026-10-20T23:39:39Z",
+ "data_as_of": "2026-10-20T23:39:39Z",
+ "rendered_at": "2026-10-20T23:39:40Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -396,7 +396,7 @@
    "expected": "2026-08-19",
    "days_until": -62,
    "status": "open",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
    "note": "multiple programs; Ignite ~Oct, SWE ongoing",
    "provenance": {
     "type": "engine-observed",

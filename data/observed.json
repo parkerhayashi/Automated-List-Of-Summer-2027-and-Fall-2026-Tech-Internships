@@ -1594,6 +1594,18 @@
     }
    }
   },
+  "graphcore": {
+   "name": "Graphcore",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "greenhouse:graphcore:8894376002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "graviton": {
    "name": "Graviton",
    "cycles": {
@@ -3942,5 +3954,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T06:50:48Z"
+ "updated_at": "2026-10-20T12:21:30Z"
 }

@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:iadugs.fa.ocs.oraclecloud.com:1033",
+      "greenhouse:celonis:7989895003",
+      "greenhouse:graphcore:8894376002",
+      "workday:tencent:/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1",
+      "workday:vanderlande:/job/Veghel-Netherlands/Internship-Graduation--Agentic-AI-Systems-for-Software-Re-engineering_JR38496"
+    ],
+    "telegram": [
+      "oracle:iadugs.fa.ocs.oraclecloud.com:1033",
+      "greenhouse:celonis:7989895003",
+      "greenhouse:graphcore:8894376002",
+      "workday:tencent:/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1",
+      "workday:vanderlande:/job/Veghel-Netherlands/Internship-Graduation--Agentic-AI-Systems-for-Software-Re-engineering_JR38496"
+    ]
   }
 }

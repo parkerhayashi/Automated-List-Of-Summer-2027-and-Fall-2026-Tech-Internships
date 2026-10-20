@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-20T06:50:48Z</updated>
+  <updated>2026-10-20T12:21:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering-internship--dynamic-test-selection_J-00354538</id>
+    <title>ASML: Computer Science | Software Engineering internship: dynamic test selection</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering-internship--dynamic-test-selection_J-00354538"/>
+    <updated>2026-10-20T12:21:30Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Eindhoven, Netherlands · Python · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering--thesis--internship--observability-driven-synthetic-contract-testing_J-00354536</id>
+    <title>ASML: Computer Science | Software Engineering (thesis) internship: observability-driven synthetic contract testing</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering--thesis--internship--observability-driven-synthetic-contract-testing_J-00354536"/>
+    <updated>2026-10-20T12:21:30Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Eindhoven, Netherlands · Python, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vfc:/job/EMEA--CHE--Stabio--Stabio---VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021</id>
+    <title>VF: Graphic Product Design Intern</title>
+    <link href="https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/EMEA--CHE--Stabio--Stabio---VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021"/>
+    <updated>2026-10-20T12:21:30Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Design · EMEA &gt; CHE &gt; Stabio &gt; Stabio - VF Campus VF1 · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1033</id>
+    <title>Legrand: Cybersecurity Assessment Internship</title>
+    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1033"/>
+    <updated>2026-10-20T12:21:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Erba, Lombardia, Italy</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8894376002</id>
+    <title>Graphcore: Software Engineering Summer Intern, Drivers and Utilities 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894376002"/>
+    <updated>2026-10-20T12:21:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Bristol, UK · Python, C++, Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1</id>
+    <title>Tencent: Generative AI Research Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1"/>
+    <updated>2026-10-20T12:21:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United Kingdom-London · LLMs, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship-Graduation--Agentic-AI-Systems-for-Software-Re-engineering_JR38496</id>
+    <title>Vanderlande Industries: Internship/Graduation: Agentic AI Systems for Software Re-engineering</title>
+    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship-Graduation--Agentic-AI-Systems-for-Software-Re-engineering_JR38496"/>
+    <updated>2026-10-20T12:21:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Veghel, Netherlands · Python, Java, C#, LLMs, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Hsinchu-Taiwan/CS-HMI--NPI-Data-Analyst-Internship---Hsinchu_J-00349763</id>
     <title>ASML: Internship - CS HMI NPI Data Analyst Intern - Hsinchu</title>
@@ -750,61 +806,5 @@
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · PM · Netherlands-Amsterdam</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Build-the-future-of-work--Create-reusable-AI-skills-for-Vanderlande_JR38184</id>
-    <title>Vanderlande Industries: Internship: Building the Future of Work with Low-Code AI Skills for Vanderlande</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Build-the-future-of-work--Create-reusable-AI-skills-for-Vanderlande_JR38184"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Data &amp; ML/AI · Veghel, Netherlands · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--AI--driven-HR-innovation_JR38406</id>
-    <title>Vanderlande Industries: Internship: AI- driven HR innovation</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--AI--driven-HR-innovation_JR38406"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veghel, Netherlands · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--AI-powered-assistant-within-warehouse-execution-systems_JR38256</id>
-    <title>Vanderlande Industries: Internship: AI-powered assistant within warehouse execution systems</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--AI-powered-assistant-within-warehouse-execution-systems_JR38256"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veghel, Netherlands · Python, Java, TypeScript, JavaScript, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--Finance-process-automation---AI_JR38233</id>
-    <title>Vanderlande Industries: Internship: Finance process automation &amp; AI</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--Finance-process-automation---AI_JR38233"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veghel, Netherlands · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--HMI---UX-Design-for-Smart-Automation_JR38392</id>
-    <title>Vanderlande Industries: Internship: HMI &amp; UX Design for Smart Automation</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--HMI---UX-Design-for-Smart-Automation_JR38392"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Design · Veghel, Netherlands · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship--IT-Infrastructure---systems_JR38223</id>
-    <title>Vanderlande Industries: Internship: IT Infrastructure &amp; systems</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--IT-Infrastructure---systems_JR38223"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Veghel, Netherlands · Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10544726</id>
-    <title>Amazon: Business Developer Intern - 2027 - 6 months</title>
-    <link href="https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months"/>
-    <updated>2026-10-15T13:08:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Munich, International</summary>
   </entry>
 </feed>

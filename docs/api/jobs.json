@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-10-20T01:30:24Z",
- "data_as_of": "2026-10-20T01:30:24Z",
- "rendered_at": "2026-10-20T01:30:25Z",
+ "generated_at": "2026-10-20T06:50:48Z",
+ "data_as_of": "2026-10-20T06:50:48Z",
+ "rendered_at": "2026-10-20T06:50:49Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 366,
+ "count": 367,
  "jobs": [
+  {
+   "id": "workday:asml:/job/Hsinchu-Taiwan/CS-HMI--NPI-Data-Analyst-Internship---Hsinchu_J-00349763",
+   "company": "ASML",
+   "title": "Internship - CS HMI NPI Data Analyst Intern - Hsinchu",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hsinchu, Taiwan",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/CS-HMI--NPI-Data-Analyst-Internship---Hsinchu_J-00349763",
+   "posted_at": "2026-10-20T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-20T06:50:48Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "MATLAB"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:cgg:/job/Massy-France/IA-Software-Engineer-Intern_JR101544-2",
    "company": "Viridien",
@@ -6125,7 +6149,7 @@
   {
    "id": "greenhouse:dvtrading:4733877005",
    "company": "DV Trading",
-   "title": "2027 Quantitative Research Intern (DV Equities)",
+   "title": "2027 Quantitative Research Intern (DV QES)",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
@@ -6149,7 +6173,7 @@
   {
    "id": "greenhouse:dvtrading:4733880005",
    "company": "DV Trading",
-   "title": "2027 Software Developer Intern  (DV Equities)",
+   "title": "2027 Software Developer Intern  (DV QES)",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-20T01:30:24Z</updated>
+  <updated>2026-10-20T06:50:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Hsinchu-Taiwan/CS-HMI--NPI-Data-Analyst-Internship---Hsinchu_J-00349763</id>
+    <title>ASML: Internship - CS HMI NPI Data Analyst Intern - Hsinchu</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/CS-HMI--NPI-Data-Analyst-Internship---Hsinchu_J-00349763"/>
+    <updated>2026-10-20T06:50:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Hsinchu, Taiwan · Python, MATLAB</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:palantir:3e59369e-1392-42f2-8d03-86648e87e963</id>
     <title>Palantir: Software Engineer, Internship - Query Engines</title>
@@ -401,7 +409,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dvtrading:4733877005</id>
-    <title>DV Trading: 2027 Quantitative Research Intern (DV Equities)</title>
+    <title>DV Trading: 2027 Quantitative Research Intern (DV QES)</title>
     <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4733877005"/>
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Summer 2027"/>
@@ -409,7 +417,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dvtrading:4733880005</id>
-    <title>DV Trading: 2027 Software Developer Intern  (DV Equities)</title>
+    <title>DV Trading: 2027 Software Developer Intern  (DV QES)</title>
     <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4733880005"/>
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Summer 2027"/>
@@ -798,13 +806,5 @@
     <updated>2026-10-15T13:08:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Munich, International</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210800615</id>
-    <title>JPMorganChase: 2027 AI Research Associate Program - Internship</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210800615"/>
-    <updated>2026-10-15T13:08:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · LONDON, United Kingdom · Python, PyTorch, TensorFlow, LLMs</summary>
   </entry>
 </feed>

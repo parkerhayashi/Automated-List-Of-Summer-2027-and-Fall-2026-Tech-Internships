@@ -5,31 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-20T17:09:51Z</updated>
+  <updated>2026-10-20T20:48:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Data-Science---Engineering-internship--optimizing-business-processes_J-00354527-1</id>
-    <title>ASML: Data Science | Engineering internship: optimizing business processes</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Data-Science---Engineering-internship--optimizing-business-processes_J-00354527-1"/>
-    <updated>2026-10-20T17:09:51Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, SQL, Azure, Databricks · status: closed</summary>
+    <id>urn:intern-engine:workday:analogdevices:/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128</id>
+    <title>Analog Devices: Software Tools Engineering Intern</title>
+    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128"/>
+    <updated>2026-10-20T20:48:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United Kingdom, Edinburgh, SC, Freer · TypeScript, JavaScript, React, Node.js, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:relx:/job/Paris/Junior-Quant-Analyst-Intern---EU-Carbon-Markets_R119865-2</id>
-    <title>RELX: Junior Quant Analyst Intern - EU Carbon Markets</title>
-    <link href="https://relx.wd3.myworkdayjobs.com/relx/job/Paris/Junior-Quant-Analyst-Intern---EU-Carbon-Markets_R119865-2"/>
-    <updated>2026-10-20T17:09:51Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Quant · Paris · Python, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:shifttechnology:8014553003</id>
-    <title>Shift: Data scientist Internship (6 months)</title>
-    <link href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003"/>
-    <updated>2026-10-20T17:09:51Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · France - Paris · status: closed</summary>
+    <id>urn:intern-engine:workday:nvidia:/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497</id>
+    <title>NVIDIA: AI Developer Technology Intern - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497"/>
+    <updated>2026-10-20T20:48:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Germany, Munich · C++, CUDA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:sierra:7af8aa4e-ba84-49ba-bc53-19358f4564ff</id>
@@ -48,14 +40,6 @@
     <summary>Summer 2027 · Hardware · Bristol, UK · Python · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:graphcore:8894868002</id>
-    <title>Graphcore: Software Engineer Summer Intern, AI Compute Libraries &amp; Performance 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894868002"/>
-    <updated>2026-10-20T17:09:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Bristol, UK · Python, C++ · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:graphcore:8894797002</id>
     <title>Graphcore: UX Design Summer Intern 2027 🛂</title>
     <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894797002"/>
@@ -64,12 +48,44 @@
     <summary>Summer 2027 · Design · Bristol, UK · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8894868002</id>
+    <title>Graphcore: Software Engineer Summer Intern, AI Compute Libraries &amp; Performance 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894868002"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Bristol, UK · Python, C++ · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:shifttechnology:8014553003</id>
+    <title>Shift: Data scientist Internship (6 months)</title>
+    <link href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · France - Paris · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Data-Science---Engineering-internship--optimizing-business-processes_J-00354527-1</id>
+    <title>ASML: Data Science | Engineering internship: optimizing business processes</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Data-Science---Engineering-internship--optimizing-business-processes_J-00354527-1"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, SQL, Azure, Databricks · status: closed</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:nvidia:/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025</id>
     <title>NVIDIA: AI Compiler Formal Verification Intern</title>
     <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025"/>
     <updated>2026-10-20T17:09:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Switzerland, Zurich · Python, C++, PyTorch</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:relx:/job/Paris/Junior-Quant-Analyst-Intern---EU-Carbon-Markets_R119865-2</id>
+    <title>RELX: Junior Quant Analyst Intern - EU Carbon Markets</title>
+    <link href="https://relx.wd3.myworkdayjobs.com/relx/job/Paris/Junior-Quant-Analyst-Intern---EU-Carbon-Markets_R119865-2"/>
+    <updated>2026-10-20T17:09:51Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Quant · Paris · Python, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Veldhoven, Netherlands</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dentsuaegis:/job/Aarhus/Developer-Intern_R1130839</id>
-    <title>Dentsu: Developer Intern</title>
-    <link href="https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Aarhus/Developer-Intern_R1130839"/>
-    <updated>2026-10-18T09:21:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Aarhus · Java, Spring, Azure, Docker, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934</id>
-    <title>Intel: Compiler Engineering Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Toronto · C++, PyTorch, CUDA, Linux, Git</summary>
   </entry>
 </feed>

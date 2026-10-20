@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:analogdevices:/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128",
+      "workday:nvidia:/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497"
+    ],
+    "telegram": [
+      "workday:analogdevices:/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128",
+      "workday:nvidia:/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497"
+    ]
   }
 }

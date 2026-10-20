@@ -1,22 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:sierra:7af8aa4e-ba84-49ba-bc53-19358f4564ff",
-      "workday:ankura:/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080",
-      "greenhouse:graphcore:8894770002",
-      "greenhouse:graphcore:8894868002",
-      "greenhouse:graphcore:8894797002",
-      "workday:nvidia:/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"
-    ],
-    "telegram": [
-      "ashby:sierra:7af8aa4e-ba84-49ba-bc53-19358f4564ff",
-      "workday:ankura:/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080",
-      "greenhouse:graphcore:8894770002",
-      "greenhouse:graphcore:8894868002",
-      "greenhouse:graphcore:8894797002",
-      "workday:nvidia:/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

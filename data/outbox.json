@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:palantir:3e59369e-1392-42f2-8d03-86648e87e963",
+      "workday:cgg:/job/Massy-France/IA-Software-Engineer-Intern_JR101544-2"
+    ],
+    "telegram": [
+      "lever:palantir:3e59369e-1392-42f2-8d03-86648e87e963",
+      "workday:cgg:/job/Massy-France/IA-Software-Engineer-Intern_JR101544-2"
+    ]
   }
 }

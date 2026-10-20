@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-19T22:33:10Z</updated>
+  <updated>2026-10-20T01:30:24Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:palantir:3e59369e-1392-42f2-8d03-86648e87e963</id>
+    <title>Palantir: Software Engineer, Internship - Query Engines</title>
+    <link href="https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963"/>
+    <updated>2026-10-20T01:30:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · London, United Kingdom · Python, Java, C++, Rust, Scala</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cgg:/job/Massy-France/IA-Software-Engineer-Intern_JR101544-2</id>
+    <title>Viridien: HPC Intern - Compiler Evaluation &amp; Performance Analysis</title>
+    <link href="https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Massy-France/IA-Software-Engineer-Intern_JR101544-2"/>
+    <updated>2026-10-20T01:30:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Massy, France · Python, C++, Bash, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2</id>
     <title>BMO: Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months</title>
@@ -16,20 +32,20 @@
     <summary>Summer 2027 · Software · Toronto, ON, CAN</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hp:/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1</id>
-    <title>Hewlett Packard (HP): Machine Learning Development Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1"/>
-    <updated>2026-10-19T22:33:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Porto Alegre, Rio Grande do Sul, Brazil · Python, PyTorch, TensorFlow, LLMs</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:cgg:/job/Massy-France/Software-Web-Developer-Intern_JR101543-2</id>
     <title>Viridien: Software Web Developer Intern</title>
     <link href="https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Massy-France/Software-Web-Developer-Intern_JR101543-2"/>
     <updated>2026-10-19T22:33:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Massy, France · TypeScript, JavaScript, React, Docker, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1</id>
+    <title>Hewlett Packard (HP): Machine Learning Development Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1"/>
+    <updated>2026-10-19T22:33:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Porto Alegre, Rio Grande do Sul, Brazil · Python, PyTorch, TensorFlow, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:celonis:8014366003</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-15T13:08:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · LONDON, United Kingdom · Python, PyTorch, TensorFlow, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PAConsulting:744000155679795</id>
-    <title>PA Consulting: 2027 Summer Internship - Applied Scientist - Cambridge</title>
-    <link href="https://jobs.smartrecruiters.com/PAConsulting/744000155679795"/>
-    <updated>2026-10-15T13:08:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Melbourn, , United Kingdom</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PAConsulting:744000155685700</id>
-    <title>PA Consulting: 2027 Summer Internship - Software &amp; AI Systems – Cambridge</title>
-    <link href="https://jobs.smartrecruiters.com/PAConsulting/744000155685700"/>
-    <updated>2026-10-15T13:08:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Melbourn, , United Kingdom · Python, C++, C#, Rust, Linux</summary>
   </entry>
 </feed>

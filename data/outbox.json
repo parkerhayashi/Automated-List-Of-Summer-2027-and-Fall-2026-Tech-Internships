@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:159023",
-      "workday:mlse:/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2",
-      "smartrecruiters:PAConsulting:744000156517180"
-    ],
-    "telegram": [
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:159023",
-      "workday:mlse:/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2",
-      "smartrecruiters:PAConsulting:744000156517180"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

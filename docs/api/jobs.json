@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-10-20T23:39:39Z",
- "data_as_of": "2026-10-20T23:39:39Z",
- "rendered_at": "2026-10-20T23:39:40Z",
+ "generated_at": "2026-10-21T02:12:36Z",
+ "data_as_of": "2026-10-21T02:12:36Z",
+ "rendered_at": "2026-10-21T02:12:36Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 379,
  "jobs": [
+  {
+   "id": "smartrecruiters:BoschGroup:744000156523049",
+   "company": "Bosch",
+   "title": "Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Ovar, International (PT) (Hybrid)",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156523049",
+   "posted_at": "2026-10-20T10:35:47.350Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-21T02:12:36Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "LLMs"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 188,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:analogdevices:/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128",
    "company": "Analog Devices",
@@ -2881,29 +2906,6 @@
    "skills": [],
    "source": "smartrecruiters",
    "h1b_approvals": 188,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:ankura:/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080",
-   "company": "Ankura Consulting Group",
-   "title": "Summer Internship 2027 Digital AI Advisory (Graduate programme conversion 2028)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "UK London",
-   "url": "https://ankura.wd5.myworkdayjobs.com/ankura/job/UK-London/Summer-Internship-2027-Digital-AI-Advisory--Graduate-programme-conversion-2028-_R105080",
-   "posted_at": "2026-10-07T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-07T20:50:04Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": 6,
    "program": "Internship",
    "remote": false
   },

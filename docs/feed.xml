@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-20T23:39:39Z</updated>
+  <updated>2026-10-21T02:12:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000156523049</id>
+    <title>Bosch: Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000156523049"/>
+    <updated>2026-10-21T02:12:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ovar, International (PT) (Hybrid) · Python, C++, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:analogdevices:/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128</id>
     <title>Analog Devices: Software Tools Engineering Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Software · Veldhoven, Netherlands · Python, C++ · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Information-Technology---Cyber-Security-internship--IT-controls-transformation_J-00353784</id>
-    <title>ASML: Information Technology | Cyber Security internship: IT controls transformation</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Information-Technology---Cyber-Security-internship--IT-controls-transformation_J-00353784"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Veldhoven, Netherlands</summary>
   </entry>
 </feed>

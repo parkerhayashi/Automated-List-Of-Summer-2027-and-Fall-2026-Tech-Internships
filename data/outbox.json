@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:nvidia:/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
-      "smartrecruiters:Sia:744000156750699",
-      "workday:tencent:/job/United-Kingdom-London/AI-Native-Game-Design-Intern_R108252-1"
-    ],
-    "telegram": [
-      "workday:nvidia:/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
-      "smartrecruiters:Sia:744000156750699",
-      "workday:tencent:/job/United-Kingdom-London/AI-Native-Game-Design-Intern_R108252-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

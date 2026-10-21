@@ -2591,9 +2591,10 @@
       "workday:nvidia:/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
       "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628",
       "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406",
+      "workday:nvidia:/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
       "workday:nvidia:/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -3983,5 +3984,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T07:47:55Z"
+ "updated_at": "2026-10-21T13:30:32Z"
 }

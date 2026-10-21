@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-21T02:12:36Z</updated>
+  <updated>2026-10-21T07:47:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159023</id>
+    <title>Honeywell: Intern Bachelors Embedded Engineer (m/f/d)</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159023"/>
+    <updated>2026-10-21T07:47:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Leicester, Leicestershire, United Kingdom · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mlse:/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2</id>
+    <title>Maple Leaf Sports &amp; Entertainment Partnership (MLSE): Business Strategy &amp; Product Management (AI) Intern</title>
+    <link href="https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2"/>
+    <updated>2026-10-21T07:47:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · Toronto, Ontario · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PAConsulting:744000156517180</id>
+    <title>PA Consulting: 2027 Summer Internship - Digital (Digital Trust &amp; Cyber Security) - London</title>
+    <link href="https://jobs.smartrecruiters.com/PAConsulting/744000156517180"/>
+    <updated>2026-10-21T07:47:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · London, , United Kingdom · Python, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000156523049</id>
     <title>Bosch: Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Data &amp; ML/AI · Eindhoven, Netherlands · Python, SQL, Git, Databricks · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-Driven-Cloud-Cost-Intelligence_J-00352655</id>
-    <title>ASML: Artificial Intelligence | Computer Science internship: AI-Driven Cloud Cost Intelligence</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-Driven-Cloud-Cost-Intelligence_J-00352655"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Veldhoven, Netherlands · Python, Java, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--ai-driven-software-quality_J-00352656</id>
-    <title>ASML: Artificial Intelligence | Computer Science internship: ai-driven software quality</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--ai-driven-software-quality_J-00352656"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Veldhoven, Netherlands · Python, Java, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--Wafer-map-verification_J-00353359</id>
-    <title>ASML: Computer Science | Software Engineering internship: Wafer map verification</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--Wafer-map-verification_J-00353359"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Veldhoven, Netherlands · Python, C++ · status: closed</summary>
   </entry>
 </feed>

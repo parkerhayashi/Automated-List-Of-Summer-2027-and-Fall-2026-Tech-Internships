@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-21T18:29:30Z",
- "data_as_of": "2026-10-21T18:29:30Z",
- "rendered_at": "2026-10-21T18:29:31Z",
+ "generated_at": "2026-10-21T22:15:31Z",
+ "data_as_of": "2026-10-21T22:15:31Z",
+ "rendered_at": "2026-10-21T22:15:32Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -98,25 +98,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-05-13"
-   }
-  },
-  {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-10",
-   "days_until": -133,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-06-10"
    }
   },
   {
@@ -530,25 +511,6 @@
    "days_until": -51,
    "status": "open",
    "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Forensic---Litigation-Consulting--Cyber_JR260757",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-31"
-   }
-  },
-  {
-   "company": "Tranetechnologies",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -51,
-   "status": "open",
-   "url": "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3711,6 +3673,25 @@
    }
   },
   {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-10",
+   "days_until": -133,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-10"
+   }
+  },
+  {
    "company": "Voloridge",
    "last_cycle_posted": "",
    "posted_on": "2026-06-11",
@@ -5365,6 +5346,25 @@
   },
   {
    "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -51,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Tranetechnologies",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
    "precision": "day",

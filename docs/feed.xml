@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-21T18:29:30Z</updated>
+  <updated>2026-10-21T22:15:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workable:commonai:021D3FCF3E</id>
-    <title>CommonAI C.I.C.: Software Engineer (Summer 2027 Internship)</title>
-    <link href="https://apply.workable.com/commonai/j/021D3FCF3E/"/>
-    <updated>2026-10-21T18:29:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Cambridge, England, United Kingdom · Python, C++, Rust, PyTorch, TensorFlow</summary>
+    <id>urn:intern-engine:workable:nuovophotography:7DE79BE9A8</id>
+    <title>Nuovo Photography: Software Developer Intern</title>
+    <link href="https://apply.workable.com/nuovophotography/j/7DE79BE9A8/"/>
+    <updated>2026-10-21T22:15:31Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Montreal, Quebec, Canada · Python, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science-internship--web-based-application-development_J-00355290</id>
+    <title>ASML: Computer Science internship: web-based application development</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science-internship--web-based-application-development_J-00355290"/>
+    <updated>2026-10-21T22:15:31Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Veldhoven, Netherlands · Python, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:steel:5fbdbebf-ddb2-4264-a941-3ab6d475208c</id>
@@ -24,6 +32,14 @@
     <summary>Summer 2027 · Software · Toronto · LLMs, Linux, Git</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:celonis:7925721003</id>
+    <title>Celonis: AI &amp; Management Consulting Intern (Value Engineering - DACH Market)</title>
+    <link href="https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Munich, Germany · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4997</id>
     <title>Verisk: Year-Long Internship 2027  - Software Engineering Intern</title>
     <link href="https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997"/>
@@ -32,12 +48,12 @@
     <summary>Summer 2027 · Software · Manchester, Greater Manchester, United Kingdom · C#, TypeScript, SQL, Vue, Azure</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:celonis:7925721003</id>
-    <title>Celonis: AI &amp; Management Consulting Intern (Value Engineering - DACH Market)</title>
-    <link href="https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003"/>
+    <id>urn:intern-engine:workable:commonai:021D3FCF3E</id>
+    <title>CommonAI C.I.C.: Software Engineer (Summer 2027 Internship)</title>
+    <link href="https://apply.workable.com/commonai/j/021D3FCF3E/"/>
     <updated>2026-10-21T18:29:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Munich, Germany · Python, SQL, LLMs</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Cambridge, England, United Kingdom · Python, C++, Rust, PyTorch, TensorFlow</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1</id>
@@ -51,9 +67,9 @@
     <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Product-Analyst-Co-op_2621541</id>
     <title>CIBC: Product Analyst Co-op</title>
     <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541"/>
-    <updated>2026-10-21T18:29:30Z</updated>
+    <updated>2026-10-21T22:15:31Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · PM · Toronto, ON</summary>
+    <summary>Not stated · PM · Toronto, ON · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI3949-1</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Hong Kong</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nex:5420203008</id>
-    <title>Nex: Summer 2027 | Software Engineer Intern (Developer Experience)</title>
-    <link href="https://job-boards.greenhouse.io/nex/jobs/5420203008"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hong Kong · Python, Node.js, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nex:5420649008</id>
-    <title>Nex: Summer 2027 | Software Engineer Intern (ML Research, Core Technology)</title>
-    <link href="https://job-boards.greenhouse.io/nex/jobs/5420649008"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Hong Kong · Python, PyTorch, TensorFlow, Computer Vision</summary>
   </entry>
 </feed>

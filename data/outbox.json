@@ -1,6 +1,32 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workable:commonai:021D3FCF3E",
+      "ashby:steel:5fbdbebf-ddb2-4264-a941-3ab6d475208c",
+      "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4997",
+      "greenhouse:celonis:7925721003",
+      "workday:cibc:/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1",
+      "workday:cibc:/job/Toronto-ON/Product-Analyst-Co-op_2621541",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI3949-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_3170257-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software-Engineering-Intern_UNI4787-1",
+      "workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship---AI-Software-engineer_REQ-10123203",
+      "workday:monolithicpower:/job/Barcelona-Spain/Software-Engineer-Intern_R-1786"
+    ],
+    "telegram": [
+      "workable:commonai:021D3FCF3E",
+      "ashby:steel:5fbdbebf-ddb2-4264-a941-3ab6d475208c",
+      "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4997",
+      "greenhouse:celonis:7925721003",
+      "workday:cibc:/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1",
+      "workday:cibc:/job/Toronto-ON/Product-Analyst-Co-op_2621541",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI3949-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_3170257-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software-Engineering-Intern_UNI4787-1",
+      "workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship---AI-Software-engineer_REQ-10123203",
+      "workday:monolithicpower:/job/Barcelona-Spain/Software-Engineer-Intern_R-1786"
+    ]
   }
 }

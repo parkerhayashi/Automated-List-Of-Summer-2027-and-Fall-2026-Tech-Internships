@@ -5,8 +5,96 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-21T13:30:32Z</updated>
+  <updated>2026-10-21T18:29:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:commonai:021D3FCF3E</id>
+    <title>CommonAI C.I.C.: Software Engineer (Summer 2027 Internship)</title>
+    <link href="https://apply.workable.com/commonai/j/021D3FCF3E/"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Cambridge, England, United Kingdom · Python, C++, Rust, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:steel:5fbdbebf-ddb2-4264-a941-3ab6d475208c</id>
+    <title>Steel: Software Engineer Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto · LLMs, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4997</id>
+    <title>Verisk: Year-Long Internship 2027  - Software Engineering Intern</title>
+    <link href="https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Manchester, Greater Manchester, United Kingdom · C#, TypeScript, SQL, Vue, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:celonis:7925721003</id>
+    <title>Celonis: AI &amp; Management Consulting Intern (Value Engineering - DACH Market)</title>
+    <link href="https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Munich, Germany · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1</id>
+    <title>CIBC: AI and Quantum Scientist Co-op</title>
+    <link href="https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toronto, ON · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Product-Analyst-Co-op_2621541</id>
+    <title>CIBC: Product Analyst Co-op</title>
+    <link href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · Toronto, ON</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI3949-1</id>
+    <title>Hewlett Packard (HP): AI &amp; Automation Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI3949-1"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_3170257-1</id>
+    <title>Hewlett Packard (HP): Data Science Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_3170257-1"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>2 openings · Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software-Engineering-Intern_UNI4787-1</id>
+    <title>Hewlett Packard (HP): Software Engineering Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software-Engineering-Intern_UNI4787-1"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Sant Cugat del Valles, Barcelona, Spain · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship---AI-Software-engineer_REQ-10123203</id>
+    <title>ING: Internship - AI-Software-engineer</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Internship---AI-Software-engineer_REQ-10123203"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · HBP (Amsterdam - Haarlerbergpark) · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:monolithicpower:/job/Barcelona-Spain/Software-Engineer-Intern_R-1786</id>
+    <title>Monolithic Power Systems: Software Engineer Intern</title>
+    <link href="https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer-Intern_R-1786"/>
+    <updated>2026-10-21T18:29:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Barcelona, Spain · JavaScript, React, Next.js, HTML/CSS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--test-impact-analysis_J-00354297</id>
     <title>ASML: Computer Science | Software Engineering internship: test impact analysis</title>
@@ -718,93 +806,5 @@
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Hong Kong · Python, PyTorch, TensorFlow, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nex:5420802008</id>
-    <title>Nex: Summer 2027 | Software Engineer Intern - Game Development (Sports &amp; Active Play)</title>
-    <link href="https://job-boards.greenhouse.io/nex/jobs/5420802008"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hong Kong</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nex:5422027008</id>
-    <title>Nex: Summer 2027 | Software Engineer Intern (Platform)</title>
-    <link href="https://job-boards.greenhouse.io/nex/jobs/5422027008"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hong Kong · Python, Java, C++, TypeScript, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8238448</id>
-    <title>Schonfeld: 2027 Quantitative Research Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8238448"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8238451</id>
-    <title>Schonfeld: 2027 Quantitative C++ Developer Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8238451"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong · C++, Python, LLMs, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebcs.fa.em2.oraclecloud.com:40481</id>
-    <title>Arcadis: Internship – Machine learning in flood modelling</title>
-    <link href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40481"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Amersfoort, Utrecht, Netherlands · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5504</id>
-    <title>SCOR: Quantitative Finance &amp; Data Analyst Intern</title>
-    <link href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5504"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Paris, Ile-de-France, France · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41311</id>
-    <title>Nokia: Embedded C/C++ SW Developer Co-op/Intern</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Canada · C++, Python, Linux, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exby-saasfaprod1.fa.ocs.oraclecloud.com:226</id>
-    <title>BC Pensions: Junior Infrastructure Specialist Co-op</title>
-    <link href="https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/226"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Victoria, BC, Canada · Azure, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784369</id>
-    <title>JPMorganChase: 2027 Markets Quantitative Trading &amp; Research Associate Program – Off-Cycle Internship - Hong Kong</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784369"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong · Python, Java, C++, C#, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784371</id>
-    <title>JPMorganChase: 2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Hong Kong</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784371"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong · Python, Java, C++, C#, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:SopraSteria1:744000155419129</id>
-    <title>Sopra Steria: Internship AI &amp; Software Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/SopraSteria1/744000155419129"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Machelen, Flanders, International (BE) · Java</summary>
   </entry>
 </feed>

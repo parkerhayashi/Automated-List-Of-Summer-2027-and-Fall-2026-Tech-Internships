@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-22T05:37:54Z</updated>
+  <updated>2026-10-22T10:54:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26012511</id>
+    <title>Emerson Electric: Internship: AI-based Test &amp; Measurement Workflows</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012511"/>
+    <updated>2026-10-22T10:54:45Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · DRESDEN, SACHSEN, Germany · Python, C++, PyTorch, TensorFlow · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:juliusbaer:/job/Zurich/Strategic-Pricing---Product-Management-Intern-100---f-m-d-----Fixed-Term-Contract-of-6-12-months-_r-20118</id>
+    <title>Julius Baer: Strategic Pricing - Product Management Intern 100% (f/m/d) - [Fixed-Term Contract of 6-12 months]</title>
+    <link href="https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Strategic-Pricing---Product-Management-Intern-100---f-m-d-----Fixed-Term-Contract-of-6-12-months-_r-20118"/>
+    <updated>2026-10-22T10:54:45Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · PM · Zurich · Python, SQL, Tableau · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/Mannheim-Baden-Wurttemberg-Germany/MSc-or-BSc-Thesis---Internship--m-f-d--AI-for-Intent-Based-Networking_JR00043251-1</id>
+    <title>ABB: MSc or BSc Thesis / Internship (m/f/d) AI for Intent-Based Networking</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mannheim-Baden-Wurttemberg-Germany/MSc-or-BSc-Thesis---Internship--m-f-d--AI-for-Intent-Based-Networking_JR00043251-1"/>
+    <updated>2026-10-22T10:54:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Mannheim, Baden-Wurttemberg, Germany</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:SikaAG:744000157078341</id>
+    <title>Sika: ESG Digitalization Intern – Software &amp; Data Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/SikaAG/744000157078341"/>
+    <updated>2026-10-22T10:54:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Zürich, ZH, International (CH) · Python, TypeScript, JavaScript, SQL, React</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:hpe:/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1</id>
     <title>Hewlett Packard Enterprise: Software Development Intern, AI-Assisted Development (Summer 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Été 2027)</title>
@@ -16,17 +48,17 @@
     <summary>Summer 2027 · Data &amp; ML/AI · St. Laurent, Quebec, Canada · Rust, LLMs, Linux, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055</id>
-    <title>NVIDIA: Enterprise System Firmware Engineer (RDSS Intern)</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055"/>
+    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560</id>
+    <title>NVIDIA: Client System Firmware Engineer (RDSS Intern)</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560"/>
     <updated>2026-10-22T05:37:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Taiwan, Taipei · Python, C++, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560</id>
-    <title>NVIDIA: Client System Firmware Engineer (RDSS Intern)</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560"/>
+    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055</id>
+    <title>NVIDIA: Enterprise System Firmware Engineer (RDSS Intern)</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055"/>
     <updated>2026-10-22T05:37:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Taiwan, Taipei · Python, C++, Linux</summary>
@@ -774,37 +806,5 @@
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Hong Kong, Hong Kong · Python, Java, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:imc:4941208101</id>
-    <title>IMC Trading: Quantitative Research Intern 2027</title>
-    <link href="https://job-boards.eu.greenhouse.io/imc/jobs/4941208101"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong · Python, Java, C++, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:jumptrading:8027860</id>
-    <title>Jump Trading: Campus C++ Software Engineer (Intern)</title>
-    <link href="https://www.jumptrading.com/hr/job?gh_jid=8027860"/>
-    <updated>2026-10-19T00:23:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Hong Kong; Shanghai · C++, Python, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:jumptrading:8027923</id>
-    <title>Jump Trading: Campus Python Software Engineer (Intern)</title>
-    <link href="https://www.jumptrading.com/hr/job?gh_jid=8027923"/>
-    <updated>2026-10-19T00:23:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Hong Kong; Shanghai · Python, C++, Rust, Linux, Kafka · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:moloco:8007407003</id>
-    <title>Moloco: Software Engineer Intern (3 months)</title>
-    <link href="https://job-boards.greenhouse.io/moloco/jobs/8007407003"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Seoul, Korea</summary>
   </entry>
 </feed>

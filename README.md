@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 391 open roles (306 listed below) · 117 new this week
+### 390 open roles (306 listed below) · 119 new this week
 
-4,802 employers tracked · data as of Oct 22, 2026 at 05:37 UTC
+4,802 employers tracked · data as of Oct 22, 2026 at 10:54 UTC
 
-_179 have a cycle the employer stated · 212 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_179 have a cycle the employer stated · 211 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -293,8 +293,10 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| NVIDIA | Enterprise System Firmware Engineer (RDSS Intern) 🆕 | Hardware | Taiwan, Taipei | Python, C++, Linux | Oct 22, 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055) |
+| ABB | MSc or BSc Thesis / Internship (m/f/d) AI for Intent-Based Networking 🆕 | Data & ML/AI | Mannheim, Baden-Wurttemberg, Germany | No skills listed | Oct 22, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mannheim-Baden-Wurttemberg-Germany/MSc-or-BSc-Thesis---Internship--m-f-d--AI-for-Intent-Based-Networking_JR00043251-1) |
+| Sika | ESG Digitalization Intern – Software & Data Engineering 🆕 | Data & ML/AI | Zürich, ZH, International (CH) | Python, TypeScript, JavaScript, SQL | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000157078341) |
 | NVIDIA | Client System Firmware Engineer (RDSS Intern) 🆕 | Hardware | Taiwan, Taipei | Python, C++, Linux | Oct 22, 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560) |
+| NVIDIA | Enterprise System Firmware Engineer (RDSS Intern) 🆕 | Hardware | Taiwan, Taipei | Python, C++, Linux | Oct 22, 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055) |
 | Celonis | AI & Management Consulting Intern (Value Engineering - DACH Market) 🆕 | Data & ML/AI | Munich, Germany | Python, SQL, LLMs | Oct 21, 2026 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003) |
 | ING | Internship - AI-Software-engineer 🆕 | Data & ML/AI | HBP (Amsterdam - Haarlerbergpark) | Python | Oct 21, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Internship---AI-Software-engineer_REQ-10123203) |
 | Monolithic Power Systems | Software Engineer Intern 🆕 | Software | Barcelona, Spain | JavaScript, React, Next.js, HTML/CSS | Oct 21, 2026 | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer-Intern_R-1786) |
@@ -306,7 +308,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Legrand | Cybersecurity Assessment Internship 🆕 | Security | Erba, Lombardia, Italy | No skills listed | Oct 20, 2026 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1033) |
 | Tencent | Generative AI Research Intern 🆕 | Data & ML/AI | United Kingdom-London | LLMs, Computer Vision | Oct 20, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1) |
 | Vanderlande Industries | Internship/Graduation: Agentic AI Systems for Software Re-engineering 🆕 | Data & ML/AI | Veghel, Netherlands | Python, Java, C#, LLMs | Oct 20, 2026 | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship-Graduation--Agentic-AI-Systems-for-Software-Re-engineering_JR38496) |
-| ASML | Internship - CS HMI NPI Data Analyst Intern - Hsinchu 🆕 | Data & ML/AI | Hsinchu, Taiwan | Python, MATLAB | Oct 20, 2026 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/CS-HMI--NPI-Data-Analyst-Internship---Hsinchu_J-00349763) |
+| ASML | Internship - CS HMI NPI Data Analyst Intern - Hsinchu | Data & ML/AI | Hsinchu, Taiwan | Python, MATLAB | Oct 20, 2026 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/CS-HMI--NPI-Data-Analyst-Internship---Hsinchu_J-00349763) |
 | Viridien | HPC Intern - Compiler Evaluation & Performance Analysis | Software | Massy, France | Python, C++, Bash, Linux | Oct 20, 2026 | [Apply](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Massy-France/IA-Software-Engineer-Intern_JR101544-2) |
 | Viridien | Software Web Developer Intern | Software | Massy, France | TypeScript, JavaScript, React, Docker | Oct 20, 2026 | [Apply](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Massy-France/Software-Web-Developer-Intern_JR101543-2) |
 | Palantir | Software Engineer, Internship - Query Engines | Software | London, United Kingdom | Python, Java, C++, Rust | Oct 19, 2026 | [Apply](https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963) |
@@ -379,10 +381,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Flextronics International | Software Quality Engineer- Internship | Software | Italy, Milano | No skills listed | Sep 23, 2026 | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/Italy-Milano/Software-Quality-Engineer_WD230181) |
 | Johnson Controls | Architecture & AI Intern | Data & ML/AI | Cork-County Cork-Ireland | LLMs, AWS, Azure | Sep 23, 2026 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Cork-County-Cork-Ireland/Architecture---AI-Intern_WD30279250) |
 | Marvell | Software Engineer Intern | Software | Madrid | Python, C++ | Sep 23, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Madrid/Software-Engineer-Intern_2604258) |
-| Procter & Gamble (P&G) | Analysis & Insights Internship (Stagiaire Data Analyst) | Data & ML/AI | PARIS GO-ASNIERES-SUR-SEINE | Python, SQL | Sep 22, 2026 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355) |
 | Airbus | Internship (d/f/m) within Airbus site Artificial Intelligence Centre (AIC) | Data & ML/AI | Bremen Area | Python, PyTorch, TensorFlow | Sep 22, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Internship--d-f-m--within-Airbus-site-Artificial-Intelligence-Centre--AIC-_JR10441522) |
 | Procter & Gamble (P&G) | Analysis & Insights Internship (Stagiaire Data Analyst) | Data & ML/AI | PARIS GO: SAINT-OUEN GO | Python, SQL | Sep 22, 2026 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-SAINT-OUEN-GO/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355) |
-| SOTI | Software Development & QA Intern Opportunities 26/27 | Software | Galway, Ireland | C#, JavaScript, SQL, Node.js | Sep 22, 2026 | [Apply](https://soti.wd3.myworkdayjobs.com/Careers/job/Galway-Ireland/Software-Development---QA-Intern-Opportunities-26-27_R10547) |
 | Leidos | Intern Software Developer | Software | Melbourne, Victoria, Australia | No skills listed | Sep 22, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/Intern-Software-Developer_R-00190834) |
 | Chanel | Information Security Intern – Governance, Risk & Compliance (GRC) | Security | London | No skills listed | Sep 21, 2026 | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Information-Security-Intern---Governance--Risk---Compliance--GRC-_JOBREQ00115341) |
 | G-Research | Software Engineering Internship | Software | London, UK | Java, C++, C# | Sep 21, 2026 | [Apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746) |
@@ -500,7 +500,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,707 of 5,092 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1061.1s · 651 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,624 of 5,092 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1194.3s · 611 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

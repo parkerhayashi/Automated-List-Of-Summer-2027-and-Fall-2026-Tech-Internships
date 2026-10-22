@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-22T15:56:58Z</updated>
+  <updated>2026-10-22T19:47:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--dashboard-reporting-automation_J-00355547</id>
-    <title>ASML: Data Science | Business Analytics internship: dashboard reporting automation</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--dashboard-reporting-automation_J-00355547"/>
+    <id>urn:intern-engine:workday:hbfuller:/job/Mindelo-Porto-Portugal/Data-Analyst-Intern_R26_0000002377</id>
+    <title>H.B. Fuller: Data Analyst Intern</title>
+    <link href="https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Mindelo-Porto-Portugal/Data-Analyst-Intern_R26_0000002377"/>
+    <updated>2026-10-22T19:47:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Mindelo, Porto, Portugal · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25007757</id>
+    <title>Texas Instruments: Software Engineering Intern (Canada) 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25007757"/>
+    <updated>2026-10-22T19:47:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada; Toronto, ON, Canada · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933</id>
+    <title>Intel: Compiler Engineering Graduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933"/>
+    <updated>2026-10-22T19:47:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Toronto · C++, PyTorch, CUDA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10537736</id>
+    <title>Amazon: Technical Program Manager Intern 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10537736/technical-program-manager-intern-2027"/>
     <updated>2026-10-22T15:56:58Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python · status: closed</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · Madrid, International · SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8311597</id>
+    <title>Schonfeld: 2027 Index Rebalancing Quantitative Research Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8311597"/>
+    <updated>2026-10-22T15:56:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:studiokraftonboard:8906470002</id>
@@ -24,12 +56,12 @@
     <summary>Winter 2027 · Software · Montréal · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:amazon:amazon:10537736</id>
-    <title>Amazon: Technical Program Manager Intern 2027</title>
-    <link href="https://www.amazon.jobs/en/jobs/10537736/technical-program-manager-intern-2027"/>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--dashboard-reporting-automation_J-00355547</id>
+    <title>ASML: Data Science | Business Analytics internship: dashboard reporting automation</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--dashboard-reporting-automation_J-00355547"/>
     <updated>2026-10-22T15:56:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · Madrid, International · SQL</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1</id>
@@ -54,14 +86,6 @@
     <updated>2026-10-22T15:56:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Basel · Python, LLMs, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8311597</id>
-    <title>Schonfeld: 2027 Index Rebalancing Quantitative Research Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8311597"/>
-    <updated>2026-10-22T15:56:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26012511</id>
@@ -99,9 +123,9 @@
     <id>urn:intern-engine:workday:hpe:/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1</id>
     <title>Hewlett Packard Enterprise: Software Development Intern, AI-Assisted Development (Summer 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Été 2027)</title>
     <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1"/>
-    <updated>2026-10-22T05:37:54Z</updated>
+    <updated>2026-10-22T19:47:16Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · St. Laurent, Quebec, Canada · Rust, LLMs, Linux, Git</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · St. Laurent, Quebec, Canada · Rust, LLMs, Linux, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560</id>
@@ -369,7 +393,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604</id>
-    <title>SOTI: Software Developer Intern (May 2027)</title>
+    <title>SOTI: Software Developer Intern (May 2027 - 12 months)</title>
     <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"/>
     <updated>2026-10-20T17:09:51Z</updated>
     <category term="Summer 2027"/>
@@ -659,9 +683,9 @@
     <id>urn:intern-engine:ashby:sereact:baae4b51-6e24-4044-93aa-9d7f1b7671dd</id>
     <title>Sereact: Cybersecurity Intern</title>
     <link href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd"/>
-    <updated>2026-10-16T18:37:55Z</updated>
+    <updated>2026-10-22T19:47:16Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Stuttgart Schockenriedstr. 17 · Python, TypeScript, JavaScript, GCP, Kubernetes</summary>
+    <summary>Not stated · Security · Stuttgart Schockenriedstr. 17 · Python, TypeScript, JavaScript, GCP, Kubernetes · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:19073</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-15T21:35:04Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Brussels · C#, TypeScript, JavaScript, Azure, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:accenture:/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110</id>
-    <title>Avanade: Graduation Internship in ERP Functional  Consulting: AI Powered Dynamics 365 ERP 🛂</title>
-    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110"/>
-    <updated>2026-10-15T21:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Brussels · Azure · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:accenture:/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280</id>
-    <title>Avanade: Internship: Azure Platform Engineer Avanade Agentic Engineering Factory</title>
-    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280"/>
-    <updated>2026-10-15T21:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Brussels · Azure, Python, Bash, AWS, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:accenture:/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529</id>
-    <title>Avanade: Internship: Software Engineer Avanade Agentic Engineering Factory</title>
-    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529"/>
-    <updated>2026-10-15T21:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Brussels · Python, Java, C++, C#, SQL</summary>
   </entry>
 </feed>

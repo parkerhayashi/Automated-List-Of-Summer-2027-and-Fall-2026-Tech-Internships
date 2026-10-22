@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:interdigital:/job/Rennes-France/Intern--Deep-Learning-for-Perceptual-and-Color-Aware-Energy-Efficient-Images_REQ26-1150",
-      "workday:interdigital:/job/Rennes-France/Intern--Perceptual-Color-Processing-and-Gamut-Mapping-with-deep-learning-techniques_REQ26-1148",
-      "workday:imcoinvest:/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1",
-      "workday:manulife:/job/Toronto-Ontario/Product-Intern_JR26081011"
-    ],
-    "telegram": [
-      "workday:interdigital:/job/Rennes-France/Intern--Deep-Learning-for-Perceptual-and-Color-Aware-Energy-Efficient-Images_REQ26-1150",
-      "workday:interdigital:/job/Rennes-France/Intern--Perceptual-Color-Processing-and-Gamut-Mapping-with-deep-learning-techniques_REQ26-1148",
-      "workday:imcoinvest:/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1",
-      "workday:manulife:/job/Toronto-Ontario/Product-Intern_JR26081011"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

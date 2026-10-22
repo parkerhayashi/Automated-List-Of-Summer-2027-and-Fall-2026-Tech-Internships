@@ -187,13 +187,14 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 18,
+     "count": 19,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
       "amazon:amazon:10459543",
       "amazon:amazon:10517567",
       "amazon:amazon:10535280",
+      "amazon:amazon:10537736",
       "amazon:amazon:10538066",
       "amazon:amazon:10544726",
       "amazon:amazon:10553947",
@@ -3171,9 +3172,10 @@
       "greenhouse:schonfeld:8187178",
       "greenhouse:schonfeld:8207942",
       "greenhouse:schonfeld:8238448",
-      "greenhouse:schonfeld:8238451"
+      "greenhouse:schonfeld:8238451",
+      "greenhouse:schonfeld:8311597"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -4014,5 +4016,5 @@
    }
   }
  },
- "updated_at": "2026-10-22T10:54:45Z"
+ "updated_at": "2026-10-22T15:56:58Z"
 }

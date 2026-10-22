@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10537736",
+      "workday:cibc:/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1",
+      "workday:intel:/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215",
+      "workday:roche:/job/Basel/Internship-in-AI-for-Laboratory-Automation--Pharma-Research---Early-Development-_202610-125772",
+      "greenhouse:schonfeld:8311597"
+    ],
+    "telegram": [
+      "amazon:amazon:10537736",
+      "workday:cibc:/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1",
+      "workday:intel:/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215",
+      "workday:roche:/job/Basel/Internship-in-AI-for-Laboratory-Automation--Pharma-Research---Early-Development-_202610-125772",
+      "greenhouse:schonfeld:8311597"
+    ]
   }
 }

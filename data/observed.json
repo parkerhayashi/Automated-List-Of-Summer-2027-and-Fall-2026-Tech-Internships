@@ -1937,9 +1937,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-19",
      "role_ids": [
+      "workday:imcoinvest:/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1",
       "workday:imcoinvest:/job/Toronto---16-York-St/Intern--Infrastructure--Summer-2027-_R26-154"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4016,5 +4017,5 @@
    }
   }
  },
- "updated_at": "2026-10-22T19:47:17Z"
+ "updated_at": "2026-10-22T23:01:12Z"
 }

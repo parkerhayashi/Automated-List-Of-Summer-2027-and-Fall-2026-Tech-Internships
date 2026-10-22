@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-22T19:47:17Z</updated>
+  <updated>2026-10-22T23:01:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:hbfuller:/job/Mindelo-Porto-Portugal/Data-Analyst-Intern_R26_0000002377</id>
-    <title>H.B. Fuller: Data Analyst Intern</title>
-    <link href="https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Mindelo-Porto-Portugal/Data-Analyst-Intern_R26_0000002377"/>
-    <updated>2026-10-22T19:47:16Z</updated>
+    <id>urn:intern-engine:workday:interdigital:/job/Rennes-France/Intern--Deep-Learning-for-Perceptual-and-Color-Aware-Energy-Efficient-Images_REQ26-1150</id>
+    <title>Interdigital: Intern, Deep Learning for Perceptual and Color-Aware Energy-Efficient Images</title>
+    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Deep-Learning-for-Perceptual-and-Color-Aware-Energy-Efficient-Images_REQ26-1150"/>
+    <updated>2026-10-22T23:01:12Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mindelo, Porto, Portugal · Python, SQL</summary>
+    <summary>Not stated · Data &amp; ML/AI · Rennes, France · Python, PyTorch, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:interdigital:/job/Rennes-France/Intern--Perceptual-Color-Processing-and-Gamut-Mapping-with-deep-learning-techniques_REQ26-1148</id>
+    <title>Interdigital: Intern, Perceptual Color Processing and Gamut Mapping with deep learning techniques</title>
+    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Perceptual-Color-Processing-and-Gamut-Mapping-with-deep-learning-techniques_REQ26-1148"/>
+    <updated>2026-10-22T23:01:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Rennes, France · Python, C++, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imcoinvest:/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1</id>
+    <title>Investment Management Corporation of Ontario: Intern, Enterprise Transformation and AI Strategy (Summer 2027)</title>
+    <link href="https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1"/>
+    <updated>2026-10-22T23:01:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Toronto - 16 York St</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Product-Intern_JR26081011</id>
+    <title>Manulife Financial: Product Intern</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Product-Intern_JR26081011"/>
+    <updated>2026-10-22T23:01:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · Toronto, Ontario · HTML/CSS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25007757</id>
@@ -22,6 +46,14 @@
     <updated>2026-10-22T19:47:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada; Toronto, ON, Canada · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hbfuller:/job/Mindelo-Porto-Portugal/Data-Analyst-Intern_R26_0000002377</id>
+    <title>H.B. Fuller: Data Analyst Intern</title>
+    <link href="https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Mindelo-Porto-Portugal/Data-Analyst-Intern_R26_0000002377"/>
+    <updated>2026-10-22T19:47:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Mindelo, Porto, Portugal · Python, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-19T17:43:40Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Toulouse Area · Python, SQL, Pandas · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exby-saasfaprod1.fa.ocs.oraclecloud.com:227</id>
-    <title>BC Pensions: Application Developer Co-op</title>
-    <link href="https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227"/>
-    <updated>2026-10-16T00:05:34Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Victoria, BC, Canada · Java, C#, SQL, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:towerresearchcapital:7077280</id>
-    <title>Tower Research Capital: Machine Learning Intern</title>
-    <link href="https://www.tower-research.com/open-positions/?gh_jid=7077280"/>
-    <updated>2026-10-15T21:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Montreal · Python, SQL, Bash, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:accenture:/job/Amsterdam/Graduation-Internship-Netherland---AI-Security_R00360724</id>
-    <title>Avanade: Graduation Internship Netherland - AI Security</title>
-    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Amsterdam/Graduation-Internship-Netherland---AI-Security_R00360724"/>
-    <updated>2026-10-15T21:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Amsterdam</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:accenture:/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212</id>
-    <title>Avanade: Graduation Internship in Customer  Engagement: AI Powered Power Platform  Solution Governance 🛂</title>
-    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212"/>
-    <updated>2026-10-15T21:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Brussels · C#, TypeScript, JavaScript, Azure, Git · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

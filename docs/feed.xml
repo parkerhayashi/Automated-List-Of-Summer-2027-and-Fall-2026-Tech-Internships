@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-22T00:56:26Z</updated>
+  <updated>2026-10-22T05:37:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1</id>
+    <title>Hewlett Packard Enterprise: Software Development Intern, AI-Assisted Development (Summer 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Été 2027)</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1"/>
+    <updated>2026-10-22T05:37:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · St. Laurent, Quebec, Canada · Rust, LLMs, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055</id>
+    <title>NVIDIA: Enterprise System Firmware Engineer (RDSS Intern)</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055"/>
+    <updated>2026-10-22T05:37:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Taiwan, Taipei · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560</id>
+    <title>NVIDIA: Client System Firmware Engineer (RDSS Intern)</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560"/>
+    <updated>2026-10-22T05:37:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Taiwan, Taipei · Python, C++, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:nuovophotography:7DE79BE9A8</id>
     <title>Nuovo Photography: Software Developer Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-15T18:01:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Seoul, Korea</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:mwinternshipprogram:8857614002</id>
-    <title>Marshall Wace: Quant Developer Intern - Hong Kong 2027</title>
-    <link href="https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8857614002"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong · Python, Java, C++, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nex:5419756008</id>
-    <title>Nex: Summer 2027 | Software Engineer Intern (Engineering, Core Technology)</title>
-    <link href="https://job-boards.greenhouse.io/nex/jobs/5419756008"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hong Kong · Java, C++, C#, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nex:5420003008</id>
-    <title>Nex: Summer 2027 | Software Engineer Intern - Game Development (Creative &amp; Party)</title>
-    <link href="https://job-boards.greenhouse.io/nex/jobs/5420003008"/>
-    <updated>2026-10-15T18:01:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hong Kong</summary>
   </entry>
 </feed>

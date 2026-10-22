@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:hbfuller:/job/Mindelo-Porto-Portugal/Data-Analyst-Intern_R26_0000002377",
-      "oracle:edbz.fa.us2.oraclecloud.com:25007757",
-      "workday:intel:/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933"
-    ],
-    "telegram": [
-      "workday:hbfuller:/job/Mindelo-Porto-Portugal/Data-Analyst-Intern_R26_0000002377",
-      "oracle:edbz.fa.us2.oraclecloud.com:25007757",
-      "workday:intel:/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

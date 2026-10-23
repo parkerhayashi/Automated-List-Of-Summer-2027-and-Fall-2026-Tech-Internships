@@ -3347,9 +3347,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-20",
      "role_ids": [
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3639,6 +3640,18 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:tranetechnologies:/job/Montreal-Quebec/XMLNAME-2027-BrainBox-AI-Intern_JR-7608-1"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "trimble": {
+   "name": "Trimble",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-23",
+     "role_ids": [
+      "workday:trimble:/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963"
      ],
      "count": 1
     }
@@ -4033,5 +4046,5 @@
    }
   }
  },
- "updated_at": "2026-10-23T17:20:06Z"
+ "updated_at": "2026-10-23T20:41:01Z"
 }

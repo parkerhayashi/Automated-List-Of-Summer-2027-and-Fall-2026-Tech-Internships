@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "greenhouse:waterloocoop:6230308004",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638",
+      "workday:trimble:/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963"
+    ],
+    "telegram": [
+      "greenhouse:waterloocoop:6230308004",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638",
+      "workday:trimble:/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963"
+    ]
   }
 }

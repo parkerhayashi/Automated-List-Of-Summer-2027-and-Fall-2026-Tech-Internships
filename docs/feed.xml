@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-23T17:20:06Z</updated>
+  <updated>2026-10-23T20:41:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:amazon:amazon:10587701</id>
-    <title>Amazon: Business Developer Intern, Early Careers 2027</title>
-    <link href="https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027"/>
-    <updated>2026-10-23T17:20:06Z</updated>
+    <id>urn:intern-engine:greenhouse:waterloocoop:6230308004</id>
+    <title>PlayStation: Software Developer in Test Co-Op</title>
+    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6230308004"/>
+    <updated>2026-10-23T20:41:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada, Waterloo, ON · Python, JavaScript, HTML/CSS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638</id>
+    <title>SOTI: Associate Product Manager Intern (May 2027 - 12 Months)</title>
+    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638"/>
+    <updated>2026-10-23T20:41:01Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, International</summary>
+    <summary>Summer 2027 · PM · Mississauga, Canada – Meadowvale Office (HQ) · $55k/yr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trimble:/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963</id>
+    <title>Trimble: Software Engineering Intern</title>
+    <link href="https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963"/>
+    <updated>2026-10-23T20:41:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Canada - Richmond Hill, Ontario (Applanix) · Python, C++, JavaScript, HTML/CSS, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10587696</id>
@@ -22,6 +38,14 @@
     <updated>2026-10-23T17:20:06Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Munich, International</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10587701</id>
+    <title>Amazon: Business Developer Intern, Early Careers 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027"/>
+    <updated>2026-10-23T17:20:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London, International</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:telus-digital:63b0654a-9849-4d74-bc3f-94b2ccceb2c2</id>
@@ -48,20 +72,20 @@
     <summary>Not stated · Data &amp; ML/AI · Munich, Germany · Python, SQL</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:mongodb:8267099</id>
+    <title>MongoDB: 2027 - Summer Software Engineer Intern, Dublin</title>
+    <link href="https://www.mongodb.com/careers/job/?gh_jid=8267099"/>
+    <updated>2026-10-23T17:20:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Dublin · Python, Java, C++, JavaScript, Node.js · sponsorship: offers</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:gevernova:/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2</id>
     <title>GE Vernova: Intern- Product Management (Summer 2027)</title>
     <link href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2"/>
     <updated>2026-10-23T17:20:06Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · PM · Markham</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship-ING-AI-Engineering_REQ-10121015</id>
-    <title>ING: Internship ING AI Engineering</title>
-    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Internship-ING-AI-Engineering_REQ-10121015"/>
-    <updated>2026-10-23T17:20:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · HBP (Amsterdam - Haarlerbergpark) · Java, LLMs, Docker, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ing:/job/CDR-Amsterdam---Cedar/Internship-Regulatory-Data---AI_REQ-10123681</id>
@@ -72,12 +96,12 @@
     <summary>Not stated · Data &amp; ML/AI · CDR (Amsterdam - Cedar) · Python, SQL, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:mongodb:8267099</id>
-    <title>MongoDB: 2027 - Summer Software Engineer Intern, Dublin</title>
-    <link href="https://www.mongodb.com/careers/job/?gh_jid=8267099"/>
+    <id>urn:intern-engine:workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship-ING-AI-Engineering_REQ-10121015</id>
+    <title>ING: Internship ING AI Engineering</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Internship-ING-AI-Engineering_REQ-10121015"/>
     <updated>2026-10-23T17:20:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Dublin · Python, Java, C++, JavaScript, Node.js · sponsorship: offers</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · HBP (Amsterdam - Haarlerbergpark) · Java, LLMs, Docker, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:SikaAG:744000157445359</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-19T11:29:18Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · London, , United Kingdom (Hybrid) · Python, Java, JavaScript, Swift, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Contingent-Worker_REQ-10123442</id>
-    <title>ING: Cybersecurity Intern - 1</title>
-    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Contingent-Worker_REQ-10123442"/>
-    <updated>2026-10-19T11:29:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Bruxelles Avenue Marnix (ING)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---2_REQ-10123439</id>
-    <title>ING: Cybersecurity Intern - 2</title>
-    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---2_REQ-10123439"/>
-    <updated>2026-10-19T11:29:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Bruxelles Avenue Marnix (ING)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---3_REQ-10123437</id>
-    <title>ING: Cybersecurity Intern - 3</title>
-    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---3_REQ-10123437"/>
-    <updated>2026-10-19T11:29:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Bruxelles Avenue Marnix (ING)</summary>
   </entry>
 </feed>

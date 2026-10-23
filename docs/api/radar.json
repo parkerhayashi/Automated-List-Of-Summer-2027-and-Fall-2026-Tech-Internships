@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-23T17:20:06Z",
- "data_as_of": "2026-10-23T17:20:06Z",
- "rendered_at": "2026-10-23T17:20:07Z",
+ "generated_at": "2026-10-23T20:41:01Z",
+ "data_as_of": "2026-10-23T20:41:01Z",
+ "rendered_at": "2026-10-23T20:41:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -472,7 +472,7 @@
    "expected": "2026-08-28",
    "days_until": -56,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436",
+   "url": "https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1385,6 +1385,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-23"
+   }
+  },
+  {
+   "company": "Trimble",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -6124,5 +6143,5 @@
    }
   }
  ],
- "count": 322
+ "count": 323
 }

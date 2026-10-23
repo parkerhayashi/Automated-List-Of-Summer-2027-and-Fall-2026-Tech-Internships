@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-23T06:43:32Z</updated>
+  <updated>2026-10-23T12:19:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--ai-assisted-scheduler-development_J-00355163</id>
+    <title>ASML: Computer Science | Artificial Intelligence internship: ai-assisted scheduler development</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--ai-assisted-scheduler-development_J-00355163"/>
+    <updated>2026-10-23T12:19:13Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:SikaAG:744000157445359</id>
+    <title>Sika: Software Engineering Intern for CAD/CAE/Tooling</title>
+    <link href="https://jobs.smartrecruiters.com/SikaAG/744000157445359"/>
+    <updated>2026-10-23T12:19:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Zürich, ZH, International (CH) (Hybrid) · Python, C++, TypeScript, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/Netherlands-Amsterdam/SRE-Intern_R108291</id>
+    <title>Tencent: SRE Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/SRE-Intern_R108291"/>
+    <updated>2026-10-23T12:19:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Netherlands-Amsterdam · Python, AWS, GCP, Kubernetes, Kafka</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Graduation-Internship--AI-Process-Optimization-in-Engineering_JR38558</id>
+    <title>Vanderlande Industries: Graduation/Internship: AI Process Optimization in Engineering</title>
+    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Graduation-Internship--AI-Process-Optimization-in-Engineering_JR38558"/>
+    <updated>2026-10-23T12:19:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Veghel, Netherlands</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/GB---London-United-Kingdom/Product-Intern_REF089316W-1</id>
+    <title>Visa: Product Intern</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/GB---London-United-Kingdom/Product-Intern_REF089316W-1"/>
+    <updated>2026-10-23T12:19:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · GB - London, United Kingdom</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:analogdevices:/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125</id>
     <title>Analog Devices: Software QA Intern</title>
@@ -747,9 +787,9 @@
     <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/Regulatory-Innovation---AI-Transformation-Intern_R-262017</id>
     <title>Alexion: Regulatory Innovation &amp; AI Transformation Intern</title>
     <link href="https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Regulatory-Innovation---AI-Transformation-Intern_R-262017"/>
-    <updated>2026-10-16T18:37:55Z</updated>
+    <updated>2026-10-23T12:19:13Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga</summary>
+    <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:fmr:/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-16T18:37:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · LISBON GENERAL OFFICE · Python, SQL, Git, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/AI-Business-Support-Specialist-Intern_R-261993</id>
-    <title>AstraZeneca: AI Business Support Specialist Intern</title>
-    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/AI-Business-Support-Specialist-Intern_R-261993"/>
-    <updated>2026-10-16T14:30:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:astrazeneca:/job/Spain---Barcelona/AI---Data-Science-Internship-Program---AstraZeneca-Barcelona_R-261531</id>
-    <title>AstraZeneca: AI &amp; Data Science Internship Program – AstraZeneca Barcelona</title>
-    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/AI---Data-Science-Internship-Program---AstraZeneca-Barcelona_R-261531"/>
-    <updated>2026-10-16T14:30:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Spain - Barcelona</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ing:/job/ACT-Amsterdam---Acanthus/INTERNSHIP-SOFTWARE-ENGINEER_REQ-10119555</id>
-    <title>ING: INTERNSHIP SOFTWARE ENGINEER</title>
-    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/INTERNSHIP-SOFTWARE-ENGINEER_REQ-10119555"/>
-    <updated>2026-10-16T14:30:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · ACT (Amsterdam - Acanthus) · Python, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Eindhoven/Internship--Synthetic-Data-Generation-for-Dental-AI--Master-_593359</id>
-    <title>Philips: Internship: Synthetic Data Generation for Dental AI (Master)</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Synthetic-Data-Generation-for-Dental-AI--Master-_593359"/>
-    <updated>2026-10-16T14:30:06Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Eindhoven · Python, PyTorch, LLMs, Computer Vision · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360</id>
-    <title>Airbus: ATR - Internship- Geospatial Data Science (F/M)</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360"/>
-    <updated>2026-10-16T09:32:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toulouse Area · Python, Azure, Spark, Databricks</summary>
   </entry>
 </feed>

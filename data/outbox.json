@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "smartrecruiters:SikaAG:744000157445359",
+      "workday:tencent:/job/Netherlands-Amsterdam/SRE-Intern_R108291",
+      "workday:vanderlande:/job/Veghel-Netherlands/Graduation-Internship--AI-Process-Optimization-in-Engineering_JR38558",
+      "workday:visa:/job/GB---London-United-Kingdom/Product-Intern_REF089316W-1",
+      "smartrecruiters:Wavestone1:744000157394820"
+    ],
+    "telegram": [
+      "smartrecruiters:SikaAG:744000157445359",
+      "workday:tencent:/job/Netherlands-Amsterdam/SRE-Intern_R108291",
+      "workday:vanderlande:/job/Veghel-Netherlands/Graduation-Internship--AI-Process-Optimization-in-Engineering_JR38558",
+      "workday:visa:/job/GB---London-United-Kingdom/Product-Intern_REF089316W-1",
+      "smartrecruiters:Wavestone1:744000157394820"
+    ]
   }
 }

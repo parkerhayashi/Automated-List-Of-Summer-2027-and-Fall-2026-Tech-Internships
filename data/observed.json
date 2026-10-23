@@ -260,9 +260,10 @@
       "oracle:egug.fa.us2.oraclecloud.com:26013769",
       "oracle:egug.fa.us2.oraclecloud.com:26013771",
       "oracle:egug.fa.us2.oraclecloud.com:26014306",
-      "oracle:egug.fa.us2.oraclecloud.com:26014784"
+      "oracle:egug.fa.us2.oraclecloud.com:26014784",
+      "oracle:egug.fa.us2.oraclecloud.com:26015552"
      ],
-     "count": 41
+     "count": 42
     }
    }
   },
@@ -2192,6 +2193,7 @@
      "role_ids": [
       "workday:manulife:/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682",
       "workday:manulife:/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680",
+      "workday:manulife:/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932",
       "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688",
       "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Infrastructure-Equity-Internship_JR26081107",
       "workday:manulife:/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875",
@@ -2201,7 +2203,7 @@
       "workday:manulife:/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053",
       "workday:manulife:/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686"
      ],
-     "count": 10
+     "count": 11
     },
     "Winter 2027": {
      "first_posted": "2026-08-31",
@@ -3348,9 +3350,11 @@
      "first_posted": "2026-10-20",
      "role_ids": [
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -4046,5 +4050,5 @@
    }
   }
  },
- "updated_at": "2026-10-23T20:41:01Z"
+ "updated_at": "2026-10-23T23:44:45Z"
 }

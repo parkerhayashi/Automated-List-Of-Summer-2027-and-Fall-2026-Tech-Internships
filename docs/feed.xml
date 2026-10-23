@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-23T20:41:01Z</updated>
+  <updated>2026-10-23T23:44:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26015552</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552"/>
+    <updated>2026-10-23T23:44:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, ON, Canada · Python, Java, C++, JavaScript, Bash</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932</id>
+    <title>Manulife Financial: Summer Co-op 2027 - Venture Capital</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932"/>
+    <updated>2026-10-23T23:44:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · VC · Toronto, Ontario · HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615</id>
+    <title>SOTI: Associate Product Manager Intern (SOTI Connect) (May 2027 - 12 Months)</title>
+    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615"/>
+    <updated>2026-10-23T23:44:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · Mississauga, Canada – Meadowvale Office (HQ) · $55k/yr · Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614</id>
+    <title>SOTI: Associate Product Manager Intern (SOTI XSight) (May 2027 - 12 Months)</title>
+    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614"/>
+    <updated>2026-10-23T23:44:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · Mississauga, Canada – Meadowvale Office (HQ) · $55k/yr · Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:waterloocoop:6230308004</id>
     <title>PlayStation: Software Developer in Test Co-Op</title>
@@ -774,37 +806,5 @@
     <updated>2026-10-19T18:03:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Germany, Munich · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pwc:/job/Prague/Data-Analyst---Intern---Financial-Crime-team_768785WD</id>
-    <title>PricewaterhouseCoopers (PwC): Data Analyst - Intern - Financial Crime team</title>
-    <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Data-Analyst---Intern---Financial-Crime-team_768785WD"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Prague · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PAConsulting:744000156271319</id>
-    <title>PA Consulting: 2027 Summer Internship - Digital (Digital Trust &amp; Cyber Security) - London</title>
-    <link href="https://jobs.smartrecruiters.com/PAConsulting/744000156271319"/>
-    <updated>2026-10-20T17:09:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · London, , United Kingdom · Python, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wise:744000156265544</id>
-    <title>Wise: Data Science Intern 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/Wise/744000156265544"/>
-    <updated>2026-10-19T11:29:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · London, , United Kingdom · Python, SQL, LLMs, Spark · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wise:744000156266767</id>
-    <title>Wise: Software Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Wise/744000156266767"/>
-    <updated>2026-10-19T11:29:18Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, , United Kingdom (Hybrid) · Python, Java, JavaScript, Swift, Kotlin</summary>
   </entry>
 </feed>

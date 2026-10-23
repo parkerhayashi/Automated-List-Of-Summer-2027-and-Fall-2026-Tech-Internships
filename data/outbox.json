@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:egug.fa.us2.oraclecloud.com:26015552",
-      "workday:manulife:/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614"
-    ],
-    "telegram": [
-      "oracle:egug.fa.us2.oraclecloud.com:26015552",
-      "workday:manulife:/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

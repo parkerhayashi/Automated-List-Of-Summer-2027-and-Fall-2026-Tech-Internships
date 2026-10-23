@@ -5,15 +5,79 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-23T12:19:13Z</updated>
+  <updated>2026-10-23T17:20:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--ai-assisted-scheduler-development_J-00355163</id>
-    <title>ASML: Computer Science | Artificial Intelligence internship: ai-assisted scheduler development</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--ai-assisted-scheduler-development_J-00355163"/>
-    <updated>2026-10-23T12:19:13Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python · status: closed</summary>
+    <id>urn:intern-engine:amazon:amazon:10587701</id>
+    <title>Amazon: Business Developer Intern, Early Careers 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027"/>
+    <updated>2026-10-23T17:20:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London, International</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10587696</id>
+    <title>Amazon: Business Developer Intern, Early Careers 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027"/>
+    <updated>2026-10-23T17:20:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Munich, International</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:telus-digital:63b0654a-9849-4d74-bc3f-94b2ccceb2c2</id>
+    <title>TELUS Digital: Software Engineering Intern/Co-op (Canada) - Summer 2027</title>
+    <link href="https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2"/>
+    <updated>2026-10-23T17:20:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Vancouver · CA$33 per hour · Java, TypeScript, JavaScript, Swift, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:veeda-ai:84dfad5c-d790-4c4a-9411-40b676b1abbb</id>
+    <title>Veeda AI: Internship - Software Engineering</title>
+    <link href="https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb"/>
+    <updated>2026-10-23T17:20:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toronto · AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:celonis:8042925003</id>
+    <title>Celonis: Intern Technology Consultant - Data &amp; AI</title>
+    <link href="https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003"/>
+    <updated>2026-10-23T17:20:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Munich, Germany · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gevernova:/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2</id>
+    <title>GE Vernova: Intern- Product Management (Summer 2027)</title>
+    <link href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2"/>
+    <updated>2026-10-23T17:20:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · Markham</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship-ING-AI-Engineering_REQ-10121015</id>
+    <title>ING: Internship ING AI Engineering</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Internship-ING-AI-Engineering_REQ-10121015"/>
+    <updated>2026-10-23T17:20:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · HBP (Amsterdam - Haarlerbergpark) · Java, LLMs, Docker, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/CDR-Amsterdam---Cedar/Internship-Regulatory-Data---AI_REQ-10123681</id>
+    <title>ING: Internship Regulatory Data &amp; AI</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Internship-Regulatory-Data---AI_REQ-10123681"/>
+    <updated>2026-10-23T17:20:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · CDR (Amsterdam - Cedar) · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:mongodb:8267099</id>
+    <title>MongoDB: 2027 - Summer Software Engineer Intern, Dublin</title>
+    <link href="https://www.mongodb.com/careers/job/?gh_jid=8267099"/>
+    <updated>2026-10-23T17:20:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Dublin · Python, Java, C++, JavaScript, Node.js · sponsorship: offers</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:SikaAG:744000157445359</id>
@@ -22,6 +86,22 @@
     <updated>2026-10-23T12:19:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Zürich, ZH, International (CH) (Hybrid) · Python, C++, TypeScript, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000157394820</id>
+    <title>Wavestone: Cybersecurity - Consultant Internship from 3 to 6 months</title>
+    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000157394820"/>
+    <updated>2026-10-23T12:19:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Brussels, Brussels Hoofdstedelijk Gewest, International (BE)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--ai-assisted-scheduler-development_J-00355163</id>
+    <title>ASML: Computer Science | Artificial Intelligence internship: ai-assisted scheduler development</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--ai-assisted-scheduler-development_J-00355163"/>
+    <updated>2026-10-23T12:19:13Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/Netherlands-Amsterdam/SRE-Intern_R108291</id>
@@ -726,85 +806,5 @@
     <updated>2026-10-19T11:29:18Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Bruxelles Avenue Marnix (ING)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vfc:/job/EMEA--CHE--Stabio--VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021</id>
-    <title>VF: Graphic Product Design Intern</title>
-    <link href="https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/EMEA--CHE--Stabio--VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021"/>
-    <updated>2026-10-19T11:29:18Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Design · EMEA &gt; CHE &gt; Stabio &gt; VF Campus VF1 · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1</id>
-    <title>Visa: Data Science Intern</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1"/>
-    <updated>2026-10-19T11:29:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · GB - London, United Kingdom · Python, SQL, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imcoinvest:/job/Toronto---16-York-St/Intern--Infrastructure--Summer-2027-_R26-154</id>
-    <title>Investment Management Corporation of Ontario: Intern, Infrastructure (Summer 2027)</title>
-    <link href="https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Infrastructure--Summer-2027-_R26-154"/>
-    <updated>2026-10-19T05:30:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Toronto - 16 York St</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320</id>
-    <title>Altera Corporation: Software Engineer -  Intern</title>
-    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320"/>
-    <updated>2026-10-16T21:55:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++, Verilog</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10581332</id>
-    <title>Amazon: 2027 Software Dev Engineer Intern - United Kingdom</title>
-    <link href="https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom"/>
-    <updated>2026-10-19T11:10:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, International · Python, Java, C++, C#, Rust · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:sereact:baae4b51-6e24-4044-93aa-9d7f1b7671dd</id>
-    <title>Sereact: Cybersecurity Intern</title>
-    <link href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd"/>
-    <updated>2026-10-22T19:47:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Stuttgart Schockenriedstr. 17 · Python, TypeScript, JavaScript, GCP, Kubernetes · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:19073</id>
-    <title>Citco: Product Intern</title>
-    <link href="https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19073"/>
-    <updated>2026-10-16T18:37:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · London, United Kingdom</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:astrazeneca:/job/Canada---Mississauga/Regulatory-Innovation---AI-Transformation-Intern_R-262017</id>
-    <title>Alexion: Regulatory Innovation &amp; AI Transformation Intern</title>
-    <link href="https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Regulatory-Innovation---AI-Transformation-Intern_R-262017"/>
-    <updated>2026-10-23T12:19:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Canada - Mississauga · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:fmr:/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044</id>
-    <title>Fidelity Investments: Enterprise Infrastructure &amp; Operations Internship</title>
-    <link href="https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044"/>
-    <updated>2026-10-16T18:37:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Galway, Ireland</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pg:/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204</id>
-    <title>Procter &amp; Gamble (P&amp;G): Data Engineer Internship (m/f/x)</title>
-    <link href="https://pg.wd5.myworkdayjobs.com/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204"/>
-    <updated>2026-10-16T18:37:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · LISBON GENERAL OFFICE · Python, SQL, Git, Databricks</summary>
   </entry>
 </feed>

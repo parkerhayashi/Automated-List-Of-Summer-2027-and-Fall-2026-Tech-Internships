@@ -1,6 +1,28 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10587701",
+      "amazon:amazon:10587696",
+      "ashby:telus-digital:63b0654a-9849-4d74-bc3f-94b2ccceb2c2",
+      "ashby:veeda-ai:84dfad5c-d790-4c4a-9411-40b676b1abbb",
+      "greenhouse:celonis:8042925003",
+      "workday:gevernova:/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2",
+      "workday:genesys:/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-1",
+      "workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship-ING-AI-Engineering_REQ-10121015",
+      "workday:ing:/job/CDR-Amsterdam---Cedar/Internship-Regulatory-Data---AI_REQ-10123681",
+      "greenhouse:mongodb:8267099"
+    ],
+    "telegram": [
+      "amazon:amazon:10587701",
+      "amazon:amazon:10587696",
+      "ashby:telus-digital:63b0654a-9849-4d74-bc3f-94b2ccceb2c2",
+      "ashby:veeda-ai:84dfad5c-d790-4c4a-9411-40b676b1abbb",
+      "greenhouse:celonis:8042925003",
+      "workday:gevernova:/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2",
+      "workday:genesys:/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-1",
+      "workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship-ING-AI-Engineering_REQ-10121015",
+      "workday:ing:/job/CDR-Amsterdam---Cedar/Internship-Regulatory-Data---AI_REQ-10123681",
+      "greenhouse:mongodb:8267099"
+    ]
   }
 }

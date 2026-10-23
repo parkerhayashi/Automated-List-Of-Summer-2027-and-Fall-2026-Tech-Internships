@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-22T23:01:12Z</updated>
+  <updated>2026-10-23T01:44:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Intern_R03373</id>
+    <title>Altera Corporation: Software Intern</title>
+    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373"/>
+    <updated>2026-10-23T01:44:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, Java, C++, Git, Verilog</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imcoinvest:/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1</id>
+    <title>Investment Management Corporation of Ontario: Intern, Enterprise Transformation and AI Strategy (Summer 2027)</title>
+    <link href="https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1"/>
+    <updated>2026-10-22T23:01:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Toronto - 16 York St</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:interdigital:/job/Rennes-France/Intern--Deep-Learning-for-Perceptual-and-Color-Aware-Energy-Efficient-Images_REQ26-1150</id>
     <title>Interdigital: Intern, Deep Learning for Perceptual and Color-Aware Energy-Efficient Images</title>
@@ -22,14 +38,6 @@
     <updated>2026-10-22T23:01:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Rennes, France · Python, C++, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imcoinvest:/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1</id>
-    <title>Investment Management Corporation of Ontario: Intern, Enterprise Transformation and AI Strategy (Summer 2027)</title>
-    <link href="https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1"/>
-    <updated>2026-10-22T23:01:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Toronto - 16 York St</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Product-Intern_JR26081011</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-19T11:10:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · Toulouse Area · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326</id>
-    <title>Airbus: ATR – Internship 2027  - AI &amp; Data Engineering - Automated Technical Knowledge Extraction</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326"/>
-    <updated>2026-10-19T17:43:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Toulouse Area · Python, SQL, Pandas · status: closed</summary>
   </entry>
 </feed>

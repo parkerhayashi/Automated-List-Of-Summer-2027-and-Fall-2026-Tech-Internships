@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-23T01:44:59Z</updated>
+  <updated>2026-10-23T06:43:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:analogdevices:/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125</id>
+    <title>Analog Devices: Software QA Intern</title>
+    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125"/>
+    <updated>2026-10-23T06:43:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Spain, Valencia, Cortes Valencianas · Python, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Intern_R03373</id>
     <title>Altera Corporation: Software Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-16T09:32:35Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Toulouse Area · Python, Azure, Spark, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775</id>
-    <title>Airbus: ATR – Internship 2027  -  Cybersecurity CTI</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775"/>
-    <updated>2026-10-19T11:10:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Toulouse Area · status: closed</summary>
   </entry>
 </feed>

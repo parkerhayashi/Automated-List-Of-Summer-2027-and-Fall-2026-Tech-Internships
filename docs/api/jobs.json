@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-23T23:44:45Z",
- "data_as_of": "2026-10-23T23:44:45Z",
- "rendered_at": "2026-10-23T23:44:46Z",
+ "generated_at": "2026-10-24T02:10:32Z",
+ "data_as_of": "2026-10-24T02:10:32Z",
+ "rendered_at": "2026-10-24T02:10:32Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 405,
+ "count": 404,
  "jobs": [
   {
    "id": "oracle:egug.fa.us2.oraclecloud.com:26015552",
@@ -635,29 +635,6 @@
     "C++",
     "PyTorch",
     "TensorFlow"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:manulife:/job/Toronto-Ontario/Product-Intern_JR26081011",
-   "company": "Manulife Financial",
-   "title": "Product Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "PM",
-   "location": "Toronto, Ontario",
-   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Product-Intern_JR26081011",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-22T23:01:12Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "HTML/CSS"
    ],
    "source": "workday",
    "h1b_approvals": null,
@@ -4183,6 +4160,31 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": true
+  },
+  {
+   "id": "greenhouse:andurilindustries:5255902007",
+   "company": "Anduril",
+   "title": "2027 Software Engineer Intern",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "London, England, United Kingdom",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
+   "posted_at": "2026-10-07T06:54:32-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-07T15:01:19Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "Computer Vision"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
   },
   {
    "id": "greenhouse:shifttechnology:8014397003",
@@ -8739,31 +8741,6 @@
     "Git"
    ],
    "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:artefactlinkedin:8785636002",
-   "company": "Artefact",
-   "title": "Data Scientist Intern - Paris",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "9th arrondissement of Paris, 75009, Paris, France",
-   "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8785636002",
-   "posted_at": "2026-09-08T04:14:27-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-22T20:45:48Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "AWS",
-    "GCP",
-    "Azure"
-   ],
-   "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false

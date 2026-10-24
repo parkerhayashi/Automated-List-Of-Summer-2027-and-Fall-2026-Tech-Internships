@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-24T02:10:32Z",
- "data_as_of": "2026-10-24T02:10:32Z",
- "rendered_at": "2026-10-24T02:10:32Z",
+ "generated_at": "2026-10-24T12:29:56Z",
+ "data_as_of": "2026-10-24T12:29:56Z",
+ "rendered_at": "2026-10-24T12:29:57Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 404,
+ "count": 403,
  "jobs": [
   {
    "id": "oracle:egug.fa.us2.oraclecloud.com:26015552",
@@ -6098,31 +6098,6 @@
     "C#",
     "SQL",
     "LLMs"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:motorolasolutions:/job/Cork-Ireland/Software-Engineering-Internship_R66949-1",
-   "company": "Motorola",
-   "title": "Software Engineering Internship",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Cork, Ireland",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Software-Engineering-Internship_R66949-1",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-24T22:33:28Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "C++",
-    "Linux",
-    "Git"
    ],
    "source": "workday",
    "h1b_approvals": null,

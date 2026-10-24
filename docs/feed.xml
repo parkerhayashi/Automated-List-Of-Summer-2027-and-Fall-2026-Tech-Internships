@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-24T21:46:11Z</updated>
+  <updated>2026-10-24T23:54:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:accenture:/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217</id>
+    <title>Avanade: Internship Data &amp; AI / AI-Powered Internal Business Assistant</title>
+    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217"/>
+    <updated>2026-10-24T23:54:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Brussels · Python, LLMs, Azure, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26015552</id>
     <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-19T18:03:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · PM · France - Grenoble</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205</id>
-    <title>Intel: Development Tools Software Engineer Intern (m/f/d)</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Germany, Munich · Python, C++</summary>
   </entry>
 </feed>

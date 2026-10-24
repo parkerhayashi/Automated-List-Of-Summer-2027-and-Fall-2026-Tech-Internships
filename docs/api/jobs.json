@@ -1,11 +1,37 @@
 {
- "generated_at": "2026-10-24T21:46:11Z",
- "data_as_of": "2026-10-24T21:46:11Z",
- "rendered_at": "2026-10-24T21:46:12Z",
+ "generated_at": "2026-10-24T23:54:36Z",
+ "data_as_of": "2026-10-24T23:54:36Z",
+ "rendered_at": "2026-10-24T23:54:37Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 403,
+ "count": 404,
  "jobs": [
+  {
+   "id": "workday:accenture:/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217",
+   "company": "Avanade",
+   "title": "Internship Data & AI / AI-Powered Internal Business Assistant",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Brussels",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-24T23:54:36Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs",
+    "Azure",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": 103,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "oracle:egug.fa.us2.oraclecloud.com:26015552",
    "company": "American Express",

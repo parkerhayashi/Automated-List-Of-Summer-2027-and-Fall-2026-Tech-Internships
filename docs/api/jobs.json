@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-24T23:54:36Z",
- "data_as_of": "2026-10-24T23:54:36Z",
- "rendered_at": "2026-10-24T23:54:37Z",
+ "generated_at": "2026-10-25T04:43:33Z",
+ "data_as_of": "2026-10-25T04:43:33Z",
+ "rendered_at": "2026-10-25T04:43:33Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 404,
+ "count": 400,
  "jobs": [
   {
    "id": "workday:accenture:/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217",
@@ -5798,30 +5798,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:celonis:7989895003",
-   "company": "Celonis",
-   "title": "Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Madrid, Spain",
-   "url": "https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003",
-   "posted_at": "2026-09-28T10:57:48-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-28T19:55:15Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 14,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:fticonsulting:/job/Paris-France/Intern--Consultant-Cyber-Threat-Intelligence--CTI----Investigation-numrique--DFIR-_JR261446",
    "company": "FTI Consulting",
    "title": "Intern, Consultant Cyber Threat Intelligence (CTI) & Investigation numérique (DFIR)",
@@ -8609,81 +8585,6 @@
    "salary": null,
    "skills": [
     "LLMs"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:celonis:7986192003",
-   "company": "Celonis",
-   "title": "AI & Management Consulting Intern (Value Engineering - UKI Market)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/celonis/jobs/7986192003?gh_jid=7986192003",
-   "posted_at": "2026-09-09T04:25:50-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 14,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workable:fasanara:FC82BCC5C5",
-   "company": "Fasanara",
-   "title": "Quant Trading Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Quant",
-   "location": "London, England, United Kingdom",
-   "url": "https://apply.workable.com/fasanara/j/FC82BCC5C5/",
-   "posted_at": "2026-09-09T00:00:00.000Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL"
-   ],
-   "source": "workable",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:zeissgroup:/job/Karlsruhe/Internship---AI-for-Neural-Signal-Processing-in-Healthcare-Innovation--f-m-x-_JR_1052727-1",
-   "company": "Zeiss",
-   "title": "Internship – AI for Neural Signal Processing in Healthcare Innovation (f/m/x)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Karlsruhe",
-   "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship---AI-for-Neural-Signal-Processing-in-Healthcare-Innovation--f-m-x-_JR_1052727-1",
-   "posted_at": "2026-09-09T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "PyTorch",
-    "Azure"
    ],
    "source": "workday",
    "h1b_approvals": null,

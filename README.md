@@ -8,7 +8,7 @@
 
 ### 400 open roles (314 listed below) · 92 new this week
 
-4,837 employers tracked · data as of Oct 25, 2026 at 09:40 UTC
+4,837 employers tracked · data as of Oct 25, 2026 at 14:13 UTC
 
 _180 have a cycle the employer stated · 220 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -305,11 +305,11 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Celonis | Intern Technology Consultant - Data & AI 🆕 | Data & ML/AI | Munich, Germany | Python, SQL | Oct 23, 2026 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003) |
 | ING | Internship Regulatory Data & AI 🆕 | Data & ML/AI | CDR (Amsterdam - Cedar) | Python, SQL, LLMs | Oct 23, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Internship-Regulatory-Data---AI_REQ-10123681) |
 | ING | Internship ING AI Engineering 🆕 | Data & ML/AI | HBP (Amsterdam - Haarlerbergpark) | Java, LLMs, Docker, Git | Oct 23, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Internship-ING-AI-Engineering_REQ-10121015) |
-| Sika | Software Engineering Intern for CAD/CAE/Tooling 🆕 | Software | Zürich, ZH, International (CH) (Hybrid) | Python, C++, TypeScript, JavaScript | Oct 23, 2026 | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000157445359) |
-| Wavestone | Cybersecurity - Consultant Internship from 3 to 6 months 🆕 | Security | Brussels +2 more | No skills listed | Oct 23, 2026 | [Apply](https://jobs.smartrecruiters.com/Wavestone1/744000157394820) |
-| Tencent | SRE Intern 🆕 | Software | Netherlands-Amsterdam | Python, AWS, GCP, Kubernetes | Oct 23, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/SRE-Intern_R108291) |
-| Vanderlande Industries | Graduation/Internship: AI Process Optimization in Engineering 🆕 | Data & ML/AI | Veghel, Netherlands | No skills listed | Oct 23, 2026 | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Graduation-Internship--AI-Process-Optimization-in-Engineering_JR38558) |
-| Visa | Product Intern 🆕 | PM | GB - London, United Kingdom | No skills listed | Oct 23, 2026 | [Apply](https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/GB---London-United-Kingdom/Product-Intern_REF089316W-1) |
+| Sika | Software Engineering Intern for CAD/CAE/Tooling | Software | Zürich, ZH, International (CH) (Hybrid) | Python, C++, TypeScript, JavaScript | Oct 23, 2026 | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000157445359) |
+| Wavestone | Cybersecurity - Consultant Internship from 3 to 6 months | Security | Brussels +2 more | No skills listed | Oct 23, 2026 | [Apply](https://jobs.smartrecruiters.com/Wavestone1/744000157394820) |
+| Tencent | SRE Intern | Software | Netherlands-Amsterdam | Python, AWS, GCP, Kubernetes | Oct 23, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/SRE-Intern_R108291) |
+| Vanderlande Industries | Graduation/Internship: AI Process Optimization in Engineering | Data & ML/AI | Veghel, Netherlands | No skills listed | Oct 23, 2026 | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Graduation-Internship--AI-Process-Optimization-in-Engineering_JR38558) |
+| Visa | Product Intern | PM | GB - London, United Kingdom | No skills listed | Oct 23, 2026 | [Apply](https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/GB---London-United-Kingdom/Product-Intern_REF089316W-1) |
 | Analog Devices | Software QA Intern | Software | Spain, Valencia, Cortes Valencianas | Python, Git | Oct 22, 2026 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125) |
 | Interdigital | Intern, Deep Learning for Perceptual and Color-Aware Energy-Efficient Images | Data & ML/AI | Rennes, France | Python, PyTorch, Computer Vision | Oct 22, 2026 | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Deep-Learning-for-Perceptual-and-Color-Aware-Energy-Efficient-Images_REQ26-1150) |
 | Interdigital | Intern, Perceptual Color Processing and Gamut Mapping with deep learning techniques | Data & ML/AI | Rennes, France | Python, C++, PyTorch, TensorFlow | Oct 22, 2026 | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Perceptual-Color-Processing-and-Gamut-Mapping-with-deep-learning-techniques_REQ26-1148) |
@@ -517,7 +517,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,638 of 5,133 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1189.8s · 613 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,655 of 5,133 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1184.6s · 605 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

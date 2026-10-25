@@ -8,7 +8,7 @@
 
 ### 400 open roles (314 listed below) · 92 new this week
 
-4,837 employers tracked · data as of Oct 25, 2026 at 14:13 UTC
+4,837 employers tracked · data as of Oct 25, 2026 at 17:54 UTC
 
 _180 have a cycle the employer stated · 220 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -98,8 +98,8 @@ If it helps you, a star means a lot and tells me to keep going.
 | SOTI | Associate Product Manager Intern (SOTI XSight) (May 2027 - 12 Months) 🆕 | PM | Mississauga +1 more | Linux | Oct 23, 2026 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
 | SOTI | Associate Product Manager Intern (May 2027 - 12 Months) 🆕 | PM | Mississauga +1 more | No skills listed | Oct 23, 2026 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) |
 | Trimble | Software Engineering Intern 🆕 | Software | Canada - Richmond Hill +1 more | Python, C++, JavaScript, HTML/CSS | Oct 23, 2026 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) |
-| TELUS Digital | Software Engineering Intern/Co-op (Canada) - Summer 2027 🆕 | Software | Vancouver | Java, TypeScript, JavaScript, Swift | Oct 23, 2026 | [Apply](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2) |
-| GE Vernova | Intern- Product Management (Summer 2027) 🆕 | PM | Markham | No skills listed | Oct 23, 2026 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) |
+| TELUS Digital | Software Engineering Intern/Co-op (Canada) - Summer 2027 | Software | Vancouver | Java, TypeScript, JavaScript, Swift | Oct 23, 2026 | [Apply](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2) |
+| GE Vernova | Intern- Product Management (Summer 2027) | PM | Markham | No skills listed | Oct 23, 2026 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) |
 | Investment Management Corporation of Ontario | Intern, Enterprise Transformation and AI Strategy (Summer 2027) | Data & ML/AI | Toronto - 16 York St | No skills listed | Oct 22, 2026 | [Apply](https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1) |
 | Steel | Software Engineer Intern (Summer 2027) | Software | Toronto | LLMs, Linux, Git | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c) |
 | BMO | Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months | Software | Toronto, ON, CAN | No skills listed | Oct 19, 2026 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2) |
@@ -133,7 +133,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | PlayStation | Software Developer in Test Co-Op 🆕 | Software | Canada, Waterloo, ON | Python, JavaScript, HTML/CSS, Git | Oct 23, 2026 | [Apply](https://job-boards.greenhouse.io/waterloocoop/jobs/6230308004) |
-| Veeda AI | Internship - Software Engineering 🆕 | Software | Toronto | AWS, GCP | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb) |
+| Veeda AI | Internship - Software Engineering | Software | Toronto | AWS, GCP | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb) |
 | Altera Corporation | Software Intern | Software | Toronto, Ontario, Canada | Python, Java, C++, Git | Oct 22, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373) |
 | Texas Instruments | Software Engineering Intern (Canada) 🛂 | Software | Canada; Toronto, ON, Canada | No skills listed | Oct 22, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25007757) |
 | Intel | Compiler Engineering Graduate Intern | Software | Canada, Toronto | C++, PyTorch, CUDA | Oct 22, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933) |
@@ -190,9 +190,9 @@ Located in Japan, United Kingdom, Ireland, Netherlands, Germany, Switzerland, Ho
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Amazon | Business Developer Intern, Early Careers 2027 🆕 | Software | Munich, International | No skills listed | Oct 23, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027) |
-| Amazon | Business Developer Intern, Early Careers 2027 🆕 | Software | London, International | No skills listed | Oct 23, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027) |
-| MongoDB | 2027 - Summer Software Engineer Intern, Dublin 🆕 | Software | Dublin | Python, Java, C++, JavaScript | Oct 23, 2026 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) |
+| Amazon | Business Developer Intern, Early Careers 2027 | Software | Munich, International | No skills listed | Oct 23, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027) |
+| Amazon | Business Developer Intern, Early Careers 2027 | Software | London, International | No skills listed | Oct 23, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027) |
+| MongoDB | 2027 - Summer Software Engineer Intern, Dublin | Software | Dublin | Python, Java, C++, JavaScript | Oct 23, 2026 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) |
 | Amazon | Technical Program Manager Intern 2027 | PM | Madrid, International | SQL | Oct 22, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10537736/technical-program-manager-intern-2027) |
 | Schonfeld | 2027 Index Rebalancing Quantitative Research Intern | Quant | Hong Kong, Hong Kong | No skills listed | Oct 22, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8311597) |
 | Verisk | Year-Long Internship 2027  - Software Engineering Intern | Software | Manchester +2 more | C#, TypeScript, SQL, Vue | Oct 21, 2026 | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997) |
@@ -302,9 +302,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Avanade | Internship Data & AI / AI-Powered Internal Business Assistant 🆕 | Data & ML/AI | Brussels | Python, LLMs, Azure, Git | Oct 23, 2026 | [Apply](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217) |
-| Celonis | Intern Technology Consultant - Data & AI 🆕 | Data & ML/AI | Munich, Germany | Python, SQL | Oct 23, 2026 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003) |
-| ING | Internship Regulatory Data & AI 🆕 | Data & ML/AI | CDR (Amsterdam - Cedar) | Python, SQL, LLMs | Oct 23, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Internship-Regulatory-Data---AI_REQ-10123681) |
-| ING | Internship ING AI Engineering 🆕 | Data & ML/AI | HBP (Amsterdam - Haarlerbergpark) | Java, LLMs, Docker, Git | Oct 23, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Internship-ING-AI-Engineering_REQ-10121015) |
+| Celonis | Intern Technology Consultant - Data & AI | Data & ML/AI | Munich, Germany | Python, SQL | Oct 23, 2026 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003) |
+| ING | Internship Regulatory Data & AI | Data & ML/AI | CDR (Amsterdam - Cedar) | Python, SQL, LLMs | Oct 23, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Internship-Regulatory-Data---AI_REQ-10123681) |
+| ING | Internship ING AI Engineering | Data & ML/AI | HBP (Amsterdam - Haarlerbergpark) | Java, LLMs, Docker, Git | Oct 23, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Internship-ING-AI-Engineering_REQ-10121015) |
 | Sika | Software Engineering Intern for CAD/CAE/Tooling | Software | Zürich, ZH, International (CH) (Hybrid) | Python, C++, TypeScript, JavaScript | Oct 23, 2026 | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000157445359) |
 | Wavestone | Cybersecurity - Consultant Internship from 3 to 6 months | Security | Brussels +2 more | No skills listed | Oct 23, 2026 | [Apply](https://jobs.smartrecruiters.com/Wavestone1/744000157394820) |
 | Tencent | SRE Intern | Software | Netherlands-Amsterdam | Python, AWS, GCP, Kubernetes | Oct 23, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/SRE-Intern_R108291) |
@@ -517,7 +517,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,655 of 5,133 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1184.6s · 605 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,753 of 5,133 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1094.1s · 650 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

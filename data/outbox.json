@@ -1,22 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:10588998",
-      "amazon:amazon:10588762",
-      "oracle:efds.fa.em5.oraclecloud.com:73202",
-      "ashby:skydio:fa88cb47-36f0-4020-95c3-6ac94d59d5d5",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
-      "workday:tmx:/job/Montreal---1190-av-des-Canadiens-de-Montreal/Student-Intern--DevOps--WinterTerm-_R-6568"
-    ],
-    "telegram": [
-      "amazon:amazon:10588998",
-      "amazon:amazon:10588762",
-      "oracle:efds.fa.em5.oraclecloud.com:73202",
-      "ashby:skydio:fa88cb47-36f0-4020-95c3-6ac94d59d5d5",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
-      "workday:tmx:/job/Montreal---1190-av-des-Canadiens-de-Montreal/Student-Intern--DevOps--WinterTerm-_R-6568"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

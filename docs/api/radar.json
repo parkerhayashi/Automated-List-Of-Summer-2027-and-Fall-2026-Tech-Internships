@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-26T19:24:52Z",
- "data_as_of": "2026-10-26T19:24:52Z",
- "rendered_at": "2026-10-26T19:24:52Z",
+ "generated_at": "2026-10-26T23:34:12Z",
+ "data_as_of": "2026-10-26T23:34:12Z",
+ "rendered_at": "2026-10-26T23:34:13Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -605,7 +605,7 @@
    "expected": "2026-09-08",
    "days_until": -48,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8238448",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1127,25 +1127,6 @@
    }
   },
   {
-   "company": "LSEG",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-14",
-   "days_until": -12,
-   "status": "open",
-   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Software-Engineer_R0124267",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-14"
-   }
-  },
-  {
    "company": "Expedia Group",
    "last_cycle_posted": "",
    "posted_on": "2026-10-15",
@@ -1233,6 +1214,25 @@
    "days_until": -7,
    "status": "open",
    "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-19"
+   }
+  },
+  {
+   "company": "Wise",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": -7,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/Wise/744000157817979",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -6143,22 +6143,22 @@
    }
   },
   {
-   "company": "Wise",
+   "company": "LSEG",
    "last_cycle_posted": "",
-   "posted_on": "2026-10-19",
+   "posted_on": "2026-10-14",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-10-19",
-   "days_until": -7,
+   "expected": "2026-10-14",
+   "days_until": -12,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
-    "observed_on": "2026-10-19"
+    "observed_on": "2026-10-14"
    }
   }
  ],

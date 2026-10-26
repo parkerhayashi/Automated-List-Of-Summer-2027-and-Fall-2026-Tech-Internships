@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382",
+      "workday:cibc:/job/Toronto-ON/AI-Scientist-Co-op_2622058-1",
+      "smartrecruiters:Wise:744000157817979"
+    ],
+    "telegram": [
+      "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382",
+      "workday:cibc:/job/Toronto-ON/AI-Scientist-Co-op_2622058-1",
+      "smartrecruiters:Wise:744000157817979"
+    ]
   }
 }

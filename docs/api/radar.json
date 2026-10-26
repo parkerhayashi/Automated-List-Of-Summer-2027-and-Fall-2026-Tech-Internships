@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-26T06:19:53Z",
- "data_as_of": "2026-10-26T06:19:53Z",
- "rendered_at": "2026-10-26T06:19:54Z",
+ "generated_at": "2026-10-26T13:10:00Z",
+ "data_as_of": "2026-10-26T13:10:00Z",
+ "rendered_at": "2026-10-26T13:10:01Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -320,7 +320,7 @@
    "expected": "2026-08-17",
    "days_until": -70,
    "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014784",
    "note": "campus opens mid-summer",
    "provenance": {
     "type": "engine-observed",

@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-26T06:19:53Z</updated>
+  <updated>2026-10-26T13:10:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5528</id>
+    <title>SCOR: Sustainable Investment Intern</title>
+    <link href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5528"/>
+    <updated>2026-10-26T13:10:00Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · VC · Paris, Ile-de-France, France · Python · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209</id>
+    <title>NVIDIA: Software Engineering Intern, Developer Tools - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209"/>
+    <updated>2026-10-26T13:10:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · France, Courbevoie · C++, CUDA, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:fticonsulting:/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Cybersecurity_JR260836</id>
     <title>FTI Consulting: 2027 Summer Internship, Cybersecurity</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-21T13:30:32Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Birmingham, GBR · Java, C++, C#, TypeScript, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1</id>
-    <title>Autodesk: Intern, Research - Context and Knowledge Systems for AI</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1"/>
-    <updated>2026-10-21T13:30:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United Kingdom - Remote · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440-1</id>
-    <title>CIBC: Advanced Analytics and AI Co-op</title>
-    <link href="https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440-1"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto, ON</summary>
   </entry>
 </feed>

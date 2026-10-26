@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 400 open roles (314 listed below) · 92 new this week
+### 395 open roles (310 listed below) · 93 new this week
 
-4,837 employers tracked · data as of Oct 25, 2026 at 22:48 UTC
+4,837 employers tracked · data as of Oct 26, 2026 at 00:54 UTC
 
-_180 have a cycle the employer stated · 220 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_181 have a cycle the employer stated · 214 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -92,10 +92,10 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN 🆕 | Data & ML/AI | Toronto, ON, Canada | Python, Java, C++, JavaScript | Oct 23, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) |
-| Manulife Financial | Summer Co-op 2027 - Venture Capital 🆕 | VC | Toronto, Ontario | HTML/CSS | Oct 23, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932) |
-| SOTI | Associate Product Manager Intern (SOTI Connect) (May 2027 - 12 Months) 🆕 | PM | Mississauga +1 more | Linux | Oct 23, 2026 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) |
-| SOTI | Associate Product Manager Intern (SOTI XSight) (May 2027 - 12 Months) 🆕 | PM | Mississauga +1 more | Linux | Oct 23, 2026 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN | Data & ML/AI | Toronto, ON, Canada | Python, Java, C++, JavaScript | Oct 23, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) |
+| Manulife Financial | Summer Co-op 2027 - Venture Capital | VC | Toronto, Ontario | HTML/CSS | Oct 23, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932) |
+| SOTI | Associate Product Manager Intern (SOTI Connect) (May 2027 - 12 Months) | PM | Mississauga +1 more | Linux | Oct 23, 2026 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) |
+| SOTI | Associate Product Manager Intern (SOTI XSight) (May 2027 - 12 Months) | PM | Mississauga +1 more | Linux | Oct 23, 2026 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
 | SOTI | Associate Product Manager Intern (May 2027 - 12 Months) | PM | Mississauga +1 more | No skills listed | Oct 23, 2026 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) |
 | Trimble | Software Engineering Intern | Software | Canada - Richmond Hill +1 more | Python, C++, JavaScript, HTML/CSS | Oct 23, 2026 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) |
 | TELUS Digital | Software Engineering Intern/Co-op (Canada) - Summer 2027 | Software | Vancouver | Java, TypeScript, JavaScript, Swift | Oct 23, 2026 | [Apply](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2) |
@@ -126,7 +126,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Squarepoint Capital | Intern Software Developer - Montreal - 2027 | Software | Montreal | Python, Java, C++, Rust | May 07, 2026 | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) |
 | Databricks | Software Engineering Intern (2027) | Software | Bellevue +7 more | Python, Java, C++, Databricks | Aug 04, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
 
-## Recently posted — cycle not stated — Canada  (50 roles)
+## Recently posted — cycle not stated — Canada  (49 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -181,15 +181,15 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Eurofins | AI Compliance Internship | Data & ML/AI | Maastricht, LI, International (NL) | No skills listed | Sep 14, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149363579) |
 | AstraZeneca | Data & Ai Solutions Intern | Data & ML/AI | Canada - Mississauga | Python, SQL, LLMs, AWS | Sep 11, 2026 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/Data---Ai-Solutions-Intern_R-259890) |
 | Micron Technology | INTERNSHIP - NAND Cell Characterization & AI Tools | Data & ML/AI | Vimercate (MB), Italy | Python, C++, LLMs | Sep 11, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212) |
-| AstraZeneca | AI Solutions & Automation Intern | Data & ML/AI | Canada - Mississauga | LLMs | Sep 10, 2026 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/AI-Solutions---Automation-Intern_R-259241) |
 
 <a id="iec"></a>
-## Summer 2027 — Japan & IEC countries  (104 employer-stated)
+## Summer 2027 — Japan & IEC countries  (105 employer-stated)
 
 Located in Japan, United Kingdom, Ireland, Netherlands, Germany, Switzerland, Hong Kong, Sweden, Australia, South Korea, Taiwan, New Zealand, France, Spain, Italy, Denmark, Belgium, Austria, Portugal, Greece, and Czechia.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| FTI Consulting | 2027 Summer Internship, Cybersecurity 🆕 | Security | London, United Kingdom | No skills listed | Oct 26, 2026 | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Cybersecurity_JR260836) |
 | Amazon | Business Developer Intern, Early Careers 2027 | Software | Munich, International | No skills listed | Oct 23, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027) |
 | Amazon | Business Developer Intern, Early Careers 2027 | Software | London, International | No skills listed | Oct 23, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027) |
 | MongoDB | 2027 - Summer Software Engineer Intern, Dublin | Software | Dublin | Python, Java, C++, JavaScript | Oct 23, 2026 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) |
@@ -295,7 +295,7 @@ Located in Japan, United Kingdom, Ireland, Netherlands, Germany, Switzerland, Ho
 | Databricks | Software Engineering Intern (2027 Start) - Aarhus | Software | Aarhus, Denmark | Python, Java, C++, Databricks | Aug 29, 2025 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) |
 | Databricks | Product Management Intern (2027) - Berlin | PM | Berlin, Germany | Python, SQL, Databricks | Aug 29, 2025 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002) |
 
-## Recently posted — cycle not stated — Japan & IEC countries  (115 roles)
+## Recently posted — cycle not stated — Japan & IEC countries  (112 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -356,6 +356,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Avanade | Internship: Software Engineer Avanade Agentic Engineering Factory | Software | Brussels | Python, Java, C++, C# | Oct 12, 2026 | [Apply](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529) |
 | ASML | Artificial Intelligence / Computer Science internship: AI-Driven Cloud Cost Intelligence | Data & ML/AI | Veldhoven, Netherlands | Python, Java, JavaScript, LLMs | Oct 12, 2026 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-Driven-Cloud-Cost-Intelligence_J-00352655) |
 | ASML | Artificial Intelligence / Computer Science internship: ai-driven software quality | Data & ML/AI | Veldhoven, Netherlands | Python, Java, JavaScript, LLMs | Oct 12, 2026 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--ai-driven-software-quality_J-00352656) |
+| Red Bull | Internship Data Science | Data & ML/AI | Elsbethen, Salzburg, International (AT) | Python, SQL, Snowflake | Oct 12, 2026 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000155050519) |
 | NXP Semiconductors | Intern (f/m/d) AI Automation for Safety Engineering | Data & ML/AI | Munich | Python, Pandas, LLMs, Azure | Oct 12, 2026 | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Munich/Intern--f-m-d--AI-Automation-for-Safety-Engineering_R-10066700) |
 | Abbott | Intern Data Science - Future Talent Program | Data & ML/AI | Switzerland - Basel | Python, Java, C++, LLMs | Oct 12, 2026 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Intern-Data-Science---Future-Talent-Program_31164223) |
 | Zeiss | Internship in Computer Vision / Calibration Pipelines (f/m/x) | Data & ML/AI | Karlsruhe | Computer Vision, Python, C++, PyTorch | Oct 12, 2026 | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916) |
@@ -411,11 +412,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Nokia | AI Software Engineer – Intern | Data & ML/AI | Italy | Python, Java, C#, SQL | Sep 11, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40280) |
 | American Tower | Internship - AI Project Coordinator (6 months) | Data & ML/AI | Bagneux, France | No skills listed | Sep 11, 2026 | [Apply](https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2948) |
 | Fifty-Five | Data Analyst Consultant Intern (H/F) | Data & ML/AI | Paris, Île-de-France, France | SQL, Tableau | Sep 11, 2026 | [Apply](https://apply.workable.com/fifty-five/j/D8F4443694/) |
-| Artefact | Intern Data Analyst - Paris | Data & ML/AI | 9th arrondissement of Paris +3 more | Python, SQL, Pandas, AWS | Sep 10, 2026 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8795538002) |
-| Red Bull | Internship Data Science _(2 openings)_ | Data & ML/AI | Elsbethen, Salzburg, International (AT) | Python, SQL, Snowflake | Sep 10, 2026 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000148756269) [#2](https://jobs.smartrecruiters.com/RedBull/744000155050519) |
-| Zeiss | Internship – Physical AI for Surgical Robotics (f/m/x) | Data & ML/AI | Karlsruhe | Python, PyTorch, Computer Vision | Sep 10, 2026 | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship---Physical-AI-for-Surgical-Robotics--f-m-x-_JR_1052834) |
 | Kobo | Software Developer Intern (Dublin) | Software | Dublin, Ireland | Java, C#, JavaScript, SQL | Sep 07, 2026 | [Apply](https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Dublin-Ireland/Software-Developer-Intern--Dublin-_1037090-1) |
-| ABB | Internship - OT Cybersecurity | Security | Genova, Genova, Italy | Linux | Sep 02, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Internship---Cybersecurity-for-OT-Systems_JR00042894) |
 
 <a id="drop-radar"></a>
 
@@ -429,9 +426,9 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 |---|---|---|---|
 | D.E. Shaw | ~Oct | ~Oct · any day now | ⏳ waiting |
 | Rocket Lab | ~Oct | ~Oct · any day now | ⏳ waiting |
-| Coinbase | ~Dec | ~Dec · in ~37d | ⏳ waiting |
-| Ramp | ~Dec | ~Dec · in ~37d | ⏳ waiting |
-| Two Sigma | ~Dec | ~Dec · in ~37d | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec · in ~36d | ⏳ waiting |
+| Ramp | ~Dec | ~Dec · in ~36d | ⏳ waiting |
+| Two Sigma | ~Dec | ~Dec · in ~36d | ⏳ waiting |
 | Apple | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
 | Microsoft | rolling | year-round | ⏳ waiting |
@@ -517,7 +514,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,660 of 5,133 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1190.7s · 607 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,747 of 5,133 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 900.2s · 648 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

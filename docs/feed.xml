@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-25T22:48:30Z</updated>
+  <updated>2026-10-26T00:54:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:fticonsulting:/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Cybersecurity_JR260836</id>
+    <title>FTI Consulting: 2027 Summer Internship, Cybersecurity</title>
+    <link href="https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Cybersecurity_JR260836"/>
+    <updated>2026-10-26T00:54:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · London, United Kingdom</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:accenture:/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217</id>
     <title>Avanade: Internship Data &amp; AI / AI-Powered Internal Business Assistant</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-19T18:03:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Toronto, ON</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flir:/job/France---Grenoble/Stage-Qualit---Gestion-de-Produit---Dispositifs-Mdicaux----Internship---Product-Management-Dental-scope_REQ37355</id>
-    <title>Teledyne: Stage Qualité &amp; Gestion de Produit – Dispositifs Médicaux /  Internship - Product Management Dental scope</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/France---Grenoble/Stage-Qualit---Gestion-de-Produit---Dispositifs-Mdicaux----Internship---Product-Management-Dental-scope_REQ37355"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · France - Grenoble</summary>
   </entry>
 </feed>

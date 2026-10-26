@@ -669,6 +669,13 @@
     "site": "AEGONAM"
   },
   {
+    "name": "Aegon Asset Management",
+    "slug": "transamerica",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "AUK_JobSite"
+  },
+  {
     "name": "Aera Technology",
     "slug": "aeratechnology",
     "ats": "lever"
@@ -10036,6 +10043,11 @@
     "site": "FarmerFocus"
   },
   {
+    "name": "Farmersmutualhailinsurancecompany",
+    "slug": "farmersmutualhailinsurancecompany",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Faros AI",
     "slug": "faros-ai",
     "ats": "ashby"
@@ -13952,6 +13964,13 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "InterDigital_Career"
+  },
+  {
+    "name": "Interface",
+    "slug": "interface",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "interface"
   },
   {
     "name": "interface.ai",
@@ -26472,6 +26491,13 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "external"
+  },
+  {
+    "name": "Thrivent",
+    "slug": "thrivent",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "privateexternal"
   },
   {
     "name": "Thumbtack",

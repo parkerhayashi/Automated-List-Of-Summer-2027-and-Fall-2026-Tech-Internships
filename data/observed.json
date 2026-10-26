@@ -187,7 +187,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 21,
+     "count": 23,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -209,7 +209,9 @@
       "amazon:amazon:10571575",
       "amazon:amazon:10581332",
       "amazon:amazon:10587696",
-      "amazon:amazon:10587701"
+      "amazon:amazon:10587701",
+      "amazon:amazon:10588762",
+      "amazon:amazon:10588998"
      ]
     }
    }
@@ -3284,6 +3286,13 @@
       "ashby:skydio:7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915",
       "ashby:skydio:f6320e9b-4eed-408d-8d37-d509fb0406ee"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "ashby:skydio:fa88cb47-36f0-4020-95c3-6ac94d59d5d5"
+     ],
+     "count": 1
     }
    }
   },
@@ -3354,9 +3363,11 @@
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -4052,5 +4063,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T13:10:00Z"
+ "updated_at": "2026-10-26T19:24:52Z"
 }

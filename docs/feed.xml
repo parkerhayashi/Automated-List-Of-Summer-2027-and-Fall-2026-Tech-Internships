@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-26T13:10:00Z</updated>
+  <updated>2026-10-26T19:24:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:moloco:8044892003</id>
+    <title>Moloco: Machine Learning Engineer Intern (3-month Internship)</title>
+    <link href="https://job-boards.greenhouse.io/moloco/jobs/8044892003"/>
+    <updated>2026-10-26T19:24:52Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Seoul, Korea · Python, Java, Go · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10588998</id>
+    <title>Amazon: 2027 Software Dev Engineer Intern (Embedded Systems) - UK</title>
+    <link href="https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk"/>
+    <updated>2026-10-26T19:24:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London, International · Python, Java, C++, C#, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10588762</id>
+    <title>Amazon: 2027 Software Dev Engineer Intern (Machine Learning) - UK</title>
+    <link href="https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk"/>
+    <updated>2026-10-26T19:24:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · London, International · Python, Java, C++, C#, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:efds.fa.em5.oraclecloud.com:73202</id>
+    <title>Ford Motor Company: AI Strategy Intern 🛂</title>
+    <link href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73202"/>
+    <updated>2026-10-26T19:24:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Oakville, ON, Canada · LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:skydio:fa88cb47-36f0-4020-95c3-6ac94d59d5d5</id>
+    <title>Skydio: Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich)</title>
+    <link href="https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5"/>
+    <updated>2026-10-26T19:24:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Zurich, Switzerland · $47/hr · Python, C++, TypeScript, Computer Vision, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647</id>
+    <title>SOTI: Software Developer Intern - Server (May 2027 - 12 Months)</title>
+    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647"/>
+    <updated>2026-10-26T19:24:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, C#, Rust, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620</id>
+    <title>SOTI: Software Developer Intern - Android (May 2027 - 12 Months)</title>
+    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620"/>
+    <updated>2026-10-26T19:24:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, C#, Rust, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tmx:/job/Montreal---1190-av-des-Canadiens-de-Montreal/Student-Intern--DevOps--WinterTerm-_R-6568</id>
+    <title>TMX Group: Student Intern, DevOps (WinterTerm)</title>
+    <link href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Student-Intern--DevOps--WinterTerm-_R-6568"/>
+    <updated>2026-10-26T19:24:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Montreal - 1190 av. des Canadiens-de-Montreal · Python, Azure, Kubernetes, Docker, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5528</id>
     <title>SCOR: Sustainable Investment Intern</title>
@@ -742,69 +806,5 @@
     <updated>2026-10-19T22:33:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Toronto, ON, CAN</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cgg:/job/Massy-France/Software-Web-Developer-Intern_JR101543-2</id>
-    <title>Viridien: Software Web Developer Intern</title>
-    <link href="https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Massy-France/Software-Web-Developer-Intern_JR101543-2"/>
-    <updated>2026-10-19T22:33:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Massy, France · TypeScript, JavaScript, React, Docker, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1</id>
-    <title>Hewlett Packard (HP): Machine Learning Development Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1"/>
-    <updated>2026-10-19T22:33:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Porto Alegre, Rio Grande do Sul, Brazil · Python, PyTorch, TensorFlow, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:celonis:8014366003</id>
-    <title>Celonis: Intern Applied AI Solution Consulting (Italy)</title>
-    <link href="https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Milan, Italy · Python, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:gravitonresearchcapital:8899673002</id>
-    <title>Graviton: Quantitative Researcher - 2027 Summer Internship</title>
-    <link href="https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rothesaygraduates:8811551002</id>
-    <title>Rothesay: 2027 Summer Internship Programme - Software Engineering</title>
-    <link href="https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:18964</id>
-    <title>Citco: Software Engineering Intern</title>
-    <link href="https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, ON, Canada · Python, Java, JavaScript, SQL, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:adobe:/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015</id>
-    <title>Adobe: 2027 Intern- Software Engineer</title>
-    <link href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015"/>
-    <updated>2026-10-19T18:03:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Basel · Java, JavaScript, Node.js, HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472</id>
-    <title>Autodesk: Intern, Software Engineer</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472"/>
-    <updated>2026-10-21T13:30:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Birmingham, GBR · Java, C++, C#, TypeScript, Git · status: closed</summary>
   </entry>
 </feed>

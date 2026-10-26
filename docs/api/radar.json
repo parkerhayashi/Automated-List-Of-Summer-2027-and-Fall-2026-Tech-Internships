@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-26T13:10:00Z",
- "data_as_of": "2026-10-26T13:10:00Z",
- "rendered_at": "2026-10-26T13:10:01Z",
+ "generated_at": "2026-10-26T19:24:52Z",
+ "data_as_of": "2026-10-26T19:24:52Z",
+ "rendered_at": "2026-10-26T19:24:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -320,7 +320,7 @@
    "expected": "2026-08-17",
    "days_until": -70,
    "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014784",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756",
    "note": "campus opens mid-summer",
    "provenance": {
     "type": "engine-observed",
@@ -377,7 +377,7 @@
    "expected": "2026-08-19",
    "days_until": -68,
    "status": "open",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209",
    "note": "multiple programs; Ignite ~Oct, SWE ongoing",
    "provenance": {
     "type": "engine-observed",
@@ -823,25 +823,6 @@
    }
   },
   {
-   "company": "Schroders",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -38,
-   "status": "open",
-   "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1952",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-18"
-   }
-  },
-  {
    "company": "WTW",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -1029,25 +1010,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-01"
-   }
-  },
-  {
-   "company": "Marvell",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-02",
-   "days_until": -24,
-   "status": "open",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-02"
    }
   },
   {
@@ -1279,25 +1241,6 @@
    }
   },
   {
-   "company": "Wise",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-19",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-19",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://jobs.smartrecruiters.com/Wise/744000156266767",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-19"
-   }
-  },
-  {
    "company": "CommonAI C.I.C.",
    "last_cycle_posted": "",
    "posted_on": "2026-10-20",
@@ -1428,6 +1371,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-23"
+   }
+  },
+  {
+   "company": "Skydio",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-26"
    }
   },
   {
@@ -5991,6 +5953,25 @@
    }
   },
   {
+   "company": "Schroders",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -38,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-18"
+   }
+  },
+  {
    "company": "Brookfield",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -6026,6 +6007,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-28"
+   }
+  },
+  {
+   "company": "Marvell",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-02",
+   "days_until": -24,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-02"
    }
   },
   {
@@ -6141,7 +6141,26 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-10-14"
    }
+  },
+  {
+   "company": "Wise",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": -7,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-19"
+   }
   }
  ],
- "count": 323
+ "count": 324
 }

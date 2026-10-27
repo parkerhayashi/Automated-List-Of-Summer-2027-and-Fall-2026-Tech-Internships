@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10581054",
+      "amazon:amazon:10581056",
+      "workday:zeissgroup:/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317",
+      "workday:genesys:/job/Toronto-Flexible/Software-Developer-in-Test--Intern--Genesys-Cloud-_JR112179-1",
+      "greenhouse:schonfeld:8311595"
+    ],
+    "telegram": [
+      "amazon:amazon:10581054",
+      "amazon:amazon:10581056",
+      "workday:zeissgroup:/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317",
+      "workday:genesys:/job/Toronto-Flexible/Software-Developer-in-Test--Intern--Genesys-Cloud-_JR112179-1",
+      "greenhouse:schonfeld:8311595"
+    ]
   }
 }

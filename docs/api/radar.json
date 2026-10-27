@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T08:40:13Z",
- "data_as_of": "2026-10-27T08:40:13Z",
- "rendered_at": "2026-10-27T08:40:15Z",
+ "generated_at": "2026-10-27T15:06:38Z",
+ "data_as_of": "2026-10-27T15:06:38Z",
+ "rendered_at": "2026-10-27T15:06:39Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1214,25 +1214,6 @@
    "days_until": -8,
    "status": "open",
    "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-19"
-   }
-  },
-  {
-   "company": "Wise",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-19",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-19",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://jobs.smartrecruiters.com/Wise/744000157817979",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -6159,6 +6140,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-14"
+   }
+  },
+  {
+   "company": "Wise",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-19"
    }
   }
  ],

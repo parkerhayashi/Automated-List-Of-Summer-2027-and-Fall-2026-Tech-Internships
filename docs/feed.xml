@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-27T08:40:13Z</updated>
+  <updated>2026-10-27T15:06:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Wise:744000157817979</id>
-    <title>Wise: Software Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Wise/744000157817979"/>
-    <updated>2026-10-26T23:34:12Z</updated>
+    <id>urn:intern-engine:amazon:amazon:10581054</id>
+    <title>Amazon: Applied Scientist Intern</title>
+    <link href="https://www.amazon.jobs/en/jobs/10581054/applied-scientist-intern"/>
+    <updated>2026-10-27T15:06:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Zurich, International · Python, Java, C++, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10581056</id>
+    <title>Amazon: Applied Scientist Intern, RIVR</title>
+    <link href="https://www.amazon.jobs/en/jobs/10581056/applied-scientist-intern-rivr"/>
+    <updated>2026-10-27T15:06:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Zurich, International · Python, Java, C++, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zeissgroup:/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317</id>
+    <title>Zeiss: Internship in AI &amp; Machine Learning (f/m/x)</title>
+    <link href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317"/>
+    <updated>2026-10-27T15:06:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Karlsruhe · Python, PyTorch, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8311595</id>
+    <title>Schonfeld: 2027 AI Forward Deployed Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8311595"/>
+    <updated>2026-10-27T15:06:38Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, , United Kingdom (Hybrid) · Python, Java, JavaScript, Swift, Kotlin</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Hong Kong, Hong Kong · Python, SQL, LLMs, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/AI-Scientist-Co-op_2622058-1</id>
@@ -584,6 +608,14 @@
     <summary>Not stated · Software · Barcelona, Spain · JavaScript, React, Next.js, HTML/CSS</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:smartrecruiters:Sia:744000156750699</id>
+    <title>Sia Partners: Final Year Internship Consultant - Cybersecurity</title>
+    <link href="https://jobs.smartrecruiters.com/Sia/744000156750699"/>
+    <updated>2026-10-21T13:30:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Paris, IDF, International (FR)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--test-impact-analysis_J-00354297</id>
     <title>ASML: Computer Science | Software Engineering internship: test impact analysis</title>
     <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--test-impact-analysis_J-00354297"/>
@@ -774,37 +806,5 @@
     <updated>2026-10-20T12:21:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United Kingdom-London · LLMs, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanderlande:/job/Veghel-Netherlands/Internship-Graduation--Agentic-AI-Systems-for-Software-Re-engineering_JR38496</id>
-    <title>Vanderlande Industries: Internship/Graduation: Agentic AI Systems for Software Re-engineering</title>
-    <link href="https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship-Graduation--Agentic-AI-Systems-for-Software-Re-engineering_JR38496"/>
-    <updated>2026-10-20T12:21:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Veghel, Netherlands · Python, Java, C#, LLMs, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vfc:/job/EMEA--CHE--Stabio--Stabio---VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021</id>
-    <title>VF: Graphic Product Design Intern</title>
-    <link href="https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/EMEA--CHE--Stabio--Stabio---VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021"/>
-    <updated>2026-10-20T12:21:30Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Design · EMEA &gt; CHE &gt; Stabio &gt; Stabio - VF Campus VF1 · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Hsinchu-Taiwan/CS-HMI--NPI-Data-Analyst-Internship---Hsinchu_J-00349763</id>
-    <title>ASML: Internship - CS HMI NPI Data Analyst Intern - Hsinchu</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/CS-HMI--NPI-Data-Analyst-Internship---Hsinchu_J-00349763"/>
-    <updated>2026-10-20T06:50:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hsinchu, Taiwan · Python, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:palantir:3e59369e-1392-42f2-8d03-86648e87e963</id>
-    <title>Palantir: Software Engineer, Internship - Query Engines</title>
-    <link href="https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963"/>
-    <updated>2026-10-20T01:30:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · London, United Kingdom · Python, Java, C++, Rust, Scala</summary>
   </entry>
 </feed>

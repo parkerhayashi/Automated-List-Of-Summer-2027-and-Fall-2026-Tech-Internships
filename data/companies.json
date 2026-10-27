@@ -1312,6 +1312,11 @@
     "site": "altagas"
   },
   {
+    "name": "AltaLink",
+    "slug": "altalink",
+    "ats": "workable"
+  },
+  {
     "name": "AltaML",
     "slug": "altaml",
     "ats": "lever"
@@ -7403,6 +7408,11 @@
     "ats": "ashby"
   },
   {
+    "name": "CrossCountry Consulting",
+    "slug": "crosscountry-consulting",
+    "ats": "lever"
+  },
+  {
     "name": "CrossCountry Mortgage",
     "slug": "crosscountrymortgage",
     "ats": "workday",
@@ -10022,6 +10032,11 @@
     "name": "Farallon Capital Management",
     "slug": "faralloncapitalmanagementllc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Farcast",
+    "slug": "farcast",
+    "ats": "lever"
   },
   {
     "name": "Farfetch",
@@ -12849,6 +12864,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Hiya",
+    "slug": "hiya",
+    "ats": "ashby"
+  },
+  {
     "name": "HMH",
     "slug": "hmhw",
     "ats": "workday",
@@ -13990,6 +14010,13 @@
     "site": "IntermountainCareers"
   },
   {
+    "name": "International Flavors & Fragrances",
+    "slug": "iff",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "IFF_Careers"
+  },
+  {
     "name": "International Mission Board",
     "slug": "golimitless",
     "ats": "workday",
@@ -15005,6 +15032,11 @@
     "name": "Klaviyo",
     "slug": "klaviyojobs",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Kled AI",
+    "slug": "kled-ai",
+    "ats": "ashby"
   },
   {
     "name": "Klue",
@@ -16305,6 +16337,11 @@
     "ats": "oracle",
     "host": "ebwh.fa.us2.oraclecloud.com",
     "site": "CX_1001"
+  },
+  {
+    "name": "Madhive",
+    "slug": "madhive",
+    "ats": "ashby"
   },
   {
     "name": "Madison Energy Infrastructure",
@@ -18180,6 +18217,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "National Indemnity Company",
+    "slug": "nationalindemnity",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "NICO"
+  },
+  {
     "name": "National Information Solutions Cooperative (NISC)",
     "slug": "nisc",
     "ats": "greenhouse"
@@ -19208,6 +19252,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "OCLC_Careers"
+  },
+  {
+    "name": "Octasic",
+    "slug": "octasic-inc",
+    "ats": "rippling"
   },
   {
     "name": "Octaura",
@@ -23070,6 +23119,11 @@
     "name": "Samba TV",
     "slug": "sambatv",
     "ats": "lever"
+  },
+  {
+    "name": "Sampura Research",
+    "slug": "sampura",
+    "ats": "ashby"
   },
   {
     "name": "Samsara",

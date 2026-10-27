@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:cibc:/job/Toronto-ON/Data-Analyst-co-op_2622122-1",
-      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI3950-1",
-      "workday:interdigital:/job/Rennes-France/Intern--Real-Time-Deep-Learning-Inference-for-Display-Power-Reduction_REQ26-1163",
-      "workday:interdigital:/job/Rennes-France/Intern--Deep-learning-and-Neural-Network-Optimization-and-Deployment-for-SDR-to-HDR-Conversion_REQ26-1162",
-      "workday:interdigital:/job/Rennes-France/Intern--AI-Driven-Energy-Aware-Adaptive-Video-Streaming--From-Client-Side-Optimization-to-End-to-End-Collaborative-Reinforcement-Learning_REQ26-1164",
-      "workday:motorolasolutions:/job/Vancouver-Canada/Localization-and-QA-Automation-Developer-Co-Op_R70123",
-      "smartrecruiters:Sia:744000158117441",
-      "workday:trimble:/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980"
-    ],
-    "telegram": [
-      "workday:cibc:/job/Toronto-ON/Data-Analyst-co-op_2622122-1",
-      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI3950-1",
-      "workday:interdigital:/job/Rennes-France/Intern--Real-Time-Deep-Learning-Inference-for-Display-Power-Reduction_REQ26-1163",
-      "workday:interdigital:/job/Rennes-France/Intern--Deep-learning-and-Neural-Network-Optimization-and-Deployment-for-SDR-to-HDR-Conversion_REQ26-1162",
-      "workday:interdigital:/job/Rennes-France/Intern--AI-Driven-Energy-Aware-Adaptive-Video-Streaming--From-Client-Side-Optimization-to-End-to-End-Collaborative-Reinforcement-Learning_REQ26-1164",
-      "workday:motorolasolutions:/job/Vancouver-Canada/Localization-and-QA-Automation-Developer-Co-Op_R70123",
-      "smartrecruiters:Sia:744000158117441",
-      "workday:trimble:/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

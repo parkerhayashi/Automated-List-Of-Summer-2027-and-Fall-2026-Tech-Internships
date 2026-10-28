@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:generalmagic:bf200870-484c-4beb-b08b-9655d07fabe6",
+      "ashby:generalmagic:76c162b0-9fd6-42bb-93d5-9ab7ad3f569b",
+      "workable:javelin-global-commodities:CAF64E75BF",
+      "ashby:light-inc:9079d1ba-a35a-4e4b-9b07-820e85d921b9",
+      "lever:nuvacore:f167579a-db4b-4f85-91b9-e0bfb444a37c",
+      "workday:bmo:/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260030236",
+      "smartrecruiters:BoschGroup:744000158348849",
+      "workday:nasdaq:/job/Sweden---Skolgatan---Ume/Software-Developer-Intern---Summer-2027_R0027232",
+      "greenhouse:tenstorrentuniversity:5274249007"
+    ],
+    "telegram": [
+      "ashby:generalmagic:bf200870-484c-4beb-b08b-9655d07fabe6",
+      "ashby:generalmagic:76c162b0-9fd6-42bb-93d5-9ab7ad3f569b",
+      "workable:javelin-global-commodities:CAF64E75BF",
+      "ashby:light-inc:9079d1ba-a35a-4e4b-9b07-820e85d921b9",
+      "lever:nuvacore:f167579a-db4b-4f85-91b9-e0bfb444a37c",
+      "workday:bmo:/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260030236",
+      "smartrecruiters:BoschGroup:744000158348849",
+      "workday:nasdaq:/job/Sweden---Skolgatan---Ume/Software-Developer-Intern---Summer-2027_R0027232",
+      "greenhouse:tenstorrentuniversity:5274249007"
+    ]
   }
 }

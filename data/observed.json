@@ -3709,6 +3709,18 @@
     }
    }
   },
+  "uber": {
+   "name": "Uber",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-27",
+     "role_ids": [
+      "oracle:iaziqy.fa.ocs.oraclecloud.com:304178"
+     ],
+     "count": 1
+    }
+   }
+  },
   "uber freight": {
    "name": "Uber Freight",
    "cycles": {
@@ -4067,5 +4079,5 @@
    }
   }
  },
- "updated_at": "2026-10-27T20:18:23Z"
+ "updated_at": "2026-10-28T00:00:57Z"
 }

@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 397 open roles (307 listed below) · 81 new this week
+### 398 open roles (308 listed below) · 80 new this week
 
-4,849 employers tracked · data as of Oct 27, 2026 at 20:18 UTC
+4,849 employers tracked · data as of Oct 28, 2026 at 00:00 UTC
 
-_192 have a cycle the employer stated · 205 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_193 have a cycle the employer stated · 205 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -88,10 +88,11 @@ If it helps you, a star means a lot and tells me to keep going.
 **Jump to:** [Canada](#canada) · [Japan & IEC countries](#iec)
 
 <a id="canada"></a>
-## Summer 2027 — Canada  (33 employer-stated)
+## Summer 2027 — Canada  (34 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Uber | 2027 Software Engineering Intern, Canada 🆕 | Software | Toronto, ON, Canada | Python, Java, C++, Ruby | Oct 27, 2026 | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) |
 | Trimble | Firmware & Machine Learning Engineering Intern (16 Months) 🆕 | Data & ML/AI | Canada - Richmond Hill +1 more | Python, C++, Linux, Git | Oct 27, 2026 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) |
 | SOTI | Software Developer Intern - Android (May 2027 - 12 Months) 🆕 | Software | Mississauga +1 more | Java, C++, C#, Rust | Oct 26, 2026 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) |
 | SOTI | Software Developer Intern - Server (May 2027 - 12 Months) 🆕 | Software | Mississauga +1 more | Java, C++, C#, Rust | Oct 26, 2026 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) |
@@ -304,9 +305,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Interdigital | Intern, Real-Time Deep Learning Inference for Display Power Reduction 🆕 | Data & ML/AI | Rennes, France | Python, C++, PyTorch, TensorFlow | Oct 27, 2026 | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Real-Time-Deep-Learning-Inference-for-Display-Power-Reduction_REQ26-1163) |
-| Interdigital | Intern, Deep learning and Neural Network Optimization and Deployment for SDR-to-HDR Conversion 🆕 | Data & ML/AI | Rennes, France | Python, C++, PyTorch, TensorFlow | Oct 27, 2026 | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Deep-learning-and-Neural-Network-Optimization-and-Deployment-for-SDR-to-HDR-Conversion_REQ26-1162) |
 | Interdigital | Intern, AI-Driven Energy-Aware Adaptive Video Streaming: From Client-Side Optimization to End-to-End Collaborative Reinforcement Learning 🆕 | Data & ML/AI | Rennes, France | Python, C++, JavaScript, Computer Vision | Oct 27, 2026 | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--AI-Driven-Energy-Aware-Adaptive-Video-Streaming--From-Client-Side-Optimization-to-End-to-End-Collaborative-Reinforcement-Learning_REQ26-1164) |
+| Interdigital | Intern, Deep learning and Neural Network Optimization and Deployment for SDR-to-HDR Conversion 🆕 | Data & ML/AI | Rennes, France | Python, C++, PyTorch, TensorFlow | Oct 27, 2026 | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Deep-learning-and-Neural-Network-Optimization-and-Deployment-for-SDR-to-HDR-Conversion_REQ26-1162) |
+| Interdigital | Intern, Real-Time Deep Learning Inference for Display Power Reduction 🆕 | Data & ML/AI | Rennes, France | Python, C++, PyTorch, TensorFlow | Oct 27, 2026 | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Real-Time-Deep-Learning-Inference-for-Display-Power-Reduction_REQ26-1163) |
 | Zeiss | Internship in AI & Machine Learning (f/m/x) 🆕 | Data & ML/AI | Karlsruhe | Python, PyTorch, Computer Vision | Oct 27, 2026 | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317) |
 | Amazon | Applied Scientist Intern 🆕 | Data & ML/AI | Zurich, International | Python, Java, C++, SQL | Oct 23, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10581054/applied-scientist-intern) |
 | Amazon | Applied Scientist Intern, RIVR 🆕 | Data & ML/AI | Zurich, International | Python, Java, C++, SQL | Oct 23, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10581056/applied-scientist-intern-rivr) |
@@ -426,9 +427,9 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 |---|---|---|---|
 | D.E. Shaw | ~Oct | ~Oct · any day now | ⏳ waiting |
 | Rocket Lab | ~Oct | ~Oct · any day now | ⏳ waiting |
-| Coinbase | ~Dec | ~Dec · in ~35d | ⏳ waiting |
-| Ramp | ~Dec | ~Dec · in ~35d | ⏳ waiting |
-| Two Sigma | ~Dec | ~Dec · in ~35d | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec · in ~34d | ⏳ waiting |
+| Ramp | ~Dec | ~Dec · in ~34d | ⏳ waiting |
+| Two Sigma | ~Dec | ~Dec · in ~34d | ⏳ waiting |
 | Apple | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
 | Microsoft | rolling | year-round | ⏳ waiting |
@@ -447,10 +448,10 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Ellipsis Labs | Mar 26 | dropped Mar 26 · closed | 🗓️ dropped |
 | 🎯 InfiniteQuant | May 29 | dropped May 29 · closed | 🗓️ dropped |
 
-_324 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **208** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_324 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **209** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 40 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 39 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -495,7 +496,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Robinhood | Software Developer Intern, iOS (Summer 2027) | Summer 2027 | 2026-10-14 | gone from feed |
 | Robinhood | Software Developer Intern, Web (Summer 2027) | Summer 2027 | 2026-10-14 | gone from feed |
 | BP | Summer Internship - Digital - Data, AI & Engineering - UK | Summer 2027 | 2026-10-14 | gone from feed |
-| NBCUniversal | Media Product Intern | Summer 2027 | 2026-10-13 | gone from feed |
 
 </details>
 
@@ -514,7 +514,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,760 of 5,147 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1033.3s · 679 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,677 of 5,147 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1083.8s · 624 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

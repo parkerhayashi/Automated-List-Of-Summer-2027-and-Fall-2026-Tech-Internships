@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-27T20:18:23Z</updated>
+  <updated>2026-10-28T00:00:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Data-Science---Computer-Science-internship--proactive-support-analytics_J-00349423</id>
-    <title>ASML: Data Science | Computer Science internship: proactive support analytics</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Data-Science---Computer-Science-internship--proactive-support-analytics_J-00349423"/>
-    <updated>2026-10-27T20:18:23Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ciena:/job/Quebec/Intern---Software-Developer-Technician_R031983-1</id>
-    <title>Ciena: Intern - Software Developer Technician</title>
-    <link href="https://ciena.wd5.myworkdayjobs.com/careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1"/>
-    <updated>2026-10-27T20:18:23Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Quebec · C#, JavaScript, HTML/CSS · status: closed</summary>
+    <id>urn:intern-engine:oracle:iaziqy.fa.ocs.oraclecloud.com:304178</id>
+    <title>Uber: 2027 Software Engineering Intern, Canada</title>
+    <link href="https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178"/>
+    <updated>2026-10-28T00:00:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, ON, Canada · Python, Java, C++, Ruby</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:SopraSteria1:744000158063149</id>
@@ -32,6 +24,14 @@
     <summary>Winter 2027 · VC · Paris, IDF, International (FR) · status: closed</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Data-Science---Computer-Science-internship--proactive-support-analytics_J-00349423</id>
+    <title>ASML: Data Science | Computer Science internship: proactive support analytics</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Data-Science---Computer-Science-internship--proactive-support-analytics_J-00349423"/>
+    <updated>2026-10-27T20:18:23Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, SQL · status: closed</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/Data-Analyst-co-op_2622122-1</id>
     <title>CIBC: Data Analyst co-op</title>
     <link href="https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1"/>
@@ -40,12 +40,20 @@
     <summary>Not stated · Data &amp; ML/AI · Toronto, ON · Python, SQL, Azure, Databricks, Tableau</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:interdigital:/job/Rennes-France/Intern--Real-Time-Deep-Learning-Inference-for-Display-Power-Reduction_REQ26-1163</id>
-    <title>Interdigital: Intern, Real-Time Deep Learning Inference for Display Power Reduction</title>
-    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Real-Time-Deep-Learning-Inference-for-Display-Power-Reduction_REQ26-1163"/>
+    <id>urn:intern-engine:workday:ciena:/job/Quebec/Intern---Software-Developer-Technician_R031983-1</id>
+    <title>Ciena: Intern - Software Developer Technician</title>
+    <link href="https://ciena.wd5.myworkdayjobs.com/careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1"/>
+    <updated>2026-10-27T20:18:23Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Quebec · C#, JavaScript, HTML/CSS · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:interdigital:/job/Rennes-France/Intern--AI-Driven-Energy-Aware-Adaptive-Video-Streaming--From-Client-Side-Optimization-to-End-to-End-Collaborative-Reinforcement-Learning_REQ26-1164</id>
+    <title>Interdigital: Intern, AI-Driven Energy-Aware Adaptive Video Streaming: From Client-Side Optimization to End-to-End Collaborative Reinforcement Learning</title>
+    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--AI-Driven-Energy-Aware-Adaptive-Video-Streaming--From-Client-Side-Optimization-to-End-to-End-Collaborative-Reinforcement-Learning_REQ26-1164"/>
     <updated>2026-10-27T20:18:23Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Rennes, France · Python, C++, PyTorch, TensorFlow, CUDA</summary>
+    <summary>Not stated · Data &amp; ML/AI · Rennes, France · Python, C++, JavaScript, Computer Vision</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:interdigital:/job/Rennes-France/Intern--Deep-learning-and-Neural-Network-Optimization-and-Deployment-for-SDR-to-HDR-Conversion_REQ26-1162</id>
@@ -56,12 +64,12 @@
     <summary>Not stated · Data &amp; ML/AI · Rennes, France · Python, C++, PyTorch, TensorFlow, CUDA</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:interdigital:/job/Rennes-France/Intern--AI-Driven-Energy-Aware-Adaptive-Video-Streaming--From-Client-Side-Optimization-to-End-to-End-Collaborative-Reinforcement-Learning_REQ26-1164</id>
-    <title>Interdigital: Intern, AI-Driven Energy-Aware Adaptive Video Streaming: From Client-Side Optimization to End-to-End Collaborative Reinforcement Learning</title>
-    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--AI-Driven-Energy-Aware-Adaptive-Video-Streaming--From-Client-Side-Optimization-to-End-to-End-Collaborative-Reinforcement-Learning_REQ26-1164"/>
+    <id>urn:intern-engine:workday:interdigital:/job/Rennes-France/Intern--Real-Time-Deep-Learning-Inference-for-Display-Power-Reduction_REQ26-1163</id>
+    <title>Interdigital: Intern, Real-Time Deep Learning Inference for Display Power Reduction</title>
+    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Real-Time-Deep-Learning-Inference-for-Display-Power-Reduction_REQ26-1163"/>
     <updated>2026-10-27T20:18:23Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Rennes, France · Python, C++, JavaScript, Computer Vision</summary>
+    <summary>Not stated · Data &amp; ML/AI · Rennes, France · Python, C++, PyTorch, TensorFlow, CUDA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Vancouver-Canada/Localization-and-QA-Automation-Developer-Co-Op_R70123</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-20T17:09:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Bristol, UK · Python, C++ · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:shifttechnology:8014553003</id>
-    <title>Shift: Data scientist Internship (6 months)</title>
-    <link href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003"/>
-    <updated>2026-10-20T17:09:51Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · France - Paris · status: closed</summary>
   </entry>
 </feed>

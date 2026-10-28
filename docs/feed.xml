@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-28T05:47:35Z</updated>
+  <updated>2026-10-28T11:52:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Internship--Performance-Analytics-Tool-Development_J-00356040</id>
+    <title>ASML: Computer Science | Internship: Performance Analytics Tool Development</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Internship--Performance-Analytics-Tool-Development_J-00356040"/>
+    <updated>2026-10-28T11:52:27Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, MATLAB · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Melbourne-AUS/Intern--Software-Engineer--PDMS-D-M-GDSIMENG-_26WD101850</id>
+    <title>Autodesk: Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Melbourne-AUS/Intern--Software-Engineer--PDMS-D-M-GDSIMENG-_26WD101850"/>
+    <updated>2026-10-28T11:52:27Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Melbourne, AUS · Python, C++, Linux, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ag:/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788</id>
+    <title>Airbus: Internship within Commodity Management for IT Infrastructure (d/f/m)</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788"/>
+    <updated>2026-10-28T11:52:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · München Area</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/INTERNSHIP-SOFTWARE-ENGINEER---ING-MORTGAGES_REQ-10123832</id>
+    <title>ING: INTERNSHIP SOFTWARE ENGINEER - ING MORTGAGES</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/INTERNSHIP-SOFTWARE-ENGINEER---ING-MORTGAGES_REQ-10123832"/>
+    <updated>2026-10-28T11:52:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · HBP (Amsterdam - Haarlerbergpark)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:iaziqy.fa.ocs.oraclecloud.com:304178</id>
     <title>Uber: 2027 Software Engineering Intern, Canada</title>
@@ -774,37 +806,5 @@
     <updated>2026-10-20T20:48:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Germany, Munich · C++, CUDA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:sierra:7af8aa4e-ba84-49ba-bc53-19358f4564ff</id>
-    <title>Sierra: Software Engineer Intern, Agent (London 2027)</title>
-    <link href="https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff"/>
-    <updated>2026-10-20T17:09:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London · TypeScript, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:graphcore:8894770002</id>
-    <title>Graphcore: Firmware Summer Intern 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894770002"/>
-    <updated>2026-10-20T17:09:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Bristol, UK · Python · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:graphcore:8894797002</id>
-    <title>Graphcore: UX Design Summer Intern 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894797002"/>
-    <updated>2026-10-20T17:09:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Design · Bristol, UK · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:graphcore:8894868002</id>
-    <title>Graphcore: Software Engineer Summer Intern, AI Compute Libraries &amp; Performance 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8894868002"/>
-    <updated>2026-10-20T17:09:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Bristol, UK · Python, C++ · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

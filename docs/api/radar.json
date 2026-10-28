@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T00:00:57Z",
- "data_as_of": "2026-10-28T00:00:57Z",
- "rendered_at": "2026-10-28T00:00:58Z",
+ "generated_at": "2026-10-28T05:47:35Z",
+ "data_as_of": "2026-10-28T05:47:35Z",
+ "rendered_at": "2026-10-28T05:47:36Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1137,7 +1137,7 @@
    "expected": "2026-10-15",
    "days_until": -13,
    "status": "open",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545-1",
+   "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545",
    "note": "",
    "provenance": {
     "type": "engine-observed",

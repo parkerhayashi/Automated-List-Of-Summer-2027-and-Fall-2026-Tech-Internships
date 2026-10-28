@@ -1,10 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:iaziqy.fa.ocs.oraclecloud.com:304178"
-    ],
-    "telegram": [
-      "oracle:iaziqy.fa.ocs.oraclecloud.com:304178"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

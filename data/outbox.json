@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:ag:/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788",
-      "workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/INTERNSHIP-SOFTWARE-ENGINEER---ING-MORTGAGES_REQ-10123832"
-    ],
-    "telegram": [
-      "workday:ag:/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788",
-      "workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/INTERNSHIP-SOFTWARE-ENGINEER---ING-MORTGAGES_REQ-10123832"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

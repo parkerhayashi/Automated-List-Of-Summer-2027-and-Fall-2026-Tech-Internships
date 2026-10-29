@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-29T15:53:10Z",
- "data_as_of": "2026-10-29T15:53:10Z",
- "rendered_at": "2026-10-29T15:53:11Z",
+ "generated_at": "2026-10-29T20:50:22Z",
+ "data_as_of": "2026-10-29T20:50:22Z",
+ "rendered_at": "2026-10-29T20:50:23Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -378,6 +378,25 @@
    "days_until": -66,
    "status": "open",
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-24"
+   }
+  },
+  {
+   "company": "Qube Research & Technologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -66,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1390,6 +1409,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-28"
+   }
+  },
+  {
+   "company": "OLIX",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-29",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-29"
    }
   },
   {
@@ -6200,5 +6238,5 @@
    }
   }
  ],
- "count": 326
+ "count": 328
 }

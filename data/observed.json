@@ -1762,14 +1762,18 @@
       "workday:hp:/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI3949-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI3950-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_3170257-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software-Engineering-Intern_UNI4787-1",
       "workday:hp:/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
       "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1"
      ],
-     "count": 9
+     "count": 13
     }
    }
   },
@@ -2665,6 +2669,18 @@
     }
    }
   },
+  "olix": {
+   "name": "OLIX",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-29",
+     "role_ids": [
+      "ashby:olix:a2365ad7-3b5d-4f6e-a917-2586efc6a07e"
+     ],
+     "count": 1
+    }
+   }
+  },
   "olsson": {
    "name": "Olsson",
    "cycles": {
@@ -2896,6 +2912,24 @@
      "role_ids": [
       "ashby:quadrillion-labs:a4acc44c-31ce-41a0-ab44-2500487b4d05"
      ]
+    }
+   }
+  },
+  "qube research technologies": {
+   "name": "Qube Research & Technologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "greenhouse:quberesearchandtechnologies:8581570002",
+      "greenhouse:quberesearchandtechnologies:8617401002",
+      "greenhouse:quberesearchandtechnologies:8749918002",
+      "greenhouse:quberesearchandtechnologies:8749942002",
+      "greenhouse:quberesearchandtechnologies:8773084002",
+      "greenhouse:quberesearchandtechnologies:8773447002",
+      "greenhouse:quberesearchandtechnologies:8785833002"
+     ],
+     "count": 7
     }
    }
   },
@@ -3392,10 +3426,11 @@
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -4105,5 +4140,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T15:53:10Z"
+ "updated_at": "2026-10-29T20:50:22Z"
 }

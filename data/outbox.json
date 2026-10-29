@@ -1,6 +1,36 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:olix:a2365ad7-3b5d-4f6e-a917-2586efc6a07e",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1",
+      "greenhouse:quberesearchandtechnologies:8773447002",
+      "greenhouse:quberesearchandtechnologies:8749918002",
+      "greenhouse:quberesearchandtechnologies:8581570002",
+      "greenhouse:quberesearchandtechnologies:8617401002",
+      "greenhouse:quberesearchandtechnologies:8785833002",
+      "greenhouse:quberesearchandtechnologies:8749942002",
+      "greenhouse:quberesearchandtechnologies:8773084002",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
+      "greenhouse:tobogganlabs:8012583003"
+    ],
+    "telegram": [
+      "ashby:olix:a2365ad7-3b5d-4f6e-a917-2586efc6a07e",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1",
+      "greenhouse:quberesearchandtechnologies:8773447002",
+      "greenhouse:quberesearchandtechnologies:8749918002",
+      "greenhouse:quberesearchandtechnologies:8581570002",
+      "greenhouse:quberesearchandtechnologies:8617401002",
+      "greenhouse:quberesearchandtechnologies:8785833002",
+      "greenhouse:quberesearchandtechnologies:8749942002",
+      "greenhouse:quberesearchandtechnologies:8773084002",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
+      "greenhouse:tobogganlabs:8012583003"
+    ]
   }
 }

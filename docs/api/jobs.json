@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-28T22:12:57Z",
- "data_as_of": "2026-10-28T22:12:57Z",
- "rendered_at": "2026-10-28T22:12:58Z",
+ "generated_at": "2026-10-29T02:01:52Z",
+ "data_as_of": "2026-10-29T02:01:52Z",
+ "rendered_at": "2026-10-29T02:01:53Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 400,
+ "count": 397,
  "jobs": [
   {
    "id": "greenhouse:tenstorrentuniversity:5274249007",
@@ -71,29 +71,6 @@
    "source": "workable",
    "h1b_approvals": null,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:bmo:/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260030236",
-   "company": "BMO",
-   "title": "Investment Intern - GAM, Summer 2027 (Co-op/Internship) - 4 months",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "VC",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260030236",
-   "posted_at": "2026-10-28T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-28T17:39:37Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship / Co-op",
    "remote": false
   },
   {
@@ -8175,29 +8152,6 @@
    "remote": false
   },
   {
-   "id": "ashby:light-inc:9079d1ba-a35a-4e4b-9b07-820e85d921b9",
-   "company": "Light",
-   "title": "AI Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/light-inc/9079d1ba-a35a-4e4b-9b07-820e85d921b9",
-   "posted_at": "2026-09-13T09:07:09.979+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-28T17:39:37Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "LLMs"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "greenhouse:nex:5419756008",
    "company": "Nex",
    "title": "Summer 2027 | Software Engineer Intern (Engineering, Core Technology)",
@@ -9560,29 +9514,6 @@
    "skills": [
     "Python",
     "C++"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:ctccampusboard:4709545005",
-   "company": "Chicago Trading Company",
-   "title": "Quant Trading Internship - Summer 2027",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Quant",
-   "location": "London, England, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005",
-   "posted_at": "2026-07-21T13:33:43-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python"
    ],
    "source": "greenhouse",
    "h1b_approvals": null,

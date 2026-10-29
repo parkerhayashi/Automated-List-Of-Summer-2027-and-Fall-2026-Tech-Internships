@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:altera:/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Software-Design-Engineer_R02749",
-      "workday:bmo:/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
-      "smartrecruiters:BoschGroup:744000158528363",
-      "workday:datasite:/job/GBR---London/Product-Intern_R36469",
-      "workday:flextronics:/job/Italy-Milano/Software-Quality-Engineer-Internship_WD230177",
-      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448-1",
-      "workday:alliance:/job/Barcelona-ZF/Generative-AI---Software-Engineering-Intern_R00215499-1",
-      "workday:ryan:/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1"
-    ],
-    "telegram": [
-      "workday:altera:/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Software-Design-Engineer_R02749",
-      "workday:bmo:/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
-      "smartrecruiters:BoschGroup:744000158528363",
-      "workday:datasite:/job/GBR---London/Product-Intern_R36469",
-      "workday:flextronics:/job/Italy-Milano/Software-Quality-Engineer-Internship_WD230177",
-      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448-1",
-      "workday:alliance:/job/Barcelona-ZF/Generative-AI---Software-Engineering-Intern_R00215499-1",
-      "workday:ryan:/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

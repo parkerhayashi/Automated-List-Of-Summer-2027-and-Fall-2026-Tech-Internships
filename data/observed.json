@@ -1762,13 +1762,14 @@
       "workday:hp:/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI3949-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI3950-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_3170257-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software-Engineering-Intern_UNI4787-1",
       "workday:hp:/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
       "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -3112,6 +3113,18 @@
     }
    }
   },
+  "ryan": {
+   "name": "Ryan",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-29",
+     "role_ids": [
+      "workday:ryan:/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "saab": {
    "name": "Saab",
    "cycles": {
@@ -4092,5 +4105,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T08:40:35Z"
+ "updated_at": "2026-10-29T15:53:10Z"
 }

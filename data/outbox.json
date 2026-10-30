@@ -1,6 +1,40 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workable:synthesisim:C2932F1DE5",
+      "workable:waterworth:D450C48C96",
+      "smartrecruiters:BoschGroup:744000158794999",
+      "workday:generalmotors:/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1",
+      "workday:jainglobal:/job/Hong-Kong-Office/Risk-Quant-Modeller---Intern_JR100472-1",
+      "workday:revvity:/job/CAD-Remote--ON/UX-Intern_JR-043675",
+      "workday:revvity:/job/CAD-Remote--ON/UX-Intern_JR-045787",
+      "workday:revvity:/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792",
+      "workday:revvity:/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045791",
+      "workday:revvity:/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045793",
+      "workday:revvity:/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045794",
+      "workday:revvity:/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045795",
+      "greenhouse:stripe:8333122",
+      "workday:visa:/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF089103W",
+      "workday:visa:/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF089102W",
+      "workday:visa:/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF089104W"
+    ],
+    "telegram": [
+      "workable:synthesisim:C2932F1DE5",
+      "workable:waterworth:D450C48C96",
+      "smartrecruiters:BoschGroup:744000158794999",
+      "workday:generalmotors:/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1",
+      "workday:jainglobal:/job/Hong-Kong-Office/Risk-Quant-Modeller---Intern_JR100472-1",
+      "workday:revvity:/job/CAD-Remote--ON/UX-Intern_JR-043675",
+      "workday:revvity:/job/CAD-Remote--ON/UX-Intern_JR-045787",
+      "workday:revvity:/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792",
+      "workday:revvity:/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045791",
+      "workday:revvity:/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045793",
+      "workday:revvity:/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045794",
+      "workday:revvity:/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045795",
+      "greenhouse:stripe:8333122",
+      "workday:visa:/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF089103W",
+      "workday:visa:/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF089102W",
+      "workday:visa:/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF089104W"
+    ]
   }
 }

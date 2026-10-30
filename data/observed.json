@@ -3539,6 +3539,18 @@
     }
    }
   },
+  "stripe": {
+   "name": "Stripe",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "greenhouse:stripe:8333122"
+     ],
+     "count": 1
+    }
+   }
+  },
   "stryker": {
    "name": "Stryker",
    "cycles": {
@@ -3551,6 +3563,18 @@
       "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"
      ],
      "count": 4
+    }
+   }
+  },
+  "synthesis": {
+   "name": "Synthesis",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "workable:synthesisim:C2932F1DE5"
+     ],
+     "count": 1
     }
    }
   },
@@ -3950,6 +3974,18 @@
     }
    }
   },
+  "visa": {
+   "name": "Visa",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-06",
+     "role_ids": [
+      "workday:visa:/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF089104W"
+     ],
+     "count": 1
+    }
+   }
+  },
   "voleon group": {
    "name": "The Voleon Group",
    "cycles": {
@@ -4178,5 +4214,5 @@
    }
   }
  },
- "updated_at": "2026-10-30T13:48:14Z"
+ "updated_at": "2026-10-30T19:03:46Z"
 }

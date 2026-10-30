@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T13:48:14Z",
- "data_as_of": "2026-10-30T13:48:14Z",
- "rendered_at": "2026-10-30T13:48:15Z",
+ "generated_at": "2026-10-30T19:03:46Z",
+ "data_as_of": "2026-10-30T19:03:46Z",
+ "rendered_at": "2026-10-30T19:03:46Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -462,25 +462,6 @@
    }
   },
   {
-   "company": "Mastercard",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-28",
-   "days_until": -63,
-   "status": "open",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709-1",
-   "note": "late-summer opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-28"
-   }
-  },
-  {
    "company": "TELUS Digital",
    "last_cycle_posted": "",
    "posted_on": "2026-08-28",
@@ -682,6 +663,25 @@
    "days_until": -49,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/nex/jobs/5419756008",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-11"
+   }
+  },
+  {
+   "company": "Synthesis",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -49,
+   "status": "open",
+   "url": "https://apply.workable.com/synthesisim/j/C2932F1DE5/",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1067,6 +1067,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-05"
+   }
+  },
+  {
+   "company": "Visa",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-06",
+   "days_until": -24,
+   "status": "open",
+   "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF089104W",
+   "note": "late-summer opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-06"
    }
   },
   {
@@ -1500,6 +1519,25 @@
    "status": "open",
    "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998",
    "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-30"
+   }
+  },
+  {
+   "company": "Stripe",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+   "note": "early Sept, closes mid-Nov",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -2168,25 +2206,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.tesla.com/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Visa",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": -90,
-   "status": "waiting",
-   "url": "",
-   "note": "late-summer opening",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://usa.visa.com/careers.html",
     "verified_at": "2026-07-21"
    }
   },
@@ -3346,25 +3365,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.squarespace.com/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Stripe",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -59,
-   "status": "waiting",
-   "url": "",
-   "note": "early Sept, closes mid-Nov",
-   "provenance": {
-    "type": "verified-window",
-    "url": "stripe.com/jobs/university",
     "verified_at": "2026-07-21"
    }
   },
@@ -5231,6 +5231,25 @@
    }
   },
   {
+   "company": "Mastercard",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-28",
+   "days_until": -63,
+   "status": "dropped",
+   "url": "",
+   "note": "late-summer opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-28"
+   }
+  },
+  {
    "company": "Stantec",
    "last_cycle_posted": "",
    "posted_on": "2026-08-28",
@@ -6295,5 +6314,5 @@
    }
   }
  ],
- "count": 331
+ "count": 332
 }

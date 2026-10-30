@@ -1,6 +1,28 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10593322",
+      "amazon:amazon:10593299",
+      "workable:fifty-five:6F871CD427",
+      "ashby:gearset:637b4805-e079-4bbd-91e8-96af81dd288f",
+      "workday:hp:/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI5016-1",
+      "workday:logitech:/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639",
+      "workday:nxp:/job/Eindhoven/BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062367",
+      "workday:ptc:/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998",
+      "workday:thales:/job/Praha/STAGE---Agentic-AI-to-support-Web-UI-and-API-testing---H-F_R0344862",
+      "workday:thermofisher:/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1"
+    ],
+    "telegram": [
+      "amazon:amazon:10593322",
+      "amazon:amazon:10593299",
+      "workable:fifty-five:6F871CD427",
+      "ashby:gearset:637b4805-e079-4bbd-91e8-96af81dd288f",
+      "workday:hp:/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI5016-1",
+      "workday:logitech:/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639",
+      "workday:nxp:/job/Eindhoven/BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062367",
+      "workday:ptc:/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998",
+      "workday:thales:/job/Praha/STAGE---Agentic-AI-to-support-Web-UI-and-API-testing---H-F_R0344862",
+      "workday:thermofisher:/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1"
+    ]
   }
 }

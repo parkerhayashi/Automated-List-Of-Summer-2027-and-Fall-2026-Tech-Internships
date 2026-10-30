@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T06:38:44Z",
- "data_as_of": "2026-10-30T06:38:44Z",
- "rendered_at": "2026-10-30T06:38:45Z",
+ "generated_at": "2026-10-30T13:48:14Z",
+ "data_as_of": "2026-10-30T13:48:14Z",
+ "rendered_at": "2026-10-30T13:48:15Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1412,6 +1412,25 @@
    }
   },
   {
+   "company": "Gearset",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-29",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-29"
+   }
+  },
+  {
    "company": "OLIX",
    "last_cycle_posted": "",
    "posted_on": "2026-10-29",
@@ -1447,6 +1466,44 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-29"
+   }
+  },
+  {
+   "company": "Logitech",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-30"
+   }
+  },
+  {
+   "company": "PTC",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-30"
    }
   },
   {
@@ -6238,5 +6295,5 @@
    }
   }
  ],
- "count": 328
+ "count": 331
 }

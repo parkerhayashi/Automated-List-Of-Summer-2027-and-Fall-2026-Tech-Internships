@@ -5,8 +5,80 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-30T06:38:44Z</updated>
+  <updated>2026-10-30T13:48:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10593322</id>
+    <title>Amazon: Business Developer Intern, Early Careers 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027"/>
+    <updated>2026-10-30T13:48:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London, International</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10593299</id>
+    <title>Amazon: Business Developer Intern, Early Careers 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027"/>
+    <updated>2026-10-30T13:48:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Munich, International</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:fifty-five:6F871CD427</id>
+    <title>Fifty-Five: Data &amp; AI Engineer Intern (H/F)</title>
+    <link href="https://apply.workable.com/fifty-five/j/6F871CD427/"/>
+    <updated>2026-10-30T13:48:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Paris, Île-de-France, France (Hybrid) · Python, SQL, LLMs, GCP, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:gearset:637b4805-e079-4bbd-91e8-96af81dd288f</id>
+    <title>Gearset: Software Engineering Internship (10 weeks)</title>
+    <link href="https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f"/>
+    <updated>2026-10-30T13:48:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Cambridge, United Kingdom · C#, TypeScript, JavaScript, React, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:logitech:/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639</id>
+    <title>Logitech: AI Automation Test Intern Engineer, 2027</title>
+    <link href="https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639"/>
+    <updated>2026-10-30T13:48:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Hsinchu, Taiwan · Python, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nxp:/job/Eindhoven/BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062367</id>
+    <title>NXP Semiconductors: Master's Internship Project: Information-aware signal processing for software-defined EIS</title>
+    <link href="https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062367"/>
+    <updated>2026-10-30T13:48:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Eindhoven</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ptc:/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998</id>
+    <title>PTC: Software Engineering Summer Internship 2027 - Cambridge</title>
+    <link href="https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998"/>
+    <updated>2026-10-30T13:48:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Cambridge, United Kingdom · Python, Java, C++, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thales:/job/Praha/STAGE---Agentic-AI-to-support-Web-UI-and-API-testing---H-F_R0344862</id>
+    <title>Thales: Internship- Agentic AI to support Web UI and API testing</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Praha/STAGE---Agentic-AI-to-support-Web-UI-and-API-testing---H-F_R0344862"/>
+    <updated>2026-10-30T13:48:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Praha · Python, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thermofisher:/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1</id>
+    <title>Thermo Fisher Scientific: Software Engineering / AI Engineering Intern</title>
+    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1"/>
+    <updated>2026-10-30T13:48:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Eindhoven, Netherlands · Python, C#, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384</id>
     <title>Altera Corporation: Software Engineer - Factory Apps - Intern</title>
@@ -619,17 +691,17 @@
     <id>urn:intern-engine:amazon:amazon:10587696</id>
     <title>Amazon: Business Developer Intern, Early Careers 2027</title>
     <link href="https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027"/>
-    <updated>2026-10-23T17:20:06Z</updated>
+    <updated>2026-10-30T13:27:34Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Munich, International</summary>
+    <summary>Summer 2027 · Software · Munich, International · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10587701</id>
     <title>Amazon: Business Developer Intern, Early Careers 2027</title>
     <link href="https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027"/>
-    <updated>2026-10-23T17:20:06Z</updated>
+    <updated>2026-10-30T13:27:34Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, International</summary>
+    <summary>Summer 2027 · Software · London, International · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:telus-digital:63b0654a-9849-4d74-bc3f-94b2ccceb2c2</id>
@@ -734,77 +806,5 @@
     <updated>2026-10-23T12:19:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · PM · GB - London, United Kingdom</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:analogdevices:/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125</id>
-    <title>Analog Devices: Software QA Intern</title>
-    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125"/>
-    <updated>2026-10-23T06:43:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Spain, Valencia, Cortes Valencianas · Python, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Intern_R03373</id>
-    <title>Altera Corporation: Software Intern</title>
-    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373"/>
-    <updated>2026-10-29T08:40:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, Java, C++, Git, Verilog · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imcoinvest:/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1</id>
-    <title>Investment Management Corporation of Ontario: Intern, Enterprise Transformation and AI Strategy (Summer 2027)</title>
-    <link href="https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1"/>
-    <updated>2026-10-22T23:01:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Toronto - 16 York St</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:interdigital:/job/Rennes-France/Intern--Deep-Learning-for-Perceptual-and-Color-Aware-Energy-Efficient-Images_REQ26-1150</id>
-    <title>Interdigital: Intern, Deep Learning for Perceptual and Color-Aware Energy-Efficient Images</title>
-    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Deep-Learning-for-Perceptual-and-Color-Aware-Energy-Efficient-Images_REQ26-1150"/>
-    <updated>2026-10-22T23:01:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Rennes, France · Python, PyTorch, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:interdigital:/job/Rennes-France/Intern--Perceptual-Color-Processing-and-Gamut-Mapping-with-deep-learning-techniques_REQ26-1148</id>
-    <title>Interdigital: Intern, Perceptual Color Processing and Gamut Mapping with deep learning techniques</title>
-    <link href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Perceptual-Color-Processing-and-Gamut-Mapping-with-deep-learning-techniques_REQ26-1148"/>
-    <updated>2026-10-22T23:01:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Rennes, France · Python, C++, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Product-Intern_JR26081011</id>
-    <title>Manulife Financial: Product Intern</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Product-Intern_JR26081011"/>
-    <updated>2026-10-24T02:10:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · Toronto, Ontario · HTML/CSS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25007757</id>
-    <title>Texas Instruments: Software Engineering Intern (Canada) 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25007757"/>
-    <updated>2026-10-22T19:47:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada; Toronto, ON, Canada · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hbfuller:/job/Mindelo-Porto-Portugal/Data-Analyst-Intern_R26_0000002377</id>
-    <title>H.B. Fuller: Data Analyst Intern</title>
-    <link href="https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Mindelo-Porto-Portugal/Data-Analyst-Intern_R26_0000002377"/>
-    <updated>2026-10-22T19:47:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mindelo, Porto, Portugal · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933</id>
-    <title>Intel: Compiler Engineering Graduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933"/>
-    <updated>2026-10-22T19:47:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Toronto · C++, PyTorch, CUDA</summary>
   </entry>
 </feed>

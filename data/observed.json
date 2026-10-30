@@ -187,7 +187,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 23,
+     "count": 25,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -211,7 +211,9 @@
       "amazon:amazon:10587696",
       "amazon:amazon:10587701",
       "amazon:amazon:10588762",
-      "amazon:amazon:10588998"
+      "amazon:amazon:10588998",
+      "amazon:amazon:10593299",
+      "amazon:amazon:10593322"
      ]
     }
    }
@@ -1478,6 +1480,18 @@
     }
    }
   },
+  "gearset": {
+   "name": "Gearset",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-29",
+     "role_ids": [
+      "ashby:gearset:637b4805-e079-4bbd-91e8-96af81dd288f"
+     ],
+     "count": 1
+    }
+   }
+  },
   "gemini": {
    "name": "Gemini",
    "cycles": {
@@ -2126,6 +2140,18 @@
       "workday:leidos:/job/Bethesda-MD/Software-Developer-Co-op_R-00190766"
      ],
      "count": 2
+    }
+   }
+  },
+  "logitech": {
+   "name": "Logitech",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "workday:logitech:/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639"
+     ],
+     "count": 1
     }
    }
   },
@@ -2886,6 +2912,18 @@
      "first_posted": "2026-09-04",
      "role_ids": [
       "workday:pwc:/job/Ottawa/May-2027---Cyber-as-a-Service---Summer-Intern---Ottawa_759780WD"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "ptc": {
+   "name": "PTC",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "workday:ptc:/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998"
      ],
      "count": 1
     }
@@ -4140,5 +4178,5 @@
    }
   }
  },
- "updated_at": "2026-10-30T06:38:44Z"
+ "updated_at": "2026-10-30T13:48:14Z"
 }

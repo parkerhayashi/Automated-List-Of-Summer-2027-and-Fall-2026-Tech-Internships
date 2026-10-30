@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 414 open roles (308 listed below) · 76 new this week
+### 420 open roles (314 listed below) · 78 new this week
 
-4,938 employers tracked · data as of Oct 30, 2026 at 06:38 UTC
+4,938 employers tracked · data as of Oct 30, 2026 at 13:48 UTC
 
-_207 have a cycle the employer stated · 207 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_209 have a cycle the employer stated · 211 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -128,7 +128,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Squarepoint Capital | Intern Software Developer - Montreal - 2027 | Software | Montreal | Python, Java, C++, Rust | May 07, 2026 | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) |
 | Databricks | Software Engineering Intern (2027) | Software | Bellevue +7 more | Python, Java, C++, Databricks | Aug 04, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
 
-## Recently posted — cycle not stated — Canada  (52 roles)
+## Recently posted — cycle not stated — Canada  (51 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -177,7 +177,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | TobogganLabs | Stagiaire en science des données -- Data Science Intern 🆕 | Data & ML/AI | Montréal, Quebec, Canada | No skills listed | Oct 04, 2026 | [Apply](https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003) |
 | Solink | Software Engineer Co-op, Agents | Software | Canada | TypeScript, React, Node.js, AWS | Oct 02, 2026 | [Apply](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e) |
 | Stripe | Data Analyst, Intern | Data & ML/AI | Toronto | SQL | Oct 01, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) |
-| Foresters Financial | Software Engineer Co-op Student (AI) (4-month contract) | Data & ML/AI | Toronto, Ontario | Python, Java, C#, PyTorch | Sep 30, 2026 | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332) |
 | AECOM | Engineering Intern – Tunnelling & Underground Infrastructure 🛂 | Software | Markham, ON, Canada (Hybrid) | No skills listed | Sep 29, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152519710) |
 | Marvell | Firmware Engineer Intern | Hardware | CA-ON - Toronto - TOR | Python, C++, LLMs | Sep 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751) |
 | Marvell | Software/Firmware Engineer Intern | Hardware | CA-ON - Toronto - TOR | Python, C++, LLMs | Sep 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053) |
@@ -188,12 +187,17 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Nokia | Hardware Developer Eng Co-op/Intern | Hardware | Canada | No skills listed | Sep 15, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600) |
 
 <a id="iec"></a>
-## Summer 2027 — Japan & IEC countries  (109 employer-stated)
+## Summer 2027 — Japan & IEC countries  (112 employer-stated)
 
 Located in Japan, United Kingdom, Ireland, Netherlands, Germany, Switzerland, Hong Kong, Sweden, Australia, South Korea, Taiwan, New Zealand, France, Spain, Italy, Denmark, Belgium, Austria, Portugal, Greece, and Czechia.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Amazon | Business Developer Intern, Early Careers 2027 🆕 | Software | London, International | No skills listed | Oct 30, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027) |
+| Amazon | Business Developer Intern, Early Careers 2027 🆕 | Software | Munich, International | No skills listed | Oct 30, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027) |
+| Logitech | AI Automation Test Intern Engineer, 2027 🆕 | Data & ML/AI | Hsinchu, Taiwan | Python, LLMs | Oct 30, 2026 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639) |
+| PTC | Software Engineering Summer Internship 2027 - Cambridge 🆕 | Software | Cambridge, United Kingdom | Python, Java, C++, TypeScript | Oct 30, 2026 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998) |
+| Gearset | Software Engineering Internship (10 weeks) 🆕 | Software | Cambridge, United Kingdom | C#, TypeScript, JavaScript, React | Oct 29, 2026 | [Apply](https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f) |
 | OLIX | Software Engineering Intern 🆕 | Software | London, UK | C++ | Oct 29, 2026 | [Apply](https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e) |
 | Hewlett Packard (HP) | AI & Computer Vision Engineering Intern 🆕 | Data & ML/AI | Sant Cugat del Valles, Barcelona, Spain | Computer Vision, Python, PyTorch, TensorFlow | Oct 29, 2026 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1) |
 | Hewlett Packard (HP) | AI & Data Engineering Intern 🆕 | Data & ML/AI | Sant Cugat del Valles, Barcelona, Spain | Python, SQL, LLMs, Databricks | Oct 29, 2026 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1) |
@@ -201,10 +205,8 @@ Located in Japan, United Kingdom, Ireland, Netherlands, Germany, Switzerland, Ho
 | Nasdaq | Software Developer Intern - Summer 2027 🆕 | Software | Sweden - Skolgatan - Umeå | Java | Oct 28, 2026 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Sweden---Skolgatan---Ume/Software-Developer-Intern---Summer-2027_R0027232) |
 | Schonfeld | 2027 AI Forward Deployed Engineer Intern | Data & ML/AI | Hong Kong, Hong Kong | Python, SQL, LLMs, Git | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) |
 | Amazon | 2027 Software Dev Engineer Intern (Machine Learning) - UK | Data & ML/AI | London, International | Python, Java, C++, C# | Oct 26, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) |
-| Amazon | 2027 Software Dev Engineer Intern (Embedded Systems) - UK | Software | London, International | Python, Java, C++, C# | Oct 26, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk) |
 | Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich) | Software | Zurich, Switzerland | Python, C++, TypeScript, Computer Vision | Oct 26, 2026 | [Apply](https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5) |
 | FTI Consulting | 2027 Summer Internship, Cybersecurity | Security | London, United Kingdom | No skills listed | Oct 26, 2026 | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Cybersecurity_JR260836) |
-| Amazon | Business Developer Intern, Early Careers 2027 | Software | Munich, International | No skills listed | Oct 23, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027) |
 | MongoDB | 2027 - Summer Software Engineer Intern, Dublin | Software | Dublin | Python, Java, C++, JavaScript | Oct 23, 2026 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) |
 | Schonfeld | 2027 Index Rebalancing Quantitative Research Intern | Quant | Hong Kong, Hong Kong | No skills listed | Oct 22, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8311597) |
 | Verisk | Year-Long Internship 2027  - Software Engineering Intern | Software | Manchester +2 more | C#, TypeScript, SQL, Vue | Oct 21, 2026 | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997) |
@@ -304,20 +306,24 @@ Located in Japan, United Kingdom, Ireland, Netherlands, Germany, Switzerland, Ho
 | Databricks | Software Engineering Intern (2027 Start) - Aarhus | Software | Aarhus, Denmark | Python, Java, C++, Databricks | Aug 29, 2025 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) |
 | Databricks | Product Management Intern (2027) - Berlin | PM | Berlin, Germany | Python, SQL, Databricks | Aug 29, 2025 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002) |
 
-## Recently posted — cycle not stated — Japan & IEC countries  (106 roles)
+## Recently posted — cycle not stated — Japan & IEC countries  (109 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Fifty-Five | Data & AI Engineer Intern (H/F) 🆕 | Data & ML/AI | Paris, Île-de-France, France (Hybrid) | Python, SQL, LLMs, GCP | Oct 30, 2026 | [Apply](https://apply.workable.com/fifty-five/j/6F871CD427/) |
+| NXP Semiconductors | Master's Internship Project: Information-aware signal processing for software-defined EIS 🆕 | Software | Eindhoven | No skills listed | Oct 30, 2026 | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062367) |
+| Thales | Internship- Agentic AI to support Web UI and API testing 🆕 | Data & ML/AI | Praha | Python, JavaScript | Oct 30, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Praha/STAGE---Agentic-AI-to-support-Web-UI-and-API-testing---H-F_R0344862) |
+| Thermo Fisher Scientific | Software Engineering / AI Engineering Intern 🆕 | Data & ML/AI | Eindhoven, Netherlands | Python, C#, LLMs | Oct 30, 2026 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1) |
 | Bosch | Mandatory Internship in Agentic AI Harness, Generative AI & Agentic Workflows 🆕 | Data & ML/AI | Schwieberdingen, BW, Germany (Hybrid) | LLMs, Python, AWS, GCP | Oct 29, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000158528363) |
 | Nissan | Generative AI & Software Engineering Intern 🆕 | Data & ML/AI | Barcelona ZF | LLMs, Python | Oct 29, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Barcelona-ZF/Generative-AI---Software-Engineering-Intern_R00215499-1) |
 | Altera Corporation | Internship – FPGA Software Design Engineer 🆕 | Hardware | Marlow, Buckinghamshire, United Kingdom | C++ | Oct 29, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Software-Design-Engineer_R02749) |
 | Datasite | Product Intern 🆕 | PM | GBR - London | No skills listed | Oct 29, 2026 | [Apply](https://datasite.wd1.myworkdayjobs.com/datasite/job/GBR---London/Product-Intern_R36469) |
 | Bosch | AI Engineering Automation Intern (f/m/div.) 🆕 | Data & ML/AI | São João +2 more | Python, LLMs, Git | Oct 28, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000158348849) |
 | Javelin Global Commodities | Summer Intern: Software Engineering 🆕 | Software | London, England, United Kingdom | No skills listed | Oct 28, 2026 | [Apply](https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/) |
-| Airbus | Internship within Commodity Management for IT Infrastructure (d/f/m) 🆕 | Software | München Area | No skills listed | Oct 28, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788) |
-| ING | INTERNSHIP SOFTWARE ENGINEER - ING MORTGAGES 🆕 | Software | HBP (Amsterdam - Haarlerbergpark) | No skills listed | Oct 28, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/INTERNSHIP-SOFTWARE-ENGINEER---ING-MORTGAGES_REQ-10123832) |
+| Airbus | Internship within Commodity Management for IT Infrastructure (d/f/m) | Software | München Area | No skills listed | Oct 28, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788) |
+| ING | INTERNSHIP SOFTWARE ENGINEER - ING MORTGAGES | Software | HBP (Amsterdam - Haarlerbergpark) | No skills listed | Oct 28, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/INTERNSHIP-SOFTWARE-ENGINEER---ING-MORTGAGES_REQ-10123832) |
 | Interdigital | Intern, AI-Driven Energy-Aware Adaptive Video Streaming: From Client-Side Optimization to End-to-End Collaborative Reinforcement Learning | Data & ML/AI | Rennes, France | Python, C++, JavaScript, Computer Vision | Oct 27, 2026 | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--AI-Driven-Energy-Aware-Adaptive-Video-Streaming--From-Client-Side-Optimization-to-End-to-End-Collaborative-Reinforcement-Learning_REQ26-1164) |
 | Interdigital | Intern, Deep learning and Neural Network Optimization and Deployment for SDR-to-HDR Conversion | Data & ML/AI | Rennes, France | Python, C++, PyTorch, TensorFlow | Oct 27, 2026 | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Deep-learning-and-Neural-Network-Optimization-and-Deployment-for-SDR-to-HDR-Conversion_REQ26-1162) |
 | Interdigital | Intern, Real-Time Deep Learning Inference for Display Power Reduction | Data & ML/AI | Rennes, France | Python, C++, PyTorch, TensorFlow | Oct 27, 2026 | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Rennes-France/Intern--Real-Time-Deep-Learning-Inference-for-Display-Power-Reduction_REQ26-1163) |
@@ -354,7 +360,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Viridien | HPC Intern - Compiler Evaluation & Performance Analysis | Software | Massy, France | Python, C++, Bash, Linux | Oct 20, 2026 | [Apply](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Massy-France/IA-Software-Engineer-Intern_JR101544-2) |
 | Viridien | Software Web Developer Intern | Software | Massy, France | TypeScript, JavaScript, React, Docker | Oct 20, 2026 | [Apply](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Massy-France/Software-Web-Developer-Intern_JR101543-2) |
 | Palantir | Software Engineer, Internship - Query Engines | Software | London, United Kingdom | Python, Java, C++, Rust | Oct 19, 2026 | [Apply](https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963) |
-| Hewlett Packard (HP) | Machine Learning Development Intern | Data & ML/AI | Porto Alegre, Rio Grande do Sul, Brazil | Python, PyTorch, TensorFlow, LLMs | Oct 19, 2026 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1) |
+| Hewlett Packard (HP) | Machine Learning Development Intern 🆕 _(2 openings)_ | Data & ML/AI | Porto Alegre, Rio Grande do Sul, Brazil | Python, PyTorch, TensorFlow, LLMs | Oct 19, 2026 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI4106-1) [#2](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI5016-1) |
 | Celonis | Intern Applied AI Solution Consulting (Italy) | Data & ML/AI | Milan, Italy | Python, SQL, LLMs | Oct 19, 2026 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003) |
 | Teledyne | Stage Qualité & Gestion de Produit – Dispositifs Médicaux /  Internship - Product Management Dental scope | PM | France - Grenoble | No skills listed | Oct 19, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/France---Grenoble/Stage-Qualit---Gestion-de-Produit---Dispositifs-Mdicaux----Internship---Product-Management-Dental-scope_REQ37355) |
 | Intel | Development Tools Software Engineer Intern (m/f/d) | Software | Germany, Munich | Python, C++ | Oct 19, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205) |
@@ -377,7 +383,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | ASML | Artificial Intelligence / Computer Science internship: AI-Driven Cloud Cost Intelligence | Data & ML/AI | Veldhoven, Netherlands | Python, Java, JavaScript, LLMs | Oct 12, 2026 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-Driven-Cloud-Cost-Intelligence_J-00352655) |
 | ASML | Artificial Intelligence / Computer Science internship: ai-driven software quality | Data & ML/AI | Veldhoven, Netherlands | Python, Java, JavaScript, LLMs | Oct 12, 2026 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--ai-driven-software-quality_J-00352656) |
 | Red Bull | Internship Data Science | Data & ML/AI | Elsbethen, Salzburg, International (AT) | Python, SQL, Snowflake | Oct 12, 2026 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000155050519) |
-| NXP Semiconductors | Intern (f/m/d) AI Automation for Safety Engineering | Data & ML/AI | Munich | Python, Pandas, LLMs, Azure | Oct 12, 2026 | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Munich/Intern--f-m-d--AI-Automation-for-Safety-Engineering_R-10066700) |
 | Abbott | Intern Data Science - Future Talent Program | Data & ML/AI | Switzerland - Basel | Python, Java, C++, LLMs | Oct 12, 2026 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Intern-Data-Science---Future-Talent-Program_31164223) |
 | Zeiss | Internship in Computer Vision / Calibration Pipelines (f/m/x) | Data & ML/AI | Karlsruhe | Computer Vision, Python, C++, PyTorch | Oct 12, 2026 | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916) |
 | Avanade | Graduation Internship in Customer  Engagement: AI Powered Power Platform  Solution Governance 🛂 | Data & ML/AI | Brussels | C#, TypeScript, JavaScript, Azure | Oct 09, 2026 | [Apply](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212) |
@@ -450,15 +455,18 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | 🎯 Ellipsis Labs | Mar 26 | dropped Mar 26 · closed | 🗓️ dropped |
 | 🎯 InfiniteQuant | May 29 | dropped May 29 · closed | 🗓️ dropped |
 
-_328 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **213** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_331 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **216** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 31 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 34 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Manulife Financial | Summer Intern 2027 - Infrastructure Equity Internship | Summer 2027 | 2026-10-30 | gone from feed |
+| Amazon | Business Developer Intern, Early Careers 2027 | Summer 2027 | 2026-10-30 | out of scope |
+| Amazon | Business Developer Intern, Early Careers 2027 | Summer 2027 | 2026-10-30 | out of scope |
 | Chicago Trading Company | Quant Trading Internship - Summer 2027 | Summer 2027 | 2026-10-29 | gone from feed |
 | BMO | Investment Intern - GAM, Summer 2027 (Co-op/Internship) - 4 months | Summer 2027 | 2026-10-29 | gone from feed |
 | Bosch | Undergraduate Placement Year 2027 - AI Business Solutions Intern | Summer 2027 | 2026-10-28 | out of scope |
@@ -508,7 +516,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,857 of 5,250 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1025.7s · 659 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,866 of 5,250 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1239.2s · 677 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

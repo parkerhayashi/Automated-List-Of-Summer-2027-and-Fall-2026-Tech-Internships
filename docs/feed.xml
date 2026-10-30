@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-30T19:03:46Z</updated>
+  <updated>2026-10-30T23:15:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2028570</id>
+    <title>NVIDIA: Server Firmware Developer (RDSS Intern)</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2028570"/>
+    <updated>2026-10-30T23:15:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Taiwan, Taipei · Python, C++, Bash, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stripe:8333122</id>
+    <title>Stripe: Master's Machine Learning Engineer, Intern</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8333122"/>
+    <updated>2026-10-30T19:03:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Toronto · Python, Scala, scikit-learn, Pandas, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158794999</id>
+    <title>Bosch: Extracurricular Internship – DevOps &amp; GenAI Engineer for Quality (f/m/div.)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158794999"/>
+    <updated>2026-10-30T19:03:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Braga, Braga, International (PT) · LLMs, Python</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:synthesisim:C2932F1DE5</id>
     <title>Synthesis: Quantitative Research Intern (Summer 2027)</title>
@@ -22,14 +46,6 @@
     <updated>2026-10-30T19:03:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Victoria, British Columbia, Canada · PyTorch, TensorFlow, LLMs, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158794999</id>
-    <title>Bosch: Extracurricular Internship – DevOps &amp; GenAI Engineer for Quality (f/m/div.)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158794999"/>
-    <updated>2026-10-30T19:03:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Braga, Braga, International (PT) · LLMs, Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:generalmotors:/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1</id>
@@ -48,14 +64,6 @@
     <summary>Not stated · Quant · Hong Kong Office · Python, C++</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:revvity:/job/CAD-Remote--ON/UX-Intern_JR-043675</id>
-    <title>Revvity: UX Intern</title>
-    <link href="https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/UX-Intern_JR-043675"/>
-    <updated>2026-10-30T19:03:45Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Design · CAD Remote – ON</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:revvity:/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045791</id>
     <title>Revvity: Full-stack AI Developer Intern</title>
     <link href="https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045791"/>
@@ -64,12 +72,20 @@
     <summary>5 openings · Not stated · Data &amp; ML/AI · CAD Remote – ON · LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:stripe:8333122</id>
-    <title>Stripe: Master's Machine Learning Engineer, Intern</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8333122"/>
+    <id>urn:intern-engine:workday:revvity:/job/CAD-Remote--ON/UX-Intern_JR-043675</id>
+    <title>Revvity: UX Intern</title>
+    <link href="https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/UX-Intern_JR-043675"/>
+    <updated>2026-10-30T19:03:45Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Design · CAD Remote – ON</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF089104W</id>
+    <title>Visa: Software Engineer Intern</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF089104W"/>
     <updated>2026-10-30T19:03:45Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Toronto · Python, Scala, scikit-learn, Pandas, LLMs</summary>
+    <summary>Summer 2027 · Software · GB - Cambridge, United Kingdom</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:visa:/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF089103W</id>
@@ -86,14 +102,6 @@
     <updated>2026-10-30T19:03:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · GB - Reading, United Kingdom · Java, SQL, Bash, Docker, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF089104W</id>
-    <title>Visa: Software Engineer Intern</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF089104W"/>
-    <updated>2026-10-30T19:03:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · GB - Cambridge, United Kingdom</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10593299</id>
@@ -347,9 +355,9 @@
     <id>urn:intern-engine:workday:datasite:/job/GBR---London/Product-Intern_R36469</id>
     <title>Datasite: Product Intern</title>
     <link href="https://datasite.wd1.myworkdayjobs.com/datasite/job/GBR---London/Product-Intern_R36469"/>
-    <updated>2026-10-29T15:53:10Z</updated>
+    <updated>2026-10-30T23:15:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · PM · GBR - London</summary>
+    <summary>Not stated · PM · GBR - London · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448-1</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-23T17:20:06Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Vancouver · CA$33 per hour · Java, TypeScript, JavaScript, Swift, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:veeda-ai:84dfad5c-d790-4c4a-9411-40b676b1abbb</id>
-    <title>Veeda AI: Internship - Software Engineering</title>
-    <link href="https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb"/>
-    <updated>2026-10-23T17:20:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto · AWS, GCP</summary>
   </entry>
 </feed>

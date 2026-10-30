@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-29T20:50:22Z</updated>
+  <updated>2026-10-30T00:35:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384</id>
+    <title>Altera Corporation: Software Engineer - Factory Apps - Intern</title>
+    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384"/>
+    <updated>2026-10-30T00:35:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++, Linux, Git, Verilog</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:olix:a2365ad7-3b5d-4f6e-a917-2586efc6a07e</id>
     <title>OLIX: Software Engineering Intern</title>
@@ -14,54 +22,6 @@
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · London, UK · £66K · C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1</id>
-    <title>Hewlett Packard (HP): AI &amp; Data Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1</id>
-    <title>Hewlett Packard (HP): Data Scientist Intern - Supplier Management Analytics &amp; AI</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs, Azure, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1</id>
-    <title>Hewlett Packard (HP): AI Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, Pandas, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1</id>
-    <title>Hewlett Packard (HP): AI &amp; Computer Vision Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Computer Vision, Python, PyTorch, TensorFlow, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8773447002</id>
-    <title>Qube Research &amp; Technologies: 2027 – Graduate or Internship, Infrastructure Engineer</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, Paris · Python, SQL, Bash, PyTorch, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8749918002</id>
-    <title>Qube Research &amp; Technologies: 2027 – Internship, Infrastructure Engineering</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hong Kong, Singapore, Shanghai · Python, SQL, Bash, PyTorch, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8581570002</id>
@@ -80,12 +40,12 @@
     <summary>Summer 2027 · Quant · Hong Kong, Singapore · Python, C++, C#, SQL, Bash</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8785833002</id>
-    <title>Qube Research &amp; Technologies: 2027 - Internship, Quantitative Research and Trading</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002"/>
+    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8749918002</id>
+    <title>Qube Research &amp; Technologies: 2027 – Internship, Infrastructure Engineering</title>
+    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002"/>
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Aarhus, Budapest, Dubai, London, Paris, Zurich · Python, C++, C#</summary>
+    <summary>Summer 2027 · Software · Hong Kong, Singapore, Shanghai · Python, SQL, Bash, PyTorch, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8749942002</id>
@@ -104,12 +64,20 @@
     <summary>Summer 2027 · Quant · London, Paris, Wrocław, Zurich, Dubai, Aarhus, Amsterdam · Python, C++, C#, SQL, Bash</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611</id>
-    <title>SOTI: Software Developer Intern - SOTI XSight (May 2027 12 Months)</title>
-    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611"/>
+    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8773447002</id>
+    <title>Qube Research &amp; Technologies: 2027 – Graduate or Internship, Infrastructure Engineer</title>
+    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002"/>
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, Rust, TypeScript, JavaScript</summary>
+    <summary>Summer 2027 · Software · London, Paris · Python, SQL, Bash, PyTorch, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8785833002</id>
+    <title>Qube Research &amp; Technologies: 2027 - Internship, Quantitative Research and Trading</title>
+    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002"/>
+    <updated>2026-10-29T20:50:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Aarhus, Budapest, Dubai, London, Paris, Zurich · Python, C++, C#</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tobogganlabs:8012583003</id>
@@ -118,6 +86,46 @@
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montréal, Quebec, Canada</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1</id>
+    <title>Hewlett Packard (HP): AI &amp; Computer Vision Engineering Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1"/>
+    <updated>2026-10-29T20:50:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Computer Vision, Python, PyTorch, TensorFlow, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1</id>
+    <title>Hewlett Packard (HP): AI &amp; Data Engineering Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1"/>
+    <updated>2026-10-29T20:50:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1</id>
+    <title>Hewlett Packard (HP): AI Engineering Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1"/>
+    <updated>2026-10-29T20:50:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, Pandas, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1</id>
+    <title>Hewlett Packard (HP): Data Scientist Intern - Supplier Management Analytics &amp; AI</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1"/>
+    <updated>2026-10-29T20:50:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs, Azure, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611</id>
+    <title>SOTI: Software Developer Intern - SOTI XSight (May 2027 12 Months)</title>
+    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611"/>
+    <updated>2026-10-29T20:50:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, Rust, TypeScript, JavaScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:keyrock:6b46ce15-7e6b-4213-9eb4-41cc64577e24</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-22T19:47:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada, Toronto · C++, PyTorch, CUDA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10537736</id>
-    <title>Amazon: Technical Program Manager Intern 2027</title>
-    <link href="https://www.amazon.jobs/en/jobs/10537736/technical-program-manager-intern-2027"/>
-    <updated>2026-10-22T15:56:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · Madrid, International · SQL</summary>
   </entry>
 </feed>

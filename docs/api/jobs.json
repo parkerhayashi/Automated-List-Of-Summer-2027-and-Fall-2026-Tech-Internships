@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-31T02:37:31Z",
- "data_as_of": "2026-10-31T02:37:31Z",
- "rendered_at": "2026-10-31T02:37:33Z",
+ "generated_at": "2026-10-31T09:03:22Z",
+ "data_as_of": "2026-10-31T09:03:22Z",
+ "rendered_at": "2026-10-31T09:03:22Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 428,
+ "count": 427,
  "jobs": [
   {
    "id": "workday:jainglobal:/job/Hong-Kong-Office/Risk-Quant-Modeller---Intern_JR100472-1",
@@ -6764,27 +6764,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": 441,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:airliquidehr:/job/Spain-MADRID/Data-Analyst-Internship--M-F-_R10101926",
-   "company": "Air Liquide",
-   "title": "Data Analyst Internship (M/F)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Spain, MADRID",
-   "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Spain-MADRID/Data-Analyst-Internship--M-F-_R10101926",
-   "posted_at": "2026-10-01T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-01T15:42:50Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

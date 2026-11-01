@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-31T23:05:39Z</updated>
+  <updated>2026-11-01T02:29:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:zuru:9cf1ee54-c4e1-4a3e-8ae5-4594a9e86d7d</id>
+    <title>Zuru: UX/UI Design Intern</title>
+    <link href="https://jobs.ashbyhq.com/zuru/9cf1ee54-c4e1-4a3e-8ae5-4594a9e86d7d"/>
+    <updated>2026-11-01T02:29:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Design · Auckland | New Zealand · HTML/CSS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:nvidia:/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2028570</id>
     <title>NVIDIA: Server Firmware Developer (RDSS Intern)</title>
@@ -507,9 +515,9 @@
     <id>urn:intern-engine:oracle:iaziqy.fa.ocs.oraclecloud.com:304178</id>
     <title>Uber: 2027 Software Engineering Intern, Canada</title>
     <link href="https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178"/>
-    <updated>2026-10-28T00:00:57Z</updated>
+    <updated>2026-11-01T02:06:27Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Toronto, ON, Canada · Python, Java, C++, Ruby</summary>
+    <summary>Summer 2027 · Software · Toronto, ON, Canada · Python, Java, C++, Ruby · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:SopraSteria1:744000158063149</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-30T13:27:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · London, International · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:telus-digital:63b0654a-9849-4d74-bc3f-94b2ccceb2c2</id>
-    <title>TELUS Digital: Software Engineering Intern/Co-op (Canada) - Summer 2027</title>
-    <link href="https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2"/>
-    <updated>2026-10-23T17:20:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Vancouver · CA$33 per hour · Java, TypeScript, JavaScript, Swift, Kotlin</summary>
   </entry>
 </feed>

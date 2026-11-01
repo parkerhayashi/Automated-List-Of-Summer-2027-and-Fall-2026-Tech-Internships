@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-01T02:29:01Z",
- "data_as_of": "2026-11-01T02:29:01Z",
- "rendered_at": "2026-11-01T02:29:02Z",
+ "generated_at": "2026-11-01T09:26:09Z",
+ "data_as_of": "2026-11-01T09:26:09Z",
+ "rendered_at": "2026-11-01T09:26:09Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 421,
+ "count": 420,
  "jobs": [
   {
    "id": "ashby:zuru:9cf1ee54-c4e1-4a3e-8ae5-4594a9e86d7d",
@@ -7029,30 +7029,6 @@
     "Kubernetes",
     "Docker",
     "Kafka"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:monzo:8232726",
-   "company": "Monzo",
-   "title": "Associate Data Scientist - Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "London",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8232726",
-   "posted_at": "2026-09-28T05:03:57-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-28T12:17:29Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL"
    ],
    "source": "greenhouse",
    "h1b_approvals": null,

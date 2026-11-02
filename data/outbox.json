@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10532883",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1",
+      "workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship-Software-Development---Java---AI_REQ-10124124",
+      "smartrecruiters:Sia:744000159070239"
+    ],
+    "telegram": [
+      "amazon:amazon:10532883",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1",
+      "workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship-Software-Development---Java---AI_REQ-10124124",
+      "smartrecruiters:Sia:744000159070239"
+    ]
   }
 }

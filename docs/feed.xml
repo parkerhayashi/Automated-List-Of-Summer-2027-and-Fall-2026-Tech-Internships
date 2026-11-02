@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-02T07:04:05Z</updated>
+  <updated>2026-11-02T17:21:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10532883</id>
+    <title>Amazon: Data Center Infrastructure Engineer Internship 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10532883/data-center-infrastructure-engineer-internship-2027"/>
+    <updated>2026-11-02T17:21:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · London, International · AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship-Software-Development---Java---AI_REQ-10124124</id>
+    <title>ING: Internship Software Development – Java &amp; AI</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Internship-Software-Development---Java---AI_REQ-10124124"/>
+    <updated>2026-11-02T17:21:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · HBP (Amsterdam - Haarlerbergpark) · Java, LLMs, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:zuru:9cf1ee54-c4e1-4a3e-8ae5-4594a9e86d7d</id>
     <title>Zuru: UX/UI Design Intern</title>
@@ -163,9 +179,9 @@
     <id>urn:intern-engine:workday:ptc:/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998</id>
     <title>PTC: Software Engineering Summer Internship 2027 - Cambridge</title>
     <link href="https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998"/>
-    <updated>2026-10-30T13:48:13Z</updated>
+    <updated>2026-11-02T17:21:59Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Cambridge, United Kingdom · Python, Java, C++, TypeScript, JavaScript</summary>
+    <summary>Summer 2027 · Software · Cambridge, United Kingdom · Python, Java, C++, TypeScript, JavaScript · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thales:/job/Praha/STAGE---Agentic-AI-to-support-Web-UI-and-API-testing---H-F_R0344862</id>
@@ -624,6 +640,14 @@
     <summary>Not stated · Data &amp; ML/AI · Karlsruhe · Python, PyTorch, Computer Vision</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:smartrecruiters:Wise:744000157817979</id>
+    <title>Wise: Software Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Wise/744000157817979"/>
+    <updated>2026-10-27T15:06:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · London, , United Kingdom (Hybrid) · Python, Java, JavaScript, Swift, Kotlin · status: closed</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382</id>
     <title>Altera Corporation: Software Engineer - Intern</title>
     <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382"/>
@@ -782,29 +806,5 @@
     <updated>2026-10-23T20:41:01Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · PM · Mississauga, Canada – Meadowvale Office (HQ) · $55k/yr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trimble:/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963</id>
-    <title>Trimble: Software Engineering Intern</title>
-    <link href="https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963"/>
-    <updated>2026-10-23T20:41:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Canada - Richmond Hill, Ontario (Applanix) · Python, C++, JavaScript, HTML/CSS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10587696</id>
-    <title>Amazon: Business Developer Intern, Early Careers 2027</title>
-    <link href="https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027"/>
-    <updated>2026-10-30T13:27:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Munich, International · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10587701</id>
-    <title>Amazon: Business Developer Intern, Early Careers 2027</title>
-    <link href="https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027"/>
-    <updated>2026-10-30T13:27:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, International · status: closed</summary>
   </entry>
 </feed>

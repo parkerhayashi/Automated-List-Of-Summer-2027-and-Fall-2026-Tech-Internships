@@ -187,12 +187,13 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 25,
+     "count": 26,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
       "amazon:amazon:10459543",
       "amazon:amazon:10517567",
+      "amazon:amazon:10532883",
       "amazon:amazon:10535280",
       "amazon:amazon:10537736",
       "amazon:amazon:10538066",
@@ -1782,12 +1783,13 @@
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_3170257-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software-Engineering-Intern_UNI4787-1",
       "workday:hp:/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
       "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1"
      ],
-     "count": 13
+     "count": 14
     }
    }
   },
@@ -4214,5 +4216,5 @@
    }
   }
  },
- "updated_at": "2026-11-02T07:04:05Z"
+ "updated_at": "2026-11-02T17:21:59Z"
 }

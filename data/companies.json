@@ -1914,6 +1914,11 @@
     "ats": "lever"
   },
   {
+    "name": "Anyscale",
+    "slug": "anyscale",
+    "ats": "ashby"
+  },
+  {
     "name": "Anything",
     "slug": "anything",
     "ats": "ashby"
@@ -9159,6 +9164,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "External_Career_Site"
+  },
+  {
+    "name": "Element Solutions",
+    "slug": "elementsolutions",
+    "ats": "lever"
   },
   {
     "name": "Elevance Health",
@@ -17012,6 +17022,13 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "External"
+  },
+  {
+    "name": "Martin's Point Health Care",
+    "slug": "martin",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "mphc"
   },
   {
     "name": "Marvell",
@@ -25317,6 +25334,11 @@
     "site": "SpellmanHVCareers"
   },
   {
+    "name": "Sperry Rail",
+    "slug": "sperry-rail-inc",
+    "ats": "rippling"
+  },
+  {
     "name": "Sphinx Defense",
     "slug": "sphinxdefense",
     "ats": "greenhouse"
@@ -26501,6 +26523,11 @@
   {
     "name": "Tecsa",
     "slug": "tecsa",
+    "ats": "workable"
+  },
+  {
+    "name": "Tecsys",
+    "slug": "tecsys",
     "ats": "workable"
   },
   {

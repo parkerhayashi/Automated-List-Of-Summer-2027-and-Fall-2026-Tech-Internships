@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 420 open roles (315 listed below) · 78 new this week
+### 416 open roles (313 listed below) · 78 new this week
 
-4,986 employers tracked · data as of Nov 01, 2026 at 21:07 UTC
+4,986 employers tracked · data as of Nov 02, 2026 at 00:53 UTC
 
-_206 have a cycle the employer stated · 214 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_204 have a cycle the employer stated · 212 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)**
 
@@ -128,7 +128,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Squarepoint Capital | Intern Software Developer - Montreal - 2027 | Software | Montreal | Python, Java, C++, Rust | May 07, 2026 | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) |
 | Databricks | Software Engineering Intern (2027) | Software | Bellevue +7 more | Python, Java, C++, Databricks | Aug 04, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
 
-## Recently posted — cycle not stated — Canada  (51 roles)
+## Recently posted — cycle not stated — Canada  (49 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -183,8 +183,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Marvell | Software/Firmware Engineer Intern | Hardware | CA-ON - Toronto - TOR | Python, C++, LLMs | Sep 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053) |
 | Genesys | Software Developer in Test, Intern (Genesys Cloud) | Software | Toronto (Flexible) | Python, Java, TypeScript, JavaScript | Sep 18, 2026 | [Apply](https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Software-Developer-in-Test--Intern--Genesys-Cloud-_JR112179-3) |
 | Genesys | Web Software Developer Intern (WFM) | Software | Toronto (Flexible) | Java, TypeScript, JavaScript, Vue | Sep 18, 2026 | [Apply](https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3) |
-| Rockwell Automation | Co-op, Robotics Research - Physical AI (OTTO at Rockwell Automation) 🛂 | Data & ML/AI | Waterloo, Ontario, Canada | PyTorch, ROS | Sep 17, 2026 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Physical-AI--OTTO-at-Rockwell-Automation-_R26-6872-1) |
-| Rockwell Automation | Co-op, User Experience - Robotics (OTTO by Rockwell Automation) 🛂 | Design | Waterloo, Ontario, Canada | LLMs, React, ROS | Sep 17, 2026 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-6732-1) |
 
 <a id="iec"></a>
 ## Summer 2027 — Japan & IEC countries  (110 employer-stated)
@@ -318,7 +316,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | NXP Semiconductors | Master's Internship Project: Information-aware signal processing for software-defined EIS | Software | Eindhoven | No skills listed | Oct 30, 2026 | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062367) |
 | Thales | Internship- Agentic AI to support Web UI and API testing | Data & ML/AI | Praha | Python, JavaScript | Oct 30, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Praha/STAGE---Agentic-AI-to-support-Web-UI-and-API-testing---H-F_R0344862) |
 | Thermo Fisher Scientific | Software Engineering / AI Engineering Intern | Data & ML/AI | Eindhoven, Netherlands | Python, C#, LLMs | Oct 30, 2026 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1) |
-| NVIDIA | Server Firmware Developer (RDSS Intern) 🆕 | Hardware | Taiwan, Taipei | Python, C++, Bash, Linux | Oct 29, 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2028570) |
+| NVIDIA | Server Firmware Developer (RDSS Intern) | Hardware | Taiwan, Taipei | Python, C++, Bash, Linux | Oct 29, 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2028570) |
 | Bosch | Mandatory Internship in Agentic AI Harness, Generative AI & Agentic Workflows | Data & ML/AI | Schwieberdingen, BW, Germany (Hybrid) | LLMs, Python, AWS, GCP | Oct 29, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000158528363) |
 | Nissan | Generative AI & Software Engineering Intern | Data & ML/AI | Barcelona ZF | LLMs, Python | Oct 29, 2026 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Barcelona-ZF/Generative-AI---Software-Engineering-Intern_R00215499-1) |
 | Altera Corporation | Internship – FPGA Software Design Engineer | Hardware | Marlow, Buckinghamshire, United Kingdom | C++ | Oct 29, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Software-Design-Engineer_R02749) |
@@ -431,9 +429,9 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 |---|---|---|---|
 | D.E. Shaw | ~Oct | ~Oct · any day now | ⏳ waiting |
 | Rocket Lab | ~Oct | ~Oct · any day now | ⏳ waiting |
-| Coinbase | ~Dec | ~Dec · in ~30d | ⏳ waiting |
-| Ramp | ~Dec | ~Dec · in ~30d | ⏳ waiting |
-| Two Sigma | ~Dec | ~Dec · in ~30d | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec · in ~29d | ⏳ waiting |
+| Ramp | ~Dec | ~Dec · in ~29d | ⏳ waiting |
+| Two Sigma | ~Dec | ~Dec · in ~29d | ⏳ waiting |
 | Apple | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
 | Microsoft | rolling | year-round | ⏳ waiting |
@@ -455,12 +453,14 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _332 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **219** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 37 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 39 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| JPMorganChase | 2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London | Summer 2027 | 2026-11-02 | out of scope |
+| JPMorganChase | 2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London | Summer 2027 | 2026-11-02 | out of scope |
 | Uber | 2027 Software Engineering Intern, Canada | Summer 2027 | 2026-11-01 | out of scope |
 | PIMCO | 2027 Summer Intern – Product Analyst, EMEA | Summer 2027 | 2026-10-31 | gone from feed |
 | TD Bank | 2027 Technology Internship - AI-Native Data Platform Engineering - 6-month Internship (January – July) | Summer 2027 | 2026-10-30 | out of scope |
@@ -516,7 +516,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,787 of 5,308 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1224.7s · 608 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,736 of 5,308 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 89% of the full registry) · completed in 1122.6s · 588 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

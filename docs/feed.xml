@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-02T17:21:59Z</updated>
+  <updated>2026-11-03T00:07:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:tmx:/job/Toronto---100-Adelaide-St-W/AI-Governance---Policy-Co-op-Student_R-6648</id>
+    <title>TMX Group: AI Governance &amp; Policy Intern</title>
+    <link href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Governance---Policy-Co-op-Student_R-6648"/>
+    <updated>2026-11-03T00:07:36Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Toronto - 100 Adelaide St W · $20/hr · LLMs, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158937</id>
+    <title>Honeywell: Embedded Software Intern (m/f/d)</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158937"/>
+    <updated>2026-11-03T00:07:36Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Horsham, West Sussex, United Kingdom · Java, C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:tecsys:D61D5FB9AB</id>
+    <title>Tecsys: Intern - Developer</title>
+    <link href="https://apply.workable.com/tecsys/j/D61D5FB9AB/"/>
+    <updated>2026-11-03T00:07:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Montreal, Quebec, Canada (Hybrid) · Python, React, Flask, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rockwellautomation:/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569-2</id>
+    <title>Rockwell Automation: Co-op, User Experience - Robotics</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569-2"/>
+    <updated>2026-11-03T00:07:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Design · Waterloo, Ontario, Canada · LLMs, React, ROS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:scj:/job/Netherlands---Utrecht-Mijdrecht/Power-BI-Developer-Intern_34387-1</id>
+    <title>SC Johnson: Power BI Developer Intern</title>
+    <link href="https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Netherlands---Utrecht-Mijdrecht/Power-BI-Developer-Intern_34387-1"/>
+    <updated>2026-11-03T00:07:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Netherlands - Utrecht Mijdrecht</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10532883</id>
     <title>Amazon: Data Center Infrastructure Engineer Internship 2027</title>
@@ -211,9 +251,9 @@
     <id>urn:intern-engine:ashby:olix:a2365ad7-3b5d-4f6e-a917-2586efc6a07e</id>
     <title>OLIX: Software Engineering Intern</title>
     <link href="https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e"/>
-    <updated>2026-10-29T20:50:22Z</updated>
+    <updated>2026-11-03T00:07:36Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, UK · £66K · C++</summary>
+    <summary>Summer 2027 · Software · London, UK · £66K · C++ · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8581570002</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-23T23:44:45Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Toronto, ON, Canada · Python, Java, C++, JavaScript, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932</id>
-    <title>Manulife Financial: Summer Co-op 2027 - Venture Capital</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932"/>
-    <updated>2026-10-23T23:44:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · VC · Toronto, Ontario · HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615</id>
-    <title>SOTI: Associate Product Manager Intern (SOTI Connect) (May 2027 - 12 Months)</title>
-    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615"/>
-    <updated>2026-10-23T23:44:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · Mississauga, Canada – Meadowvale Office (HQ) · $55k/yr · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614</id>
-    <title>SOTI: Associate Product Manager Intern (SOTI XSight) (May 2027 - 12 Months)</title>
-    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614"/>
-    <updated>2026-10-23T23:44:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · Mississauga, Canada – Meadowvale Office (HQ) · $55k/yr · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waterloocoop:6230308004</id>
-    <title>PlayStation: Software Developer in Test Co-Op</title>
-    <link href="https://job-boards.greenhouse.io/waterloocoop/jobs/6230308004"/>
-    <updated>2026-10-23T20:41:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada, Waterloo, ON · Python, JavaScript, HTML/CSS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638</id>
-    <title>SOTI: Associate Product Manager Intern (May 2027 - 12 Months)</title>
-    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638"/>
-    <updated>2026-10-23T20:41:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · Mississauga, Canada – Meadowvale Office (HQ) · $55k/yr</summary>
   </entry>
 </feed>

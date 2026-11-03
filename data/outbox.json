@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10595274",
+      "workday:relx:/job/London-Wall/Intern-Data-Science_R120607",
+      "workday:lseg:/job/London-United-Kingdom/Intern---Software-Engineer_R0124267",
+      "smartrecruiters:NBCUniversal3:744000159327239",
+      "workday:nvidia:/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184"
+    ],
+    "telegram": [
+      "amazon:amazon:10595274",
+      "workday:relx:/job/London-Wall/Intern-Data-Science_R120607",
+      "workday:lseg:/job/London-United-Kingdom/Intern---Software-Engineer_R0124267",
+      "smartrecruiters:NBCUniversal3:744000159327239",
+      "workday:nvidia:/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184"
+    ]
   }
 }

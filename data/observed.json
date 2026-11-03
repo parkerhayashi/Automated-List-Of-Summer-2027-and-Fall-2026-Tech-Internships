@@ -2493,9 +2493,10 @@
       "smartrecruiters:NBCUniversal3:744000153373389",
       "smartrecruiters:NBCUniversal3:744000153464839",
       "smartrecruiters:NBCUniversal3:744000153466369",
-      "smartrecruiters:NBCUniversal3:744000155271954"
+      "smartrecruiters:NBCUniversal3:744000155271954",
+      "smartrecruiters:NBCUniversal3:744000159327239"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2675,6 +2676,7 @@
      "role_ids": [
       "workday:nvidia:/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209",
       "workday:nvidia:/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
+      "workday:nvidia:/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184",
       "workday:nvidia:/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
       "workday:nvidia:/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
       "workday:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628",
@@ -2682,7 +2684,7 @@
       "workday:nvidia:/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
       "workday:nvidia:/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -4217,5 +4219,5 @@
    }
   }
  },
- "updated_at": "2026-11-03T06:52:51Z"
+ "updated_at": "2026-11-03T14:56:36Z"
 }

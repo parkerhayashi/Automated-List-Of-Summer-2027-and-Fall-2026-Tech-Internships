@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-03T06:52:51Z</updated>
+  <updated>2026-11-03T14:56:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-powered-document-review_J-00355284</id>
+    <title>ASML: Artificial Intelligence | Computer Science internship: AI-powered document review</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-powered-document-review_J-00355284"/>
+    <updated>2026-11-03T14:56:36Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Data-Science-internship--failure-pattern-analysis_J-00356388</id>
+    <title>ASML: Computer Science | Data Science internship: failure pattern analysis</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Data-Science-internship--failure-pattern-analysis_J-00356388"/>
+    <updated>2026-11-03T14:56:36Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:EgisGroup:744000159350984</id>
+    <title>Egis Group: Data &amp; AI Community &amp; Adoption Intern M/F</title>
+    <link href="https://jobs.smartrecruiters.com/EgisGroup/744000159350984"/>
+    <updated>2026-11-03T14:56:36Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Paris, IDF, International (FR) (Hybrid) · LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10595274</id>
+    <title>Amazon: SLAM / Computer Vision Intern, RIVR</title>
+    <link href="https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr"/>
+    <updated>2026-11-03T14:56:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Zurich, International · Computer Vision, Python, C++, ROS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:relx:/job/London-Wall/Intern-Data-Science_R120607</id>
+    <title>Elsevier: Intern Data Science</title>
+    <link href="https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Intern-Data-Science_R120607"/>
+    <updated>2026-11-03T14:56:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · London Wall · Python, PyTorch, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000159327239</id>
+    <title>NBCUniversal: Product Management UX Intern (Hayu)</title>
+    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000159327239"/>
+    <updated>2026-11-03T14:56:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nvidia:/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184</id>
+    <title>NVIDIA: Software Engineering Intern - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184"/>
+    <updated>2026-11-03T14:56:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Germany, Munich · Python, TypeScript, SQL, LLMs, Kubernetes</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26016035</id>
     <title>American Express: Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN</title>
@@ -41,7 +97,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:scj:/job/Netherlands---Utrecht-Mijdrecht/Power-BI-Developer-Intern_34387-1</id>
-    <title>SC Johnson: Power BI Developer Intern</title>
+    <title>SC Johnson: Power BI Developer Internship</title>
     <link href="https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Netherlands---Utrecht-Mijdrecht/Power-BI-Developer-Intern_34387-1"/>
     <updated>2026-11-03T00:07:36Z</updated>
     <category term="Not stated"/>
@@ -750,61 +806,5 @@
     <updated>2026-10-26T19:24:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Oakville, ON, Canada · LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620</id>
-    <title>SOTI: Software Developer Intern - Android (May 2027 - 12 Months)</title>
-    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620"/>
-    <updated>2026-10-26T19:24:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, C#, Rust, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647</id>
-    <title>SOTI: Software Developer Intern - Server (May 2027 - 12 Months)</title>
-    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647"/>
-    <updated>2026-10-26T19:24:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, C#, Rust, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tmx:/job/Montreal---1190-av-des-Canadiens-de-Montreal/Student-Intern--DevOps--WinterTerm-_R-6568</id>
-    <title>TMX Group: Student Intern, DevOps (WinterTerm)</title>
-    <link href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Student-Intern--DevOps--WinterTerm-_R-6568"/>
-    <updated>2026-10-26T19:24:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Montreal - 1190 av. des Canadiens-de-Montreal · Python, Azure, Kubernetes, Docker, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5528</id>
-    <title>SCOR: Sustainable Investment Intern</title>
-    <link href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5528"/>
-    <updated>2026-10-26T13:10:00Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · VC · Paris, Ile-de-France, France · Python · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209</id>
-    <title>NVIDIA: Software Engineering Intern, Developer Tools - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209"/>
-    <updated>2026-10-27T20:01:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · France, Courbevoie · C++, CUDA, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:fticonsulting:/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Cybersecurity_JR260836</id>
-    <title>FTI Consulting: 2027 Summer Internship, Cybersecurity</title>
-    <link href="https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Cybersecurity_JR260836"/>
-    <updated>2026-10-26T00:54:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · London, United Kingdom</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:accenture:/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217</id>
-    <title>Avanade: Internship Data &amp; AI / AI-Powered Internal Business Assistant</title>
-    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217"/>
-    <updated>2026-10-24T23:54:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Brussels · Python, LLMs, Azure, Git</summary>
   </entry>
 </feed>

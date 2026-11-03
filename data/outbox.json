@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158937",
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158938",
-      "workable:tecsys:D61D5FB9AB",
-      "workday:rockwellautomation:/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569-2",
-      "workday:scj:/job/Netherlands---Utrecht-Mijdrecht/Power-BI-Developer-Intern_34387-1"
-    ],
-    "telegram": [
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158937",
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158938",
-      "workable:tecsys:D61D5FB9AB",
-      "workday:rockwellautomation:/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569-2",
-      "workday:scj:/job/Netherlands---Utrecht-Mijdrecht/Power-BI-Developer-Intern_34387-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

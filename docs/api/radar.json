@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-03T14:56:36Z",
- "data_as_of": "2026-11-03T14:56:36Z",
- "rendered_at": "2026-11-03T14:56:37Z",
+ "generated_at": "2026-11-03T21:11:09Z",
+ "data_as_of": "2026-11-03T21:11:09Z",
+ "rendered_at": "2026-11-03T21:11:10Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -358,7 +358,7 @@
    "expected": "2026-08-19",
    "days_until": -76,
    "status": "open",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406",
    "note": "multiple programs; Ignite ~Oct, SWE ongoing",
    "provenance": {
     "type": "engine-observed",
@@ -966,7 +966,7 @@
    "expected": "2026-10-04",
    "days_until": -30,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153466369",
+   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000155271954",
    "note": "",
    "provenance": {
     "type": "engine-observed",

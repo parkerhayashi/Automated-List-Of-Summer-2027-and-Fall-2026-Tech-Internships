@@ -5,8 +5,96 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-03T14:56:36Z</updated>
+  <updated>2026-11-03T21:11:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10581052</id>
+    <title>Amazon: Applied Scientist Intern</title>
+    <link href="https://www.amazon.jobs/en/jobs/10581052/applied-scientist-intern"/>
+    <updated>2026-11-03T21:11:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Zurich, International · Python, Java, C++, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:ariesglobal:f5f204ad-8b51-4aee-a269-9a5d2ee7e3b8</id>
+    <title>Aries Global: Software Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/ariesglobal/f5f204ad-8b51-4aee-a269-9a5d2ee7e3b8"/>
+    <updated>2026-11-03T21:11:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · London</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:ariesglobal:4935cc12-4173-42bd-985d-4ff6b37582e8</id>
+    <title>Aries Global: Investment Intern</title>
+    <link href="https://jobs.ashbyhq.com/ariesglobal/4935cc12-4173-42bd-985d-4ff6b37582e8"/>
+    <updated>2026-11-03T21:11:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · VC · London</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:kabam:3c37f284-4ba4-4f74-93f7-d224b910e5c9</id>
+    <title>Kabam: Operations Product Manager Co-Op</title>
+    <link href="https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9"/>
+    <updated>2026-11-03T21:11:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · Vancouver · 20–25 CAD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000159406258</id>
+    <title>Bosch: Extracurricular Internship: Product management internship (f/m/div)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000159406258"/>
+    <updated>2026-11-03T21:11:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · Aveiro, International (PT)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Bolzano-Vicentino-Vicenza-Italy/DevOps-Intern--Undergraduate-_1213976</id>
+    <title>Hewlett Packard Enterprise: DevOps Intern (Undergraduate)</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bolzano-Vicentino-Vicenza-Italy/DevOps-Intern--Undergraduate-_1213976"/>
+    <updated>2026-11-03T21:11:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Bolzano Vicentino, Vicenza, Italy · Python, Bash, Kubernetes, Docker, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8350719</id>
+    <title>Schonfeld: 2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8350719"/>
+    <updated>2026-11-03T21:11:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong · Python, Java, C++, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Sia:744000159468300</id>
+    <title>Sia Partners: Final Year Internship Consultant - Cybersecurity &amp; AI Trust</title>
+    <link href="https://jobs.smartrecruiters.com/Sia/744000159468300"/>
+    <updated>2026-11-03T21:11:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Paris, IDF, International (FR)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10595274</id>
+    <title>Amazon: SLAM / Computer Vision Intern, RIVR</title>
+    <link href="https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr"/>
+    <updated>2026-11-03T14:56:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Zurich, International · Computer Vision, Python, C++, ROS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:EgisGroup:744000159350984</id>
+    <title>Egis Group: Data &amp; AI Community &amp; Adoption Intern M/F</title>
+    <link href="https://jobs.smartrecruiters.com/EgisGroup/744000159350984"/>
+    <updated>2026-11-03T14:56:36Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Paris, IDF, International (FR) (Hybrid) · LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000159327239</id>
+    <title>NBCUniversal: Product Management UX Intern (Hayu)</title>
+    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000159327239"/>
+    <updated>2026-11-03T14:56:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-powered-document-review_J-00355284</id>
     <title>ASML: Artificial Intelligence | Computer Science internship: AI-powered document review</title>
@@ -24,20 +112,12 @@
     <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:EgisGroup:744000159350984</id>
-    <title>Egis Group: Data &amp; AI Community &amp; Adoption Intern M/F</title>
-    <link href="https://jobs.smartrecruiters.com/EgisGroup/744000159350984"/>
-    <updated>2026-11-03T14:56:36Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Paris, IDF, International (FR) (Hybrid) · LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10595274</id>
-    <title>Amazon: SLAM / Computer Vision Intern, RIVR</title>
-    <link href="https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr"/>
-    <updated>2026-11-03T14:56:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Zurich, International · Computer Vision, Python, C++, ROS</summary>
+    <id>urn:intern-engine:workday:nvidia:/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184</id>
+    <title>NVIDIA: Software Engineering Intern - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184"/>
+    <updated>2026-11-03T20:54:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Germany, Munich · Python, TypeScript, SQL, LLMs, Kubernetes · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:relx:/job/London-Wall/Intern-Data-Science_R120607</id>
@@ -46,22 +126,6 @@
     <updated>2026-11-03T14:56:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · London Wall · Python, PyTorch, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000159327239</id>
-    <title>NBCUniversal: Product Management UX Intern (Hayu)</title>
-    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000159327239"/>
-    <updated>2026-11-03T14:56:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nvidia:/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184</id>
-    <title>NVIDIA: Software Engineering Intern - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184"/>
-    <updated>2026-11-03T14:56:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Germany, Munich · Python, TypeScript, SQL, LLMs, Kubernetes</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26016035</id>
@@ -742,69 +806,5 @@
     <updated>2026-10-27T15:06:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Karlsruhe · Python, PyTorch, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wise:744000157817979</id>
-    <title>Wise: Software Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Wise/744000157817979"/>
-    <updated>2026-10-27T15:06:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, , United Kingdom (Hybrid) · Python, Java, JavaScript, Swift, Kotlin · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382</id>
-    <title>Altera Corporation: Software Engineer - Intern</title>
-    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382"/>
-    <updated>2026-10-31T02:37:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++, Verilog · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cibc:/job/Toronto-ON/AI-Scientist-Co-op_2622058-1</id>
-    <title>CIBC: AI Scientist Co-op</title>
-    <link href="https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1"/>
-    <updated>2026-10-26T23:34:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto, ON · Python, SQL, LLMs, Azure, Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10588762</id>
-    <title>Amazon: 2027 Software Dev Engineer Intern (Machine Learning) - UK</title>
-    <link href="https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk"/>
-    <updated>2026-10-26T19:24:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · London, International · Python, Java, C++, C#, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10588998</id>
-    <title>Amazon: 2027 Software Dev Engineer Intern (Embedded Systems) - UK</title>
-    <link href="https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk"/>
-    <updated>2026-10-26T19:24:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, International · Python, Java, C++, C#, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:skydio:fa88cb47-36f0-4020-95c3-6ac94d59d5d5</id>
-    <title>Skydio: Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich)</title>
-    <link href="https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5"/>
-    <updated>2026-10-26T19:24:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Zurich, Switzerland · $47/hr · Python, C++, TypeScript, Computer Vision, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:moloco:8044892003</id>
-    <title>Moloco: Machine Learning Engineer Intern (3-month Internship)</title>
-    <link href="https://job-boards.greenhouse.io/moloco/jobs/8044892003"/>
-    <updated>2026-10-26T19:24:52Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Seoul, Korea · Python, Java, Go · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:efds.fa.em5.oraclecloud.com:73202</id>
-    <title>Ford Motor Company: AI Strategy Intern 🛂</title>
-    <link href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73202"/>
-    <updated>2026-10-26T19:24:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Oakville, ON, Canada · LLMs · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

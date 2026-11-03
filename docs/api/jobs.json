@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-03T00:07:36Z",
- "data_as_of": "2026-11-03T00:07:36Z",
- "rendered_at": "2026-11-03T00:07:36Z",
+ "generated_at": "2026-11-03T06:52:51Z",
+ "data_as_of": "2026-11-03T06:52:51Z",
+ "rendered_at": "2026-11-03T06:52:52Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 419,
+ "count": 417,
  "jobs": [
   {
    "id": "workday:scj:/job/Netherlands---Utrecht-Mijdrecht/Power-BI-Developer-Intern_34387-1",
@@ -24,6 +24,35 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "oracle:egug.fa.us2.oraclecloud.com:26016035",
+   "company": "American Express",
+   "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Toronto, ON, Canada",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016035",
+   "posted_at": "2026-11-02",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-11-03T06:52:51Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "JavaScript",
+    "Bash",
+    "LLMs",
+    "Node.js"
+   ],
+   "source": "oracle",
+   "h1b_approvals": 133,
    "program": "Internship",
    "remote": false
   },
@@ -3872,53 +3901,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:generalmagic:76c162b0-9fd6-42bb-93d5-9ab7ad3f569b",
-   "company": "General Magic",
-   "title": "Backend Engineer (Co-op)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Toronto",
-   "url": "https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b",
-   "posted_at": "2026-10-16T05:37:20.818+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-28T17:39:37Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "ashby:generalmagic:bf200870-484c-4beb-b08b-9655d07fabe6",
-   "company": "General Magic",
-   "title": "AI Engineer (Co-op)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Toronto",
-   "url": "https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6",
-   "posted_at": "2026-10-16T05:37:06.802+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-28T17:39:37Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Co-op",
    "remote": false
   },
   {
@@ -8019,36 +8001,6 @@
     "LLMs"
    ],
    "source": "workable",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:ferrovial:/job/Madrid/AI-Engineer-Internship_JR19380",
-   "company": "Ferrovial",
-   "title": "AI Engineer Internship",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Madrid",
-   "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/AI-Engineer-Internship_JR19380",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "scikit-learn",
-    "LLMs",
-    "Computer Vision",
-    "Azure",
-    "Git"
-   ],
-   "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false

@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-03T00:07:36Z</updated>
+  <updated>2026-11-03T06:52:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:tmx:/job/Toronto---100-Adelaide-St-W/AI-Governance---Policy-Co-op-Student_R-6648</id>
-    <title>TMX Group: AI Governance &amp; Policy Intern</title>
-    <link href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Governance---Policy-Co-op-Student_R-6648"/>
-    <updated>2026-11-03T00:07:36Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Toronto - 100 Adelaide St W · $20/hr · LLMs, Git · status: closed</summary>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26016035</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016035"/>
+    <updated>2026-11-03T06:52:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, ON, Canada · Python, Java, C++, JavaScript, Bash</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158937</id>
@@ -46,6 +46,14 @@
     <updated>2026-11-03T00:07:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Netherlands - Utrecht Mijdrecht</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tmx:/job/Toronto---100-Adelaide-St-W/AI-Governance---Policy-Co-op-Student_R-6648</id>
+    <title>TMX Group: AI Governance &amp; Policy Intern</title>
+    <link href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Governance---Policy-Co-op-Student_R-6648"/>
+    <updated>2026-11-03T00:07:36Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Toronto - 100 Adelaide St W · $20/hr · LLMs, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10532883</id>
@@ -451,17 +459,17 @@
     <id>urn:intern-engine:ashby:generalmagic:76c162b0-9fd6-42bb-93d5-9ab7ad3f569b</id>
     <title>General Magic: Backend Engineer (Co-op)</title>
     <link href="https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b"/>
-    <updated>2026-10-28T17:39:37Z</updated>
+    <updated>2026-11-03T06:52:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto · Python</summary>
+    <summary>Not stated · Software · Toronto · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:generalmagic:bf200870-484c-4beb-b08b-9655d07fabe6</id>
     <title>General Magic: AI Engineer (Co-op)</title>
     <link href="https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6"/>
-    <updated>2026-10-28T17:39:37Z</updated>
+    <updated>2026-11-03T06:52:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toronto · Python, LLMs</summary>
+    <summary>Not stated · Data &amp; ML/AI · Toronto · Python, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:keyrock:2665c2ed-9131-46d9-9a05-564e7a719d33</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-24T23:54:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Brussels · Python, LLMs, Azure, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26015552</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552"/>
-    <updated>2026-10-23T23:44:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, ON, Canada · Python, Java, C++, JavaScript, Bash</summary>
   </entry>
 </feed>

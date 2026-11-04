@@ -1,6 +1,32 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "breezy:census:f3b895bf33d601",
+      "breezy:census:926f2a5c797001",
+      "workday:airliquidehr:/job/France-Bagneux/Data-Analyst---Quality---Internship--H-F-_R10104522",
+      "workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Private-Banking---Intern---Digitalisation---AI-in-Portfolio-Management_REQ-10123838",
+      "workday:lego:/job/Billund-Project-House/Embedded-Systems-Engineering-Internship_0000039992-1",
+      "workday:logitech:/job/Hsinchu-Taiwan/AI-Application-Intern--2027_148647-1",
+      "greenhouse:roku:8345954",
+      "greenhouse:roku:8345947",
+      "greenhouse:roku:8345967",
+      "greenhouse:roku:8345963",
+      "smartrecruiters:Sia:744000159668932",
+      "workday:thermofisher:/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1"
+    ],
+    "telegram": [
+      "breezy:census:f3b895bf33d601",
+      "breezy:census:926f2a5c797001",
+      "workday:airliquidehr:/job/France-Bagneux/Data-Analyst---Quality---Internship--H-F-_R10104522",
+      "workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Private-Banking---Intern---Digitalisation---AI-in-Portfolio-Management_REQ-10123838",
+      "workday:lego:/job/Billund-Project-House/Embedded-Systems-Engineering-Internship_0000039992-1",
+      "workday:logitech:/job/Hsinchu-Taiwan/AI-Application-Intern--2027_148647-1",
+      "greenhouse:roku:8345954",
+      "greenhouse:roku:8345947",
+      "greenhouse:roku:8345967",
+      "greenhouse:roku:8345963",
+      "smartrecruiters:Sia:744000159668932",
+      "workday:thermofisher:/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1"
+    ]
   }
 }

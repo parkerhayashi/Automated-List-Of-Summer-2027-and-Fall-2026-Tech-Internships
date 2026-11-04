@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04T08:15:52Z",
- "data_as_of": "2026-11-04T08:15:52Z",
- "rendered_at": "2026-11-04T08:15:53Z",
+ "generated_at": "2026-11-04T16:27:57Z",
+ "data_as_of": "2026-11-04T16:27:57Z",
+ "rendered_at": "2026-11-04T16:27:58Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -804,25 +804,6 @@
    }
   },
   {
-   "company": "Cogna",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -47,
-   "status": "open",
-   "url": "https://apply.workable.com/cogna/j/45A6283F88/",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-18"
-   }
-  },
-  {
    "company": "WTW",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -1447,6 +1428,44 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-30"
+   }
+  },
+  {
+   "company": "Lego",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund-Project-House/Embedded-Systems-Engineering-Internship_0000039992-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-04"
+   }
+  },
+  {
+   "company": "Roku",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://www.weareroku.com/jobs/8345954?gh_jid=8345954",
+   "note": "fall opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-04"
    }
   },
   {
@@ -3118,25 +3137,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.rockwellautomation.com/en-us/company/careers.html",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Roku",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -64,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://www.weareroku.com/",
     "verified_at": "2026-07-21"
    }
   },
@@ -5991,6 +5991,25 @@
    }
   },
   {
+   "company": "Cogna",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -47,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-18"
+   }
+  },
+  {
    "company": "Schroders",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -6314,5 +6333,5 @@
    }
   }
  ],
- "count": 332
+ "count": 333
 }

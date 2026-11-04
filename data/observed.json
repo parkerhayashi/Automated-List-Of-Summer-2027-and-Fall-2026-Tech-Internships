@@ -2115,6 +2115,13 @@
      "role_ids": [
       "workday:lego:/job/Boston-Hub/Firmware-Engineering-Intern_0000031568"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-11-04",
+     "role_ids": [
+      "workday:lego:/job/Billund-Project-House/Embedded-Systems-Engineering-Internship_0000039992-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -2152,10 +2159,11 @@
     "Summer 2027": {
      "first_posted": "2026-10-30",
      "role_ids": [
+      "workday:logitech:/job/Hsinchu-Taiwan/AI-Application-Intern--2027_148647-1",
       "workday:logitech:/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639",
       "workday:logitech:/job/Hsinchu-Taiwan/Spring-Internship-Program---Field-Quality-Analyst--Artificial-Intelligence-and-System-Integration-_148693"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3108,6 +3116,21 @@
      "role_ids": [
       "greenhouse:rocketlab:7736776003"
      ]
+    }
+   }
+  },
+  "roku": {
+   "name": "Roku",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-04",
+     "role_ids": [
+      "greenhouse:roku:8345947",
+      "greenhouse:roku:8345954",
+      "greenhouse:roku:8345963",
+      "greenhouse:roku:8345967"
+     ],
+     "count": 4
     }
    }
   },
@@ -4221,5 +4244,5 @@
    }
   }
  },
- "updated_at": "2026-11-04T08:15:52Z"
+ "updated_at": "2026-11-04T16:27:57Z"
 }

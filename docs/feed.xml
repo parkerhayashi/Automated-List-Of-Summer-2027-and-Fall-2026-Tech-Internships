@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-04T16:27:57Z</updated>
+  <updated>2026-11-04T22:26:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:tmx:/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671</id>
+    <title>TMX Group: Junior Cybersecurity Operations Analyst Intern</title>
+    <link href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671"/>
+    <updated>2026-11-04T22:26:45Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Security · Toronto - 100 Adelaide St W · $20/hr · Python, AWS, GCP, Azure, Linux · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000159679459</id>
+    <title>Bosch: Extracurricular Internship: Product Management (f/m/div)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000159679459"/>
+    <updated>2026-11-04T22:26:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · Aveiro, International (PT)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613</id>
+    <title>Hewlett Packard (HP): Data Analyst Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613"/>
+    <updated>2026-11-04T22:26:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000159681142</id>
+    <title>NBCUniversal: Product Management UX Intern (Hayu)</title>
+    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000159681142"/>
+    <updated>2026-11-04T22:26:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:flir:/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845</id>
+    <title>Teledyne: Software Engineering Coop</title>
+    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845"/>
+    <updated>2026-11-04T22:26:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada - Waterloo, ON</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:census:926f2a5c797001</id>
+    <title>Census: 🚀 CENSUS Cybersecurity Engineering Internship Program: Learn. Hack. Secure! Thessaloniki</title>
+    <link href="https://census.breezy.hr/p/926f2a5c797001-census-cybersecurity-engineering-internship-program-learn-hack--secure-thessaloniki"/>
+    <updated>2026-11-04T16:27:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Thessaloniki, GR</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:breezy:census:f3b895bf33d601</id>
     <title>Census: 🚀 CENSUS Cybersecurity Engineering Internship Program: Learn. Hack. Secure! Athens</title>
@@ -16,12 +64,44 @@
     <summary>Not stated · Security · Athens, GR</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:breezy:census:926f2a5c797001</id>
-    <title>Census: 🚀 CENSUS Cybersecurity Engineering Internship Program: Learn. Hack. Secure! Thessaloniki</title>
-    <link href="https://census.breezy.hr/p/926f2a5c797001-census-cybersecurity-engineering-internship-program-learn-hack--secure-thessaloniki"/>
+    <id>urn:intern-engine:greenhouse:roku:8345947</id>
+    <title>Roku: AI Engineering Internship Program (Summer 2027)</title>
+    <link href="https://www.weareroku.com/jobs/8345947?gh_jid=8345947"/>
+    <updated>2026-11-04T16:27:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Cambridge, United Kingdom · Python, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:roku:8345954</id>
+    <title>Roku: AI Engineering Internship Program (Summer 2027)</title>
+    <link href="https://www.weareroku.com/jobs/8345954?gh_jid=8345954"/>
+    <updated>2026-11-04T16:27:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Manchester, United Kingdom · Python, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:roku:8345963</id>
+    <title>Roku: Software Engineering Internship Program (Summer 2027)</title>
+    <link href="https://www.weareroku.com/jobs/8345963?gh_jid=8345963"/>
+    <updated>2026-11-04T16:27:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Cambridge, United Kingdom · Python, C++, TypeScript, JavaScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:roku:8345967</id>
+    <title>Roku: Software Engineering Internship Program (Summer 2027)</title>
+    <link href="https://www.weareroku.com/jobs/8345967?gh_jid=8345967"/>
+    <updated>2026-11-04T16:27:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Manchester, United Kingdom · Python, C++, TypeScript, JavaScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Sia:744000159668932</id>
+    <title>Sia Partners: Final Year Internship Consultant - Cybersecurity &amp; AI Trust</title>
+    <link href="https://jobs.smartrecruiters.com/Sia/744000159668932"/>
     <updated>2026-11-04T16:27:57Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Thessaloniki, GR</summary>
+    <summary>Not stated · Data &amp; ML/AI · Paris, IDF, International (FR) (Hybrid)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:airliquidehr:/job/France-Bagneux/Data-Analyst---Quality---Internship--H-F-_R10104522</id>
@@ -56,46 +136,6 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Hsinchu, Taiwan · C++, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:roku:8345954</id>
-    <title>Roku: AI Engineering Internship Program (Summer 2027)</title>
-    <link href="https://www.weareroku.com/jobs/8345954?gh_jid=8345954"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Manchester, United Kingdom · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:roku:8345947</id>
-    <title>Roku: AI Engineering Internship Program (Summer 2027)</title>
-    <link href="https://www.weareroku.com/jobs/8345947?gh_jid=8345947"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Cambridge, United Kingdom · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:roku:8345967</id>
-    <title>Roku: Software Engineering Internship Program (Summer 2027)</title>
-    <link href="https://www.weareroku.com/jobs/8345967?gh_jid=8345967"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Manchester, United Kingdom · Python, C++, TypeScript, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:roku:8345963</id>
-    <title>Roku: Software Engineering Internship Program (Summer 2027)</title>
-    <link href="https://www.weareroku.com/jobs/8345963?gh_jid=8345963"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Cambridge, United Kingdom · Python, C++, TypeScript, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Sia:744000159668932</id>
-    <title>Sia Partners: Final Year Internship Consultant - Cybersecurity &amp; AI Trust</title>
-    <link href="https://jobs.smartrecruiters.com/Sia/744000159668932"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Paris, IDF, International (FR) (Hybrid)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:thermofisher:/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1</id>
     <title>Thermo Fisher Scientific: Intern - Data Analyst</title>
     <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1"/>
@@ -118,14 +158,6 @@
     <updated>2026-11-04T01:33:33Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Richmond, BC, Canada · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10581052</id>
-    <title>Amazon: Applied Scientist Intern</title>
-    <link href="https://www.amazon.jobs/en/jobs/10581052/applied-scientist-intern"/>
-    <updated>2026-11-03T21:11:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Zurich, International · Python, Java, C++, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:ariesglobal:4935cc12-4173-42bd-985d-4ff6b37582e8</id>
@@ -235,9 +267,9 @@
     <id>urn:intern-engine:workday:nvidia:/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184</id>
     <title>NVIDIA: Software Engineering Intern - 2027</title>
     <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184"/>
-    <updated>2026-11-03T20:54:39Z</updated>
+    <updated>2026-11-03T14:56:36Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Germany, Munich · Python, TypeScript, SQL, LLMs, Kubernetes · status: closed</summary>
+    <summary>Summer 2027 · Software · Germany, Munich · Python, TypeScript, SQL, LLMs, Kubernetes</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:relx:/job/London-Wall/Intern-Data-Science_R120607</id>
@@ -570,7 +602,7 @@
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1</id>
     <title>Hewlett Packard (HP): AI &amp; Computer Vision Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1"/>
+    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780"/>
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Computer Vision, Python, PyTorch, TensorFlow, Git</summary>
@@ -578,7 +610,7 @@
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1</id>
     <title>Hewlett Packard (HP): AI &amp; Data Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1"/>
+    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517"/>
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs, Databricks</summary>
@@ -586,7 +618,7 @@
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1</id>
     <title>Hewlett Packard (HP): AI Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1"/>
+    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353"/>
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, Pandas, Git</summary>
@@ -594,7 +626,7 @@
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1</id>
     <title>Hewlett Packard (HP): Data Scientist Intern - Supplier Management Analytics &amp; AI</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1"/>
+    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457"/>
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs, Azure, Databricks</summary>
@@ -674,7 +706,7 @@
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448-1</id>
     <title>Hewlett Packard (HP): AI Adoption Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448-1"/>
+    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448"/>
     <updated>2026-10-29T15:53:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · LLMs</summary>
@@ -774,37 +806,5 @@
     <updated>2026-10-29T02:01:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · VC · Toronto, ON, CAN · Python · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nasdaq:/job/Sweden---Skolgatan---Ume/Software-Developer-Intern---Summer-2027_R0027232</id>
-    <title>Nasdaq: Software Developer Intern - Summer 2027</title>
-    <link href="https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Sweden---Skolgatan---Ume/Software-Developer-Intern---Summer-2027_R0027232"/>
-    <updated>2026-10-28T17:39:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Sweden - Skolgatan - Umeå · Java</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788</id>
-    <title>Airbus: Internship within Commodity Management for IT Infrastructure (d/f/m)</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788"/>
-    <updated>2026-10-28T11:52:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · München Area</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Internship--Performance-Analytics-Tool-Development_J-00356040</id>
-    <title>ASML: Computer Science | Internship: Performance Analytics Tool Development</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Internship--Performance-Analytics-Tool-Development_J-00356040"/>
-    <updated>2026-10-28T11:52:27Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, MATLAB · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Melbourne-AUS/Intern--Software-Engineer--PDMS-D-M-GDSIMENG-_26WD101850</id>
-    <title>Autodesk: Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Melbourne-AUS/Intern--Software-Engineer--PDMS-D-M-GDSIMENG-_26WD101850"/>
-    <updated>2026-10-28T11:52:27Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Melbourne, AUS · Python, C++, Linux, Git · status: closed</summary>
   </entry>
 </feed>

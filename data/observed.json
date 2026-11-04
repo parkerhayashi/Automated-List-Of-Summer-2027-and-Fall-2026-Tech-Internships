@@ -1782,6 +1782,7 @@
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_3170257-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1",
@@ -1790,7 +1791,7 @@
       "workday:hp:/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
       "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -2503,9 +2504,10 @@
       "smartrecruiters:NBCUniversal3:744000153464839",
       "smartrecruiters:NBCUniversal3:744000153466369",
       "smartrecruiters:NBCUniversal3:744000155271954",
-      "smartrecruiters:NBCUniversal3:744000159327239"
+      "smartrecruiters:NBCUniversal3:744000159327239",
+      "smartrecruiters:NBCUniversal3:744000159681142"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -4244,5 +4246,5 @@
    }
   }
  },
- "updated_at": "2026-11-04T16:27:57Z"
+ "updated_at": "2026-11-04T22:26:45Z"
 }

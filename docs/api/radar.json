@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04T16:27:57Z",
- "data_as_of": "2026-11-04T16:27:57Z",
- "rendered_at": "2026-11-04T16:27:58Z",
+ "generated_at": "2026-11-04T22:26:45Z",
+ "data_as_of": "2026-11-04T22:26:45Z",
+ "rendered_at": "2026-11-04T22:26:46Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -358,7 +358,7 @@
    "expected": "2026-08-19",
    "days_until": -77,
    "status": "open",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184",
    "note": "multiple programs; Ignite ~Oct, SWE ongoing",
    "provenance": {
     "type": "engine-observed",
@@ -1403,7 +1403,7 @@
    "expected": "2026-10-30",
    "days_until": -5,
    "status": "open",
-   "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639",
+   "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Application-Intern--2027_148647-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1460,7 +1460,7 @@
    "expected": "2026-11-04",
    "days_until": 0,
    "status": "open",
-   "url": "https://www.weareroku.com/jobs/8345954?gh_jid=8345954",
+   "url": "https://www.weareroku.com/jobs/8345947?gh_jid=8345947",
    "note": "fall opening",
    "provenance": {
     "type": "engine-observed",

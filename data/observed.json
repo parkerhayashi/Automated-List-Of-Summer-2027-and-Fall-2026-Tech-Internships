@@ -2152,9 +2152,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-30",
      "role_ids": [
-      "workday:logitech:/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639"
+      "workday:logitech:/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639",
+      "workday:logitech:/job/Hsinchu-Taiwan/Spring-Internship-Program---Field-Quality-Analyst--Artificial-Intelligence-and-System-Integration-_148693"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4220,5 +4221,5 @@
    }
   }
  },
- "updated_at": "2026-11-04T01:33:33Z"
+ "updated_at": "2026-11-04T08:15:52Z"
 }

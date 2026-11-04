@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04T01:33:33Z",
- "data_as_of": "2026-11-04T01:33:33Z",
- "rendered_at": "2026-11-04T01:33:34Z",
+ "generated_at": "2026-11-04T08:15:52Z",
+ "data_as_of": "2026-11-04T08:15:52Z",
+ "rendered_at": "2026-11-04T08:15:53Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -511,6 +511,25 @@
    "days_until": -65,
    "status": "open",
    "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Cybersecurity_JR260836",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Royal Bank of Canada",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -65,
+   "status": "open",
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -5327,25 +5346,6 @@
   },
   {
    "company": "Oshkosh",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -65,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-31"
-   }
-  },
-  {
-   "company": "Royal Bank of Canada",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
    "precision": "day",

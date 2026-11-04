@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-04T01:33:33Z</updated>
+  <updated>2026-11-04T08:15:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:logitech:/job/Hsinchu-Taiwan/Spring-Internship-Program---Field-Quality-Analyst--Artificial-Intelligence-and-System-Integration-_148693</id>
+    <title>Logitech: Spring Internship Program - Field Quality Analyst (Artificial Intelligence and System Integration)</title>
+    <link href="https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/Spring-Internship-Program---Field-Quality-Analyst--Artificial-Intelligence-and-System-Integration-_148693"/>
+    <updated>2026-11-04T08:15:52Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Hsinchu, Taiwan · LLMs · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:arlo:/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445</id>
     <title>Arlo: Firmware Developer Co-op</title>
@@ -796,14 +804,6 @@
     <title>Amazon: Applied Scientist Intern</title>
     <link href="https://www.amazon.jobs/en/jobs/10581054/applied-scientist-intern"/>
     <updated>2026-10-28T17:39:37Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Zurich, International · Python, Java, C++, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10581056</id>
-    <title>Amazon: Applied Scientist Intern, RIVR</title>
-    <link href="https://www.amazon.jobs/en/jobs/10581056/applied-scientist-intern-rivr"/>
-    <updated>2026-10-28T22:12:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Zurich, International · Python, Java, C++, SQL · status: closed</summary>
   </entry>

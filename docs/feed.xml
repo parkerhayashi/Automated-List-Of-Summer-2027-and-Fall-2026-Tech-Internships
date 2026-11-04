@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-03T21:11:09Z</updated>
+  <updated>2026-11-04T01:33:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:arlo:/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445</id>
+    <title>Arlo: Firmware Developer Co-op</title>
+    <link href="https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445"/>
+    <updated>2026-11-04T01:33:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Richmond, BC, Canada · Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10581052</id>
     <title>Amazon: Applied Scientist Intern</title>
@@ -14,6 +22,14 @@
     <updated>2026-11-03T21:11:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Zurich, International · Python, Java, C++, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:ariesglobal:4935cc12-4173-42bd-985d-4ff6b37582e8</id>
+    <title>Aries Global: Investment Intern</title>
+    <link href="https://jobs.ashbyhq.com/ariesglobal/4935cc12-4173-42bd-985d-4ff6b37582e8"/>
+    <updated>2026-11-03T21:11:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · VC · London</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:ariesglobal:f5f204ad-8b51-4aee-a269-9a5d2ee7e3b8</id>
@@ -24,12 +40,12 @@
     <summary>Not stated · Software · London</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:ariesglobal:4935cc12-4173-42bd-985d-4ff6b37582e8</id>
-    <title>Aries Global: Investment Intern</title>
-    <link href="https://jobs.ashbyhq.com/ariesglobal/4935cc12-4173-42bd-985d-4ff6b37582e8"/>
+    <id>urn:intern-engine:greenhouse:schonfeld:8350719</id>
+    <title>Schonfeld: 2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8350719"/>
     <updated>2026-11-03T21:11:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · VC · London</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong · Python, Java, C++, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:kabam:3c37f284-4ba4-4f74-93f7-d224b910e5c9</id>
@@ -48,28 +64,28 @@
     <summary>Not stated · PM · Aveiro, International (PT)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Bolzano-Vicentino-Vicenza-Italy/DevOps-Intern--Undergraduate-_1213976</id>
-    <title>Hewlett Packard Enterprise: DevOps Intern (Undergraduate)</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bolzano-Vicentino-Vicenza-Italy/DevOps-Intern--Undergraduate-_1213976"/>
-    <updated>2026-11-03T21:11:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Bolzano Vicentino, Vicenza, Italy · Python, Bash, Kubernetes, Docker, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8350719</id>
-    <title>Schonfeld: 2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8350719"/>
-    <updated>2026-11-03T21:11:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong · Python, Java, C++, SQL</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:Sia:744000159468300</id>
     <title>Sia Partners: Final Year Internship Consultant - Cybersecurity &amp; AI Trust</title>
     <link href="https://jobs.smartrecruiters.com/Sia/744000159468300"/>
     <updated>2026-11-03T21:11:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Paris, IDF, International (FR)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wavestone1:744000159435376</id>
+    <title>Wavestone: Cybersecurity - Consultant Internship from 3 to 6 months 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/Wavestone1/744000159435376"/>
+    <updated>2026-11-03T21:11:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Brussels, Brussels Hoofdstedelijk Gewest, International (BE) · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Bolzano-Vicentino-Vicenza-Italy/DevOps-Intern--Undergraduate-_1213976</id>
+    <title>Hewlett Packard Enterprise: DevOps Intern (Undergraduate)</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bolzano-Vicentino-Vicenza-Italy/DevOps-Intern--Undergraduate-_1213976"/>
+    <updated>2026-11-03T21:11:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Bolzano Vicentino, Vicenza, Italy · Python, Bash, Kubernetes, Docker, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10595274</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-28T22:12:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Zurich, International · Python, Java, C++, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8311595</id>
-    <title>Schonfeld: 2027 AI Forward Deployed Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8311595"/>
-    <updated>2026-10-27T15:06:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Hong Kong, Hong Kong · Python, SQL, LLMs, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:zeissgroup:/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317</id>
-    <title>Zeiss: Internship in AI &amp; Machine Learning (f/m/x)</title>
-    <link href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317"/>
-    <updated>2026-10-27T15:06:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Karlsruhe · Python, PyTorch, Computer Vision</summary>
   </entry>
 </feed>

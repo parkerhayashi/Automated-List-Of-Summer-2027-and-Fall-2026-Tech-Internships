@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-04T22:26:45Z</updated>
+  <updated>2026-11-05T03:02:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:tmx:/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671</id>
-    <title>TMX Group: Junior Cybersecurity Operations Analyst Intern</title>
-    <link href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671"/>
-    <updated>2026-11-04T22:26:45Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Security · Toronto - 100 Adelaide St W · $20/hr · Python, AWS, GCP, Azure, Linux · status: closed</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000159679459</id>
     <title>Bosch: Extracurricular Internship: Product Management (f/m/div)</title>
@@ -22,14 +14,6 @@
     <updated>2026-11-04T22:26:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · PM · Aveiro, International (PT)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613</id>
-    <title>Hewlett Packard (HP): Data Analyst Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613"/>
-    <updated>2026-11-04T22:26:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000159681142</id>
@@ -46,6 +30,22 @@
     <updated>2026-11-04T22:26:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada - Waterloo, ON</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613</id>
+    <title>Hewlett Packard (HP): Data Analyst Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613-1"/>
+    <updated>2026-11-04T22:26:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tmx:/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671</id>
+    <title>TMX Group: Junior Cybersecurity Operations Analyst Intern</title>
+    <link href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671"/>
+    <updated>2026-11-04T22:26:45Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Security · Toronto - 100 Adelaide St W · $20/hr · Python, AWS, GCP, Azure, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:breezy:census:926f2a5c797001</id>
@@ -243,9 +243,9 @@
     <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000159327239</id>
     <title>NBCUniversal: Product Management UX Intern (Hayu)</title>
     <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000159327239"/>
-    <updated>2026-11-03T14:56:36Z</updated>
+    <updated>2026-11-05T03:02:45Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
+    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid) · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-powered-document-review_J-00355284</id>
@@ -602,7 +602,7 @@
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1</id>
     <title>Hewlett Packard (HP): AI &amp; Computer Vision Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780"/>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1"/>
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Computer Vision, Python, PyTorch, TensorFlow, Git</summary>
@@ -610,7 +610,7 @@
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1</id>
     <title>Hewlett Packard (HP): AI &amp; Data Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517"/>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1"/>
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs, Databricks</summary>
@@ -618,7 +618,7 @@
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1</id>
     <title>Hewlett Packard (HP): AI Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353"/>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1"/>
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, Pandas, Git</summary>
@@ -626,7 +626,7 @@
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1</id>
     <title>Hewlett Packard (HP): Data Scientist Intern - Supplier Management Analytics &amp; AI</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457"/>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1"/>
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs, Azure, Databricks</summary>
@@ -706,7 +706,7 @@
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448-1</id>
     <title>Hewlett Packard (HP): AI Adoption Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448"/>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448-1"/>
     <updated>2026-10-29T15:53:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · LLMs</summary>

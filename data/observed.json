@@ -2041,9 +2041,10 @@
       "oracle:jpmc.fa.oraclecloud.com:210784371",
       "oracle:jpmc.fa.oraclecloud.com:210788659",
       "oracle:jpmc.fa.oraclecloud.com:210792010",
-      "oracle:jpmc.fa.oraclecloud.com:210800615"
+      "oracle:jpmc.fa.oraclecloud.com:210800615",
+      "oracle:jpmc.fa.oraclecloud.com:210806793"
      ],
-     "count": 17
+     "count": 18
     }
    }
   },
@@ -2475,9 +2476,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-28",
      "role_ids": [
+      "workday:nasdaq:/job/Stockholm---Zenit/Software-Developer-Intern---Stockholm-Summer-2027_R0027297",
       "workday:nasdaq:/job/Sweden---Skolgatan---Ume/Software-Developer-Intern---Summer-2027_R0027232"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3495,12 +3497,14 @@
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Quality-Assurance-Specialist-Intern---Android--May-2027---12-Months-_R10651",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"
      ],
-     "count": 7
+     "count": 9
     }
    }
   },
@@ -4246,5 +4250,5 @@
    }
   }
  },
- "updated_at": "2026-11-05T11:01:13Z"
+ "updated_at": "2026-11-05T19:00:03Z"
 }

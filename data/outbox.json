@@ -1,30 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:alta-ares:1b5bbaef-5f12-4844-b9a3-e4ee826fa454",
-      "oracle:jpmc.fa.oraclecloud.com:210806793",
-      "lever:matchgroup:de73e4f5-36d3-4b32-9474-e063aa5f585d",
-      "lever:matchgroup:ea935282-60f4-4fbf-a955-32002ccc74e1",
-      "lever:palantir:40840cef-bbd7-4557-bb21-cbdcf4be616e",
-      "smartrecruiters:Acumatica:744000159911799",
-      "workday:intel:/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635",
-      "workday:nasdaq:/job/Stockholm---Zenit/Software-Developer-Intern---Stockholm-Summer-2027_R0027297",
-      "workday:novanta:/job/Barcelona-Spain---Keonn/Hardware-Developer-Intern_R009900",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Quality-Assurance-Specialist-Intern---Android--May-2027---12-Months-_R10651"
-    ],
-    "telegram": [
-      "ashby:alta-ares:1b5bbaef-5f12-4844-b9a3-e4ee826fa454",
-      "oracle:jpmc.fa.oraclecloud.com:210806793",
-      "lever:matchgroup:de73e4f5-36d3-4b32-9474-e063aa5f585d",
-      "lever:matchgroup:ea935282-60f4-4fbf-a955-32002ccc74e1",
-      "lever:palantir:40840cef-bbd7-4557-bb21-cbdcf4be616e",
-      "smartrecruiters:Acumatica:744000159911799",
-      "workday:intel:/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635",
-      "workday:nasdaq:/job/Stockholm---Zenit/Software-Developer-Intern---Stockholm-Summer-2027_R0027297",
-      "workday:novanta:/job/Barcelona-Spain---Keonn/Hardware-Developer-Intern_R009900",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Quality-Assurance-Specialist-Intern---Android--May-2027---12-Months-_R10651"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

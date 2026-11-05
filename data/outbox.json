@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:logitech:/job/Hsinchu-Taiwan/Spring-Internship-Program---Software-Intern_148729",
+      "workday:logitech:/job/Hsinchu-Taiwan/Spring-Internship-Program---User-Experience-Engineer-Intern_148730",
+      "workday:thermofisher:/job/Brno-Czechia/Intern---Software-Engineering_R-01374064",
+      "workday:thermofisher:/job/Eindhoven-Netherlands/Internship---Build-an-agentic-software-refactoring-workflow_R-01374031-1",
+      "workday:thermofisher:/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007"
+    ],
+    "telegram": [
+      "workday:logitech:/job/Hsinchu-Taiwan/Spring-Internship-Program---Software-Intern_148729",
+      "workday:logitech:/job/Hsinchu-Taiwan/Spring-Internship-Program---User-Experience-Engineer-Intern_148730",
+      "workday:thermofisher:/job/Brno-Czechia/Intern---Software-Engineering_R-01374064",
+      "workday:thermofisher:/job/Eindhoven-Netherlands/Internship---Build-an-agentic-software-refactoring-workflow_R-01374031-1",
+      "workday:thermofisher:/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007"
+    ]
   }
 }

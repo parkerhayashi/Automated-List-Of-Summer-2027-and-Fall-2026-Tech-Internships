@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T03:02:45Z",
-  "fetched_at": "2026-11-05T03:02:45Z",
-  "duration_seconds": 1153.2,
+  "generated_at": "2026-11-05T11:01:13Z",
+  "fetched_at": "2026-11-05T11:01:13Z",
+  "duration_seconds": 1059.5,
   "companies_total": 5324,
   "companies_by_source": {
     "greenhouse": 1190,
@@ -17,29 +17,30 @@
     "breezy": 19,
     "eightfold": 1
   },
-  "quarantined": 363,
-  "fetched_ok": 4830,
-  "fetch_errors": 131,
+  "quarantined": 374,
+  "fetched_ok": 4901,
+  "fetch_errors": 49,
   "errors_by_source": {
-    "workday": 74,
-    "lever": 3,
-    "workable": 52,
-    "greenhouse": 1,
-    "ashby": 1
+    "ashby": 10,
+    "lever": 5,
+    "workday": 3,
+    "greenhouse": 3,
+    "rippling": 5,
+    "workable": 23
   },
-  "fetch_success_rate": 0.974,
-  "fetch_success_rate_registry": 0.907,
-  "snapshots_complete": 4208,
-  "snapshots_partial": 622,
+  "fetch_success_rate": 0.99,
+  "fetch_success_rate_registry": 0.921,
+  "snapshots_complete": 4237,
+  "snapshots_partial": 664,
   "partial_by_reason": {
-    "result-cap": 605,
-    "malformed-response": 17
+    "result-cap": 634,
+    "malformed-response": 30
   },
-  "degraded_fetches": 17,
-  "roles_matched": 341,
-  "dropped_no_year_in_title": 795,
-  "dropped_offcycle_by_text": 269,
-  "roles_cycle_inferred": 228,
+  "degraded_fetches": 30,
+  "roles_matched": 340,
+  "dropped_no_year_in_title": 848,
+  "dropped_offcycle_by_text": 271,
+  "roles_cycle_inferred": 231,
   "roles_by_source": {
     "amazon": 18,
     "ashby": 18,
@@ -49,21 +50,21 @@
     "oracle": 33,
     "smartrecruiters": 41,
     "workable": 8,
-    "workday": 215
+    "workday": 216
   },
   "roles_by_cycle": {
-    "Summer 2027": 207,
-    "Not stated": 228
+    "Summer 2027": 205,
+    "Not stated": 231
   },
   "roles_by_region": {
     "Ireland": 13,
     "Australia": 6,
     "United Kingdom": 97,
-    "Canada": 106,
+    "Canada": 105,
     "Spain": 23,
     "Germany": 24,
     "Italy": 13,
-    "Netherlands": 25,
+    "Netherlands": 26,
     "Switzerland": 15,
     "Austria": 2,
     "Portugal": 15,
@@ -74,23 +75,23 @@
     "Denmark": 2,
     "Hong Kong": 24,
     "South Korea": 1,
-    "Czechia": 7,
+    "Czechia": 9,
     "Belgium": 11,
-    "Taiwan": 12,
+    "Taiwan": 11,
     "Sweden": 1
   },
   "sponsorship_counts": {
-    "unknown": 420,
+    "unknown": 421,
     "no-sponsorship": 12,
     "offers": 2,
     "citizens-only": 1
   },
   "posted_date_coverage": 1.0,
-  "enriched_this_run": 39,
-  "enrichment_detail_fetches": 0,
+  "enriched_this_run": 46,
+  "enrichment_detail_fetches": 7,
   "purged_this_run": 0,
-  "new_this_run": 0,
-  "open_total": 435,
+  "new_this_run": 5,
+  "open_total": 436,
   "detection_latency": {
     "median_minutes": 275.4,
     "p95_minutes": 1537.5,
@@ -102,5 +103,5 @@
     "median_days": 14,
     "sample_size": 251
   },
-  "rendered_at": "2026-11-05T03:02:46Z"
+  "rendered_at": "2026-11-05T11:01:15Z"
 }

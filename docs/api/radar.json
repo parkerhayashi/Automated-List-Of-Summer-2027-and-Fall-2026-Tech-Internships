@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T00:26:52Z",
- "data_as_of": "2026-11-06T00:26:52Z",
- "rendered_at": "2026-11-06T00:26:52Z",
+ "generated_at": "2026-11-06T06:51:17Z",
+ "data_as_of": "2026-11-06T06:51:17Z",
+ "rendered_at": "2026-11-06T06:51:18Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -301,7 +301,7 @@
    "expected": "2026-08-17",
    "days_until": -81,
    "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552",
    "note": "campus opens mid-summer",
    "provenance": {
     "type": "engine-observed",
@@ -1184,25 +1184,6 @@
    }
   },
   {
-   "company": "Investment Management Corporation of Ontario",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-19",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-19",
-   "days_until": -18,
-   "status": "open",
-   "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-19"
-   }
-  },
-  {
    "company": "CommonAI C.I.C.",
    "last_cycle_posted": "",
    "posted_on": "2026-10-20",
@@ -1403,7 +1384,7 @@
    "expected": "2026-10-30",
    "days_until": -7,
    "status": "open",
-   "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+   "url": "https://stripe.com/jobs/search?gh_jid=8332683",
    "note": "early Sept, closes mid-Nov",
    "provenance": {
     "type": "engine-observed",
@@ -6216,6 +6197,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-14"
+   }
+  },
+  {
+   "company": "Investment Management Corporation of Ontario",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": -18,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-19"
    }
   },
   {

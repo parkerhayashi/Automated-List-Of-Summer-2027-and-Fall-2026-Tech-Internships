@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-06T00:26:52Z</updated>
+  <updated>2026-11-06T06:51:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655</id>
-    <title>SOTI: Software Developer Intern (May 2027 12 Months)</title>
-    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655"/>
-    <updated>2026-11-06T00:26:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, C#, Rust, JavaScript</summary>
+    <id>urn:intern-engine:workday:tencent:/job/Japan-Tokyo-Atago-Mori-Tower/NLP-Research-Intern_R108352-1</id>
+    <title>Tencent: NLP Research Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Atago-Mori-Tower/NLP-Research-Intern_R108352-1"/>
+    <updated>2026-11-06T06:51:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Japan-Tokyo-Atago Mori Tower · LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stripe:8332683</id>
@@ -22,6 +22,14 @@
     <updated>2026-11-06T00:26:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Design · Toronto</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655</id>
+    <title>SOTI: Software Developer Intern (May 2027 12 Months)</title>
+    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655"/>
+    <updated>2026-11-06T00:26:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, C#, Rust, JavaScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:alta-ares:1b5bbaef-5f12-4844-b9a3-e4ee826fa454</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs, Azure, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611</id>
-    <title>SOTI: Software Developer Intern - SOTI XSight (May 2027 12 Months)</title>
-    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, Rust, TypeScript, JavaScript</summary>
   </entry>
 </feed>

@@ -5,23 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-05T19:00:03Z</updated>
+  <updated>2026-11-06T00:26:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---IT-internship--Standardizing-Test-Automation-with-AI-Assistance_J-00356770</id>
-    <title>ASML: Computer Science | IT internship: Standardizing Test Automation with AI Assistance</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---IT-internship--Standardizing-Test-Automation-with-AI-Assistance_J-00356770"/>
-    <updated>2026-11-05T19:00:03Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, Java, JavaScript, MATLAB · status: closed</summary>
+    <id>urn:intern-engine:workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655</id>
+    <title>SOTI: Software Developer Intern (May 2027 12 Months)</title>
+    <link href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655"/>
+    <updated>2026-11-06T00:26:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, C#, Rust, JavaScript</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:nelnet:/job/CAN---MISSISSAUGA/Platform-Engineer-Intern--8-month-term-_R23266</id>
-    <title>Nelnet: Platform Engineer Intern (8 month term)</title>
-    <link href="https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/CAN---MISSISSAUGA/Platform-Engineer-Intern--8-month-term-_R23266"/>
-    <updated>2026-11-05T19:00:03Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · CAN - MISSISSAUGA · $23/hr · Python, Java, C#, JavaScript, Git · status: closed</summary>
+    <id>urn:intern-engine:greenhouse:stripe:8332683</id>
+    <title>Stripe: Product Design Intern</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8332683"/>
+    <updated>2026-11-06T00:26:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Design · Toronto</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:alta-ares:1b5bbaef-5f12-4844-b9a3-e4ee826fa454</id>
@@ -30,14 +30,6 @@
     <updated>2026-11-05T19:00:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Paris · Python, PyTorch, TensorFlow, Computer Vision, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210806793</id>
-    <title>JPMorganChase: 2027 Machine Learning Center of Excellence (NLP) - Internship</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210806793"/>
-    <updated>2026-11-05T19:00:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · LONDON, United Kingdom · Python, PyTorch, TensorFlow, scikit-learn, Pandas</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:matchgroup:de73e4f5-36d3-4b32-9474-e063aa5f585d</id>
@@ -64,12 +56,28 @@
     <summary>Not stated · Data &amp; ML/AI · London, United Kingdom · Python, Java, C++, Rust, JavaScript</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210806793</id>
+    <title>JPMorganChase: 2027 Machine Learning Center of Excellence (NLP) - Internship</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210806793"/>
+    <updated>2026-11-05T19:00:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · LONDON, United Kingdom · Python, PyTorch, TensorFlow, scikit-learn, Pandas</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:smartrecruiters:Acumatica:744000159911799</id>
     <title>Acumatica: Intern Developer/ Stagiaire développeur</title>
     <link href="https://jobs.smartrecruiters.com/Acumatica/744000159911799"/>
     <updated>2026-11-05T19:00:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Montreal, QC, Canada (Hybrid) · C#, SQL, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---IT-internship--Standardizing-Test-Automation-with-AI-Assistance_J-00356770</id>
+    <title>ASML: Computer Science | IT internship: Standardizing Test Automation with AI Assistance</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---IT-internship--Standardizing-Test-Automation-with-AI-Assistance_J-00356770"/>
+    <updated>2026-11-05T19:00:03Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, Java, JavaScript, MATLAB · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635</id>
@@ -86,6 +94,14 @@
     <updated>2026-11-05T19:00:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Stockholm - Zenit · Java, SQL, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nelnet:/job/CAN---MISSISSAUGA/Platform-Engineer-Intern--8-month-term-_R23266</id>
+    <title>Nelnet: Platform Engineer Intern (8 month term)</title>
+    <link href="https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/CAN---MISSISSAUGA/Platform-Engineer-Intern--8-month-term-_R23266"/>
+    <updated>2026-11-05T19:00:03Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · CAN - MISSISSAUGA · $23/hr · Python, Java, C#, JavaScript, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:novanta:/job/Barcelona-Spain---Keonn/Hardware-Developer-Intern_R009900</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Mississauga, Canada – Meadowvale Office (HQ) · Java, C++, Rust, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:keyrock:6b46ce15-7e6b-4213-9eb4-41cc64577e24</id>
-    <title>Keyrock: DeFi Quant Trader Intern (Credit)</title>
-    <link href="https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24"/>
-    <updated>2026-10-29T15:53:10Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Quant · Brussels · Python, Rust, SQL, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:keyrock:d2d0a311-b102-4fda-b537-1a8e926b55c7</id>
-    <title>Keyrock: Innovation Quant Developer: Intern - DeFi/Corporate Development</title>
-    <link href="https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7"/>
-    <updated>2026-10-29T15:53:10Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Quant · Brussels · Python, Rust, SQL, Git · status: closed</summary>
   </entry>
 </feed>

@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:matchgroup:72a9642b-a289-4c49-bc9b-53880c1dc870",
-      "workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Data-Scientist-Intern_REQ-10123773",
-      "workday:mgpru:/job/London/Asset-Management--Client-Group---Product-Internship--London-_R20839",
-      "smartrecruiters:Sia:744000160201454"
-    ],
-    "telegram": [
-      "lever:matchgroup:72a9642b-a289-4c49-bc9b-53880c1dc870",
-      "workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Data-Scientist-Intern_REQ-10123773",
-      "workday:mgpru:/job/London/Asset-Management--Client-Group---Product-Internship--London-_R20839",
-      "smartrecruiters:Sia:744000160201454"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-06T06:51:17Z</updated>
+  <updated>2026-11-06T14:53:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Las-Rozas-Madrid-Spain/AI-and-Data-Intern_1218829-1</id>
+    <title>Hewlett Packard Enterprise: AI and Data Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Las-Rozas-Madrid-Spain/AI-and-Data-Intern_1218829-1"/>
+    <updated>2026-11-06T14:53:33Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Las Rozas, Madrid, Spain · Python, Java, SQL, Bash, Linux · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:matchgroup:72a9642b-a289-4c49-bc9b-53880c1dc870</id>
+    <title>Match Group: Data Science Internship</title>
+    <link href="https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870"/>
+    <updated>2026-11-06T14:53:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ghent, Belgium · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Data-Scientist-Intern_REQ-10123773</id>
+    <title>ING: Data Scientist Intern</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Data-Scientist-Intern_REQ-10123773"/>
+    <updated>2026-11-06T14:53:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bruxelles Avenue Marnix (ING) · Python, SQL, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mgpru:/job/London/Asset-Management--Client-Group---Product-Internship--London-_R20839</id>
+    <title>M&amp;G: Asset Management: Client Group &amp; Product Internship (London) 🛂</title>
+    <link href="https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Asset-Management--Client-Group---Product-Internship--London-_R20839"/>
+    <updated>2026-11-06T14:53:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · London · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/Japan-Tokyo-Atago-Mori-Tower/NLP-Research-Intern_R108352-1</id>
     <title>Tencent: NLP Research Intern</title>
@@ -507,9 +539,9 @@
     <id>urn:intern-engine:amazon:amazon:10532883</id>
     <title>Amazon: Data Center Infrastructure Engineer Internship 2027</title>
     <link href="https://www.amazon.jobs/en/jobs/10532883/data-center-infrastructure-engineer-internship-2027"/>
-    <updated>2026-11-02T17:21:59Z</updated>
+    <updated>2026-11-06T14:33:15Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · London, International · AWS</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · London, International · AWS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ing:/job/HBP-Amsterdam---Haarlerbergpark/Internship-Software-Development---Java---AI_REQ-10124124</id>
@@ -643,9 +675,9 @@
     <id>urn:intern-engine:ashby:gearset:637b4805-e079-4bbd-91e8-96af81dd288f</id>
     <title>Gearset: Software Engineering Internship (10 weeks)</title>
     <link href="https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f"/>
-    <updated>2026-10-30T13:48:13Z</updated>
+    <updated>2026-11-06T14:53:33Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Cambridge, United Kingdom · C#, TypeScript, JavaScript, React, AWS</summary>
+    <summary>Summer 2027 · Software · Cambridge, United Kingdom · C#, TypeScript, JavaScript, React, AWS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workable:fifty-five:6F871CD427</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Montréal, Quebec, Canada</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1</id>
-    <title>Hewlett Packard (HP): AI &amp; Computer Vision Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Computer Vision, Python, PyTorch, TensorFlow, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1</id>
-    <title>Hewlett Packard (HP): AI &amp; Data Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1</id>
-    <title>Hewlett Packard (HP): AI Engineering Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, Pandas, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1</id>
-    <title>Hewlett Packard (HP): Data Scientist Intern - Supplier Management Analytics &amp; AI</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL, LLMs, Azure, Databricks</summary>
   </entry>
 </feed>

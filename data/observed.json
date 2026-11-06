@@ -2235,6 +2235,18 @@
     }
    }
   },
+  "m g": {
+   "name": "M&G",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "workday:mgpru:/job/London/Asset-Management--Client-Group---Product-Internship--London-_R20839"
+     ],
+     "count": 1
+    }
+   }
+  },
   "manulife financial": {
    "name": "Manulife Financial",
    "cycles": {
@@ -4252,5 +4264,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T06:51:17Z"
+ "updated_at": "2026-11-06T14:53:33Z"
 }

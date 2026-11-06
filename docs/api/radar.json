@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T06:51:17Z",
- "data_as_of": "2026-11-06T06:51:17Z",
- "rendered_at": "2026-11-06T06:51:18Z",
+ "generated_at": "2026-11-06T14:53:33Z",
+ "data_as_of": "2026-11-06T14:53:33Z",
+ "rendered_at": "2026-11-06T14:53:34Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1336,25 +1336,6 @@
    }
   },
   {
-   "company": "Gearset",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-29",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-29"
-   }
-  },
-  {
    "company": "Ryan",
    "last_cycle_posted": "",
    "posted_on": "2026-10-29",
@@ -1428,6 +1409,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-11-04"
+   }
+  },
+  {
+   "company": "M&G",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Asset-Management--Client-Group---Product-Internship--London-_R20839",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-06"
    }
   },
   {
@@ -6276,6 +6276,25 @@
    }
   },
   {
+   "company": "Gearset",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-29",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-29"
+   }
+  },
+  {
    "company": "OLIX",
    "last_cycle_posted": "",
    "posted_on": "2026-10-29",
@@ -6333,5 +6352,5 @@
    }
   }
  ],
- "count": 333
+ "count": 334
 }

@@ -5,15 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-06T14:53:33Z</updated>
+  <updated>2026-11-06T20:50:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Las-Rozas-Madrid-Spain/AI-and-Data-Intern_1218829-1</id>
-    <title>Hewlett Packard Enterprise: AI and Data Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Las-Rozas-Madrid-Spain/AI-and-Data-Intern_1218829-1"/>
-    <updated>2026-11-06T14:53:33Z</updated>
+    <id>urn:intern-engine:oracle:ebcs.fa.em2.oraclecloud.com:45758</id>
+    <title>Arcadis: Summer Intern – Project Management APM</title>
+    <link href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45758"/>
+    <updated>2026-11-06T20:50:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · Cork, Munster, Ireland</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bmo:/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1</id>
+    <title>BMO: Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months</title>
+    <link href="https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1"/>
+    <updated>2026-11-06T20:50:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Toronto, ON, CAN · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:brave:8360001</id>
+    <title>Brave: Software Engineering Intern - Waterloo University - Winter Session</title>
+    <link href="https://job-boards.greenhouse.io/brave/jobs/8360001"/>
+    <updated>2026-11-06T20:50:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada · Python, C++, Rust, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937</id>
+    <title>Intel: Software Design Engineer Intern for Physical Design (m/f/d)</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937"/>
+    <updated>2026-11-06T20:50:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Germany, Munich · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:point72:8899753002</id>
+    <title>Point72: 2027 MI Data Research &amp; AI Intern - APAC</title>
+    <link href="https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002"/>
+    <updated>2026-11-06T20:50:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Hong Kong, Singapore, Japan</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--AI-delivery-control-tower_J-00356606</id>
+    <title>ASML: Computer Science | Artificial Intelligence internship: AI delivery control tower</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--AI-delivery-control-tower_J-00356606"/>
+    <updated>2026-11-06T20:50:48Z</updated>
     <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Las Rozas, Madrid, Spain · Python, Java, SQL, Bash, Linux · status: closed</summary>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Delft-Netherlands/Computer-Science---Engineering-internship--performance-data-platform_J-00356806</id>
+    <title>ASML: Computer Science | Engineering internship: performance data platform</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Delft-Netherlands/Computer-Science---Engineering-internship--performance-data-platform_J-00356806"/>
+    <updated>2026-11-06T20:50:48Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Delft, Netherlands · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:matchgroup:72a9642b-a289-4c49-bc9b-53880c1dc870</id>
@@ -22,6 +70,14 @@
     <updated>2026-11-06T14:53:33Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Ghent, Belgium · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Las-Rozas-Madrid-Spain/AI-and-Data-Intern_1218829-1</id>
+    <title>Hewlett Packard Enterprise: AI and Data Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Las-Rozas-Madrid-Spain/AI-and-Data-Intern_1218829-1"/>
+    <updated>2026-11-06T14:53:33Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Las Rozas, Madrid, Spain · Python, Java, SQL, Bash, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Data-Scientist-Intern_REQ-10123773</id>
@@ -750,61 +806,5 @@
     <updated>2026-10-29T20:50:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Quant · Hong Kong, Singapore, Shanghai, Beijing · Python, C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8617401002</id>
-    <title>Qube Research &amp; Technologies: 2027 – Internship or Graduate, Software Engineer and Quantitative Developer</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong, Singapore · Python, C++, C#, SQL, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8749918002</id>
-    <title>Qube Research &amp; Technologies: 2027 – Internship, Infrastructure Engineering</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hong Kong, Singapore, Shanghai · Python, SQL, Bash, PyTorch, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8749942002</id>
-    <title>Qube Research &amp; Technologies: 2027 - Internship, Security Engineer</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Hong Kong · Python, Bash, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8773084002</id>
-    <title>Qube Research &amp; Technologies: 2027 - Internship, Software Engineering and Quantitative Development</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · London, Paris, Wrocław, Zurich, Dubai, Aarhus, Amsterdam · Python, C++, C#, SQL, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8773447002</id>
-    <title>Qube Research &amp; Technologies: 2027 – Graduate or Internship, Infrastructure Engineer</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, Paris · Python, SQL, Bash, PyTorch, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8785833002</id>
-    <title>Qube Research &amp; Technologies: 2027 - Internship, Quantitative Research and Trading</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Aarhus, Budapest, Dubai, London, Paris, Zurich · Python, C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:tobogganlabs:8012583003</id>
-    <title>TobogganLabs: Stagiaire en science des données -- Data Science Intern</title>
-    <link href="https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Montréal, Quebec, Canada</summary>
   </entry>
 </feed>

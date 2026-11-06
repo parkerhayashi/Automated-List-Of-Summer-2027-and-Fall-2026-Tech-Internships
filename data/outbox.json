@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:ebcs.fa.em2.oraclecloud.com:45758",
+      "workday:bmo:/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1",
+      "greenhouse:brave:8360001",
+      "workday:intel:/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937",
+      "greenhouse:point72:8899753002"
+    ],
+    "telegram": [
+      "oracle:ebcs.fa.em2.oraclecloud.com:45758",
+      "workday:bmo:/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1",
+      "greenhouse:brave:8360001",
+      "workday:intel:/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937",
+      "greenhouse:point72:8899753002"
+    ]
   }
 }

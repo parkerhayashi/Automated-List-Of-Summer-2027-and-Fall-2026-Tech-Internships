@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T14:53:33Z",
- "data_as_of": "2026-11-06T14:53:33Z",
- "rendered_at": "2026-11-06T14:53:34Z",
+ "generated_at": "2026-11-06T20:50:49Z",
+ "data_as_of": "2026-11-06T20:50:49Z",
+ "rendered_at": "2026-11-06T20:50:49Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -22,6 +22,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2023-08-04"
+   }
+  },
+  {
+   "company": "Point72",
+   "last_cycle_posted": "",
+   "posted_on": "2024-08-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2024-08-15",
+   "days_until": -813,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002",
+   "note": "Cubist/academy, opens fall",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2024-08-15"
    }
   },
   {
@@ -624,7 +643,7 @@
    "expected": "2026-09-08",
    "days_until": -59,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/talos-trading/42cad756-c312-4142-a9b7-18ed76f61c5d",
+   "url": "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -725,6 +744,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-11"
+   }
+  },
+  {
+   "company": "BMO",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -53,
+   "status": "open",
+   "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
    }
   },
   {
@@ -1232,7 +1270,7 @@
    "expected": "2026-10-20",
    "days_until": -17,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff",
+   "url": "https://jobs.ashbyhq.com/Sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3559,25 +3597,6 @@
    }
   },
   {
-   "company": "Point72",
-   "last_cycle_posted": "",
-   "posted_on": "2024-08-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2024-08-15",
-   "days_until": -813,
-   "status": "dropped",
-   "url": "",
-   "note": "Cubist/academy, opens fall",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2024-08-15"
-   }
-  },
-  {
    "company": "WorldQuant",
    "last_cycle_posted": "",
    "posted_on": "2024-09-04",
@@ -5859,25 +5878,6 @@
   },
   {
    "company": "Bank of Montreal",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -53,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-14"
-   }
-  },
-  {
-   "company": "BMO",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
    "precision": "day",

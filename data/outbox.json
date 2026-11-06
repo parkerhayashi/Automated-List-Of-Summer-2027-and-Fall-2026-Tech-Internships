@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655",
-      "greenhouse:stripe:8332683"
-    ],
-    "telegram": [
-      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655",
-      "greenhouse:stripe:8332683"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

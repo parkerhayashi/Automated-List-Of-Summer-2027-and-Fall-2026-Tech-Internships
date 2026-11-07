@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-07T13:48:28Z</updated>
+  <updated>2026-11-07T18:34:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:helical:88990169F9</id>
+    <title>Helical: Machine Learning Intern</title>
+    <link href="https://apply.workable.com/helical/j/88990169F9/"/>
+    <updated>2026-11-07T18:34:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · London, England, United Kingdom; Luxembourg, Luxembourg, Luxembourg · Python, PyTorch, TensorFlow, Docker</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:brave:8360001</id>
     <title>Brave: Software Engineering Intern - Waterloo University - Winter Session</title>
@@ -798,13 +806,5 @@
     <updated>2026-11-03T00:07:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · London, UK · £66K · C++ · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8581570002</id>
-    <title>Qube Research &amp; Technologies: 2027 – Internship or Graduate, Quantitative Research and Trading</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002"/>
-    <updated>2026-10-29T20:50:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong, Singapore, Shanghai, Beijing · Python, C++, C#</summary>
   </entry>
 </feed>

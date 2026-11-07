@@ -1,6 +1,10 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workable:helical:88990169F9"
+    ],
+    "telegram": [
+      "workable:helical:88990169F9"
+    ]
   }
 }

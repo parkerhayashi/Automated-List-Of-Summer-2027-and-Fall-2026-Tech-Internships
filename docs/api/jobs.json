@@ -1,11 +1,37 @@
 {
- "generated_at": "2026-11-07T13:48:28Z",
- "data_as_of": "2026-11-07T13:48:28Z",
- "rendered_at": "2026-11-07T13:48:29Z",
+ "generated_at": "2026-11-07T18:34:20Z",
+ "data_as_of": "2026-11-07T18:34:20Z",
+ "rendered_at": "2026-11-07T18:34:22Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 436,
+ "count": 437,
  "jobs": [
+  {
+   "id": "workable:helical:88990169F9",
+   "company": "Helical",
+   "title": "Machine Learning Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "London, England, United Kingdom; Luxembourg, Luxembourg, Luxembourg",
+   "url": "https://apply.workable.com/helical/j/88990169F9/",
+   "posted_at": "2026-11-06T00:00:00.000Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-11-07T18:34:20Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Docker"
+   ],
+   "source": "workable",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:brave:8360001",
    "company": "Brave",

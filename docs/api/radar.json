@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-07T00:37:42Z",
- "data_as_of": "2026-11-07T00:37:42Z",
- "rendered_at": "2026-11-07T00:37:44Z",
+ "generated_at": "2026-11-07T06:48:08Z",
+ "data_as_of": "2026-11-07T06:48:08Z",
+ "rendered_at": "2026-11-07T06:48:09Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1143,25 +1143,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-14"
-   }
-  },
-  {
-   "company": "Expedia Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-15",
-   "days_until": -23,
-   "status": "open",
-   "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-15"
    }
   },
   {
@@ -6197,6 +6178,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-14"
+   }
+  },
+  {
+   "company": "Expedia Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-15",
+   "days_until": -23,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-15"
    }
   },
   {

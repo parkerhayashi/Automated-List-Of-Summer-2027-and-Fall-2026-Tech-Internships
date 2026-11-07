@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-06T20:50:49Z</updated>
+  <updated>2026-11-07T00:37:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:brave:8360001</id>
+    <title>Brave: Software Engineering Intern - Waterloo University - Winter Session</title>
+    <link href="https://job-boards.greenhouse.io/brave/jobs/8360001"/>
+    <updated>2026-11-06T20:50:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canada · Python, C++, Rust, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:point72:8899753002</id>
+    <title>Point72: 2027 MI Data Research &amp; AI Intern - APAC</title>
+    <link href="https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002"/>
+    <updated>2026-11-06T20:50:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Hong Kong, Singapore, Japan</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ebcs.fa.em2.oraclecloud.com:45758</id>
     <title>Arcadis: Summer Intern – Project Management APM</title>
@@ -24,14 +40,6 @@
     <summary>Summer 2027 · Quant · Toronto, ON, CAN · Python</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:brave:8360001</id>
-    <title>Brave: Software Engineering Intern - Waterloo University - Winter Session</title>
-    <link href="https://job-boards.greenhouse.io/brave/jobs/8360001"/>
-    <updated>2026-11-06T20:50:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada · Python, C++, Rust, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:intel:/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937</id>
     <title>Intel: Software Design Engineer Intern for Physical Design (m/f/d)</title>
     <link href="https://intel.wd1.myworkdayjobs.com/external/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937"/>
@@ -40,12 +48,12 @@
     <summary>Not stated · Software · Germany, Munich · Python, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:point72:8899753002</id>
-    <title>Point72: 2027 MI Data Research &amp; AI Intern - APAC</title>
-    <link href="https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002"/>
-    <updated>2026-11-06T20:50:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Hong Kong, Singapore, Japan</summary>
+    <id>urn:intern-engine:workday:asml:/job/Delft-Netherlands/Computer-Science---Engineering-internship--performance-data-platform_J-00356806</id>
+    <title>ASML: Computer Science | Engineering internship: performance data platform</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Delft-Netherlands/Computer-Science---Engineering-internship--performance-data-platform_J-00356806"/>
+    <updated>2026-11-06T20:50:48Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Delft, Netherlands · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--AI-delivery-control-tower_J-00356606</id>
@@ -54,14 +62,6 @@
     <updated>2026-11-06T20:50:48Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Delft-Netherlands/Computer-Science---Engineering-internship--performance-data-platform_J-00356806</id>
-    <title>ASML: Computer Science | Engineering internship: performance data platform</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Delft-Netherlands/Computer-Science---Engineering-internship--performance-data-platform_J-00356806"/>
-    <updated>2026-11-06T20:50:48Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Delft, Netherlands · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:matchgroup:72a9642b-a289-4c49-bc9b-53880c1dc870</id>

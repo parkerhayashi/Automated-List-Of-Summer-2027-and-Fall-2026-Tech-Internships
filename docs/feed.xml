@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-07T22:36:13Z</updated>
+  <updated>2026-11-08T02:03:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:workday:/job/Canada-BC-Vancouver/UX-Designer-Intern--Canada-_JR-0111500</id>
+    <title>Workday: UX Designer Intern (Canada) 🛂</title>
+    <link href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/UX-Designer-Intern--Canada-_JR-0111500"/>
+    <updated>2026-11-08T02:03:33Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Design · Canada, BC, Vancouver · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:helical:88990169F9</id>
     <title>Helical: Machine Learning Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-30T00:35:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++, Linux, Git, Verilog</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:olix:a2365ad7-3b5d-4f6e-a917-2586efc6a07e</id>
-    <title>OLIX: Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e"/>
-    <updated>2026-11-03T00:07:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · London, UK · £66K · C++ · status: closed</summary>
   </entry>
 </feed>

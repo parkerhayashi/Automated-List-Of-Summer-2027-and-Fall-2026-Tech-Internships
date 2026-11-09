@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-09T00:17:34Z</updated>
+  <updated>2026-11-09T06:24:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10599510</id>
+    <title>Amazon: Robotics - Applied Scientist II Intern / Co-op - 2027 (Robotics, Perception, Manipulation, Locomotion, Planning, HRI and more), Amazon Development Center Taiwan</title>
+    <link href="https://www.amazon.jobs/en/jobs/10599510/robotics-applied-scientist-ii-intern-co-op-2027-robotics-perception-manipulation-locomotion-planning-hri-and-more-amazon-development-center-taiwan"/>
+    <updated>2026-11-09T06:24:43Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Hsinchu City, International · Python, Java, C++, LLMs, Computer Vision</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:workday:/job/Canada-BC-Vancouver/UX-Designer-Intern--Canada-_JR-0111500</id>
     <title>Workday: UX Designer Intern (Canada) 🛂</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-30T13:48:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Eindhoven, Netherlands · Python, C#, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384</id>
-    <title>Altera Corporation: Software Engineer - Factory Apps - Intern</title>
-    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384"/>
-    <updated>2026-10-30T00:35:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toronto, Ontario, Canada · Python, C++, Linux, Git, Verilog</summary>
   </entry>
 </feed>

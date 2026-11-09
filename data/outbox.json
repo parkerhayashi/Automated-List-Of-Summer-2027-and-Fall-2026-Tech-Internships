@@ -1,10 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:10599510"
-    ],
-    "telegram": [
-      "amazon:amazon:10599510"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

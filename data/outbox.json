@@ -1,26 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "breezy:census:a527757cfc2501",
-      "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:19422",
-      "lever:kpler:7c05bdbd-4fe3-4063-9a81-3c80abe0b661",
-      "ashby:the-exploration-company:bdb17a37-2330-4893-87ba-9ca342bb0748",
-      "workday:invesco:/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889",
-      "greenhouse:kensingtontours:5289223007",
-      "workday:thermofisher:/job/Brno-Czechia/Intern---Software-Development_R-01373992",
-      "workday:thermofisher:/job/Brno-Czechia/Intern---DevOps_R-01374014-1",
-      "smartrecruiters:Wavestone1:744000160568999"
-    ],
-    "telegram": [
-      "breezy:census:a527757cfc2501",
-      "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:19422",
-      "lever:kpler:7c05bdbd-4fe3-4063-9a81-3c80abe0b661",
-      "ashby:the-exploration-company:bdb17a37-2330-4893-87ba-9ca342bb0748",
-      "workday:invesco:/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889",
-      "greenhouse:kensingtontours:5289223007",
-      "workday:thermofisher:/job/Brno-Czechia/Intern---Software-Development_R-01373992",
-      "workday:thermofisher:/job/Brno-Czechia/Intern---DevOps_R-01374014-1",
-      "smartrecruiters:Wavestone1:744000160568999"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

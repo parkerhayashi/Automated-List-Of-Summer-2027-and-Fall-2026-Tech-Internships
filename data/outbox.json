@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
-      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI4612-1"
-    ],
-    "telegram": [
-      "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
-      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Automation-Intern_UNI4612-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-10T00:30:57Z",
- "data_as_of": "2026-11-10T00:30:57Z",
- "rendered_at": "2026-11-10T00:30:58Z",
+ "generated_at": "2026-11-10T07:55:15Z",
+ "data_as_of": "2026-11-10T07:55:15Z",
+ "rendered_at": "2026-11-10T07:55:16Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 436,
+ "count": 434,
  "jobs": [
   {
    "id": "workday:altera:/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
@@ -1767,31 +1767,6 @@
    "source": "workable",
    "h1b_approvals": null,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:rockwellautomation:/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569-2",
-   "company": "Rockwell Automation",
-   "title": "Co-op, User Experience - Robotics",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Design",
-   "location": "Waterloo, Ontario, Canada",
-   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569-2",
-   "posted_at": "2026-11-02T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-11-03T00:07:36Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "LLMs",
-    "React",
-    "ROS"
-   ],
-   "source": "workday",
-   "h1b_approvals": 90,
-   "program": "Co-op",
    "remote": false
   },
   {
@@ -8637,30 +8612,6 @@
    ],
    "source": "amazon",
    "h1b_approvals": 23139,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:rothesaygraduates:8811533002",
-   "company": "Rothesay",
-   "title": "2027 Summer Internship Programme - Quantitative Strategist",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Quant",
-   "location": "London",
-   "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002",
-   "posted_at": "2026-09-17T07:42:29-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

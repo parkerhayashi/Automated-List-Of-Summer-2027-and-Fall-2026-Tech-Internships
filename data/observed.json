@@ -59,6 +59,19 @@
     }
    }
   },
+  "addepar": {
+   "name": "Addepar",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-10",
+     "role_ids": [
+      "greenhouse:addepar1:8910310002",
+      "greenhouse:addepar1:8927507002"
+     ],
+     "count": 2
+    }
+   }
+  },
   "adobe": {
    "name": "Adobe",
    "cycles": {
@@ -2824,9 +2837,10 @@
       "smartrecruiters:PAConsulting:744000155679795",
       "smartrecruiters:PAConsulting:744000155685700",
       "smartrecruiters:PAConsulting:744000156271319",
-      "smartrecruiters:PAConsulting:744000156517180"
+      "smartrecruiters:PAConsulting:744000156517180",
+      "smartrecruiters:PAConsulting:744000160850179"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -3518,10 +3532,11 @@
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655",
       "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -4268,5 +4283,5 @@
    }
   }
  },
- "updated_at": "2026-11-10T07:55:15Z"
+ "updated_at": "2026-11-10T16:42:12Z"
 }

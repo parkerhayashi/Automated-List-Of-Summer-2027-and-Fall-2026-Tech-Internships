@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-10T07:55:15Z",
- "data_as_of": "2026-11-10T07:55:15Z",
- "rendered_at": "2026-11-10T07:55:16Z",
+ "generated_at": "2026-11-10T16:42:12Z",
+ "data_as_of": "2026-11-10T16:42:12Z",
+ "rendered_at": "2026-11-10T16:42:13Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1466,6 +1466,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-11-06"
+   }
+  },
+  {
+   "company": "Addepar",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910310002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-10"
    }
   },
   {
@@ -6352,5 +6371,5 @@
    }
   }
  ],
- "count": 334
+ "count": 335
 }

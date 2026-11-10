@@ -1,6 +1,32 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10600919",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161539",
+      "lever:loftorbital:7e9d723a-6afa-495c-a3ac-4f89ef5400b5",
+      "lever:loftorbital:1014b6c1-049d-43e5-a67a-42aac6ba4c84",
+      "lever:loftorbital:fc7d15c8-5055-48d7-8569-fd7668ed8ee2",
+      "greenhouse:addepar1:8910310002",
+      "greenhouse:addepar1:8927507002",
+      "workday:amgen:/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920",
+      "workday:iff:/job/Benicarlo-Spain/Intern_R23121",
+      "workday:marvell:/job/Pavia-Italy/Firmware-Engineering-Intern_2603916-1",
+      "smartrecruiters:PAConsulting:744000160850179",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677"
+    ],
+    "telegram": [
+      "amazon:amazon:10600919",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161539",
+      "lever:loftorbital:7e9d723a-6afa-495c-a3ac-4f89ef5400b5",
+      "lever:loftorbital:1014b6c1-049d-43e5-a67a-42aac6ba4c84",
+      "lever:loftorbital:fc7d15c8-5055-48d7-8569-fd7668ed8ee2",
+      "greenhouse:addepar1:8910310002",
+      "greenhouse:addepar1:8927507002",
+      "workday:amgen:/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920",
+      "workday:iff:/job/Benicarlo-Spain/Intern_R23121",
+      "workday:marvell:/job/Pavia-Italy/Firmware-Engineering-Intern_2603916-1",
+      "smartrecruiters:PAConsulting:744000160850179",
+      "workday:soti:/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677"
+    ]
   }
 }

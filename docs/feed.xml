@@ -5,39 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-10T16:42:12Z</updated>
+  <updated>2026-11-10T22:14:21Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--procurement-analytics-dashboards_J-00356273</id>
-    <title>ASML: Data Science | Business Analytics internship: procurement analytics dashboards</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--procurement-analytics-dashboards_J-00356273"/>
-    <updated>2026-11-10T16:42:12Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--ai-assisted-diagnostics-platform_J-00355796</id>
-    <title>ASML: Computer Science | Artificial Intelligence internship: ai-assisted diagnostics platform</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--ai-assisted-diagnostics-platform_J-00355796"/>
-    <updated>2026-11-10T16:42:12Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, MATLAB, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/AI-Internship--Intelligent-Reticle-Health-Monitoring-Using-Reduced-Measurement-Data_J-00356507</id>
-    <title>ASML: AI Internship: Intelligent Reticle Health Monitoring Using Reduced Measurement Data</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/AI-Internship--Intelligent-Reticle-Health-Monitoring-Using-Reduced-Measurement-Data_J-00356507"/>
-    <updated>2026-11-10T16:42:12Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, MATLAB · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hitachi:/job/Toronto-Ontario-Canada/DevOps-Analyst-Intern_R0145523</id>
-    <title>Hitachi Energy: DevOps Analyst Intern</title>
-    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/DevOps-Analyst-Intern_R0145523"/>
-    <updated>2026-11-10T16:42:12Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Toronto, Ontario, Canada · Python, AWS, Kubernetes, Docker, Terraform · status: closed</summary>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:162057</id>
+    <title>Honeywell: Intern Software Engineer</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162057"/>
+    <updated>2026-11-10T22:14:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · North Ryde, New South Wales, Australia</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10600919</id>
@@ -46,38 +22,6 @@
     <updated>2026-11-10T16:42:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Zurich, International · Python, Java, C++, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161539</id>
-    <title>Honeywell: Intern (m/f/d) Commercial Transformation – Fire Europe Software &amp; Services</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161539"/>
-    <updated>2026-11-10T16:42:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Ratingen, Nordrhein-Westfalen, Germany</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:loftorbital:7e9d723a-6afa-495c-a3ac-4f89ef5400b5</id>
-    <title>Loft Orbital: AI/ML Engineering Intern: System 1 Models for Reactive Space Operations</title>
-    <link href="https://jobs.lever.co/loftorbital/7e9d723a-6afa-495c-a3ac-4f89ef5400b5"/>
-    <updated>2026-11-10T16:42:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toulouse, Occitanie · Python, PyTorch, LLMs, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:loftorbital:1014b6c1-049d-43e5-a67a-42aac6ba4c84</id>
-    <title>Loft Orbital: Backend Engineering Intern: Ground Platform Control</title>
-    <link href="https://jobs.lever.co/loftorbital/1014b6c1-049d-43e5-a67a-42aac6ba4c84"/>
-    <updated>2026-11-10T16:42:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Toulouse, Occitanie · Python, Django, Flask, Docker</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:loftorbital:fc7d15c8-5055-48d7-8569-fd7668ed8ee2</id>
-    <title>Loft Orbital: Image Processing Intern: AI-Assisted Tools for CalVal</title>
-    <link href="https://jobs.lever.co/loftorbital/fc7d15c8-5055-48d7-8569-fd7668ed8ee2"/>
-    <updated>2026-11-10T16:42:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Toulouse, Occitanie · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:addepar1:8910310002</id>
@@ -96,12 +40,84 @@
     <summary>Summer 2027 · Software · Edinburgh, UK · Python, Java, Scala, Kafka · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:lever:loftorbital:1014b6c1-049d-43e5-a67a-42aac6ba4c84</id>
+    <title>Loft Orbital: Backend Engineering Intern: Ground Platform Control</title>
+    <link href="https://jobs.lever.co/loftorbital/1014b6c1-049d-43e5-a67a-42aac6ba4c84"/>
+    <updated>2026-11-10T16:42:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Toulouse, Occitanie · Python, Django, Flask, Docker</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:loftorbital:7e9d723a-6afa-495c-a3ac-4f89ef5400b5</id>
+    <title>Loft Orbital: AI/ML Engineering Intern: System 1 Models for Reactive Space Operations</title>
+    <link href="https://jobs.lever.co/loftorbital/7e9d723a-6afa-495c-a3ac-4f89ef5400b5"/>
+    <updated>2026-11-10T16:42:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toulouse, Occitanie · Python, PyTorch, LLMs, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:loftorbital:fc7d15c8-5055-48d7-8569-fd7668ed8ee2</id>
+    <title>Loft Orbital: Image Processing Intern: AI-Assisted Tools for CalVal</title>
+    <link href="https://jobs.lever.co/loftorbital/fc7d15c8-5055-48d7-8569-fd7668ed8ee2"/>
+    <updated>2026-11-10T16:42:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Toulouse, Occitanie · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161539</id>
+    <title>Honeywell: Intern (m/f/d) Commercial Transformation – Fire Europe Software &amp; Services</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161539"/>
+    <updated>2026-11-10T16:42:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ratingen, Nordrhein-Westfalen, Germany</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PAConsulting:744000160850179</id>
+    <title>PA Consulting: 2027 Summer Internship - Applied Scientist - Cambridge</title>
+    <link href="https://jobs.smartrecruiters.com/PAConsulting/744000160850179"/>
+    <updated>2026-11-10T16:42:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Melbourn, , United Kingdom</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:amgen:/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920</id>
     <title>Amgen: Undergraduate  Co-op Student – Software Engineer – Large Molecule Discovery - Technology</title>
     <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920"/>
     <updated>2026-11-10T16:42:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canada - Burnaby · Python, Java, C#, JavaScript, Kafka</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/AI-Internship--Intelligent-Reticle-Health-Monitoring-Using-Reduced-Measurement-Data_J-00356507</id>
+    <title>ASML: AI Internship: Intelligent Reticle Health Monitoring Using Reduced Measurement Data</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/AI-Internship--Intelligent-Reticle-Health-Monitoring-Using-Reduced-Measurement-Data_J-00356507"/>
+    <updated>2026-11-10T16:42:12Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, MATLAB · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--ai-assisted-diagnostics-platform_J-00355796</id>
+    <title>ASML: Computer Science | Artificial Intelligence internship: ai-assisted diagnostics platform</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--ai-assisted-diagnostics-platform_J-00355796"/>
+    <updated>2026-11-10T16:42:12Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · Python, MATLAB, LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--procurement-analytics-dashboards_J-00356273</id>
+    <title>ASML: Data Science | Business Analytics internship: procurement analytics dashboards</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--procurement-analytics-dashboards_J-00356273"/>
+    <updated>2026-11-10T16:42:12Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Veldhoven, Netherlands · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Toronto-Ontario-Canada/DevOps-Analyst-Intern_R0145523</id>
+    <title>Hitachi Energy: DevOps Analyst Intern</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/DevOps-Analyst-Intern_R0145523"/>
+    <updated>2026-11-10T16:42:12Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Toronto, Ontario, Canada · Python, AWS, Kubernetes, Docker, Terraform · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:iff:/job/Benicarlo-Spain/Intern_R23121</id>
@@ -790,21 +806,5 @@
     <updated>2026-11-03T06:52:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Toronto, ON, Canada · Python, Java, C++, JavaScript, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158937</id>
-    <title>Honeywell: Embedded Software Intern (m/f/d)</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158937"/>
-    <updated>2026-11-03T00:07:36Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Horsham, West Sussex, United Kingdom · Java, C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:tecsys:D61D5FB9AB</id>
-    <title>Tecsys: Intern - Developer</title>
-    <link href="https://apply.workable.com/tecsys/j/D61D5FB9AB/"/>
-    <updated>2026-11-03T00:07:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Montreal, Quebec, Canada (Hybrid) · Python, React, Flask, Git</summary>
   </entry>
 </feed>

@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-11T17:42:54Z</updated>
+  <updated>2026-11-11T23:58:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000161053719</id>
-    <title>Bosch: Mandatory Internship AI Agent for Automated Machine Diagnostics and Root-Cause Analysis</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000161053719"/>
-    <updated>2026-11-11T17:42:54Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Elchingen, BY, Germany · Python · status: closed</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10602219</id>
     <title>Amazon: Data Engineer Internship</title>
@@ -22,6 +14,22 @@
     <updated>2026-11-11T17:42:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · London, International · Python, Java, SQL, AWS, Hadoop</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8346891</id>
+    <title>Schonfeld: 2027 Software Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8346891"/>
+    <updated>2026-11-11T17:42:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Hong Kong, Hong Kong · Python, Java, C++, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:wepclinical:8d3a77c2-5606-4d32-8532-7dbb1abde1d2</id>
+    <title>WEP Clinical: IT Intern - AI &amp; Transformation</title>
+    <link href="https://jobs.lever.co/wepclinical/8d3a77c2-5606-4d32-8532-7dbb1abde1d2"/>
+    <updated>2026-11-11T17:42:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chiswick, London, UK · Python, SQL, LLMs, Azure, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:22509</id>
@@ -32,12 +40,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · London, England, United Kingdom · Python, SQL, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:wepclinical:8d3a77c2-5606-4d32-8532-7dbb1abde1d2</id>
-    <title>WEP Clinical: IT Intern - AI &amp; Transformation</title>
-    <link href="https://jobs.lever.co/wepclinical/8d3a77c2-5606-4d32-8532-7dbb1abde1d2"/>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000161053719</id>
+    <title>Bosch: Mandatory Internship AI Agent for Automated Machine Diagnostics and Root-Cause Analysis</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000161053719"/>
     <updated>2026-11-11T17:42:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chiswick, London, UK · Python, SQL, LLMs, Azure, Tableau</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Elchingen, BY, Germany · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cadence:/job/FELDKIRCHEN-Munich/Intern-Agentic-AI-Workflow-Development---Validation-for-Digital-Design--f-m-d-_R57159</id>
@@ -70,14 +78,6 @@
     <updated>2026-11-11T17:42:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Japan, Tokyo</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8346891</id>
-    <title>Schonfeld: 2027 Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8346891"/>
-    <updated>2026-11-11T17:42:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hong Kong, Hong Kong · Python, Java, C++, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sunlife:/job/Waterford-Waterford-Ireland/Software-Delivery-Internship-Student_JR00129727</id>

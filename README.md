@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fparkerhayashi.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 455 open roles (336 listed below) · 69 new this week
+### 455 open roles (336 listed below) · 65 new this week
 
-5,052 employers tracked · data as of Nov 11, 2026 at 17:42 UTC
+5,052 employers tracked · data as of Nov 11, 2026 at 23:58 UTC
 
 _210 have a cycle the employer stated · 245 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -176,9 +176,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Teledyne | Stagiaire en conception de logiciels pour stations de validation 3D /Intern - 3D Validation Station Software Designer | Software | Canada - Montreal, QC (TDY) | Python, C++, C#, Ruby | Oct 07, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Intern---3D-Validation-Station-Software-Designer_REQ36804) |
 | CAE | Software Developer Coop | Software | Montreal (St. Laurent) | Python, Java, C#, TypeScript | Oct 06, 2026 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904) |
 | TobogganLabs | Stagiaire en science des données -- Data Science Intern | Data & ML/AI | Montréal, Quebec, Canada | No skills listed | Oct 04, 2026 | [Apply](https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003) |
-| Solink | Software Engineer Co-op, Agents | Software | Canada | TypeScript, React, Node.js, AWS | Oct 02, 2026 | [Apply](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e) |
 | Stripe | Data Analyst, Intern | Data & ML/AI | Toronto | SQL | Oct 01, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) |
 | AECOM | Engineering Intern – Tunnelling & Underground Infrastructure 🛂 | Software | Markham, ON, Canada (Hybrid) | No skills listed | Sep 29, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152519710) |
+| Alexion | Co-Op, Development Operations AI & Automation Enablement Intern | Data & ML/AI | Canada - Mississauga | Python, C#, JavaScript, SQL | Sep 29, 2026 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415) |
 
 <a id="iec"></a>
 ## Summer 2027 — Japan & IEC countries  (110 employer-stated)
@@ -187,9 +187,9 @@ Located in Japan, United Kingdom, Ireland, Netherlands, Germany, Switzerland, Ho
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Schonfeld | 2027 Software Engineering Intern 🆕 | Software | Hong Kong, Hong Kong | Python, Java, C++, Git | Nov 11, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) |
 | EXL | DATA & AI INTERNSHIP 2027 🆕 | Data & ML/AI | London, England, United Kingdom | Python, SQL, LLMs | Nov 11, 2026 | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22509) |
 | DraftKings | Software Engineering Intern (Summer 2027) 🆕 | Software | London, UK | Java, C#, TypeScript, Git | Nov 11, 2026 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1) |
-| Schonfeld | 2027 Software Engineering Intern 🆕 | Software | Hong Kong, Hong Kong | Python, Java, C++, Git | Nov 11, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) |
 | Addepar | Portfolio Data Analyst Intern - Summer 2027 🛂 🆕 | Data & ML/AI | Edinburgh, UK | Python, SQL | Nov 10, 2026 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910310002) |
 | Addepar | Software Engineering Intern - Summer 2027 🛂 🆕 | Software | Edinburgh, UK | Python, Java, Scala, Kafka | Nov 10, 2026 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927507002) |
 | PA Consulting | 2027 Summer Internship - Applied Scientist - Cambridge 🆕 | Data & ML/AI | Melbourn, , United Kingdom | No skills listed | Nov 10, 2026 | [Apply](https://jobs.smartrecruiters.com/PAConsulting/744000160850179) |
@@ -538,7 +538,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,948 of 5,380 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1123.4s · 683 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,860 of 5,380 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1126.1s · 633 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

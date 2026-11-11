@@ -1198,9 +1198,10 @@
       "workday:draftkings:/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960",
       "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928",
       "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14929",
-      "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern-Referral--Summer-2027-_JR14932"
+      "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern-Referral--Summer-2027-_JR14932",
+      "workday:draftkings:/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -1302,6 +1303,18 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "smartrecruiters:Eurofins:744000147214369"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "exl": {
+   "name": "EXL",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-11",
+     "role_ids": [
+      "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:22509"
      ],
      "count": 1
     }
@@ -3359,9 +3372,10 @@
       "greenhouse:schonfeld:8238451",
       "greenhouse:schonfeld:8311595",
       "greenhouse:schonfeld:8311597",
+      "greenhouse:schonfeld:8346891",
       "greenhouse:schonfeld:8350719"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -4283,5 +4297,5 @@
    }
   }
  },
- "updated_at": "2026-11-11T09:32:55Z"
+ "updated_at": "2026-11-11T17:42:54Z"
 }

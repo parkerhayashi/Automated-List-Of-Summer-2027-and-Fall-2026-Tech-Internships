@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10602219",
+      "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:22509",
+      "lever:wepclinical:8d3a77c2-5606-4d32-8532-7dbb1abde1d2",
+      "workday:cadence:/job/FELDKIRCHEN-Munich/Intern-Agentic-AI-Workflow-Development---Validation-for-Digital-Design--f-m-d-_R57159",
+      "workday:draftkings:/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1",
+      "workday:ing:/job/CDR-Amsterdam---Cedar/Data---AI-adoption-Intern_REQ-10124535",
+      "workday:nvidia:/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575",
+      "greenhouse:schonfeld:8346891",
+      "workday:sunlife:/job/Waterford-Waterford-Ireland/Software-Delivery-Internship-Student_JR00129727"
+    ],
+    "telegram": [
+      "amazon:amazon:10602219",
+      "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:22509",
+      "lever:wepclinical:8d3a77c2-5606-4d32-8532-7dbb1abde1d2",
+      "workday:cadence:/job/FELDKIRCHEN-Munich/Intern-Agentic-AI-Workflow-Development---Validation-for-Digital-Design--f-m-d-_R57159",
+      "workday:draftkings:/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1",
+      "workday:ing:/job/CDR-Amsterdam---Cedar/Data---AI-adoption-Intern_REQ-10124535",
+      "workday:nvidia:/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575",
+      "greenhouse:schonfeld:8346891",
+      "workday:sunlife:/job/Waterford-Waterford-Ireland/Software-Delivery-Internship-Student_JR00129727"
+    ]
   }
 }

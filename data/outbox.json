@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:asml:/job/Hsinchu-Taiwan/Internship---CS-Infrastructure--Architecture---Security-Team---Hsinchu_J-00357779",
-      "workday:nvidia:/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779"
-    ],
-    "telegram": [
-      "workday:asml:/job/Hsinchu-Taiwan/Internship---CS-Infrastructure--Architecture---Security-Team---Hsinchu_J-00357779",
-      "workday:nvidia:/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }

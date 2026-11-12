@@ -1813,6 +1813,7 @@
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_3170257-1",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3930-2",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1",
       "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1",
@@ -1820,7 +1821,7 @@
       "workday:hp:/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
       "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1"
      ],
-     "count": 16
+     "count": 17
     }
    }
   },
@@ -4063,9 +4064,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-06",
      "role_ids": [
-      "workday:visa:/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF089104W"
+      "workday:visa:/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF089104W",
+      "workday:visa:/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4297,5 +4299,5 @@
    }
   }
  },
- "updated_at": "2026-11-12T07:17:18Z"
+ "updated_at": "2026-11-12T16:18:13Z"
 }

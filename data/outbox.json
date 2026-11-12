@@ -1,6 +1,28 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "smartrecruiters:BoschGroup:744000161264139",
+      "workday:edftrading:/job/Paris/Quantitative-Analyst-Intern_JR1001542",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3930-2",
+      "smartrecruiters:Nexthink:744000161297979",
+      "workday:thermofisher:/job/Brno-Czechia/Intern---Software-Development_R-01374072",
+      "workday:thermofisher:/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1",
+      "workday:thermofisher:/job/Brno-Czechia/Intern---Software-Test_R-01374071-1",
+      "workday:visa:/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W-2",
+      "workday:visa:/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1",
+      "workday:visa:/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1"
+    ],
+    "telegram": [
+      "smartrecruiters:BoschGroup:744000161264139",
+      "workday:edftrading:/job/Paris/Quantitative-Analyst-Intern_JR1001542",
+      "workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3930-2",
+      "smartrecruiters:Nexthink:744000161297979",
+      "workday:thermofisher:/job/Brno-Czechia/Intern---Software-Development_R-01374072",
+      "workday:thermofisher:/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1",
+      "workday:thermofisher:/job/Brno-Czechia/Intern---Software-Test_R-01374071-1",
+      "workday:visa:/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W-2",
+      "workday:visa:/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1",
+      "workday:visa:/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1"
+    ]
   }
 }

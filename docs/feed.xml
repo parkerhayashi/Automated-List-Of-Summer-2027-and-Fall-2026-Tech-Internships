@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-12T07:17:18Z</updated>
+  <updated>2026-11-12T16:18:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:EgisGroup:744000161332180</id>
+    <title>Egis Group: AI Change Management Intern - F/M</title>
+    <link href="https://jobs.smartrecruiters.com/EgisGroup/744000161332180"/>
+    <updated>2026-11-12T16:18:13Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Paris, IDF, International (FR) (Hybrid) · LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000161264139</id>
+    <title>Bosch: Internship - Digitalization &amp; AI for Wiper Blade Testing</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000161264139"/>
+    <updated>2026-11-12T16:18:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Tienen, Vlaanderen, International (BE)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:edftrading:/job/Paris/Quantitative-Analyst-Intern_JR1001542</id>
+    <title>EDFT: Quantitative Analyst Intern</title>
+    <link href="https://edftrading.wd1.myworkdayjobs.com/EDFTrading/job/Paris/Quantitative-Analyst-Intern_JR1001542"/>
+    <updated>2026-11-12T16:18:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · Paris · Python, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Nexthink:744000161297979</id>
+    <title>Nexthink: Product Design Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Nexthink/744000161297979"/>
+    <updated>2026-11-12T16:18:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Design · Lausanne, VD, International (CH) (Hybrid) · Angular, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thermofisher:/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1</id>
+    <title>Thermo Fisher Scientific: Internship: GenAI-Assisted Software Modernization</title>
+    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1"/>
+    <updated>2026-11-12T16:18:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Eindhoven, Netherlands · LLMs, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thermofisher:/job/Brno-Czechia/Intern---Software-Test_R-01374071-1</id>
+    <title>Thermo Fisher Scientific: Intern – Software Test</title>
+    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Test_R-01374071-1"/>
+    <updated>2026-11-12T16:18:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Brno, Czechia</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10602219</id>
     <title>Amazon: Data Engineer Internship</title>
@@ -325,7 +373,7 @@
     <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Development_R-01373992"/>
     <updated>2026-11-09T16:23:42Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Brno, Czechia · Python, C++, C#, Computer Vision, Git</summary>
+    <summary>2 openings · Not stated · Software · Brno, Czechia · Python, C++, C#, Computer Vision, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10599510</id>
@@ -758,53 +806,5 @@
     <updated>2026-11-04T08:15:52Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Hsinchu, Taiwan · LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:arlo:/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445</id>
-    <title>Arlo: Firmware Developer Co-op</title>
-    <link href="https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445"/>
-    <updated>2026-11-04T01:33:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Richmond, BC, Canada · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10581052</id>
-    <title>Amazon: Applied Scientist Intern</title>
-    <link href="https://www.amazon.jobs/en/jobs/10581052/applied-scientist-intern"/>
-    <updated>2026-11-04T22:26:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Zurich, International · Python, Java, C++, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:ariesglobal:4935cc12-4173-42bd-985d-4ff6b37582e8</id>
-    <title>Aries Global: Investment Intern</title>
-    <link href="https://jobs.ashbyhq.com/ariesglobal/4935cc12-4173-42bd-985d-4ff6b37582e8"/>
-    <updated>2026-11-03T21:11:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · VC · London</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:ariesglobal:f5f204ad-8b51-4aee-a269-9a5d2ee7e3b8</id>
-    <title>Aries Global: Software Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/ariesglobal/f5f204ad-8b51-4aee-a269-9a5d2ee7e3b8"/>
-    <updated>2026-11-03T21:11:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · London</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8350719</id>
-    <title>Schonfeld: 2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8350719"/>
-    <updated>2026-11-03T21:11:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Hong Kong, Hong Kong · Python, Java, C++, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:kabam:3c37f284-4ba4-4f74-93f7-d224b910e5c9</id>
-    <title>Kabam: Operations Product Manager Co-Op</title>
-    <link href="https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9"/>
-    <updated>2026-11-03T21:11:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · Vancouver · 20–25 CAD/hr</summary>
   </entry>
 </feed>

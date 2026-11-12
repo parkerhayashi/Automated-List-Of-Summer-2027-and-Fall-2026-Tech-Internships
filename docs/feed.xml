@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-12T16:18:13Z</updated>
+  <updated>2026-11-12T22:30:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:EgisGroup:744000161332180</id>
-    <title>Egis Group: AI Change Management Intern - F/M</title>
-    <link href="https://jobs.smartrecruiters.com/EgisGroup/744000161332180"/>
-    <updated>2026-11-12T16:18:13Z</updated>
+    <id>urn:intern-engine:workday:tmx:/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680</id>
+    <title>TMX Group: AI Engineering Intern</title>
+    <link href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680"/>
+    <updated>2026-11-12T22:30:16Z</updated>
     <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Paris, IDF, International (FR) (Hybrid) · LLMs · status: closed</summary>
+    <summary>Winter 2027 · Data &amp; ML/AI · Toronto - 100 Adelaide St W · $25/hr · Python, Java, TypeScript, LLMs, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161883</id>
+    <title>Honeywell: Intern Masters AI (m/f/d)</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161883"/>
+    <updated>2026-11-12T22:30:16Z</updated>
+    <category term="Not stated"/>
+    <summary>5 openings · Not stated · Data &amp; ML/AI · Dublin, Co. Dublin, Ireland · Python, PyTorch, TensorFlow, scikit-learn, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:plusgrade:/job/CAN---Toronto/Data-Science-Intern_JR100230</id>
+    <title>Plusgrade: Data Science Intern</title>
+    <link href="https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Data-Science-Intern_JR100230"/>
+    <updated>2026-11-12T22:30:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · CAN - Toronto · Python, SQL, PyTorch, scikit-learn, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:plusgrade:/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233</id>
+    <title>Plusgrade: Applied AI Engineer Intern</title>
+    <link href="https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233"/>
+    <updated>2026-11-12T22:30:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · CAN - Toronto · Python, AWS, Terraform, Git, Kafka</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:plusgrade:/job/CAN---Toronto/Applied-AI-Test-Engineer---Intern_JR100227</id>
+    <title>Plusgrade: Applied AI Test Engineer - Intern</title>
+    <link href="https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Test-Engineer---Intern_JR100227"/>
+    <updated>2026-11-12T22:30:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · CAN - Toronto · Python, LLMs, AWS, GCP, Kubernetes</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000161264139</id>
@@ -24,12 +56,12 @@
     <summary>Not stated · Data &amp; ML/AI · Tienen, Vlaanderen, International (BE)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:edftrading:/job/Paris/Quantitative-Analyst-Intern_JR1001542</id>
-    <title>EDFT: Quantitative Analyst Intern</title>
-    <link href="https://edftrading.wd1.myworkdayjobs.com/EDFTrading/job/Paris/Quantitative-Analyst-Intern_JR1001542"/>
+    <id>urn:intern-engine:smartrecruiters:EgisGroup:744000161332180</id>
+    <title>Egis Group: AI Change Management Intern - F/M</title>
+    <link href="https://jobs.smartrecruiters.com/EgisGroup/744000161332180"/>
     <updated>2026-11-12T16:18:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Paris · Python, C#</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Paris, IDF, International (FR) (Hybrid) · LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Nexthink:744000161297979</id>
@@ -40,12 +72,12 @@
     <summary>Not stated · Design · Lausanne, VD, International (CH) (Hybrid) · Angular, HTML/CSS</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:thermofisher:/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1</id>
-    <title>Thermo Fisher Scientific: Internship: GenAI-Assisted Software Modernization</title>
-    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1"/>
+    <id>urn:intern-engine:workday:edftrading:/job/Paris/Quantitative-Analyst-Intern_JR1001542</id>
+    <title>EDFT: Quantitative Analyst Intern</title>
+    <link href="https://edftrading.wd1.myworkdayjobs.com/EDFTrading/job/Paris/Quantitative-Analyst-Intern_JR1001542"/>
     <updated>2026-11-12T16:18:13Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Eindhoven, Netherlands · LLMs, C#</summary>
+    <summary>Not stated · Quant · Paris · Python, C#</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thermofisher:/job/Brno-Czechia/Intern---Software-Test_R-01374071-1</id>
@@ -54,6 +86,14 @@
     <updated>2026-11-12T16:18:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Brno, Czechia</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thermofisher:/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1</id>
+    <title>Thermo Fisher Scientific: Internship: GenAI-Assisted Software Modernization</title>
+    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1"/>
+    <updated>2026-11-12T16:18:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Eindhoven, Netherlands · LLMs, C#</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10602219</id>
@@ -557,7 +597,7 @@
     <link href="https://jobs.smartrecruiters.com/Acumatica/744000159911799"/>
     <updated>2026-11-05T19:00:03Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Montreal, QC, Canada (Hybrid) · C#, SQL, Git</summary>
+    <summary>2 openings · Not stated · Software · Montreal, QC, Canada (Hybrid) · C#, SQL, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Veldhoven-Netherlands/Computer-Science---IT-internship--Standardizing-Test-Automation-with-AI-Assistance_J-00356770</id>
@@ -766,45 +806,5 @@
     <updated>2026-11-04T16:27:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · France, Bagneux · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ing:/job/Bruxelles-Avenue-Marnix-ING/Private-Banking---Intern---Digitalisation---AI-in-Portfolio-Management_REQ-10123838</id>
-    <title>ING: Private Banking - Intern - Digitalisation &amp; AI in Portfolio Management</title>
-    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Private-Banking---Intern---Digitalisation---AI-in-Portfolio-Management_REQ-10123838"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bruxelles Avenue Marnix (ING)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lego:/job/Billund-Project-House/Embedded-Systems-Engineering-Internship_0000039992-1</id>
-    <title>LEGO: Embedded Systems Engineering Internship</title>
-    <link href="https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund-Project-House/Embedded-Systems-Engineering-Internship_0000039992-1"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Denmark · Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:logitech:/job/Hsinchu-Taiwan/AI-Application-Intern--2027_148647-1</id>
-    <title>Logitech: AI Application Intern, 2027</title>
-    <link href="https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Application-Intern--2027_148647-1"/>
-    <updated>2026-11-05T10:43:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Hsinchu, Taiwan · C++, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:thermofisher:/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1</id>
-    <title>Thermo Fisher Scientific: Intern - Data Analyst</title>
-    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Brno, Czechia · Python, SQL, Pandas, Git, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:logitech:/job/Hsinchu-Taiwan/Spring-Internship-Program---Field-Quality-Analyst--Artificial-Intelligence-and-System-Integration-_148693</id>
-    <title>Logitech: Spring Internship Program - Field Quality Analyst (Artificial Intelligence and System Integration)</title>
-    <link href="https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/Spring-Internship-Program---Field-Quality-Analyst--Artificial-Intelligence-and-System-Integration-_148693"/>
-    <updated>2026-11-04T08:15:52Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Hsinchu, Taiwan · LLMs · status: closed</summary>
   </entry>
 </feed>

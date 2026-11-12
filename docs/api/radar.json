@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-12T16:18:13Z",
- "data_as_of": "2026-11-12T16:18:13Z",
- "rendered_at": "2026-11-12T16:18:14Z",
+ "generated_at": "2026-11-12T22:30:17Z",
+ "data_as_of": "2026-11-12T22:30:17Z",
+ "rendered_at": "2026-11-12T22:30:17Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1086,25 +1086,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-06"
-   }
-  },
-  {
-   "company": "SailPoint",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -36,
-   "status": "open",
-   "url": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-07"
    }
   },
   {
@@ -6163,6 +6144,25 @@
   },
   {
    "company": "Ankura Consulting Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -36,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-07"
+   }
+  },
+  {
+   "company": "SailPoint",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
    "precision": "day",

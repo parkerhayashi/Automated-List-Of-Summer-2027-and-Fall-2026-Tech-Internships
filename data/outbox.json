@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161883",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161885",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161886",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161888",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161889",
+      "smartrecruiters:Acumatica:744000161353959",
+      "workday:plusgrade:/job/CAN---Toronto/Data-Science-Intern_JR100230",
+      "workday:plusgrade:/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233",
+      "workday:plusgrade:/job/CAN---Toronto/Applied-AI-Test-Engineer---Intern_JR100227"
+    ],
+    "telegram": [
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161883",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161885",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161886",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161888",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:161889",
+      "smartrecruiters:Acumatica:744000161353959",
+      "workday:plusgrade:/job/CAN---Toronto/Data-Science-Intern_JR100230",
+      "workday:plusgrade:/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233",
+      "workday:plusgrade:/job/CAN---Toronto/Applied-AI-Test-Engineer---Intern_JR100227"
+    ]
   }
 }

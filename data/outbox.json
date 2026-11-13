@@ -1,6 +1,10 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:adobe:/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345"
+    ],
+    "telegram": [
+      "workday:adobe:/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345"
+    ]
   }
 }

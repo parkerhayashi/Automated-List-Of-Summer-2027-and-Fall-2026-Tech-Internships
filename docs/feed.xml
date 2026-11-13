@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-13T03:12:03Z</updated>
+  <updated>2026-11-13T11:12:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:adobe:/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345</id>
+    <title>Adobe: 2027 Intern - Research Scientist</title>
+    <link href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345"/>
+    <updated>2026-11-13T11:12:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · London · PyTorch, LLMs, Computer Vision</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161883</id>
     <title>Honeywell: Intern Masters AI (m/f/d)</title>
@@ -154,7 +162,7 @@
   <entry>
     <id>urn:intern-engine:workday:draftkings:/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1</id>
     <title>DraftKings: Software Engineering Intern (Summer 2027)</title>
-    <link href="https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150"/>
+    <link href="https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1"/>
     <updated>2026-11-11T17:42:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · London, UK · Java, C#, TypeScript, Git</summary>
@@ -798,13 +806,5 @@
     <updated>2026-11-04T16:27:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Manchester, United Kingdom · Python, C++, TypeScript, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Sia:744000159668932</id>
-    <title>Sia Partners: Final Year Internship Consultant - Cybersecurity &amp; AI Trust</title>
-    <link href="https://jobs.smartrecruiters.com/Sia/744000159668932"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Paris, IDF, International (FR) (Hybrid)</summary>
   </entry>
 </feed>

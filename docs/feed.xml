@@ -5,8 +5,88 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-13T11:12:05Z</updated>
+  <updated>2026-11-13T18:46:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Eindhoven-Netherlands/Data-Science---Computer-Science-internship--Measurement-analysis-framework_J-00353463</id>
+    <title>ASML: Data Science | Computer Science internship: Measurement analysis framework</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Data-Science---Computer-Science-internship--Measurement-analysis-framework_J-00353463"/>
+    <updated>2026-11-13T18:46:30Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Eindhoven, Netherlands · Python, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdow.fa.us6.oraclecloud.com:250538</id>
+    <title>Cantor Fitzgerald: BGC &amp; Cantor 2027 UK Technology Summer Internship Programme - Infrastructure</title>
+    <link href="https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250538"/>
+    <updated>2026-11-13T18:46:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Greater London, United Kingdom · Python, Bash, LLMs, AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:recruitee:huaweicanada:2823134</id>
+    <title>Huawei: Intern Researcher - Embodied AI</title>
+    <link href="https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3"/>
+    <updated>2026-11-13T18:46:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Edmonton, Alberta, Canada</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:recruitee:huaweicanada:2801253</id>
+    <title>Huawei: Intern Researcher- Computer Vision</title>
+    <link href="https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3"/>
+    <updated>2026-11-13T18:46:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Markham, Ontario, Canada · Computer Vision, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:recruitee:huaweicanada:2792914</id>
+    <title>Huawei: Intern Researcher- AI Agents</title>
+    <link href="https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1"/>
+    <updated>2026-11-13T18:46:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Montréal, Quebec, Canada · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:recruitee:huaweicanada:2775350</id>
+    <title>Huawei: Intern Researcher- Audio, Speech &amp; Acoustic AI</title>
+    <link href="https://huaweicanada.recruitee.com/o/intern-researcher-audio-speech-acoustic-ai"/>
+    <updated>2026-11-13T18:46:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Markham, Ontario, Canada · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5578</id>
+    <title>SCOR: Salesforce Proxy Product Owner Intern</title>
+    <link href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5578"/>
+    <updated>2026-11-13T18:46:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · PM · Paris, Ile-de-France, France</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:snowflake:26a0ae52-97a6-4a46-9216-3c382570d89b</id>
+    <title>Snowflake: Software Engineer Intern - Zurich (2027)</title>
+    <link href="https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b"/>
+    <updated>2026-11-13T18:46:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · CH-Zurich-Observe · C++, Go, SQL, AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:analogdevices:/job/Spain-Valencia-Cortes-Valencianas/Software-Quality-Assurance--SQA--Intern_R267320</id>
+    <title>Analog Devices: Software Quality Assurance (SQA) Intern</title>
+    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-Quality-Assurance--SQA--Intern_R267320"/>
+    <updated>2026-11-13T18:46:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Spain, Valencia, Cortes Valencianas · Python, C++, C#, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:draftkings:/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1</id>
+    <title>DraftKings: Data Science Intern (Summer 2027)</title>
+    <link href="https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1"/>
+    <updated>2026-11-13T18:46:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · London, UK · Python</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:adobe:/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345</id>
     <title>Adobe: 2027 Intern - Research Scientist</title>
@@ -726,85 +806,5 @@
     <updated>2026-11-04T22:26:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · PM · Aveiro, International (PT)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000159681142</id>
-    <title>NBCUniversal: Product Management UX Intern (Hayu)</title>
-    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000159681142"/>
-    <updated>2026-11-04T22:26:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · PM · London, , United Kingdom (Hybrid)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flir:/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845</id>
-    <title>Teledyne: Software Engineering Coop</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845"/>
-    <updated>2026-11-04T22:26:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canada - Waterloo, ON</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613</id>
-    <title>Hewlett Packard (HP): Data Analyst Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613-1"/>
-    <updated>2026-11-04T22:26:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sant Cugat del Valles, Barcelona, Spain · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tmx:/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671</id>
-    <title>TMX Group: Junior Cybersecurity Operations Analyst Intern</title>
-    <link href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671"/>
-    <updated>2026-11-04T22:26:45Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Security · Toronto - 100 Adelaide St W · $20/hr · Python, AWS, GCP, Azure, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:breezy:census:926f2a5c797001</id>
-    <title>Census: 🚀 CENSUS Cybersecurity Engineering Internship Program: Learn. Hack. Secure! Thessaloniki</title>
-    <link href="https://census.breezy.hr/p/926f2a5c797001-census-cybersecurity-engineering-internship-program-learn-hack--secure-thessaloniki"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Thessaloniki, GR</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:breezy:census:f3b895bf33d601</id>
-    <title>Census: 🚀 CENSUS Cybersecurity Engineering Internship Program: Learn. Hack. Secure! Athens</title>
-    <link href="https://census.breezy.hr/p/f3b895bf33d601-census-cybersecurity-engineering-internship-program-learn-hack--secure-athens"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Athens, GR</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:roku:8345947</id>
-    <title>Roku: AI Engineering Internship Program (Summer 2027)</title>
-    <link href="https://www.weareroku.com/jobs/8345947?gh_jid=8345947"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Cambridge, United Kingdom · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:roku:8345954</id>
-    <title>Roku: AI Engineering Internship Program (Summer 2027)</title>
-    <link href="https://www.weareroku.com/jobs/8345954?gh_jid=8345954"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Manchester, United Kingdom · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:roku:8345963</id>
-    <title>Roku: Software Engineering Internship Program (Summer 2027)</title>
-    <link href="https://www.weareroku.com/jobs/8345963?gh_jid=8345963"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Cambridge, United Kingdom · Python, C++, TypeScript, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:roku:8345967</id>
-    <title>Roku: Software Engineering Internship Program (Summer 2027)</title>
-    <link href="https://www.weareroku.com/jobs/8345967?gh_jid=8345967"/>
-    <updated>2026-11-04T16:27:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Manchester, United Kingdom · Python, C++, TypeScript, JavaScript, LLMs</summary>
   </entry>
 </feed>

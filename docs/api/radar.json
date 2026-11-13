@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T11:12:05Z",
- "data_as_of": "2026-11-13T11:12:05Z",
- "rendered_at": "2026-11-13T11:12:06Z",
+ "generated_at": "2026-11-13T18:46:30Z",
+ "data_as_of": "2026-11-13T18:46:30Z",
+ "rendered_at": "2026-11-13T18:46:31Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1504,6 +1504,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-11-11"
+   }
+  },
+  {
+   "company": "Cantor Fitzgerald",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-13",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250538",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-13"
    }
   },
   {
@@ -6390,5 +6409,5 @@
    }
   }
  ],
- "count": 336
+ "count": 337
 }

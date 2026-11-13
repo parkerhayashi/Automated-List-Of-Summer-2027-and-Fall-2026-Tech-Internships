@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:hdow.fa.us6.oraclecloud.com:250538",
+      "recruitee:huaweicanada:2823134",
+      "recruitee:huaweicanada:2801253",
+      "recruitee:huaweicanada:2792914",
+      "recruitee:huaweicanada:2775350",
+      "oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5578",
+      "ashby:snowflake:26a0ae52-97a6-4a46-9216-3c382570d89b",
+      "workday:analogdevices:/job/Spain-Valencia-Cortes-Valencianas/Software-Quality-Assurance--SQA--Intern_R267320",
+      "workday:draftkings:/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1"
+    ],
+    "telegram": [
+      "oracle:hdow.fa.us6.oraclecloud.com:250538",
+      "recruitee:huaweicanada:2823134",
+      "recruitee:huaweicanada:2801253",
+      "recruitee:huaweicanada:2792914",
+      "recruitee:huaweicanada:2775350",
+      "oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5578",
+      "ashby:snowflake:26a0ae52-97a6-4a46-9216-3c382570d89b",
+      "workday:analogdevices:/job/Spain-Valencia-Cortes-Valencianas/Software-Quality-Assurance--SQA--Intern_R267320",
+      "workday:draftkings:/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1"
+    ]
   }
 }

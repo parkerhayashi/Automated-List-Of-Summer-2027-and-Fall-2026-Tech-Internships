@@ -860,6 +860,18 @@
     }
    }
   },
+  "cantor fitzgerald": {
+   "name": "Cantor Fitzgerald",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-13",
+     "role_ids": [
+      "oracle:hdow.fa.us6.oraclecloud.com:250538"
+     ],
+     "count": 1
+    }
+   }
+  },
   "capital one": {
    "name": "Capital One",
    "cycles": {
@@ -1200,9 +1212,10 @@
       "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928",
       "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14929",
       "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern-Referral--Summer-2027-_JR14932",
+      "workday:draftkings:/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1",
       "workday:draftkings:/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -3505,9 +3518,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-22",
      "role_ids": [
+      "ashby:snowflake:26a0ae52-97a6-4a46-9216-3c382570d89b",
       "ashby:snowflake:ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4301,5 +4315,5 @@
    }
   }
  },
- "updated_at": "2026-11-13T11:12:05Z"
+ "updated_at": "2026-11-13T18:46:30Z"
 }

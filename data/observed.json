@@ -2342,11 +2342,12 @@
    "name": "Marvell",
    "cycles": {
     "Summer 2027": {
-     "first_posted": "2026-10-02",
+     "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:marvell:/job/Ottawa-Canada/Firmware-Engineer-Intern_2604738-1",
       "workday:marvell:/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4315,5 +4316,5 @@
    }
   }
  },
- "updated_at": "2026-11-13T18:46:30Z"
+ "updated_at": "2026-11-14T00:03:57Z"
 }

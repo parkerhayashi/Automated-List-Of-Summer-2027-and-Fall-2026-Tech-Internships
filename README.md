@@ -8,7 +8,7 @@
 
 ### 463 open roles (343 listed below) · 66 new this week
 
-5,105 employers tracked · data as of Nov 14, 2026 at 19:06 UTC
+5,105 employers tracked · data as of Nov 14, 2026 at 23:15 UTC
 
 _217 have a cycle the employer stated · 246 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -135,14 +135,14 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Huawei | Intern Researcher - Embodied AI 🆕 | Data & ML/AI | Edmonton, Alberta, Canada | No skills listed | Nov 12, 2026 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3) |
-| Acumatica | Intern Developer/ Stagiaire développeur 🆕 | Software | Montreal, QC, Canada (Hybrid) | C#, SQL, Git | Nov 12, 2026 | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000161353959) |
+| Acumatica | Intern Developer/ Stagiaire développeur | Software | Montreal, QC, Canada (Hybrid) | C#, SQL, Git | Nov 12, 2026 | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000161353959) |
 | Amgen | Undergraduate  Co-op Student – Software Engineer – Large Molecule Discovery - Technology | Software | Canada - Burnaby | Python, Java, C#, JavaScript | Nov 10, 2026 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920) |
 | Altera Corporation | Software Engineer -  Intern | Software | Toronto, Ontario, Canada | Python, C++, Verilog | Nov 09, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) |
 | Kensington | BI/Data Analyst Intern | Data & ML/AI | Toronto, ON, Canada | Python, SQL | Nov 09, 2026 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) |
 | Brave | Software Engineering Intern - Waterloo University - Winter Session | Software | Canada | Python, C++, Rust, TypeScript | Nov 06, 2026 | [Apply](https://job-boards.greenhouse.io/brave/jobs/8360001) |
-| Plusgrade | Applied AI Engineer Intern 🆕 | Data & ML/AI | CAN - Toronto | Python, AWS, Terraform, Git | Nov 04, 2026 | [Apply](https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233) |
-| Plusgrade | Applied AI Test Engineer - Intern 🆕 | Data & ML/AI | CAN - Toronto | Python, LLMs, AWS, GCP | Nov 04, 2026 | [Apply](https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Test-Engineer---Intern_JR100227) |
-| Plusgrade | Data Science Intern 🆕 | Data & ML/AI | CAN - Toronto | Python, SQL, PyTorch, scikit-learn | Nov 04, 2026 | [Apply](https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Data-Science-Intern_JR100230) |
+| Plusgrade | Applied AI Engineer Intern | Data & ML/AI | CAN - Toronto | Python, AWS, Terraform, Git | Nov 04, 2026 | [Apply](https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233) |
+| Plusgrade | Applied AI Test Engineer - Intern | Data & ML/AI | CAN - Toronto | Python, LLMs, AWS, GCP | Nov 04, 2026 | [Apply](https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Test-Engineer---Intern_JR100227) |
+| Plusgrade | Data Science Intern | Data & ML/AI | CAN - Toronto | Python, SQL, PyTorch, scikit-learn | Nov 04, 2026 | [Apply](https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Data-Science-Intern_JR100230) |
 | Teledyne | Software Engineering Coop | Software | Canada - Waterloo, ON | No skills listed | Nov 04, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845) |
 | Huawei | Intern Researcher- Computer Vision 🆕 | Data & ML/AI | Markham, Ontario, Canada | Computer Vision, LLMs | Nov 03, 2026 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3) |
 | Arlo | Firmware Developer Co-op | Hardware | Richmond, BC, Canada | Linux | Nov 03, 2026 | [Apply](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) |
@@ -314,7 +314,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 |---|---|---|---|---|---|---|
 | SCOR | Salesforce Proxy Product Owner Intern 🆕 | PM | Paris, Ile-de-France, France | No skills listed | Nov 13, 2026 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5578) |
 | Analog Devices | Software Quality Assurance (SQA) Intern 🆕 | Software | Spain, Valencia, Cortes Valencianas | Python, C++, C#, Git | Nov 13, 2026 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-Quality-Assurance--SQA--Intern_R267320) |
-| Honeywell | Intern Masters AI (m/f/d) 🆕 _(5 openings)_ | Data & ML/AI | Dublin, Co. Dublin, Ireland | Python, PyTorch, TensorFlow, scikit-learn | Nov 12, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161883) [#2](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161885) [#3](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161886) [#4](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161888) [#5](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161889) |
+| Honeywell | Intern Masters AI (m/f/d) _(5 openings)_ | Data & ML/AI | Dublin, Co. Dublin, Ireland | Python, PyTorch, TensorFlow, scikit-learn | Nov 12, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161883) [#2](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161885) [#3](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161886) [#4](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161888) [#5](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161889) |
 | Bosch | Internship - Digitalization & AI for Wiper Blade Testing | Data & ML/AI | Tienen, Vlaanderen, International (BE) | No skills listed | Nov 12, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161264139) |
 | Nexthink | Product Design Intern | Design | Lausanne +2 more | Angular, HTML/CSS | Nov 12, 2026 | [Apply](https://jobs.smartrecruiters.com/Nexthink/744000161297979) |
 | EDFT | Quantitative Analyst Intern | Quant | Paris | Python, C# | Nov 12, 2026 | [Apply](https://edftrading.wd1.myworkdayjobs.com/EDFTrading/job/Paris/Quantitative-Analyst-Intern_JR1001542) |
@@ -479,7 +479,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _338 companies on the [full radar](https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **226** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 34 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 33 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -518,7 +518,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | American Express | Campus - Internship Programme - Undergraduate - ECMX Product Analyst - 2027 (UK - London) | Summer 2027 | 2026-11-02 | out of scope |
 | JPMorganChase | 2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London | Summer 2027 | 2026-11-02 | out of scope |
 | Uber | 2027 Software Engineering Intern, Canada | Summer 2027 | 2026-11-01 | out of scope |
-| PIMCO | 2027 Summer Intern – Product Analyst, EMEA | Summer 2027 | 2026-10-31 | gone from feed |
 
 </details>
 
@@ -537,7 +536,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,834 of 5,441 registered boards returned successfully across 12 ATS platforms (90% of boards attempted, 88% of the full registry) · completed in 1033.6s · 581 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,858 of 5,441 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 1197.5s · 599 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

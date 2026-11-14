@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-14T00:03:57Z</updated>
+  <updated>2026-11-14T19:06:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:bmlltech:685458148E</id>
+    <title>BMLL Technologies: INTERNSHIP - Junior Quantitative Analyst</title>
+    <link href="https://apply.workable.com/bmlltech/j/685458148E/"/>
+    <updated>2026-11-14T19:06:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · London, England, United Kingdom (Hybrid) · Python, SQL, Pandas, Spark</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:snowflake:26a0ae52-97a6-4a46-9216-3c382570d89b</id>
     <title>Snowflake: Software Engineer Intern - Zurich (2027)</title>
@@ -82,7 +90,7 @@
   <entry>
     <id>urn:intern-engine:workday:draftkings:/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1</id>
     <title>DraftKings: Data Science Intern (Summer 2027)</title>
-    <link href="https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1"/>
+    <link href="https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149"/>
     <updated>2026-11-13T18:46:30Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · London, UK · Python</summary>
@@ -91,9 +99,9 @@
     <id>urn:intern-engine:workday:adobe:/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345</id>
     <title>Adobe: 2027 Intern - Research Scientist</title>
     <link href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345"/>
-    <updated>2026-11-13T23:49:18Z</updated>
+    <updated>2026-11-13T11:12:05Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · London · PyTorch, LLMs, Computer Vision · status: closed</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · London · PyTorch, LLMs, Computer Vision</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161883</id>
@@ -211,9 +219,9 @@
     <id>urn:intern-engine:lever:wepclinical:8d3a77c2-5606-4d32-8532-7dbb1abde1d2</id>
     <title>WEP Clinical: IT Intern - AI &amp; Transformation</title>
     <link href="https://jobs.lever.co/wepclinical/8d3a77c2-5606-4d32-8532-7dbb1abde1d2"/>
-    <updated>2026-11-11T17:42:54Z</updated>
+    <updated>2026-11-14T19:06:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chiswick, London, UK · Python, SQL, LLMs, Azure, Tableau</summary>
+    <summary>Not stated · Data &amp; ML/AI · Chiswick, London, UK · Python, SQL, LLMs, Azure, Tableau · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:22509</id>
@@ -242,7 +250,7 @@
   <entry>
     <id>urn:intern-engine:workday:draftkings:/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1</id>
     <title>DraftKings: Software Engineering Intern (Summer 2027)</title>
-    <link href="https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1"/>
+    <link href="https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150"/>
     <updated>2026-11-11T17:42:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · London, UK · Java, C#, TypeScript, Git</summary>
@@ -798,13 +806,5 @@
     <updated>2026-11-05T11:01:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Eindhoven, Netherlands</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000159679459</id>
-    <title>Bosch: Extracurricular Internship: Product Management (f/m/div)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000159679459"/>
-    <updated>2026-11-04T22:26:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · PM · Aveiro, International (PT)</summary>
   </entry>
 </feed>

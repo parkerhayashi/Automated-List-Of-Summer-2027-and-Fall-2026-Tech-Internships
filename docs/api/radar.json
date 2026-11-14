@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-14T00:03:57Z",
- "data_as_of": "2026-11-14T00:03:57Z",
- "rendered_at": "2026-11-14T00:03:58Z",
+ "generated_at": "2026-11-14T19:06:51Z",
+ "data_as_of": "2026-11-14T19:06:51Z",
+ "rendered_at": "2026-11-14T19:06:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -377,7 +377,7 @@
    "expected": "2026-08-19",
    "days_until": -87,
    "status": "open",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
    "note": "multiple programs; Ignite ~Oct, SWE ongoing",
    "provenance": {
     "type": "engine-observed",
@@ -529,7 +529,7 @@
    "expected": "2026-08-31",
    "days_until": -75,
    "status": "open",
-   "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1",
+   "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1203,6 +1203,25 @@
    }
   },
   {
+   "company": "Adobe",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": -26,
+   "status": "open",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015",
+   "note": "Sep-Oct main window",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-19"
+   }
+  },
+  {
    "company": "Graviton",
    "last_cycle_posted": "",
    "posted_on": "2026-10-19",
@@ -1504,6 +1523,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-11-11"
+   }
+  },
+  {
+   "company": "BMLL Technologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-13",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://apply.workable.com/bmlltech/j/685458148E/",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-13"
    }
   },
   {
@@ -6238,25 +6276,6 @@
    }
   },
   {
-   "company": "Adobe",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-19",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-19",
-   "days_until": -26,
-   "status": "dropped",
-   "url": "",
-   "note": "Sep-Oct main window",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-19"
-   }
-  },
-  {
    "company": "Investment Management Corporation of Ontario",
    "last_cycle_posted": "",
    "posted_on": "2026-10-19",
@@ -6409,5 +6428,5 @@
    }
   }
  ],
- "count": 337
+ "count": 338
 }

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-15T02:49:28Z",
- "data_as_of": "2026-11-15T02:49:28Z",
- "rendered_at": "2026-11-15T02:49:30Z",
+ "generated_at": "2026-11-15T10:07:14Z",
+ "data_as_of": "2026-11-15T10:07:14Z",
+ "rendered_at": "2026-11-15T10:07:15Z",
  "source": "https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 462,
+ "count": 460,
  "jobs": [
   {
    "id": "workable:bmlltech:685458148E",
@@ -6293,32 +6293,6 @@
    "remote": false
   },
   {
-   "id": "workday:pg:/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204",
-   "company": "Procter & Gamble (P&G)",
-   "title": "Data Engineer Internship (m/f/x)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "LISBON GENERAL OFFICE",
-   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204",
-   "posted_at": "2026-10-16T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-16T18:37:55Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Git",
-    "Databricks"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:astrazeneca:/job/Canada---Mississauga/AI-Business-Support-Specialist-Intern_R-261993",
    "company": "AstraZeneca",
    "title": "AI Business Support Specialist Intern",
@@ -9882,30 +9856,6 @@
    "salary": null,
    "skills": [],
    "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workable:fifty-five:D8F4443694",
-   "company": "Fifty-Five",
-   "title": "Data Analyst Consultant Intern (H/F)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Paris, Île-de-France, France",
-   "url": "https://apply.workable.com/fifty-five/j/D8F4443694/",
-   "posted_at": "2026-09-11T00:00:00.000Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-22T01:54:52Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SQL",
-    "Tableau"
-   ],
-   "source": "workable",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false

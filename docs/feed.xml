@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://parkerhayashi.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-11-15T10:07:14Z</updated>
+  <updated>2026-11-15T17:18:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/parkerhayashi/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ncratleos:/job/DUNDEE-GBR/AI-Engineering-Internship_R1155212-2</id>
+    <title>NCR Atleos: AI Engineering Internship</title>
+    <link href="https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/AI-Engineering-Internship_R1155212-2"/>
+    <updated>2026-11-15T17:18:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · DUNDEE, GBR · Python</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:bmlltech:685458148E</id>
     <title>BMLL Technologies: INTERNSHIP - Junior Quantitative Analyst</title>
@@ -90,7 +98,7 @@
   <entry>
     <id>urn:intern-engine:workday:draftkings:/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1</id>
     <title>DraftKings: Data Science Intern (Summer 2027)</title>
-    <link href="https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1"/>
+    <link href="https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149"/>
     <updated>2026-11-13T18:46:30Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · London, UK · Python</summary>
@@ -250,7 +258,7 @@
   <entry>
     <id>urn:intern-engine:workday:draftkings:/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1</id>
     <title>DraftKings: Software Engineering Intern (Summer 2027)</title>
-    <link href="https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1"/>
+    <link href="https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150"/>
     <updated>2026-11-11T17:42:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · London, UK · Java, C#, TypeScript, Git</summary>
@@ -418,7 +426,7 @@
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Pavia-Italy/Firmware-Engineering-Intern_2603916-1</id>
     <title>Marvell: Firmware Engineering Intern</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Pavia-Italy/Firmware-Engineering-Intern_2603916-1"/>
+    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Pavia-Italy/Firmware-Engineering-Intern_2603916"/>
     <updated>2026-11-10T16:42:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Pavia, Italy · Python, Bash, LLMs, Linux, Git</summary>
@@ -798,13 +806,5 @@
     <updated>2026-11-05T11:01:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Brno, Czechia · Python, SQL, Bash, HTML/CSS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:thermofisher:/job/Eindhoven-Netherlands/Internship---Build-an-agentic-software-refactoring-workflow_R-01374031-1</id>
-    <title>Thermo Fisher Scientific: Internship - Build an agentic software refactoring workflow</title>
-    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship---Build-an-agentic-software-refactoring-workflow_R-01374031-1"/>
-    <updated>2026-11-05T11:01:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Eindhoven, Netherlands</summary>
   </entry>
 </feed>
